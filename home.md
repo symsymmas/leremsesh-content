@@ -5,4 +5,4 @@
 # Bienvenue
 Bienvenue sur leremsesh.com, le Wiki afrocentré !
 
-![Logo Leremsesh Com](/uploads/logo/logo-leremsesh-com.png "Logo Leremsesh Com"){.align-right}
+![Logo Leremsesh Com](/uploads/logo/logo-leremsesh-com.png "Logo Leremsesh Com"){.align-center}
