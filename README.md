@@ -1,2 +1,2 @@
 # leremsesh-content
-Leremsesh.com content repository.
+This github repository contains Leremsesh.com Wiki pages.
