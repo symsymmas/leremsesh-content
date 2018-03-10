@@ -2,6 +2,7 @@
 <!-- SUBTITLE: Présentation de Leremsesh -->
 
 ![Logo Leremsesh Com](/uploads/logo/logo-leremsesh-com.png "Logo Leremsesh Com"){.pagelogo}
+
 Leremsesh (ou lr m ss) est un wiki afrocentré fondé par Kitémona SYMSYMMAS en 2018. Le nom du wiki vient de l'expression *mdw ntr* « mettre à l'écrit ».
 Les articles qui constituent leremsesh sont éditables par tous, à partir du moment où les informations apportées ont une dimension afrocentrée.
 # Objectif et ambitions
