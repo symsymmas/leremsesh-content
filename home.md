@@ -2,6 +2,6 @@
 <!-- SUBTITLE: Présentation de Leremsesh -->
 
 # Qu'est-ce que Leremsesh ?
-De par son nom (Leremsesh.com), ce site Web a pour ambition d'être un Wiki afrocentré.
+De par son nom (Leremsesh.com), ce site Web a pour ambition d'être un Wiki (https://fr.wikipedia.org/wiki/Wiki) afrocentré.
 # Que veut dire Leremsesh ?
 Leremsesh ou « lr m ss » est une expression Mdw Ntr qui signifie « mettre à l'écrit ».
