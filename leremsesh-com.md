@@ -2,4 +2,5 @@
 <!-- SUBTITLE: Page d'acceuil -->
 
 
-# Bienvenue sur leremsesh.com, le wiki afrocentré.
+# Bienvenue sur leremsesh.com
+Le wiki afrocentré.
