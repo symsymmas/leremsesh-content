@@ -3,4 +3,4 @@
 
 
 # Bienvenue sur leremsesh.com
-## Le wiki afrocentré.
+**Le wiki afrocentré.**
