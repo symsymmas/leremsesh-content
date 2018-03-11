@@ -1,6 +1,6 @@
 <!-- TITLE: Page d'acceuil -->
 
-# Bienvenue sur leremsesh.com
+# Bienvenue
 Bienvenue sur leremsesh.com, l'encyclopédie afrocentrée sous forme de wiki !
 
 ![Logo Leremsesh Com](/uploads/logo/logo-leremsesh-com.png "Logo Leremsesh Com"){.align-center}
