@@ -3,7 +3,7 @@
 
 
 # Bienvenue
-Bienvenue sur leremsesh.com, l'encyclopédie afrocentrée sous forme de wiki (https://fr.wikipedia.org/wiki/Wiki) !
+Bienvenue sur leremsesh.com, l'encyclopédie afrocentrée sous forme de wiki !
 
 ![Logo Leremsesh Com](/uploads/logo/logo-leremsesh-com.png "Logo Leremsesh Com"){.align-center}
 # Comment ça fonctionne ?
