@@ -8,4 +8,4 @@
 Le terme *KMT* 
 
 <!-- Sources -->
-^[1]:René-Louis Parfait ÉTILÉ, Grammaire simplifiée de l'Égyptien hiéroglyphique, livre broché, Éditions MENAIBUC, vol. 1 p. 10-11, ISBN 2-911372-56-5
+[^1]:René-Louis Parfait ÉTILÉ, Grammaire simplifiée de l'Égyptien hiéroglyphique, livre broché, Éditions MENAIBUC, vol. 1 p. 10-11, ISBN 2-911372-56-5
