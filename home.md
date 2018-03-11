@@ -11,7 +11,7 @@ Pour commencer, faites une recherche dans la barre ci-dessus. Par exemple, pour 
 Si vous n'avez pas encore de compte, demandez en un aux administrateurs du site.
 
 Si vous possédez un compte :
-1. Cliquez sur « S'identifier », dans le menu de droite.
+1. Cliquez sur « S'identifier », dans le menu de gauche.
 
 ![Identification](/uploads/interface-web-leremsesh/identification.png "Identification"){.align-center}
 
