@@ -45,7 +45,7 @@ Cette expression est composée de :
 
 Littéralement, cette expression se traduit par : la *terre du cité noire* ou la *terre du pays noir*.
 
-Ceci étant, il faut se rappeler des propos d'Hérodote et des autres contemporains des Kemtiou, qui les définissaient comme étant d'une couleur noire.
+Ceci étant, il faut se rappeler des propos d'Hérodote et des autres contemporains des [Kemtiou](http://leremsesh.com/peuple/kemtiou), qui les définissaient comme étant d'une couleur noire.
 
 Dès lors, sachant que *KMT* ne fait ni référence au sol, ni à la couleur de celui-ci, la traduction exacte de ce mot est : *Pays des noirs* ou *cité des noirs*. Nous pouvons prendre comme exemple l'expression *Afrique noir* qui fait référence à la couleur aux habitants.
 
