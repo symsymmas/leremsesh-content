@@ -31,5 +31,5 @@ En partant de l'étymologie du mot *KMT*, nous comprenons que :
 
 <!-- Sources -->
 [^1]:René-Louis Parfait ÉTILÉ, Grammaire simplifiée de l'Égyptien hiéroglyphique, livre broché, Éditions [MENAIBUC](http://www.menaibuc.com/), vol. 1 p. 10-11, ISBN 2-911372-56-5
-[^2]:[Classification Gardiner](/ecriture/classification-gardiner)
+[^2]:[Classification Gardiner](/ecriture/classification-gardiner), page Web
 [^3]:IshangoTV, Kemet ou l'Egypte ancienne, [vidéo Youtube](https://www.youtube.com/watch?v=lfS4IzC4eLM), le 24 janv. 2012
