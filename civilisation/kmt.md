@@ -24,7 +24,7 @@
 
 ![Signe O 49](/uploads/ecriture/signe-o-49.png "Signe O 49"){.align-center}
 
-# Traduction[^3]
+# Traduction littérale[^3]
 En partant de l'étymologie du mot *KMT*, nous comprenons que :
 * Le premier signe sous-entend une couleur noire. En effet, que ce soit un morceau de charbon brulé ou une peau de crocodile avec ses écailles (ex. : illustration suivante qui représente un crocodile du Nil), cela renvoie à la couleur noire.
 
@@ -33,7 +33,7 @@ En partant de l'étymologie du mot *KMT*, nous comprenons que :
 * Le troisième signe rappel le genre féminin. En effet, le [mdw ntr](/ecriture/mdw/ntr) (écriture et langue de *KMT*) a pour particularité de rajouter le phonème *t* a la fin des mots féminins^[Il faut savoir qu'en *proto-bantou*, le mot *pain*, le mot *femme* et le mot *épouse* sont des homonymes. Il est probable que cela vienne du paradygme égypto-nubien (cf. : [L'Égypte Pharaonique : Ni terre noire, ni pays des Noirs](https://www.youtube.com/watch?v=WeU6F0msUGU)].
 * Le quatrième et dernier signe (NIWT) est utilisé uniquement lorsqu'il est question d'agglomération urbaine, à l'inverse du mot *ta* (ou *to*) qui renvoie à la terre ou au sol.
 
-Sachant cela, ce terme se traduit littéralement par : *aglomération noire*, *cité noire*, voir *pays noire*.
+Sachant cela, ce terme se traduit littéralement par : *aglomération noire*, *cité noire*, voir *pays noir*.
 
 # Interprétation[^3]
 L'expression *TA N KMT* peut être utilisé pour aider à interpréter le mot *KMT*.
@@ -41,7 +41,13 @@ L'expression *TA N KMT* peut être utilisé pour aider à interpréter le mot *K
 Cette expression est composée de :
 * *Ta* qui signifie terre.
 * *N* qui fait référence à la possession et qui peut se traduire par le mot *à* ou le mot *pour* (quelqu'un)[^1].
-* *KMT* (voir traduction précédente).
+* *KMT* (voir [traduction précédente](http://leremsesh.com/civilisation/kmt#traduction)).
+
+Littéralement, cette expression se traduit par : la *terre du cité noire* ou la *terre du pays noir*.
+
+Ceci étant, il faut se rappeler des propos d'Hérodote et des autres contemporains des Kemtiou, qui les définissaient comme étant d'une couleur noire.
+
+Dès lors, sachant que *KMT* ne fait ni référence au sol, ni à la couleur de celui-ci, la traduction exacte de ce mot est : *Pays des noirs* ou *cité des noirs*. Nous pouvons prendre comme exemple l'expression *Afrique noir* qui fait référence à la couleur aux habitants.
 
 <!-- Sources -->
 [^1]:René-Louis Parfait ÉTILÉ, Grammaire simplifiée de l'Égyptien hiéroglyphique, livre broché, Éditions [MENAIBUC](http://www.menaibuc.com/), ISBN 2-911372-56-5
