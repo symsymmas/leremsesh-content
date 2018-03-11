@@ -20,7 +20,7 @@
 
 * L'idéogramme et déterminatif O49[^2] qui représente une localité avec des avenues qui se croisent.
 
-![Signe O 49](/uploads/ecriture/signe-o-49.png "Signe O 49")
+![Signe O 49](/uploads/ecriture/signe-o-49.png "Signe O 49"){.align-center}
 
 <!-- Sources -->
 [^1]:René-Louis Parfait ÉTILÉ, Grammaire simplifiée de l'Égyptien hiéroglyphique, livre broché, Éditions [MENAIBUC](http://www.menaibuc.com/), vol. 1 p. 10-11, ISBN 2-911372-56-5
