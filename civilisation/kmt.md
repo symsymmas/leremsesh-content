@@ -26,7 +26,7 @@
 
 # Traduction littérale[^3]
 En partant de l'étymologie du mot *KMT*, nous comprenons que :
-* Le premier signe sous-entend une couleur noire. En effet, que ce soit un morceau de charbon brulé ou une peau de crocodile avec ses écailles (ex. : illustration suivante qui représente un crocodile du Nil), cela renvoie à la couleur noire.
+* Le premier signe (prononcé kèm) sous-entend une couleur noire. En effet, la couleur d'un morceau de charbon brulé ou de la peau de crocodile avec ses écailles (ex. : illustration suivante qui représente un crocodile du Nil) reste noire. De plus, des variantes du son *kèm* sont utilisées dans plusieurs langues Africaines pour désigner la couleur noire[^4].
 
 ![Crocodile 2697279 1920](/uploads/animaux/crocodile-2697279-1920.jpg "Crocodile 2697279 1920"){.align-center}
 
@@ -36,7 +36,7 @@ En partant de l'étymologie du mot *KMT*, nous comprenons que :
 Sachant cela, ce terme se traduit littéralement par : *aglomération noire*, *cité noire*, voir *pays noir*.
 
 # Interprétation[^3]
-L'expression *TA N KMT* peut être utilisé pour aider à interpréter le mot *KMT*.
+L'expression *TA N KMT* peut être utilisée pour aider à interpréter le mot *KMT*.
 
 Cette expression est composée de :
 * *Ta* qui signifie terre.
@@ -47,9 +47,10 @@ Littéralement, cette expression se traduit par : la *terre du cité noire* ou 
 
 Ceci étant, il faut se rappeler des propos d'Hérodote et des autres contemporains des [Kemtiou](http://leremsesh.com/peuple/kemtiou), qui les définissaient comme étant d'une couleur noire.
 
-Dès lors, sachant que *KMT* ne fait ni référence au sol, ni à la couleur de celui-ci, la traduction exacte de ce mot est : *Pays des noirs* ou *cité des noirs*. Nous pouvons prendre comme exemple l'expression *Afrique noir* qui fait référence à la couleur aux habitants.
+Dès lors, sachant que *KMT* ne fait ni référence au sol, ni à la couleur de celui-ci, la traduction exacte de ce mot est : *Pays des noirs* ou *cité des noirs*. Nous pouvons prendre comme exemple l'expression *Afrique noir* qui fait référence à la couleur des habitants.
 
 <!-- Sources -->
-[^1]:René-Louis Parfait ÉTILÉ, Grammaire simplifiée de l'Égyptien hiéroglyphique, livre broché, Éditions [MENAIBUC](http://www.menaibuc.com/), ISBN 2-911372-56-5
-[^2]:[Classification Gardiner](/ecriture/classification-gardiner), page Web
-[^3]:IshangoTV, [Kemet ou l'Egypte ancienne](https://www.youtube.com/watch?v=lfS4IzC4eLM), vidéo Youtube, le 24 janv. 2012
+[^1]:René-Louis Parfait ÉTILÉ, Grammaire simplifiée de l'Égyptien hiéroglyphique, livre broché, Éditions [MENAIBUC](http://www.menaibuc.com/), ISBN 2-911372-56-5.
+[^2]:[Classification Gardiner](/ecriture/classification-gardiner), page Web.
+[^3]:IshangoTV, [Kemet ou l'Egypte ancienne](https://www.youtube.com/watch?v=lfS4IzC4eLM), vidéo YouTube, 24 janv. 2012.
+[^4]:A CONTRARIO, [L'Égypte Pharaonique : Ni terre noire, ni pays des Noirs](https://www.youtube.com/watch?v=WeU6F0msUGU), vidéo YouTube, 24 févr. 2017.
