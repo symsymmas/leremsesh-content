@@ -7,7 +7,7 @@
 
 Les grecs ont appelé cette écriture *hieroglúphos*, ce qui a donné le mot *hiéroglyphe*. *Hieroglúphos* se traduit littéralement par gravure (*glúphein*) sacrée (*hierós*)[^1].
 
-Plus de six mille signes sont ressensés[^3].
+Plus de six mille signes sont recensés[^3].
 # Signification 
 Le terme *mdw ntr* signifie litéralement : *Les paroles (mdw) de Dieu (ntr)*.
 
