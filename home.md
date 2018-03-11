@@ -18,8 +18,9 @@ Si vous possédez déjà un compte :
 
 2. Saisissez identifiant et mot de passe.
 
+![Authentification](/uploads/interface-web-leremsesh/authentification.png "Authentification")
 
-
-3. Une fois connecté, deux boutons s'affichent en haut à droite de la page.
+3. Une fois connecté, deux boutons s'affichent en haut à droite de la page :
 	* ÉDITER, qui permet d'éditer la page en cours.
 	* CRÉER, qui permet de créer une nouvelle page.
+
