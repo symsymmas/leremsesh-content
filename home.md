@@ -7,4 +7,4 @@ Bienvenue sur leremsesh.com, le Wiki afrocentré !
 
 ![Logo Leremsesh Com](/uploads/logo/logo-leremsesh-com.png "Logo Leremsesh Com"){.align-center}
 
-Pour commencer, faites une recherche dans la barre ci-dessus.
+Pour commencer, faites une recherche dans la barre ci-dessus. Par exemple, faites une recherche sur notre site « leremsesh.com »
