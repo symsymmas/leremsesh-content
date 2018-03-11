@@ -15,4 +15,4 @@ Cette expression est une des preuves du fait que les égyptiens anciens (kemtiou
 
 [^1]:Écriture hiéroglyphique égyptienne, page Web, Wikipédia, https://fr.wikipedia.org/wiki/%C3%89criture_hi%C3%A9roglyphique_%C3%A9gyptienne#%C3%89tymologie
 [^2]:Les NTRW / dieux égyptiens, page Web, Leremsesh, http://leremsesh.com/spiritualite/ntrw
-[^3]:La classification gardiner, Leremsesh, http://leremsesh.com/ecriture/classification-gardiner
+[^3]:La classification gardiner, page Web, Leremsesh, http://leremsesh.com/ecriture/classification-gardiner
