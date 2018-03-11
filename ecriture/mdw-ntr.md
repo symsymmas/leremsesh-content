@@ -3,7 +3,7 @@
 
 ![Mdw Ntr](/uploads/ecriture/mdw-ntr.png "Mdw Ntr"){.pagelogo}
 
-*Mdw ntr* (ou médou nétèr, ou médou nétchèr) est le nom donné à l'écriture de Égypte pharaonique antique ([KMT](/civilisation/kmt)), par ses habitants ([Kemtiou](/peuple/kemitou)).
+*Mdw ntr* (ou médou nétèr, ou médou nétchèr) est le nom donné à l'écriture de Égypte pharaonique antique ([KMT](/civilisation/kmt)), par ses habitants ([Kemtiou](/peuple/kemtiou)).
 
 Les grecs ont appelé cette écriture *hieroglúphos*, ce qui a donné le mot *hiéroglyphe*. *Hieroglúphos* se traduit littéralement par gravure (*glúphein*) sacrée (*hierós*)[^1].
 # Signification 
