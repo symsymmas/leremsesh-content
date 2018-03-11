@@ -7,6 +7,9 @@
 
 Les grecs ont appelé cette écriture *hieroglúphos*, ce qui a donné le mot *hiéroglyphe*. *Hieroglúphos* se traduit littéralement par gravure (*glúphein*) sacrée (*hierós*)[^1].
 # Signification 
-Le terme *mdw ntr* signifie litéralement « Les paroles de Dieu ».
+Le terme *mdw ntr* signifie litéralement : *Les paroles (mdw) de Dieu (ntr)*.
 
-[^1]:Écriture hiéroglyphique égyptienne, page Web, Wikipédia, https://fr.wikipedia.org/wiki/%C3%89criture_hi%C3%A9roglyphique_%C3%A9gyptienne#%C3%89tymologie]
+Cette expression est une des preuves du fait que les égyptiens anciens (kemtiou) croyaient en une seule divinité possédant plusieurs projections[^2].
+
+[^1]:Écriture hiéroglyphique égyptienne, page Web, Wikipédia, https://fr.wikipedia.org/wiki/%C3%89criture_hi%C3%A9roglyphique_%C3%A9gyptienne#%C3%89tymologie
+[^2]:Les NTRW / dieux égyptiens, page Web, Leremsesh, http://leremsesh.com/edit/spiritualite/ntrw
