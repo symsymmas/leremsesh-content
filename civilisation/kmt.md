@@ -33,7 +33,15 @@ En partant de l'étymologie du mot *KMT*, nous comprenons que :
 * Le troisième signe rappel le genre féminin. En effet, le [mdw ntr](/ecriture/mdw/ntr) (écriture et langue de *KMT*) a pour particularité de rajouter le phonème *t* a la fin des mots féminins^[Il faut savoir qu'en *proto-bantou*, le mot *pain*, le mot *femme* et le mot *épouse* sont des homonymes. Il est probable que cela vienne du paradygme égypto-nubien (cf. : [L'Égypte Pharaonique : Ni terre noire, ni pays des Noirs](https://www.youtube.com/watch?v=WeU6F0msUGU)].
 * Le quatrième et dernier signe (NIWT) est utilisé uniquement lorsqu'il est question d'agglomération urbaine, à l'inverse du mot *ta* (ou *to*) qui renvoie à la terre ou au sol.
 
-Par conséquent, ce terme se traduit littéralement par : *Aglomération Noir* *Cité Noir*, voir *Pays Noir*.
+Sachant cela, ce terme se traduit littéralement par : *aglomération noire*, *cité noire*, voir *pays noire*.
+
+# Interprétation[^3]
+L'expression *TA N KMT* peut être utilisé pour aider à interpréter le mot *KMT*.
+
+Cette expression est composée de :
+* *Ta* qui signifie terre.
+* *N* qui fait référence à la possession et qui peut se traduire par le mot *à* ou le mot *pour* (quelqu'un)[^1].
+* *KMT* (voir traduction précédente).
 
 <!-- Sources -->
 [^1]:René-Louis Parfait ÉTILÉ, Grammaire simplifiée de l'Égyptien hiéroglyphique, livre broché, Éditions [MENAIBUC](http://www.menaibuc.com/), ISBN 2-911372-56-5
