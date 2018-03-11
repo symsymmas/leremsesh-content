@@ -3,6 +3,6 @@
 
 ![Mdw Ntr](/uploads/ecriture/mdw-ntr.png "Mdw Ntr"){.pagelogo}
 
-*Mdw ntr* (ou médou nétèr, ou médou nétchèr) est le nom donné à l'écriture des habitants de l'ancienne Égypte (KMT).
+*Mdw ntr* (ou médou nétèr, ou médou nétchèr) est le nom donné à l'écriture de Égypte pharaonique antique (KMT), par ses habitants (Kemtiou).
 # Signification 
 Le terme *mdw ntr* signifie, litéralement « Les paroles de Dieu ».
