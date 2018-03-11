@@ -1,4 +1,4 @@
-<!-- TITLE: Mdw ntr -->
+<!-- TITLE: Mdw ntr / Hiéroglyphe -->
 <!-- SUBTITLE: Présentation des écritures mdw ntr -->
 
 ![Mdw Ntr](/uploads/ecriture/mdw-ntr.png "Mdw Ntr"){.pagelogo}
