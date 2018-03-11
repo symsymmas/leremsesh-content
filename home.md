@@ -1,5 +1,4 @@
 <!-- TITLE: Acceuil -->
-<!-- SUBTITLE: Bienvenue -->
 
 # Bienvenue sur leremsesh.com
 Bienvenue sur leremsesh.com, l'encyclopédie afrocentrée sous forme de wiki !
