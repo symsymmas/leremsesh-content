@@ -7,7 +7,7 @@
 
 # Étymologie
 *KMT* s'écrit à l'aide des signes suivants :
-* L'unilitère I6[^2] qui représente un tas de charbon de bois ou un morceau de peau de crocodile (avec écailles), d'où sa comparaison aux amphibiens, sauriens et reptiles dans la [classification Gardiner](/ecriture/classification-gardiner). Ce signe se prononce comme la lettre *k*.
+* Le bilitère I6[^2] qui représente un tas/bout de charbon de bois (brulé) ou un morceau de peau de crocodile (avec écailles), d'où sa comparaison aux amphibiens, sauriens et reptiles dans la [classification Gardiner](/ecriture/classification-gardiner). Ce signe se prononce *kèm* (KM).
 
 ![Signe I 6](/uploads/ecriture/signe-i-6.png "Signe I 6"){.align-center}
 
@@ -20,14 +20,16 @@
 
 ![Signe X 1](/uploads/ecriture/signe-x-1.png "Signe X 1"){.align-center}
 
-* L'idéogramme et déterminatif O49[^2] qui représente une localité avec des avenues qui se croisent. Ce signe est utilisé uniquement lorsqu'il est question d'agglomération urbaine.
+* L'idéogramme et déterminatif O49[^2] qui représente une localité avec des avenues qui se croisent. Ce signe est utilisé uniquement lorsqu'il est question d'agglomération urbaine. Il se prononce *niout* (NIWT).
 
 ![Signe O 49](/uploads/ecriture/signe-o-49.png "Signe O 49"){.align-center}
 
 # Interprétation[^3]
 En partant de l'étymologie du mot *KMT*, nous comprenons que :
-* le premier signe sous-entend un
+* Le premier signe sous-entend une couleur noire. En effet, que ce soit un morceau de charbon brulé ou une peau de crocodile avec ses écailles (ex. : illustration suivante qui représente un crocodile du Nil), cela renvoie à la couleur noire.
+
 ![Crocodile 2697279 1920](/uploads/animaux/crocodile-2697279-1920.jpg "Crocodile 2697279 1920"){.align-center}
+
 
 <!-- Sources -->
 [^1]:René-Louis Parfait ÉTILÉ, Grammaire simplifiée de l'Égyptien hiéroglyphique, livre broché, Éditions [MENAIBUC](http://www.menaibuc.com/), vol. 1 p. 10-11, ISBN 2-911372-56-5
