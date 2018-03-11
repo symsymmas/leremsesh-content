@@ -1,7 +1,7 @@
-<!-- TITLE: Bienvenue -->
-<!-- SUBTITLE: Page d'acceuil -->
+<!-- TITLE: Acceuil -->
+<!-- SUBTITLE: Bienvenue -->
 
-
+# Bienvenue sur leremsesh.com
 Bienvenue sur leremsesh.com, l'encyclopédie afrocentrée sous forme de wiki !
 
 ![Logo Leremsesh Com](/uploads/logo/logo-leremsesh-com.png "Logo Leremsesh Com"){.align-center}
