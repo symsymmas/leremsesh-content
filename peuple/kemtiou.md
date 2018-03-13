@@ -1,4 +1,4 @@
-<!-- TITLE: Kemtiou / Égyptien de l'antiquité -->
+<!-- TITLE: Kemtiou -->
 <!-- SUBTITLE: Présentation du peuple Kemtiou -->
 
 Le terme *Kemtiou* désigne les Égyptiens de KMT (Égypte pharaonique antique). Ce terme fait opposition aux autres peuples étrangers.[^1]
