@@ -30,7 +30,7 @@ En partant de l'étymologie du mot *KMT*, nous comprenons que :
 
 ![Crocodile 2697279 1920](/uploads/animaux/crocodile-2697279-1920.jpg "Crocodile 2697279 1920"){.align-center}
 
-* Le troisième signe rappel le genre féminin. En effet, le [mdw ntr](/ecriture/mdw/ntr) (écriture et langue de *KMT*) a pour particularité de rajouter le phonème *t* a la fin des mots féminins^[Il faut savoir qu'en *proto-bantou*, le mot *pain*, le mot *femme* et le mot *épouse* sont des homonymes. Il est probable que cela vienne du paradygme égypto-nubien (cf. : [L'Égypte Pharaonique : Ni terre noire, ni pays des Noirs](https://www.youtube.com/watch?v=WeU6F0msUGU)].
+* Le troisième signe rappel le concept féminin. En effet, le [mdw ntr](/ecriture/mdw/ntr) (écriture et langue de *KMT*) a pour particularité de rajouter le phonème *t* a la fin des mots féminins^[Il faut savoir qu'en *proto-bantou*, le mot *pain*, le mot *femme* et le mot *épouse* sont des homonymes. Il est probable que cela vienne du paradygme égypto-nubien (cf. : [L'Égypte Pharaonique : Ni terre noire, ni pays des Noirs](https://www.youtube.com/watch?v=WeU6F0msUGU)].
 * Le quatrième et dernier signe (NIWT) est utilisé uniquement lorsqu'il est question d'agglomération urbaine, à l'inverse du mot *ta* (ou *to*) qui renvoie à la terre ou au sol.
 
 Sachant cela, ce terme se traduit littéralement par : *aglomération noire*, *cité noire*, voir *pays noir*.
