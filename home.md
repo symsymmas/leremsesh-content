@@ -16,8 +16,6 @@ Pour partager votre savoir, il faut suivre les étapes suivantes :
 
 2. Cliquez sur le bouton qui correspond au compte avec lequel vous souhaitez vous connecter.
 
-![Authentification](/uploads/interface-web-leremsesh/authentification.png "Authentification"){.align-center}
-
 3. Une fois connecté à l'aide de votre compte, il faut contacter l'administrateur à l'adresse *kitemona@outlook.fr* pour qu'il puisse vous donner le droit d'écrire ou de modifier des articles.
 
 4. Une fois que l'administrateur a fait son travail, deux boutons s'affichent en haut à droite de la page :
