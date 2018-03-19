@@ -7,19 +7,20 @@ Bienvenue sur leremsesh.com, l'encyclopédie afrocentrée sous forme de wiki !
 # Comment ça fonctionne ?
 ## Je souhaite faire une recherche
 Pour commencer, faites une recherche dans la barre ci-dessus. Par exemple, pour savoir ce que c'est que leremsesh, saisissez « leremsesh », puis cliquez sur l'une des propositions.
-## Je souhaite partager un savoir
-Si vous n'avez pas encore de compte, demandez en un aux administrateurs du site.
+## Je souhaite rédiger ou modifier un article
+Pour partager votre savoir, il faut suivre les étapes suivantes :
 
-Si vous possédez un compte :
 1. Cliquez sur « S'identifier », dans le menu de gauche.
 
 ![Identification](/uploads/interface-web-leremsesh/identification.png "Identification"){.align-center}
 
-2. Saisissez identifiant et mot de passe.
+2. Cliquez sur le bouton qui correspond au compte avec lequel vous souhaitez vous connecter.
 
 ![Authentification](/uploads/interface-web-leremsesh/authentification.png "Authentification"){.align-center}
 
-3. Une fois connecté, deux boutons s'affichent en haut à droite de la page :
+3. Une fois connecté à l'aide de votre compte, il faut contacter l'administrateur à l'adresse *kitemona@outlook.fr* pour qu'il puisse vous donner le droit d'écrire ou de modifier des articles.
+
+4. Une fois que l'administrateur a fait son travail, deux boutons s'affichent en haut à droite de la page :
 	* ÉDITER, qui permet d'éditer la page en cours.
 	* CRÉER, qui permet de créer une nouvelle page.
 
