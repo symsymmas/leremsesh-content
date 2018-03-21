@@ -58,15 +58,15 @@ Dès lors, il est plus facile de comprendre pourquoi les [Kemtiou](/peuple/kemti
 
 ## La haute Égypte
 La haute Égypte est au Sud de la basse Égypte (cf. : illustration précédente). C'est le premier et le plus ancien territoire de KMT.
-La couronne du [Pharaon](/personnalite/per-aat) de la haute Égypte se nomme Ouadjet et elle est de couleur blanche.
+La couronne du [Pharaon](/personnalite/per-aat) de la haute Égypte se nomme Ouadjet et elle est de couleur blanche.[^5]
 
 ## La basse Égypte
-La basse Égypte se trouve au Nord de la basse Égypte (cf. : illustration précédente).
-La couronne du [Pharaon](/personnalite/per-aat) de la basse Égypte se nomme Nékhebet et elle est de couleur rouge.
+La basse Égypte est au Nord de la haute Égypte (cf. : illustration précédente).
+La couronne du [Pharaon](/personnalite/per-aat) de la basse Égypte se nomme Nékhebet et elle est de couleur rouge.[^5]
 
 ## L'unification de la haute et de la basse Égypte
 L'unification de la haute et de la basse Égypte est issue de la démarche civilisatrice du [Pharaon](/personnalite/per-aat) [Narmer](/personnalite/le-roi-Narmer) qui a consisté à calmer les tensions entre les clans du Nord et KMT.
-Suite à cette unification, le [Pharaon](/personnalite/per-aat) porte la couronne des deux territoires (Nékhebet et Ouadjet), ce qui montre l'intégration des peuples de la basse Égypte au sein de KMT, tout en concervant et en respectant leur intégrité.
+Suite à cette unification, le [Pharaon](/personnalite/per-aat) porte la couronne des deux territoires (Nékhebet et Ouadjet), ce qui montre l'intégration des peuples de la basse Égypte au sein de KMT, tout en concervant et en respectant leur intégrité.[^5]
 
 
 <!-- Sources -->
@@ -74,3 +74,4 @@ Suite à cette unification, le [Pharaon](/personnalite/per-aat) porte la couronn
 [^2]:[Classification Gardiner](/ecriture/classification-gardiner), page Web.
 [^3]:IshangoTV, [Kemet ou l'Egypte ancienne](https://www.youtube.com/watch?v=lfS4IzC4eLM), vidéo YouTube, 24 janv. 2012.
 [^4]:A CONTRARIO, [L'Égypte Pharaonique : Ni terre noire, ni pays des Noirs](https://www.youtube.com/watch?v=WeU6F0msUGU), vidéo YouTube, 24 févr. 2017.
+[^5]: [Nioussérê K. Omotunde](/personnalite/nioussere-kalala-omotunde) ; [Djaïbré Asha Maât](/personnalite/djaibre-asha-maat). [L'épopée du roi Narmer](http://www.anyjart.com/lpope-du-roi-narmer-omotunde). Livre broché. [Edition ANYJART](http://www.anyjart.com/). Baie-Mahault : Juin 2015. p.21. ISBN 979-10-95097-02-0
