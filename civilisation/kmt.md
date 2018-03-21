@@ -49,6 +49,17 @@ Ceci étant, il faut se rappeler des propos d'Hérodote et des autres contempora
 
 Dès lors, sachant que *KMT* ne fait ni référence au sol, ni à la couleur de celui-ci, la traduction exacte de ce mot est : *Pays des noirs* ou *cité des noirs*. Nous pouvons prendre comme exemple l'expression *Afrique noir* qui fait référence à la couleur des habitants.
 
+# L'évolution du royaume
+Avant de lire la suite de ce chapitre, il faut se rappeler que les [Égyptiens de l'antiquité](/peuple/kemtiou) regardaient le monde « tête en bas », c'est à dire que le Nord se trouve en bas et le Sud en haut.
+
+
+
+## La haute Égypte
+Ce qui est appelé *haute Égypte* concerne 
+
+## La basse Égypte
+
+
 <!-- Sources -->
 [^1]:René-Louis Parfait ÉTILÉ, Grammaire simplifiée de l'Égyptien hiéroglyphique, livre broché, Éditions [MENAIBUC](http://www.menaibuc.com/), ISBN 2-911372-56-5.
 [^2]:[Classification Gardiner](/ecriture/classification-gardiner), page Web.
