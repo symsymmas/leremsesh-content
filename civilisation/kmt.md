@@ -50,15 +50,18 @@ Ceci étant, il faut se rappeler des propos d'Hérodote et des autres contempora
 Dès lors, sachant que *KMT* ne fait ni référence au sol, ni à la couleur de celui-ci, la traduction exacte de ce mot est : *Pays des noirs* ou *cité des noirs*. Nous pouvons prendre comme exemple l'expression *Afrique noir* qui fait référence à la couleur des habitants.
 
 # L'évolution du royaume
-Avant de lire la suite de ce chapitre, il faut se rappeler que les [Égyptiens de l'antiquité](/peuple/kemtiou) regardaient le monde « tête en bas », c'est à dire que le Nord se trouve en bas et le Sud en haut.
+Avant de lire la suite de ce chapitre, il faut se rappeler que les [Égyptiens de l'antiquité](/peuple/kemtiou) regardaient le monde « tête en bas », c'est à dire que le Nord se trouve en bas et le Sud en haut, comme le présente l'illustration suivante.
 
+![Tobler Hyperelliptical Projection Small](/uploads/tobler-hyperelliptical-projection-small.png "Tobler Hyperelliptical Projection Small"){.align-center}
 
+Dès lors, il est plus facile de comprendre pourquoi les [Kemtiou](/peuple/kemtiou) (Égyptiens de l'antiquité) appelaient *haute Égypte* le Sud de KMT et *basse Égypte* son Nord.
 
 ## La haute Égypte
-Ce qui est appelé *haute Égypte* concerne 
+La haute Égypte représente est au Sud de la basse Égypte (cf. : illustration précédente). C'est la première partie de KMT. Le dernier [Pharaon](/personnalite/per-aat) a avoir été le souverain de la basse 
 
 ## La basse Égypte
-
+La baisse Égypte a issue d'une unification entre les clans situés au Nord de KMT et les [Kemtious](/peuple/kemtiou) (Égyptiens de l'antiquité).
+C'est le [Pharaon](/personnalite/per-aat) [Narmer](/personnalite/le-roi-Narmer) qui est a réussi à rallier les peuples du Nord à la haute Égypte.
 
 <!-- Sources -->
 [^1]:René-Louis Parfait ÉTILÉ, Grammaire simplifiée de l'Égyptien hiéroglyphique, livre broché, Éditions [MENAIBUC](http://www.menaibuc.com/), ISBN 2-911372-56-5.
