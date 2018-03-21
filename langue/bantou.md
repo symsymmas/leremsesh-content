@@ -1,4 +1,4 @@
 <!-- TITLE: Bantou -->
 <!-- SUBTITLE: Présentation de la langue Bantou -->
 
-# Header
+La langue Bantou est une langue sud-africaine.
