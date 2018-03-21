@@ -30,4 +30,11 @@ Suite à cette unification, le [Pharaon](/personnalite/per-aat) Narmer décida d
 	* la couronne Ouadjet qui est de couleur blanche et qui représente la haute Égypte ;
 	* la couronne Nekheret qui est de couleur rouge et qui représente la basse Égypte.
 
-[^1]: [Nioussérê K. Omotunde](/personnalite/nioussere-kalala-omotunde) ; [Djaïbré Asha Maât](/personnalite/djaibre-asha-maat). [L'épopée du roi Narmer](http://www.anyjart.com/lpope-du-roi-narmer-omotunde). Livre broché. [Edition ANYJART](http://www.anyjart.com/). Baie-Mahault : Juin 2015. p.5, p.21, p.9, p.15-17. ISBN 979-10-95097-02-0
+![King Narmer](/uploads/personnalite/king-narmer.jpg "Le Pharaon Narmer sur la Palette de Narmer"){.align-center}
+
+
+## Son mariage
+Suite à l'unification de la haute et de la basse Égypte, le [Pharaon](/personnalite/per-aat) Narmer se marie avec la Reine [Néishotep](/personnalite/neishotep) par un rituel ancestral mené par le prêtre [Rânéfer](/personnalite/ranefer).
+
+
+[^1]: [Nioussérê K. Omotunde](/personnalite/nioussere-kalala-omotunde) ; [Djaïbré Asha Maât](/personnalite/djaibre-asha-maat). [L'épopée du roi Narmer](http://www.anyjart.com/lpope-du-roi-narmer-omotunde). Livre broché. [Edition ANYJART](http://www.anyjart.com/). Baie-Mahault : Juin 2015. p.5, p.9, p.15-17, p.21-23. ISBN 979-10-95097-02-0
