@@ -52,16 +52,22 @@ Dès lors, sachant que *KMT* ne fait ni référence au sol, ni à la couleur de 
 # L'évolution du royaume
 Avant de lire la suite de ce chapitre, il faut se rappeler que les [Égyptiens de l'antiquité](/peuple/kemtiou) regardaient le monde « tête en bas », c'est à dire que le Nord se trouve en bas et le Sud en haut, comme le présente l'illustration suivante.
 
-![Tobler Hyperelliptical Projection Small](/uploads/tobler-hyperelliptical-projection-small.png "Tobler Hyperelliptical Projection Small"){.align-center}
+![Tobler Hyperelliptical Projection Small](/uploads/earth/tobler-hyperelliptical-projection-small.png "Tobler Hyperelliptical Projection Small"){.align-center}
 
 Dès lors, il est plus facile de comprendre pourquoi les [Kemtiou](/peuple/kemtiou) (Égyptiens de l'antiquité) appelaient *haute Égypte* le Sud de KMT et *basse Égypte* son Nord.
 
 ## La haute Égypte
-La haute Égypte représente est au Sud de la basse Égypte (cf. : illustration précédente). C'est la première partie de KMT. Le dernier [Pharaon](/personnalite/per-aat) a avoir été le souverain de la basse 
+La haute Égypte est au Sud de la basse Égypte (cf. : illustration précédente). C'est le premier et le plus ancien territoire de KMT.
+La couronne du [Pharaon](/personnalite/per-aat) de la haute Égypte se nomme Ouadjet et elle est de couleur blanche.
 
 ## La basse Égypte
-La baisse Égypte a issue d'une unification entre les clans situés au Nord de KMT et les [Kemtious](/peuple/kemtiou) (Égyptiens de l'antiquité).
-C'est le [Pharaon](/personnalite/per-aat) [Narmer](/personnalite/le-roi-Narmer) qui est a réussi à rallier les peuples du Nord à la haute Égypte.
+La basse Égypte se trouve au Nord de la basse Égypte (cf. : illustration précédente).
+La couronne du [Pharaon](/personnalite/per-aat) de la basse Égypte se nomme Nékhebet et elle est de couleur rouge.
+
+## L'unification de la haute et de la basse Égypte
+L'unification de la haute et de la basse Égypte est issue de la démarche civilisatrice du [Pharaon](/personnalite/per-aat) [Narmer](/personnalite/le-roi-Narmer) qui a consisté à calmer les tensions entre les clans du Nord et KMT.
+Suite à cette unification, le [Pharaon](/personnalite/per-aat) porte la couronne des deux territoires (Nékhebet et Ouadjet), ce qui montre l'intégration des peuples de la basse Égypte au sein de KMT, tout en concervant et en respectant leur intégrité.
+
 
 <!-- Sources -->
 [^1]:René-Louis Parfait ÉTILÉ, Grammaire simplifiée de l'Égyptien hiéroglyphique, livre broché, Éditions [MENAIBUC](http://www.menaibuc.com/), ISBN 2-911372-56-5.
