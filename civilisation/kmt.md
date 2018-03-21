@@ -28,7 +28,7 @@
 En partant de l'étymologie du mot *KMT*, nous comprenons que :
 * Le premier signe (prononcé kèm) représente un morceau de charbon ou la peau de crocodile avec ses écailles. De plus, des variantes du son *kèm* sont utilisées dans plusieurs langues Africaines pour désigner la couleur noire[^4].
 
- * L'illustration suivante montre ce à quoi ressemble des crocodiles du Nil.
+ ** L'illustration suivante montre ce à quoi ressemble des crocodiles du Nil.
 
 ![Crocodile 2697279 1920](/uploads/animaux/crocodile-2697279-1920.jpg "Crocodile 2697279 1920"){.align-center}
 
