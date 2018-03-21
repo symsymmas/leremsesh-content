@@ -13,6 +13,6 @@ Le terme *mdw ntr* signifie litéralement : *Les paroles (mdw) de Dieu (ntr)*.
 
 Cette expression est une des preuves du fait que les égyptiens anciens (kemtiou) croyaient en une seule divinité possédant plusieurs projections[^2].
 
-[^1]:Écriture hiéroglyphique égyptienne, page Web, Wikipédia, https://fr.wikipedia.org/wiki/%C3%89criture_hi%C3%A9roglyphique_%C3%A9gyptienne#%C3%89tymologie
-[^2]:Les NTRW / dieux égyptiens, page Web, Leremsesh, http://leremsesh.com/spiritualite/ntrw
-[^3]:La classification gardiner, page Web, Leremsesh, http://leremsesh.com/ecriture/classification-gardiner
+[^1]:Écriture hiéroglyphique égyptienne, [page Web](https://fr.wikipedia.org/wiki/%C3%89criture_hi%C3%A9roglyphique_%C3%A9gyptienne#%C3%89tymologie), Wikipédia
+[^2]:Les NTRW / dieux égyptiens, [page Web](http://leremsesh.com/spiritualite/ntrw), Leremsesh
+[^3]:La classification gardiner, [page Web](http://leremsesh.com/ecriture/classification-gardiner), Leremsesh
