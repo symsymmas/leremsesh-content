@@ -32,7 +32,7 @@ En partant de l'étymologie du mot *KMT*, il est possible de décortiquer le mot
 
 ![Crocodile 2697279 1920](/uploads/animaux/crocodile-2697279-1920.jpg "Crocodile 2697279 1920"){.align-center}
 
-  * L'image qui suit montre quelle est la couleur du charbon.
+  * L'image qui suit rappelle quelle est la couleur du charbon.
 
 ![Coal 471903 1920](/uploads/object/coal-471903-1920.jpg "Coal 471903 1920")
 
