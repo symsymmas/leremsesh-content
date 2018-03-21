@@ -5,8 +5,8 @@
 
 *KMT* (ou *Kémét*) est le nom donné à l'Égypte antique par son peuple (les [Kemtiou](http://leremsesh.com/peuple/kemtiou))[^1].
 
-# Déchiffrement[^1][^3]
-*KMT* s'écrit à l'aide des signes suivants :
+# Déchiffrement
+*KMT* s'écrit à l'aide des signes suivants[^1][^3] :
 * Le bilitère I6[^2] qui représente un tas/bout de charbon de bois (brulé) ou un morceau de peau de crocodile (avec écailles), d'où sa comparaison aux amphibiens, sauriens et reptiles dans la [classification Gardiner](/ecriture/classification-gardiner). Ce signe se prononce *kèm* (KM).
 
 ![Signe I 6](/uploads/ecriture/signe-i-6.png "Signe I 6"){.align-center}
@@ -24,30 +24,30 @@
 
 ![Signe O 49](/uploads/ecriture/signe-o-49.png "Signe O 49"){.align-center}
 
-# Traduction littérale[^3]
+# Traduction littérale
 En partant de l'étymologie du mot *KMT*, nous comprenons que :
 * Le premier signe (prononcé kèm) sous-entend une couleur noire. En effet, la couleur d'un morceau de charbon brulé ou de la peau de crocodile avec ses écailles (ex. : illustration suivante qui représente un crocodile du Nil) reste noire. De plus, des variantes du son *kèm* sont utilisées dans plusieurs langues Africaines pour désigner la couleur noire[^4].
 
 ![Crocodile 2697279 1920](/uploads/animaux/crocodile-2697279-1920.jpg "Crocodile 2697279 1920"){.align-center}
 
-* Le troisième signe rappel le concept féminin. En effet, le [mdw ntr](/ecriture/mdw/ntr) (écriture et langue de *KMT*) a pour particularité de rajouter le phonème *t* a la fin des mots féminins^[Il faut savoir qu'en *proto-bantou*, le mot *pain*, le mot *femme* et le mot *épouse* sont des homonymes. Il est probable que cela vienne du paradygme égypto-nubien (cf. : [L'Égypte Pharaonique : Ni terre noire, ni pays des Noirs](https://www.youtube.com/watch?v=WeU6F0msUGU)].
+* Le troisième signe rappel le concept féminin. En effet, le [mdw ntr](/ecriture/mdw-ntr) (écriture et langue de *KMT*) a pour particularité de rajouter le phonème *t* a la fin des mots féminins^[Il faut savoir qu'en *proto-bantou*, le mot *pain*, le mot *femme* et le mot *épouse* sont des homonymes. Il est probable que cela vienne du paradygme égypto-nubien (cf. : [L'Égypte Pharaonique : Ni terre noire, ni pays des Noirs](https://www.youtube.com/watch?v=WeU6F0msUGU)].
 * Le quatrième et dernier signe (NIWT) est utilisé uniquement lorsqu'il est question d'agglomération urbaine, à l'inverse du mot *ta* (ou *to*) qui renvoie à la terre ou au sol.
 
-Sachant cela, ce terme se traduit littéralement par : *aglomération noire*, *cité noire*, voir *pays noir*.
+Sachant cela, ce terme se traduit littéralement par : *aglomération noire*, *cité noire*, voir *pays noir*.[^3]
 
-# Interprétation[^3]
-L'expression *TA N KMT* peut être utilisée pour aider à interpréter le mot *KMT*.
+# Interprétation
+L'expression *TA N KMT* peut être utilisée pour aider à interpréter le mot *KMT*.[^3]
 
 Cette expression est composée de :
 * *Ta* qui signifie terre.
 * *N* qui fait référence à la possession et qui peut se traduire par le mot *à* ou le mot *pour* (quelqu'un)[^1].
 * *KMT* (voir [traduction précédente](http://leremsesh.com/civilisation/kmt#traduction)).
 
-Littéralement, cette expression se traduit par : la *terre du cité noire* ou la *terre du pays noir*.
+Littéralement, cette expression se traduit par : la *terre du cité noire* ou la *terre du pays noir*.[^3]
 
-Ceci étant, il faut se rappeler des propos d'Hérodote et des autres contemporains des [Kemtiou](http://leremsesh.com/peuple/kemtiou), qui les définissaient comme étant d'une couleur noire.
+Ceci étant, il faut se rappeler des propos d'Hérodote et des autres contemporains des [Kemtiou](http://leremsesh.com/peuple/kemtiou), qui les définissaient comme étant d'une couleur noire.[^3]
 
-Dès lors, sachant que *KMT* ne fait ni référence au sol, ni à la couleur de celui-ci, la traduction exacte de ce mot est : *Pays des noirs* ou *cité des noirs*. Nous pouvons prendre comme exemple l'expression *Afrique noir* qui fait référence à la couleur des habitants.
+Dès lors, sachant que *KMT* ne fait ni référence au sol, ni à la couleur de celui-ci, la traduction exacte de ce mot est : *Pays des noirs* ou *cité des noirs*. Nous pouvons prendre comme exemple l'expression *Afrique noir* qui fait référence à la couleur des habitants.[^3]
 
 # L'évolution du royaume
 Avant de lire la suite de ce chapitre, il faut se rappeler que les [Égyptiens de l'antiquité](/peuple/kemtiou) regardaient le monde « tête en bas », c'est à dire que le Nord se trouve en bas et le Sud en haut, comme le présente l'illustration suivante.
