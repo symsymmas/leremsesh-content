@@ -25,21 +25,25 @@
 ![Signe O 49](/uploads/ecriture/signe-o-49.png "Signe O 49"){.align-center}
 
 # Traduction littérale
-En partant de l'étymologie du mot *KMT*, nous comprenons que :
-* Le premier signe (prononcé kèm) représente un morceau de charbon ou la peau de crocodile avec ses écailles. De plus, des variantes du son *kèm* sont utilisées dans plusieurs langues Africaines pour désigner la couleur noire[^4].
+En partant de l'étymologie du mot *KMT*, il est possible de décortiquer le mot de la sorte :
+1.  Le premier signe (prononcé kèm) représente un morceau de charbon ou la peau de crocodile avec ses écailles.
 
- ** L'illustration suivante montre ce à quoi ressemble des crocodiles du Nil.
+  * L'illustration suivante montre ce à quoi ressemble des crocodiles du Nil.
 
 ![Crocodile 2697279 1920](/uploads/animaux/crocodile-2697279-1920.jpg "Crocodile 2697279 1920"){.align-center}
 
-L'image qui suit montre quelle est la couleur du charbon.
+  * L'image qui suit montre quelle est la couleur du charbon.
 
 ![Coal 471903 1920](/uploads/object/coal-471903-1920.jpg "Coal 471903 1920")
 
-* Le troisième signe rappel le concept féminin. En effet, le [mdw ntr](/ecriture/mdw-ntr) (écriture et langue de *KMT*) a pour particularité de rajouter le phonème *t* a la fin des mots féminins^[Il faut savoir qu'en *proto-bantou*, le mot *pain*, le mot *femme* et le mot *épouse* sont des homonymes. Il est probable que cela vienne du paradygme égypto-nubien (cf. : [L'Égypte Pharaonique : Ni terre noire, ni pays des Noirs](https://www.youtube.com/watch?v=WeU6F0msUGU)].
-* Le quatrième et dernier signe (NIWT) est utilisé uniquement lorsqu'il est question d'agglomération urbaine, à l'inverse du mot *ta* (ou *to*) qui renvoie à la terre ou au sol.
+  * Lors du Colloque du Caire de 1974, les égyptologues présents ont admit que cet idéogramme représente la couleur noire. L'historien Dibombari Mbock confirme la chose en démontrant que des variantes du son *kèm* sont utilisées dans plusieurs langues Africaines pour désigner la couleur noire[^4].
 
-Sachant cela, ce terme se traduit littéralement par : *aglomération noire*, *cité noire*, voir *pays noir*.[^3]
+2. Le troisième signe rappel le concept féminin. En effet, le [mdw ntr](/ecriture/mdw-ntr) (écriture et langue de *KMT*) a pour particularité de rajouter le phonème *t* a la fin des mots féminins^[Il faut savoir qu'en *proto-bantou*, le mot *pain*, le mot *femme* et le mot *épouse* sont des homonymes. Il est probable que cela vienne du paradygme égypto-nubien (cf. : [L'Égypte Pharaonique : Ni terre noire, ni pays des Noirs](https://www.youtube.com/watch?v=WeU6F0msUGU)].
+
+3. Le quatrième et dernier signe (NIWT) est utilisé uniquement lorsqu'il est question d'agglomération urbaine, à l'inverse du mot *ta* (ou *to*) qui renvoie à la terre ou au sol.
+
+
+Le terme KMT peut donc se traduire littéralement par : *aglomération noire*, *cité noire*, voir *pays noir*.[^3]
 
 # Interprétation
 L'expression *TA N KMT* peut être utilisée pour aider à interpréter le mot *KMT*.[^3]
