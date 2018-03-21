@@ -26,9 +26,15 @@
 
 # Traduction littérale
 En partant de l'étymologie du mot *KMT*, nous comprenons que :
-* Le premier signe (prononcé kèm) sous-entend une couleur noire. En effet, la couleur d'un morceau de charbon brulé ou de la peau de crocodile avec ses écailles (ex. : illustration suivante qui représente un crocodile du Nil) reste noire. De plus, des variantes du son *kèm* sont utilisées dans plusieurs langues Africaines pour désigner la couleur noire[^4].
+* Le premier signe (prononcé kèm) représente un morceau de charbon ou la peau de crocodile avec ses écailles. De plus, des variantes du son *kèm* sont utilisées dans plusieurs langues Africaines pour désigner la couleur noire[^4].
+
+ * L'illustration suivante montre ce à quoi ressemble des crocodiles du Nil.
 
 ![Crocodile 2697279 1920](/uploads/animaux/crocodile-2697279-1920.jpg "Crocodile 2697279 1920"){.align-center}
+
+L'image qui suit montre quelle est la couleur du charbon.
+
+![Coal 471903 1920](/uploads/object/coal-471903-1920.jpg "Coal 471903 1920")
 
 * Le troisième signe rappel le concept féminin. En effet, le [mdw ntr](/ecriture/mdw-ntr) (écriture et langue de *KMT*) a pour particularité de rajouter le phonème *t* a la fin des mots féminins^[Il faut savoir qu'en *proto-bantou*, le mot *pain*, le mot *femme* et le mot *épouse* sont des homonymes. Il est probable que cela vienne du paradygme égypto-nubien (cf. : [L'Égypte Pharaonique : Ni terre noire, ni pays des Noirs](https://www.youtube.com/watch?v=WeU6F0msUGU)].
 * Le quatrième et dernier signe (NIWT) est utilisé uniquement lorsqu'il est question d'agglomération urbaine, à l'inverse du mot *ta* (ou *to*) qui renvoie à la terre ou au sol.
