@@ -1,5 +1,5 @@
 <!-- TITLE: Le Roi Narmer -->
-<!-- SUBTITLE: Présentation du Roi Narmer -->
+<!-- SUBTITLE: Présentation du Roi/[Pharaon](/personnalite/per-aat) Narmer -->
 
 Le Roi ou plutôt [Pharaon](/personnalite/per-aat) Narmer est le premier souverain de la haute et de la basse Égypte [KMT](/civilisation/kmt).[^1]
 
@@ -21,9 +21,13 @@ Cette formation avait pour but d'apprendre au roi le savoir des ancêtres, en l'
 * l'astronomie ;
 * etc.
 
-## Reigne & conquêtes
-Durant son reigne, le [Pharaon](personnalite/per-aat) Narmer a cherché à rallier les habitants situés au Nord du royaume de [KMT](/civilisation/kmt). Son but était de [^1]
+## L'unification de la haute et de la basse Égypte.
+Durant son reigne, le [Pharaon](personnalite/per-aat) Narmer a cherché à rallier les habitants situés au Nord du royaume de [KMT](/civilisation/kmt). Son but était d'apaiser les conflits entre les clans du Nord et les [Kemtious](/personnalite/kemtiou) (Égyptiens de l'antiquité).[^1]
 
 Lors du dernier combat, étant d'une civilisation passifiste, [Pharaon](/personnalite/per-aat) est allé sur les terres du Nord accompagné uniquement d'une dizaine d'hommes dans le but d'apaiser ces hostilités. Pensant qu'il était à leur merci, le clan du Nord a tenté de piéger le Roi. Malheureusement pour eux, le [Pharaon](/personnalite/per-aat) Narmer avait prévu cette embuscade et en peu de temps la flotte militaire de [KMT](civilisation/kmt) arriva pour déjouer le plan ennemi.[^1]
 
-[^1]: [Nioussérê K. Omotunde](/personnalite/nioussere-kalala-omotunde) ; [Djaïbré Asha Maât](/personnalite/djaibre-asha-maat). [L'épopée du roi Narmer](http://www.anyjart.com/lpope-du-roi-narmer-omotunde). Livre broché. [Edition ANYJART](http://www.anyjart.com/). Baie-Mahault : Juin 2015. p.5, p.21, p.9, p.15. ISBN 979-10-95097-02-0
+Suite à cette unification, le [Pharaon](/personnalite/per-aat) Narmer décida de se re-couronner. Ce couronnement a donné la création d'une nouvelle couronne qui symbolise l'union [de la haute et de la basse Égypte](/civilisation/kmt#levolution-du-royaume). Depuis, la couronne du [Pharaon](/personnalite/per-aat) est constitué de deux couronnes qui ne font qu'une. Cela symbolise une union entre [la haute et la basse Égypte](/civilisation/kmt#levolution-du-royaume). Cette couronne se constitue de :
+	* la couronne Ouadjet qui est de couleur blanche et qui représente la haute Égypte ;
+	* la couronne Nekheret qui est de couleur rouge et qui représente la basse Égypte.
+
+[^1]: [Nioussérê K. Omotunde](/personnalite/nioussere-kalala-omotunde) ; [Djaïbré Asha Maât](/personnalite/djaibre-asha-maat). [L'épopée du roi Narmer](http://www.anyjart.com/lpope-du-roi-narmer-omotunde). Livre broché. [Edition ANYJART](http://www.anyjart.com/). Baie-Mahault : Juin 2015. p.5, p.21, p.9, p.15-17. ISBN 979-10-95097-02-0
