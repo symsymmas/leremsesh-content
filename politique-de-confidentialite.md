@@ -24,3 +24,23 @@ La présente Politique de confidentialité explique comment nous recueillons, ut
 Nous estimons que vous ne devriez pas avoir à fournir des informations personnelles pour accéder à la connaissance. Par exemple, vous n’avez pas à fournir votre véritable nom, votre adresse ou votre date de naissance pour créer un compte standard ou apporter un contenu aux Sites Wikimédia.
 
 Nous ne vendons ni ne louons vos informations privées et nous ne les utilisons pas non plus pour vous vendre quoi que ce soit. Nous les utilisons pour identifier les utilisateurs qui éditent ou créent des pages.
+
+## Définitions
+Parce que chaque personne (et pas seulement les juristes) devrait pouvoir comprendre comment et pourquoi ses informations personnelles sont recueillies et utilisées, nous utilisons dans cette Politique le langage courant plutôt que des termes plus formels. Pour vous aider à comprendre certains mots-clés, voici un tableau de traduction :
+
+
+Lorsque nous disons… 	... cela signifie :
+« la Fondation Wikimédia » / « la Fondation » / « nous » / « notre » / « nos » 	La Wikimedia Foundation, Inc., organisation à but non lucratif qui exploite les Sites Wikimédia.
+« Sites Wikimédia » / « nos services » 	Les Sites Internet et services Wikimédia (quelle qu’en soit la langue), y compris nos principaux projets, tels que Wikipédia et Wikimédia Commons, ainsi que les applications mobiles, API, courriels et notifications ; à l’exception toutefois des sites et services énoncés à la section « Ce que cette Politique de confidentialité ne couvre pas » ci-dessous.
+« vous » / « votre » / « vos » / « moi » 	Vous, que vous soyez une personne, un groupe ou une organisation, et que vous utilisiez les Sites Wikimédia ou nos services en votre nom personnel ou pour le compte de quelqu’un d’autre.
+« cette Politique » / « la présente Politique » / « cette Politique de confidentialité » 	Ce document intitulé « Politique de confidentialité de la Fondation Wikimédia »
+« contributions » 	Le contenu que vous ajoutez ou les changements que vous apportez à l’un des Sites Wikimédia.
+« informations personnelles » 	Les informations que vous nous fournissez ou que nous recueillons auprès de vous et qui peuvent être utilisées pour vous identifier. Pour plus de clarté, même si nous ne recueillons pas tous les types d’informations suivants, nous considérons au moins celles-ci comme des « informations personnelles » si elles sont par ailleurs non publiques mais pourraient être utilisées pour vous identifier :
+
+    (a) vos nom véritable, adresses, numéros de téléphone, adresses électroniques, mots de passe, numéros d’identification sur une pièce d’identité officielle, adresses IP, informations sur l’agent utilisateur (user-agent) ou vos numéros de carte bancaire ou de crédit ; et
+    (b) lorsqu’associé à un des éléments de la sous-section (a), toute donnée sensible telle que la date de naissance, le genre, l’orientation sexuelle, l’origine raciale, nationale ou ethnique, le statut marital ou familial, les conditions médicales ou de handicaps, l’affiliation politique ou la religion ; et
+    (c) tout élément des sous-sections (a) ou (b) lorsqu’il est associé à votre compte utilisateur.
+
+« tiers » / « tierces parties » 	Ce sont les personnes, entités, sites Internet, services, produits et applications que la Fondation Wikimédia ne contrôle pas, ne gère pas et n’exploite pas elle-même. Cela inclut les autres utilisateurs de Wikimédia et les organisations et groupes indépendants qui aident à promouvoir le mouvement Wikimédia tels que les chapitres Wikimédia, organisations thématiques et les groupes d’utilisateurs, ainsi que leurs employés, directeurs, dirigeants et sous-traitants et les bénéficiaires de subventions.
+
+Nous sommes conscients que seuls certains d’entre vous sont familiers avec les termes techniques tels que « pixels de suivi » et « cookies » utilisés dans notre Politique de confidentialité. Que vous soyez un novice sur la terminologie des données privées ou bien un expert qui souhaite juste se rafraîchir la mémoire, notre Glossaire de termes clés pourrait vous aider.
