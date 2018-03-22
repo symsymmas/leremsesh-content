@@ -1,4 +1,4 @@
-<!-- TITLE: dyabukam.om -->
-<!-- SUBTITLE: A quick summary of Dyabukam Com -->
+<!-- TITLE: dyabukam.com -->
+<!-- SUBTITLE: Présentation de dyabukam.com -->
 
 # Header
