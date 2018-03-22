@@ -59,7 +59,7 @@ Ceci étant, il faut se rappeler des propos d'Hérodote et des autres contempora
 
 Dès lors, sachant que *KMT* ne fait ni référence au sol, ni à la couleur de celui-ci, la traduction exacte de ce mot est : *Pays des noirs* ou *cité des noirs*. Nous pouvons prendre comme exemple l'expression *Afrique noir* qui fait référence à la couleur des habitants.[^3]
 
-# L'évolution du royaume
+# Évolution du royaume
 Avant de lire la suite de ce chapitre, il faut se rappeler que les [Égyptiens de l'antiquité](/peuple/kemtiou) regardaient le monde « tête en bas », c'est à dire que le Nord se trouve en bas et le Sud en haut, comme le présente l'illustration suivante.
 
 ![Tobler Hyperelliptical Projection Small](/uploads/earth/tobler-hyperelliptical-projection-small.png "Tobler Hyperelliptical Projection Small"){.align-center}
