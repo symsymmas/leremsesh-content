@@ -23,7 +23,7 @@ Cette formation avait pour but d'apprendre au roi le savoir des ancêtres, en l'
 * etc.
 
 ## L'unification de la haute et de la basse Égypte.
-Durant son reigne, le [Pharaon](personnalite/per-aat) Narmer a cherché à rallier les habitants situés au Nord du royaume de [KMT](/civilisation/kmt). Son but était d'apaiser les conflits entre les clans du Nord et les [Kemtious](/personnalite/kemtiou) (Égyptiens de l'antiquité).[^1]
+Durant son reigne, le [Pharaon](personnalite/per-aat) Narmer a cherché à rallier les habitants situés au Nord du royaume de [KMT](/civilisation/kmt). Son but était d'apaiser les conflits entre les clans du Nord et les [Kemtious](/peuple/kemtiou) (Égyptiens de l'antiquité).[^1]
 
 Lors du dernier combat, étant d'une civilisation passifiste, [Pharaon](/personnalite/per-aat) est allé sur les terres du Nord accompagné uniquement d'une dizaine d'hommes dans le but d'apaiser ces hostilités. Pensant qu'il était à leur merci, le clan du Nord a tenté de piéger le Roi. Malheureusement pour eux, le [Pharaon](/personnalite/per-aat) Narmer avait prévu cette embuscade et en peu de temps la flotte militaire de [KMT](civilisation/kmt) arriva pour déjouer le plan ennemi.[^1]
 
