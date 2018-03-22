@@ -9,7 +9,7 @@
 *L'Épopée du Roi Narmer* retrace l'histoire du [Pharaon](/personnalite/per-aat) [Narmer](/personnalite/Narmer), de la grossesse de sa mère la [Reine](/personnalite/pharaon) [Néférèty](/personnalite/neferety) jusqu'à son mariage avec sa [reine](/personnalite/per-aat) [Néishotep](personnalite/neishotep).[^1]
 
 # Le contenu pour enfant
-À chaque page, les jeunes lecteurs sont invités à traduire par écrit une des phrases de l'histoire dans leur langue [panafricaine](/philosophie/mouvement-panafricain) (bantou, peul, créole, etc.).[^1] De cette manière, ils sont amenés à réfléchir et à penser dans leur langue maternelle, ce qui est une base importante dans l'appropriation d'une langue. Enfin, les jeunes [panafricains](/philosophie/mouvement-panafricain) pourront trouver d'autres travaux pratiques leur permettant de se familiariser avec cette partie de leur histoire de façon ludique.
+À chaque page, les jeunes lecteurs sont invités à traduire par écrit une des phrases de l'histoire dans leur langue [panafricaine](/philosophie/mouvement-panafricain).[^1] De cette manière, ils sont amenés à réfléchir et à penser dans leur langue maternelle, ce qui est une base importante dans l'appropriation d'une langue. Enfin, les jeunes [panafricains](/philosophie/mouvement-panafricain) pourront trouver d'autres travaux pratiques leur permettant de se familiariser avec cette partie de leur histoire de façon ludique.
 
 
 [^1]: [Nioussérê K. Omotunde](/personnalite/nioussere-kalala-omotunde) ; [Djaïbré Asha Maât](/personnalite/djaibre-asha-maat). [L'épopée du roi Narmer](http://www.anyjart.com/lpope-du-roi-narmer-omotunde). Livre broché. [Edition ANYJART](/organisme/anyjart). Baie-Mahault : Juin 2015. ISBN 979-10-95097-02-0
