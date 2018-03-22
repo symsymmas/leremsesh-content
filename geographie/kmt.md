@@ -78,7 +78,7 @@ La couronne du [Pharaon](/personnalite/per-aat) de la basse Égypte se nomme Né
 Dès l'an -3 200, le royaume de KMT s'étend de l'Est de l'Afrique jusqu'à la Syrie.
 L'illustration donne un aperçu de cet empire à son apogé territorial
 
-
+![Egypt Nk Edit](/uploads/egypt-nk-edit.png "Territoire de la haute et de la basse Égypte à son apogée territoriale")
 
 L'unification de la haute et de la basse Égypte est issue de la démarche civilisatrice du [Pharaon](/personnalite/per-aat) [Narmer](/personnalite/le-roi-Narmer) qui a consisté à calmer les tensions entre les clans du Nord et KMT.
 Suite à cette unification, le [Pharaon](/personnalite/per-aat) porte la couronne des deux territoires (Nékhebet et Ouadjet), ce qui montre l'intégration des peuples de la basse Égypte au sein de KMT, tout en concervant et en respectant leur intégrité.[^5]
