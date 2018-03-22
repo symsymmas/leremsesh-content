@@ -1,4 +1,4 @@
-<!-- TITLE: Les Anous -->
+<!-- TITLE: Anou -->
 <!-- SUBTITLE: Présentation des Anou ou Éthiopiens anciens -->
 
 Les *Éthiopiens anciens* ou *Anous* représente le peuple antique africain qui est à l'origine de toutes les inventions de la civilisation Égypto-nubienne.[^1]
