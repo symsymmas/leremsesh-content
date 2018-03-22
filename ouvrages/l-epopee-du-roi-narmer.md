@@ -1,6 +1,8 @@
 <!-- TITLE: L'Épopée du Roi Narmer -->
 <!-- SUBTITLE: Présentation du livre « L'Épopée du Roi Narmer » -->
 
+![A Free Can Com Livre Jeunesse Lepopee Du Roi Narmer Un Conte De Nioussere Kalala Omotunde Et Des Dessins De Djaibre Asha Maat](/uploads/ouvrage/a-free-can-com-livre-jeunesse-lepopee-du-roi-narmer-un-conte-de-nioussere-kalala-omotunde-et-des-dessins-de-djaibre-asha-maat.jpg "A Free Can Com Livre Jeunesse Lepopee Du Roi Narmer Un Conte De Nioussere Kalala Omotunde Et Des Dessins De Djaibre Asha Maat"){.pagelogo}
+
 *L'Épopée du Roi Narmer* est une bande dessinée dédié « à la jeunesse [panafricaine](/philosophie/mouvement-panafricain) » qui reprend la véritable histoire du [Pharaon](/personnalite/per-aat) [Narmer](/personnalite/Narmer).[^1]
 L'ouvrage est écrit par [Nioussérê Kalala OMOTUNDE](/personnalite/nioussere-kalala-omotunde) et illustré par [Djaïbré Asha Maât](/personnalite/djaibre-asha-maat).
 L'ouvrage a été édité à Baie-Mahault ([Karukera](/geographie/karukera)) par la maison d'édition [ANYJART](/organisme/anyjart).
