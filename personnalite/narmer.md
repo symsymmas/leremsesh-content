@@ -2,7 +2,7 @@
 <!-- SUBTITLE: Présentation du Roi / Pharaon Narmer -->
 ![Pharao Narmer](/uploads/personnalite/pharao-narmer.png "Tête en calcaire du Pharaon Narmer"){.pagelogo}
 
-Le Roi ou plutôt [Pharaon](/personnalite/per-aat) Narmer est le premier souverain de la haute et de la basse Égypte [KMT](/civilisation/kmt).[^1]
+Le Roi ou plutôt [Pharaon](/personnalite/per-aat) Narmer est le premier souverain de la haute et de la basse Égypte ([KMT](/civilisation/kmt)), dans le sens où ce fut celui qui unifia ces deux parties du royaume.[^1]
 
 # Naissance
 Le [Pharaon](/personnalite/per-aat) Narmer est né aux environs de l'an -3 200, de sa mère la [reine](/personnalite/per-aat) [Néfèréty](/personnalite/neferety) et de son père le [Roi](/personnalite/per-aat) [Scorpion](/personnalite/le-roi-scorpion).[^1]
@@ -38,4 +38,4 @@ Suite à cette unification, le [Pharaon](/personnalite/per-aat) Narmer décida d
 Suite à l'unification de la haute et de la basse Égypte, le [Pharaon](/personnalite/per-aat) Narmer se marie avec la Reine [Néishotep](/personnalite/neishotep) par un rituel ancestral mené par le prêtre [Rânéfer](/personnalite/ranefer).
 
 
-[^1]: [Nioussérê K. Omotunde](/personnalite/nioussere-kalala-omotunde) ; [Djaïbré Asha Maât](/personnalite/djaibre-asha-maat). [L'épopée du roi Narmer](ouvrages/l-epopee-du-roi-narmer). Livre broché. [Edition ANYJART](/organisme/anyjart). Baie-Mahault : Juin 2015. p.5, p.9, p.15-17, p.21-23. ISBN 979-10-95097-02-0
+[^1]: [Nioussérê K. Omotunde](/personnalite/nioussere-kalala-omotunde) ; [Djaïbré Asha Maât](/personnalite/djaibre-asha-maat). [L'épopée du roi Narmer](ouvrages/l-epopee-du-roi-narmer). Livre broché. [Edition ANYJART](/organisme/anyjart). Baie-Mahault : Juin 2015. p.5, p.9, p.15-17, p.21-23, p.31. ISBN 979-10-95097-02-0
