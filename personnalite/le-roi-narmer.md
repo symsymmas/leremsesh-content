@@ -1,5 +1,5 @@
 <!-- TITLE: Le Roi Narmer -->
-<!-- SUBTITLE: Présentation du Roi/[Pharaon](/personnalite/per-aat) Narmer -->
+<!-- SUBTITLE: Présentation du Roi/Pharaon Narmer -->
 ![Pharao Narmer](/uploads/personnalite/pharao-narmer.png "Tête en calcaire du Pharaon Narmer"){.pagelogo}
 
 Le Roi ou plutôt [Pharaon](/personnalite/per-aat) Narmer est le premier souverain de la haute et de la basse Égypte [KMT](/civilisation/kmt).[^1]
