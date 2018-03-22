@@ -5,7 +5,7 @@
 Le Roi ou plutôt [Pharaon](/personnalite/per-aat) Narmer est le premier souverain de la haute et de la basse Égypte [KMT](/civilisation/kmt).[^1]
 
 # Naissance
-Le [Pharaon](/personnalite/per-aat) Narmer est né en l'an -3 200, de sa mère la [reine Néfèréty](/personnalite/neferety) et son père le [Roi Scorpion](/personnalite/le-roi-scorpion).[^1]
+Le [Pharaon](/personnalite/per-aat) Narmer est né aux environs de l'an -3 200, de sa mère la [reine](/personnalite/per-aat) [Néfèréty](/personnalite/neferety) et de son père le [Roi](/personnalite/per-aat) [Scorpion](/personnalite/le-roi-scorpion).[^1]
 
 # La vie du [Pharaon](/personnalite/per-aat)
 ## Formation
