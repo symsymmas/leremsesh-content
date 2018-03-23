@@ -9,7 +9,7 @@ Bienvenue sur leremsesh.com, l'encyclopédie afrocentrée sous forme de wiki !
 Pour commencer, faites une recherche dans la barre ci-dessus. Par exemple, pour savoir ce que c'est que leremsesh, saisissez « leremsesh », puis cliquez sur l'une des propositions.
 
 ## Je ne sais pas quoi chercher
-Il possible de voir la liste des pages à cette adresse : https://leremsesh.com/all
+Il possible de voir la liste des pages à cette adresse : [https://leremsesh.com/all](https://leremsesh.com/all).
 
 ## Je souhaite rédiger ou modifier un article
 Pour partager votre savoir, il faut suivre les étapes suivantes :
