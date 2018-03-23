@@ -1,4 +1,4 @@
-<!-- TITLE: Les NTR(W) / dieu(x) égyptiens -->
-<!-- SUBTITLE: Présentation des NRW -->
+<!-- TITLE: Les Nétèr(ou) / dieu(x) égyptien(s) -->
+<!-- SUBTITLE: Présentation du Nétèr -->
 
 # Header
