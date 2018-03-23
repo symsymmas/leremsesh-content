@@ -20,7 +20,9 @@ Pour partager votre savoir, il faut suivre les étapes suivantes :
 
 2. Cliquez sur le bouton qui correspond au compte avec lequel vous souhaitez vous connecter.
 
-3. Une fois connecté à l'aide de votre compte, le menu de droit affiche « Paramètre » à la place de « s'identifieril faut contacter l'administrateur pour qu'il puisse vous donner le droit d'écrire ou de modifier des articles.
+3. Une fois connecté à l'aide de votre compte, le menu de droit affiche « Paramètre » à la place de « s'identifier », comme suit. Dès lors, il faut contacter l'administrateur pour qu'il vous donne le droit d'écrire ou de modifier des pages.
+
+![Capture](/uploads/interface-web-leremsesh/capture.jpg "Capture"){.align-center}
 
 4. Une fois que l'administrateur a fait son travail, deux boutons s'affichent en haut à droite de la page :
 	* ÉDITER, qui permet d'éditer la page en cours.
