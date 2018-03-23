@@ -1,4 +1,4 @@
-<!-- TITLE: Les Nétèr(ou) / dieu(x) égyptien(s) -->
-<!-- SUBTITLE: Présentation du Nétèr -->
+<!-- TITLE: Le Nétèr / dieu égyptien -->
+<!-- SUBTITLE: Présentation du Nétèr, le dieu Égyptien -->
 
 # Header
