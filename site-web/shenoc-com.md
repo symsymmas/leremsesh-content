@@ -1,4 +1,4 @@
-<!-- TITLE: SHENOC.com -->
-<!-- SUBTITLE: A quick summary of Shenoc Com -->
+<!-- TITLE: shenoc.com -->
+<!-- SUBTITLE: A quick summary of shenoc Com -->
 
 # Header
