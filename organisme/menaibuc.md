@@ -1,4 +1,4 @@
-<!-- TITLE: menaibuc.com -->
-<!-- SUBTITLE: A quick summary of Menaibuc Com -->
+<!-- TITLE: menaibuc -->
+<!-- SUBTITLE: A quick summary of Menaibuc -->
 
 # Header
