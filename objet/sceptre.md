@@ -8,7 +8,7 @@ Héka est l'un des deux sceptres tenus par les [Pharaons](/personnalite/per-aat)
 Nékhakha est l'un des deux sceptres tenus par les [Pharaons](/personnalite/per-aat). Il symbolise le fait que le [roi](/personnalite/per-aat) est responsable du bien-être de son peuple.[^1]
 L'illustration suivante présente ce sceptre.
 
-![Nekhakha](/uploads/sceptre/nekhakha.png "Le sceptre Nekhakha")
+![Nekhakha](/uploads/sceptre/nekhakha.png "Nekhakha"){.align-center}
 
 
 [^1]: [Nioussérê K. Omotunde](/personnalite/nioussere-kalala-omotunde) ; [Djaïbré Asha Maât](/personnalite/djaibre-asha-maat). [L'épopée du roi Narmer](/ouvrage/l-epopee-du-roi-narmer). Livre broché. [Edition ANYJART](/organisme/anyjart). Baie-Mahault : Juin 2015. p.31. ISBN 979-10-95097-02-0
