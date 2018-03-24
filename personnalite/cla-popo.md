@@ -1,4 +1,4 @@
-<!-- TITLE: Cla Popo -->
-<!-- SUBTITLE: A quick summary of Cla Popo -->
+<!-- TITLE: Klah Popo -->
+<!-- SUBTITLE: Présentation de Klah Popo -->
 
 # Header
