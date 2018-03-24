@@ -13,7 +13,9 @@ Ayant réussi à se faire apprécier par le Roi [Tounkara Cissé](/personnalite/
 
 # Le retour au pays
 Face à la puissance de l'ennemi [Soumangourou](/personnalite/homme/souverain/roi/royaume-sosso/soumangourou), le Roi du [Manden](/geographie/afrique/royaume/manden) ([Dankaran Toumani](/personnalite/homme/souverain/roi/royaume-manden/dankaran-toumani)) pris la fuite.[^1]
+
 Dans le but de reconquérir leur royaume, les notables du [Manden](/geographie/afrique/royaume/manden) prièrent Soundjata de revenir pour diriger leur troupe.[^1]
+
 En 1229, Soundjata est de retour en sa terre natale. Sa venue a insité les [mandings](/peuple/manding) à lutter pour la libération du [pays](/geographie/afrique/royaume/manden).[^1]
 
 # La bataille de Kirina
