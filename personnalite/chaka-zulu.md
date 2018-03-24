@@ -6,7 +6,7 @@ Ayant compris qu'une menace britanique pesait sur le Sud l'Afrique au début du 
 
 Ci-dessous une représentation de Chaka par les colons Britaniques.
 
-![Kingshaka](/uploads/personnalite/kingshaka.jpg "Chaka Zoulou, esquisse de James King de 1824"){.align-center}
+![Shaka Zulu](/uploads/personnalite/shaka-zulu.jpg "Chaka Zoulou, esquisse de James King de 1824"){.align-center}
 
 # Généalogie
 Chaka Zulu est le fils de [Nandi de Qoubé](/personnalite/nandi-de-qoube), et le descendant illégitime du chef du clan [Zulu](/civilisation/zulu) [Senza'Ngakona](/personnalite/senza-ngakona).[^1]
