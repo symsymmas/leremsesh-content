@@ -1,10 +1,10 @@
-<!-- TITLE: Wagadou (Empire) -->
-<!-- SUBTITLE: Présentation de l'empire Wagadou -->
+<!-- TITLE: Wagadou (Royaume) -->
+<!-- SUBTITLE: Présentation du royaume Wagadou -->
 
-Le Wagadou est un empire datant de l'[époque médiévale Africaine](/evenement/epoque-medievale-africaine).
+Le Wagadou est un royaume datant de l'[époque médiévale Africaine](/evenement/epoque-medievale-africaine).
 
 # Géographie
-L'image suivante illustre l'empire du Wagadou à son apogée territoriale.[^1]
+L'image suivante illustre le royaume Wagadou à son apogée territoriale.[^1]
 
 ![Ghana Empire Map](/uploads/map/ghana-empire-map.png "Empire du Wagadou a son appogée territoriale"){.align-center}
 
