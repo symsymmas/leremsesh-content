@@ -14,13 +14,14 @@ Ayant réussi à se faire apprécier par le Roi [Tounkara Cissé](/personnalite/
 # Le retour au pays
 Face à la puissance de l'ennemi [Soumangourou](/personnalite/homme/souverain/roi/royaume-sosso/soumangourou), le Roi du [Manden](/geographie/afrique/royaume/manden) ([Dankaran Toumani](/personnalite/homme/souverain/roi/royaume-manden/dankaran-toumani)) pris la fuite.[^1]
 Dans le but de reconquérir leur royaume, les notables du [Manden](/geographie/afrique/royaume/manden) prièrent Soundjata de revenir pour diriger leur troupe.[^1]
+En 1229, Soundjata est de retour en sa terre natale. Sa venue a insité les [mandings](/peuple/manding) à lutter pour la libération du [pays](/geographie/afrique/royaume/manden).[^1]
 
 # La bataille de Kirina
 ## Contexte géopolitique
 En Afrique de l'Ouest, au courant de l'année 1204 (époque médiévale Africaine), les [mandings](/peuple/manding) sont menacés par les maures et les markas qui se rapprochent dangereusement du [Mandé](/geographie/afrique/royaume/manden). L'objectif des maures et des markas est d'instaurer la terreur et l'esclavage sur leurs territoires conquis.[^1]
 
 ## Les ambitions de Soundjata
-Voyant le danger arriver, Soundjata Keïta a fait des pieds et des mains pour unifier tout les peuples menacés dans le but d'éradiquer l'ennemi. Son objectif était de faire la guerre à l'esclavage.[^1] Il voyait en cette pratique quelque chose de si néfaste qu'il obligeait les peuples à rallier sa cause sous penne de sanction : « Si vous (les mandings) refusez ma proposition, je ne tarderai pas à venir vous faire boire du fer en fusion[^1] ».
+Voyant le danger arriver, Soundjata Keïta a fait des pieds et des mains pour unifier tout les peuples menacés dans le but d'éradiquer l'ennemi. Son objectif était de faire la guerre à l'esclavage.[^1] Il voyait en cette pratique quelque chose de si néfaste qu'il obligeait les peuples à rallier sa cause sous penne de sanction : « Si vous (les [mandings](/peuple/manding)) refusez ma proposition, je ne tarderai pas à venir vous faire boire du fer en fusion[^1] ».
 
 ## Les compagnons de guerre
 Soundjata Keïta a su s'entourer d'hommes braves pour s'assurer la victoire. [Fakoli Manden](/personnalite/homme/autre/royaume-manden/fakoli-manden) était l'un d'entre eux.[^1]
