@@ -1,7 +1,7 @@
 <!-- TITLE: Chaka Zulu -->
 <!-- SUBTITLE: Présentation de Chaka Zulu -->
 
-Chaka Zulu (ou Chaka Zoulou) est le roi et le fondateur de l'empire [Zoulou](/geographie/zoulou).
+Chaka Zulu (ou Chaka Zoulou ou encore Shaka Zulu) est le roi et le fondateur de l'empire [Zoulou](/geographie/zoulou).
 Ayant compris qu'une menace britanique pesait sur le Sud l'Afrique au début du XIXème siècle, Chaka a transformé son clan (les Zoulous) en un empire unificateur afin de tenir tête aux colons Européens.
 
 Ci-dessous une représentation de Chaka par les colons Britaniques.
