@@ -7,9 +7,13 @@ Soundjata Keïta a fondé l'[empire du Mali](/geographie/empire-du-mali) au XII�
 Soundjata Keïta est le fils de [Sogolon Konté](/personnalite/sogolon-konte), sa mère, et de son [Naré Maghan Konaté](/personnalite/nare-maghan-konate), son père.[^1]
 
 # Exil
-Pour protéger sa vie, Soundjata a été contraint de fuir le [Manden](/geographie/manden) pour échaper au Roi Dankaran Toumani, son demi-frère aîné qui souhaitait l'assassiner. L'endroit où il trouva refuge est [Néma](/geographie/nema), capitale du [Wagadou](/geographie/wagadou).[^1]
+Pour protéger sa vie, Soundjata a été contraint de fuir le [Manden](/geographie/manden) pour échaper au Roi [Dankaran Toumani](/personnalite/dankaran-toumani), son demi-frère aîné qui souhaitait l'assassiner. L'endroit où il trouva refuge est [Néma](/geographie/nema), capitale du [Wagadou](/geographie/wagadou).[^1]
 
 Ayant réussi à se faire apprécier par le Roi [Tounkara Cissé](/personnalite/tounkara-cisse) au point de devenir son protégé, Soundjata eu l'opportunité d'intégrer l'armée du [Wagadou](/geographie/wagadou).[^1]
+
+# Le retour au pays
+Face à la puissance de l'ennemi [Soumangourou](/personnalite/soumangourou), le Roi du [Manden](/geographie/manden) ([Dankaran Toumani](/personnalite/dankaran-toumani)) pris la fuite.[^1]
+Dans le but de reconquérir leur royaume, les notables du [Manden](/geographie/manden) prièrent Soundjata de revenir pour diriger leur troupe.
 
 # La bataille de Kirina
 ## Contexte géopolitique
@@ -22,4 +26,4 @@ Voyant le danger arriver, Soundjata Keïta a fait des pieds et des mains pour un
 Soundjata Keïta a su s'entourer d'hommes braves pour s'assurer la victoire. [Fakoli Manden](/personnalite/fakoli-manden) était l'un d'entre eux.[^1]
 
 
-[^1]: Biyong Djehuty. Soundjata, la bataille de kirina. Livre. Édition Djehuty Graphics, 1er trimestre 2014. p.1-4. © 2013 Biyong Djehuty ; Tous droits réservés. ISBN 978-2-9545538-6-3
+[^1]: Biyong Djehuty. [Soundjata, la bataille de kirina](/ouvrage/soundjata-la-bataille-de-kirina). Livre. Édition [Djehuty Graphics](/organisme/djehuty-graphics), 1er trimestre 2014. p.1-5. © 2013 Biyong Djehuty ; Tous droits réservés. ISBN 978-2-9545538-6-3
