@@ -1,4 +1,4 @@
-<!-- TITLE: Le Roi Narmer -->
+<!-- TITLE: Narmer -->
 <!-- SUBTITLE: Présentation du Roi / Pharaon Narmer -->
 ![Pharao Narmer](/uploads/personnalite/pharao-narmer.png "Tête en calcaire du Pharaon Narmer"){.pagelogo}
 
