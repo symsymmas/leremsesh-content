@@ -1,4 +1,4 @@
-<!-- TITLE: Femme Noire Africaine -->
-<!-- SUBTITLE: A quick summary of Femme Noire Africaine -->
+<!-- TITLE: La Femme Noire Africaine -->
+<!-- SUBTITLE: Présentation de la Femme Noire Africaine -->
 
 # Header
