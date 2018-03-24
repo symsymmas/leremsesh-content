@@ -1,5 +1,5 @@
 <!-- TITLE: Mali (Empire) -->
-<!-- SUBTITLE: Présentation de l'empire du Manden -->
+<!-- SUBTITLE: Présentation de l'empire du Mali -->
 
 L'empire du Mali remonte à l'[époque médiévale Africaine](/epoque/epoque-medievale-africaine), il a été fondé par [Soundjata Keïta](personnalite/homme/souverain/roi/empire-mali/soundjata-keita) vers l'an 1204.[^1]
 
