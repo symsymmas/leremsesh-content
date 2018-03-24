@@ -1,4 +1,4 @@
-<!-- TITLE: Homme Noir Africain -->
-<!-- SUBTITLE: A quick summary of Homme Noir Africain -->
+<!-- TITLE: L'Homme Noir Africain -->
+<!-- SUBTITLE: Présentaiton de l'Homme Noir Africain -->
 
 # Header
