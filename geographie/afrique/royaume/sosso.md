@@ -1,4 +1,4 @@
-<!-- TITLE: Sosso -->
+<!-- TITLE: Sosso (royaume) -->
 <!-- SUBTITLE: Présentation du royaume Sosso -->
 
 # Liste des souverains
