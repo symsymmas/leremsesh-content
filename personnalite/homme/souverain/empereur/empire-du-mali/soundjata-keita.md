@@ -1,7 +1,7 @@
 <!-- TITLE: Soundjata Keïta -->
 <!-- SUBTITLE: Présentation de Soundjata Keïta -->
 
-Soundjata Keïta a fondé l'[empire du Mali](/geographie/afrique/empire/mali) au XIIème siècle, suite à la [bataille de Kirina](/evenement/bataille-de-kirina) en pays [Mandé](/geographie/afrique/royaume/manden).[^1]
+Soundjata (ou Soundiata) Keïta a fondé l'[empire du Mali](/geographie/afrique/empire/mali) au XIIème siècle, suite à la [bataille de Kirina](/evenement/bataille-de-kirina) en pays [Mandé](/geographie/afrique/royaume/manden).[^1]
 
 # Généalogie
 Soundjata Keïta est le fils de [Sogolon Konté](/personnalite/femme/autre/sogolon-konte), sa mère, et de son [Naré Maghan Konaté](/personnalite/homme/autre/nare-maghan-konate), son père.[^1]
@@ -13,7 +13,7 @@ Ayant réussi à se faire apprécier par le Roi [Tounkara Cissé](/personnalite/
 
 # Le retour au pays
 Face à la puissance de l'ennemi [Soumangourou](/personnalite/homme/souverain/roi/royaume-sosso/soumangourou), le Roi du [Manden](/geographie/afrique/royaume/manden) ([Dankaran Toumani](/personnalite/homme/souverain/roi/royaume-manden/dankaran-toumani)) pris la fuite.[^1]
-Dans le but de reconquérir leur royaume, les notables du [Manden](/geographie/afrique/royaume/manden) prièrent Soundjata de revenir pour diriger leur troupe.
+Dans le but de reconquérir leur royaume, les notables du [Manden](/geographie/afrique/royaume/manden) prièrent Soundjata de revenir pour diriger leur troupe.[^1]
 
 # La bataille de Kirina
 ## Contexte géopolitique
