@@ -14,10 +14,10 @@ Son objectif était de faire la guerre à l'esclavage. Pour preuve, il voyait en
 Parmi les personnes qui ont marqué cette bataille, il y a[^1] :
 * dans le camps des [Mandings](/peuple/afrique/nord-ouest/manding) :
 	* [Soundjata Keïta](/personnalite/homme/noble/souverain/empereur/mali/soundjata-keita), le chef de guerre,
-	* [Fakoli Manden](/personnalite/homme/guerrier/afrique/empire/mali/fakoli-manden) et les [Somonos](/peuple/afrique/somonos),
-	* [Tiramakan](/personnalite/homme/guerrier/afrique/empire/mali/tiramakan) et ses [chasseurs](/histoire/afrique/epoque-medievale#les-chasseurs),
-	* [Kamara](/personnalite/homme/guerrier/afrique/empire/mali/kamara) et ses [archers](/histoire/afrique/epoque-medievale#les-archers),
-	* [komandian](/personnalite/homme/guerrier/afrique/empire/mali/komandian) et ses [fantassins](/histoire/afrique/epoque-medievale#les-fantassins),
+	* [Fakoli Manden](/personnalite/homme/guerrier/afrique/nord-ouest/empire/mali/fakoli-manden) et les [Somonos](/peuple/afrique/somonos),
+	* [Tiramakan](/personnalite/homme/guerrier/afrique/nord-ouest/empire/mali/tiramakan) et ses [chasseurs](/histoire/afrique/epoque-medievale#les-chasseurs),
+	* [Kamara](/personnalite/homme/guerrier/afrique/nord-ouest/empire/mali/kamara) et ses [archers](/histoire/afrique/epoque-medievale#les-archers),
+	* [komandian](/personnalite/homme/guerrier/afrique/nord-ouest/empire/mali/komandian) et ses [fantassins](/histoire/afrique/epoque-medievale#les-fantassins),
 * dans le camps des [Sossos](/peuple/afrique/sosso) :
 	* [Somangourou](/personnalite/homme/noble/souverain/empereur/mali/somangourou), le souverain de l'[empire Sosso](/geographie/afrique/empire/sosso).
 
@@ -27,8 +27,8 @@ La confrontation entre l'armée de l'empire [Sosso](/geographie/afrique/empire/s
 Grâce à l'un de ses espions, [Soundjata Keïta](/personnalite/homme/noble/souverain/empereur/mali/soundjata-keita) apprend à quelle date le [Manden](/geographie/afrique/empire/manden) se fera attaquer par [Soumangourou](/personnalite/homme/noble/empereur/sosso/soumangourou). Dès lors, [Soundjata](/personnalite/homme/noble/souverain/empereur/mali/soundjata-keita) met sur pied la tactique suivante :
 * bloquer l'ennemi en cas de retraite avec deux groupes distincts :
 	* [Tiramakan](/personnalite/homme/autre/empire/mali/tiramakan) et ses chasseurs, postés dans les galeries forestières bordant le fleuve [Djoliba](/geographie/afrique/fleuve/djoliba), en compagnie de chiens muselés afin qu'ils n'alertent pas l'ennemi par leurs aboiements,
-	* [Kamara](/personnalite/homme/guerrier/afrique/empire/) et ses archers placés en hauteur, en direction des [monts Manding](/geographie/afrique/mont/monts-manding), pour faire de l'ennemi une cible facile,
-* attaquer l'ennemi de front avec [Fakoli](/personnalite/homme/guerrier/afrique/empire/mali/fakoli-manden) et [Komandian](/personnalite/homme/guerrier/afrique/empire/mali/Komandian) pour commander les fantassins de [Tonkorobila](/autre/afrique/tonkorobila).
+	* [Kamara](/personnalite/homme/guerrier/afrique/nord-ouest/empire/kamara) et ses archers placés en hauteur, en direction des [monts Manding](/geographie/afrique/mont/monts-manding), pour faire de l'ennemi une cible facile,
+* attaquer l'ennemi de front avec [Fakoli](/personnalite/homme/guerrier/afrique/nord-ouest/empire/mali/fakoli-manden) et [Komandian](/personnalite/homme/guerrier/afrique/nord-ouest/empire/mali/Komandian) pour commander les fantassins de [Tonkorobila](/autre/afrique/tonkorobila).
 
 L'armée de [Soundjata](/personnalite/homme/noble/souverain/empereur/mali/soundjata-keita) et celle de [Soumangourou](/personnalite/homme/noble/empereur/sosso/soumangourou) perdirent beaucoup d'hommes le premier jour de la bataille de Kirina mais à la fin de la journée, alors que les rescapés de l'empire [Sosso](/geographie/afrique/empire/sosso) demandaient une trêve, celle de Soundjata cherchait désespérément l'empereur [Soumangourou](/personnalite/homme/noble/empereur/sosso/soumangourou) qui avait eu le temps de s'échapper.[^1]
 
