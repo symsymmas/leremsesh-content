@@ -26,7 +26,7 @@ La confrontation entre l'armée de l'empire [Sosso](/geographie/afrique/empire/s
 
 Grâce à l'un de ses espions, [Soundjata Keïta](/personnalite/homme/noble/souverain/empereur/afrique/nord-ouest/mali/soundjata-keita) apprend à quelle date le [Manden](/geographie/royaume/afrique/nord-ouest/manden) se fera attaquer par [Soumangourou](/personnalite/homme/noble/souverain/empereur/afrique/nord-ouest/sosso/soumangourou). Dès lors, [Soundjata](/personnalite/homme/noble/souverain/empereur/afrique/nord-ouest/mali/soundjata-keita) met sur pied la tactique suivante :
 * bloquer l'ennemi en cas de retraite avec deux groupes distincts :
-	* [Tiramakan](/personnalite/homme/guerrier/empire/afrique/nord-ouest/mali/tiramakan) et ses chasseurs, postés dans les galeries forestières bordant le fleuve [Djoliba](/geographie/afrique/fleuve/djoliba), en compagnie de chiens muselés afin qu'ils n'alertent pas l'ennemi par leurs aboiements,
+	* [Tiramakan](/personnalite/homme/guerrier/empire/afrique/nord-ouest/mali/tiramakan) et ses chasseurs, postés dans les galeries forestières bordant le fleuve [Djoliba](/geographie/fleuve/afrique/a-situer/djoliba), en compagnie de chiens muselés afin qu'ils n'alertent pas l'ennemi par leurs aboiements,
 	* [Kamara](/personnalite/homme/guerrier/afrique/nord-ouest/empire/kamara) et ses archers placés en hauteur, en direction des [monts Manding](/geographie/afrique/mont/monts-manding), pour faire de l'ennemi une cible facile,
 * attaquer l'ennemi de front avec [Fakoli](/personnalite/homme/guerrier/empire/afrique/nord-ouest/mali/fakoli-manden) et [Komandian](/personnalite/homme/guerrier/empire/afrique/nord-ouest/mali/Komandian) pour commander les fantassins de [Tonkorobila](/autre/afrique/tonkorobila).
 
