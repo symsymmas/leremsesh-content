@@ -22,7 +22,7 @@ En 1229, Soundjata est de retour en sa terre natale. Sa venue a insité les [man
 Voir [bataille de kirina](/histoire/afrique/epoque-medievale/confrontation/bataille-de-kirina)
 
 # La prise de conscience
-Face au carnage de la bataille de Kirina pour la libération du [Manden](/geographie/afrique/royaume/manden), Soundjata pris conscience d'une chose, que la *fraternité, tant par le lait que le sang, doit à jamais prévaloir dans le Manden*.[^1]
+Choqué par le carnage causé par [la bataille de Kirina](/histoire/afrique/epoque-medievale/confrontation/bataille-de-kirina) pour la libération du [Manden](/geographie/afrique/royaume/manden) et par respect pour tous les défunts, Soundjata accomplit un rite funéraire à [Samba Fida](/geographie/afrique/talus/samba-fida). Il prit conscience d'une chose, que la *fraternité, tant par le lait que le sang, doit à jamais prévaloir dans le Manden*[^1]. Cette prise de conscience devint le fil d'ariane de l'[empire du mali](/geographie/afrique/empire/mali).
 
 
 [^1]: Biyong Djehuty. [Soundjata, la bataille de kirina](/ouvrage/soundjata-la-bataille-de-kirina). Livre. Édition [Djehuty Graphics](/organisme/djehuty-graphics), 1er trimestre 2014. p.1-5, p.8-12, p.20-21, p.23-25, p.28. © 2013 Biyong Djehuty ; Tous droits réservés. ISBN 978-2-9545538-6-3
