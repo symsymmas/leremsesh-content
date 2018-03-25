@@ -27,14 +27,16 @@ Voyant le danger arriver, Soundjata Keïta a fait des pieds et des mains pour un
 
 ## Les compagnons de guerre
 Soundjata Keïta a su s'entourer d'hommes braves pour s'assurer la victoire[^1] :
-* [Fakoli Manden](/personnalite/homme/autre/empire/mali/fakoli-manden) ;
-* [Tiramakan](/personnalite/homme/autre/empire/mali/tiramakan).
+* [Fakoli Manden](/personnalite/homme/guerrier/empire/mali/fakoli-manden) ;
+* [Tiramakan](/personnalite/homme/guerrier/empire/mali/tiramakan) et ses chasseurs ;
+* [Kamara](/personnalite/homme/guerrier/empire/mali/kamara) et ses archers.
 
 ## L'affrontement
 La confrontation entre l'armée de l'empire [Sosso](/geographie/afrique/empire/sosso) et celle de Soundjata se déroule en 1235.[^1]
 Sachant, grâce à l'un de ses espions, à quelle date le [Manden](/geographie/afrique/empire/manden) se ferait attaquer par [Soumangourou](/personnalite/homme/noble/empereur/sosso/soumangourou), Soundjata mis sur pied la stratégie suivante :
-* [Tiramakan](/personnalite/homme/autre/empire/mali/tiramakan) se posterait avec ses chasseurs dans les galeries forestières bordant le fleuve [Djoliba](/geographie/afrique/fleuve/djoliba), en compagnie de chiens muselés
-	* etsiarun
+* deux groupes ennemis ayant pour objectif de bloquer l'ennemi en cas de retraite :
+	* [Tiramakan](/personnalite/homme/autre/empire/mali/tiramakan) ses chasseurs, postés dans les galeries forestières bordant le fleuve [Djoliba](/geographie/afrique/fleuve/djoliba), en compagnie de chiens muselés afin qu'ils n'alertent pas l'ennemi par leurs aboiements ;
+	* [Kamara](/personnalite/homme/guerrier/empire/) et ses archers placés en hauteur, en direction des [monts Manding](/geographie/afrique/mont/monts-manding)
 
 
-[^1]: Biyong Djehuty. [Soundjata, la bataille de kirina](/ouvrage/soundjata-la-bataille-de-kirina). Livre. Édition [Djehuty Graphics](/organisme/djehuty-graphics), 1er trimestre 2014. p.1-5, p.8-10. © 2013 Biyong Djehuty ; Tous droits réservés. ISBN 978-2-9545538-6-3
+[^1]: Biyong Djehuty. [Soundjata, la bataille de kirina](/ouvrage/soundjata-la-bataille-de-kirina). Livre. Édition [Djehuty Graphics](/organisme/djehuty-graphics), 1er trimestre 2014. p.1-5, p.8-11. © 2013 Biyong Djehuty ; Tous droits réservés. ISBN 978-2-9545538-6-3
