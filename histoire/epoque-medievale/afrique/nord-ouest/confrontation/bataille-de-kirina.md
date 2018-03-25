@@ -1,10 +1,10 @@
 <!-- TITLE: Bataille de Kirina -->
 <!-- SUBTITLE: Présentation de la Bataille de Kirina -->
 
-La bataille de Kirina relate d'une confrontation décisive entre l'armée de l'empire [Sosso](/geographie/afrique/empire/sosso) et celle du [Manden](/geographie/afrique/royaume/nord-ouest/manden).
+La bataille de Kirina relate d'une confrontation décisive entre l'armée de l'empire [Sosso](/geographie/afrique/empire/sosso) et celle du [Manden](/geographie/royaume/afrique/nord-ouest/manden).
 
 # Contexte géopolitique
-En Afrique de l'Ouest, vers le début du [XIIIème siècle](/histoire/divers/xiiieme-siecle) (durant l'[époque médiévale Africaine](/histoire/afrique/epoque-medievale)), les [mandings](/peuple/afrique/nord-ouest/manding) sont menacés par les maures et les markas qui, après avoir pillé le [Mandé](/geographie/afrique/royaume/nord-ouest/manden) à neuf reprises, souhaitent les exterminer ; l'objectif des maures et des markas étant d'instaurer la terreur et l'esclavage sur les territoires qu'ils conquièrent.[^1]
+En Afrique de l'Ouest, vers le début du [XIIIème siècle](/histoire/divers/xiiieme-siecle) (durant l'[époque médiévale Africaine](/histoire/afrique/epoque-medievale)), les [mandings](/peuple/afrique/nord-ouest/manding) sont menacés par les maures et les markas qui, après avoir pillé le [Mandé](/geographie/royaume/afrique/nord-ouest/manden) à neuf reprises, souhaitent les exterminer ; l'objectif des maures et des markas étant d'instaurer la terreur et l'esclavage sur les territoires qu'ils conquièrent.[^1]
 
 # Les ambitions de Soundjata
 Voyant le danger arriver, [Soundjata Keïta](/personnalite/homme/noble/souverain/empereur/afrique/nord-ouest/mali/soundjata-keita) fait des pieds et des mains pour unifier tout les peuples menacés dans le but d'éradiquer l'ennemi.
