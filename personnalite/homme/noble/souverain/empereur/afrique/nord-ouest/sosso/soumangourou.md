@@ -1,7 +1,7 @@
 <!-- TITLE: Soumangourou -->
 <!-- SUBTITLE: Présentation du Roi Soumangourou -->
 
-Soumangourou, fils de [Diarra Kanté](/personnalite/autre/diarra-kante), est le souverain du royaume [Sosso](/geographie/afrique/royaume/sosso).
+Soumangourou, fils de [Diarra Kanté](/personnalite/a-classer/diarra-kante), est le souverain du royaume [Sosso](/geographie/afrique/royaume/sosso).
 
 # Ses ambitions
 Il prit le pouvoir en 1200 puis engagea ses troupes dans des conquêtes sanglantes dans le but de se construire un empire. L'une des particularités de ce Roi est son penchant pour l'asservissement des peuples qu'il conquit.[^1]
