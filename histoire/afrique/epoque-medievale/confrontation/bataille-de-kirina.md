@@ -14,7 +14,7 @@ Son objectif était de faire la guerre à l'esclavage. Pour preuve, il voyait en
 Parmi les personnes qui ont marqué cette bataille, il y a[^1] :
 * dans le camps des [Mandings](/peuple/afrique/nord-ouest/manding) :
 	* [Soundjata Keïta](/personnalite/homme/noble/souverain/empereur/afrique/nord-ouest/mali/soundjata-keita), le chef de guerre,
-	* [Fakoli Manden](/personnalite/homme/guerrier/afrique/nord-ouest/empire/mali/fakoli-manden) et les [Somonos](/peuple/afrique/somonos),
+	* [Fakoli Manden](/personnalite/homme/guerrier/afrique/nord-ouest/empire/mali/fakoli-manden) et les [Somonos](/peuple/afrique/a-situer/somonos),
 	* [Tiramakan](/personnalite/homme/guerrier/afrique/nord-ouest/empire/mali/tiramakan) et ses [chasseurs](/histoire/afrique/epoque-medievale#les-chasseurs),
 	* [Kamara](/personnalite/homme/guerrier/afrique/nord-ouest/empire/mali/kamara) et ses [archers](/histoire/afrique/epoque-medievale#les-archers),
 	* [komandian](/personnalite/homme/guerrier/afrique/nord-ouest/empire/mali/komandian) et ses [fantassins](/histoire/afrique/epoque-medievale#les-fantassins),
