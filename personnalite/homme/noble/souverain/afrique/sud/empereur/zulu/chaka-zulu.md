@@ -16,9 +16,9 @@ Avant la naissance de Chaka, le chef [Zulu](/peuple/zulu) [Senza'Ngakona](/perso
 
 Peu de temps après la naissance de Chaka, chacune des trois premières épouses du chef [Senza'Ngakona](/personnalite/homme/noble/chef/zulu/senza-ngakona) mirent au monde un fils.[^1]
 Dans l'ordre de naissance[^1] :
-1. [M'Fokazana](/personnalite/m-fokazana) ;
-2. [Di'Ngana](/personnalite/di-ngana) ;
-3. [M'Lagana](/personnalite/m-lagana).
+1. [M'Fokazana](/personnalite/homme/noble/a-categoriser/m-fokazana) ;
+2. [Di'Ngana](/personnalite/homme/noble/a-categoriser/di-ngana) ;
+3. [M'Lagana](/personnalite/homme/noble/a-categoriser/m-lagana).
 # Naissance et enfance
 ## Le contexte environnemental
 Chaka a été conçu hors mariage par [Nandi de Qoubé](/personnalite/nandi-de-qoube) et le chef [Zulu](/peuple/zulu) [Senza'Ngakona](/personnalite/homme/noble/chef/zulu/senza-ngakona), au mois de [Kourouetso](/calendrier/kourouetso) (mois du calendrier [Zulu](/peuple/zulu) durant lequel on fait voir pour la première fois la Lune aux enfants).[^1] Il faut savoir qu'à l'époque, une jeune fille trouvée enceinte avant le mariage pouvait être mise à mort avec les compagnons et les compagnes avec qui elle passe la nuit. Les Zoulous cherchaient à dissuader par l'emploi d'une méthode ; ils craignaient que de telles pratiques corrompent la nation ou dévergondent les jeunes générations.[^1]
