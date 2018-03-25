@@ -18,7 +18,7 @@ Parmi les personnes qui ont marqué cette bataille, il y a[^1] :
 	* [Tiramakan](/personnalite/homme/guerrier/empire/afrique/nord-ouest/mali/tiramakan) et ses [chasseurs](/histoire/afrique/epoque-medievale#les-chasseurs),
 	* [Kamara](/personnalite/homme/guerrier/empire/afrique/nord-ouest/mali/kamara) et ses [archers](/histoire/afrique/epoque-medievale#les-archers),
 	* [komandian](/personnalite/homme/guerrier/empire/afrique/nord-ouest/mali/komandian) et ses [fantassins](/histoire/afrique/epoque-medievale#les-fantassins),
-* dans le camps des [Sossos](/peuple/afrique/sosso) :
+* dans le camps des [Sossos](/peuple/afrique/nord-ouest/sosso) :
 	* [Somangourou](/personnalite/homme/noble/souverain/empereur/afrique/nord-ouest/sosso/soumangourou), le souverain de l'[empire Sosso](/geographie/afrique/empire/sosso).
 
 # Les affrontements
