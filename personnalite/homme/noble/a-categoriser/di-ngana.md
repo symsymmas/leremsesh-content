@@ -1,7 +1,6 @@
 <!-- TITLE: Di'Ngana -->
 <!-- SUBTITLE: Présentation de Di'Ngana -->
 
-, filsest le second petit frère de [Chaka Zoulou](/personnalite/chaka-zulu).[^1]
 Di'Ngana, fils de [Senza'Ngakona](/personnalite/homme/noble/chef/afrique/sud/zulu/senza-ngakona), est un Zoulou et le demi-frère de [Chaka](/personnalite/homme/noble/souverain/afrique/sud/empereur/zulu/chaka-zulu), [M'Lagana](/personnalite/homme/noble/a-categoriser/m-lagana) et [M'Fokana](/personnalite/homme/noble/a-categoriser/m-fokana).[^1]
 
 
