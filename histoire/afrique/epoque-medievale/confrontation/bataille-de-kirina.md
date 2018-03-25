@@ -4,15 +4,15 @@
 La bataille de Kirina relate d'une confrontation décisive entre l'armée de l'empire [Sosso](/geographie/afrique/empire/sosso) et celle du [Manden](/geographie/afrique/royaume/manden).
 
 # Contexte géopolitique
-En Afrique de l'Ouest, vers le début du [XIIIème siècle](/histoire/divers/xiiieme-siecle) (durant l'[époque médiévale Africaine](/histoire/afrique/epoque-medievale)), les [mandings](/peuple/manding) sont menacés par les maures et les markas qui, après avoir pillé le [Mandé](/geographie/afrique/royaume/manden) à neuf reprises, souhaitent les exterminer ; l'objectif des maures et des markas étant d'instaurer la terreur et l'esclavage sur les territoires qu'ils conquièrent.[^1]
+En Afrique de l'Ouest, vers le début du [XIIIème siècle](/histoire/divers/xiiieme-siecle) (durant l'[époque médiévale Africaine](/histoire/afrique/epoque-medievale)), les [mandings](/peuple/afrique/nord-ouest/manding) sont menacés par les maures et les markas qui, après avoir pillé le [Mandé](/geographie/afrique/royaume/manden) à neuf reprises, souhaitent les exterminer ; l'objectif des maures et des markas étant d'instaurer la terreur et l'esclavage sur les territoires qu'ils conquièrent.[^1]
 
 # Les ambitions de Soundjata
 Voyant le danger arriver, [Soundjata Keïta](/personnalite/homme/noble/souverain/empereur/mali/soundjata-keita) fait des pieds et des mains pour unifier tout les peuples menacés dans le but d'éradiquer l'ennemi.
-Son objectif était de faire la guerre à l'esclavage. Pour preuve, il voyait en cette pratique quelque chose de si néfaste qu'il obligeait les peuples à rallier sa cause sous penne de sanction : « Si vous (les [Mandings](/peuple/manding)) refusez ma proposition, je ne tarderai pas à venir vous faire boire du fer en fusion[^1] ».
+Son objectif était de faire la guerre à l'esclavage. Pour preuve, il voyait en cette pratique quelque chose de si néfaste qu'il obligeait les peuples à rallier sa cause sous penne de sanction : « Si vous (les [Mandings](/peuple/afrique/nord-ouest/manding)) refusez ma proposition, je ne tarderai pas à venir vous faire boire du fer en fusion[^1] ».
 
 # Les personnages illustres
 Parmi les personnes qui ont marqué cette bataille, il y a[^1] :
-* dans le camps des [Mandings](/peuple/manding) :
+* dans le camps des [Mandings](/peuple/afrique/nord-ouest/manding) :
 	* [Soundjata Keïta](/personnalite/homme/noble/souverain/empereur/mali/soundjata-keita), le chef de guerre,
 	* [Fakoli Manden](/personnalite/homme/guerrier/empire/mali/fakoli-manden) et les [Somonos](/peuple/afrique/somonos),
 	* [Tiramakan](/personnalite/homme/guerrier/empire/mali/tiramakan) et ses [chasseurs](/histoire/afrique/epoque-medievale#les-chasseurs),
