@@ -20,7 +20,7 @@ En 1229, Soundjata est de retour en sa terre natale. Sa venue a insité les [man
 
 # La bataille de Kirina
 ## Contexte géopolitique
-En Afrique de l'Ouest, au courant de l'année 1204 (époque médiévale Africaine), les [mandings](/peuple/manding) sont menacés par les maures et les markas qui se rapprochent dangereusement du [Mandé](/geographie/afrique/royaume/manden). L'objectif des maures et des markas est d'instaurer la terreur et l'esclavage sur leurs territoires conquis.[^1]
+En Afrique de l'Ouest, vers le début du XIIIème siècle ([époque médiévale Africaine](/histoire/afrique/epoque-medievale)), les [mandings](/peuple/manding) sont menacés par les maures et les markas qui se rapprochent dangereusement du [Mandé](/geographie/afrique/royaume/manden). L'objectif des maures et des markas est d'instaurer la terreur et l'esclavage sur leurs territoires conquis.[^1]
 
 ## Les ambitions de Soundjata
 Voyant le danger arriver, Soundjata Keïta a fait des pieds et des mains pour unifier tout les peuples menacés dans le but d'éradiquer l'ennemi. Son objectif était de faire la guerre à l'esclavage.[^1] Il voyait en cette pratique quelque chose de si néfaste qu'il obligeait les peuples à rallier sa cause sous penne de sanction : « Si vous (les [mandings](/peuple/manding)) refusez ma proposition, je ne tarderai pas à venir vous faire boire du fer en fusion[^1] ».
