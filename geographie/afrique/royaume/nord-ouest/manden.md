@@ -1,4 +1,4 @@
-<!-- TITLE: Manden -->
+<!-- TITLE: Manden (royaume) -->
 <!-- SUBTITLE: Présentation du royaume Manden -->
 
 # Liste de ses souverains
