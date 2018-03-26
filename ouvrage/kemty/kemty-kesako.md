@@ -4,7 +4,7 @@
 Un kémty (kémtyou au pluriel) est une bande dessinée africaine.
 
 # Étymologie
-Le terme a été instauré par le [Djéhouty]() [Biyong](). Il a trouvé cette idée à partir de la plus ancienne des civilisations connue : [Kémèt]() (Égypte pharaonique antique).[^1]
+Le terme a été instauré par le [Djéhouty](/terminologie/titre/djehouty) [Biyong](/personnalite/homme/ecrivain/afrique/ouest/cameroun/djehuty-biyong). Il a trouvé cette idée à partir de la plus ancienne des civilisations connue : [Kémèt]() (Égypte pharaonique antique).[^1]
 
 Le mot Kémty est composé de *Kém* (noir) et de *Ty* (image). *kémty* peut donc se traduire par *image du peuple noire*.[^1]
 
