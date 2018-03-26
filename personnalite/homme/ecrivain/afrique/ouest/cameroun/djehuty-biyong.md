@@ -1,6 +1,8 @@
 <!-- TITLE: Djéhuty Biyong -->
 <!-- SUBTITLE: Présentation du Djéhuty Biyong -->
 
+![Photo Djehuty Biyong](/uploads/photo/photo-djehuty-biyong.png "Photo Djehuty Biyong"){.pagelogo}
+
 Djéhuty Biyong est un auteur de bandes dessinées africaines auquelles il a donné le nom de [kémty](/ouvrage/kemty/kemty-kesako).
 
 # Ses objectifs
