@@ -1,5 +1,5 @@
-<!-- TITLE: Sosso (royaume) -->
-<!-- SUBTITLE: Présentation du royaume Sosso -->
+<!-- TITLE: Sosso (empire) -->
+<!-- SUBTITLE: Présentation de l'empire Sosso -->
 
 # Liste des souverains
 * Le roi [Soumangourou](/personnalite/homme/noble/souverain/empereur/sosso/soumangourou)[^1].
