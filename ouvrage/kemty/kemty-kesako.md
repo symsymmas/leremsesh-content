@@ -1,6 +1,8 @@
 <!-- TITLE: Kémty -->
 <!-- SUBTITLE: Qu'est-ce qu'un Kémty ? -->
 
+![Kamtiou L Histoire Des Africains](/uploads/ouvrage/kamtiou-l-histoire-des-africains.jpg "Kamtiou L Histoire Des Africains"){.pagelogo}
+
 Un kémty (kémtyou au pluriel) est une bande dessinée africaine.
 
 # Étymologie
