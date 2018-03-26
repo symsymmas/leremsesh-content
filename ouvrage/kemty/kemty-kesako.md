@@ -22,6 +22,6 @@ Le mot Kémty est composé de *Kém* (noir) et de *Ty* (image). *kémty* peut do
 * [Kamtiou](/ouvrage/kemty/kamtiou) ; de [Biyong Djehuty](/personnalite/homme/ecrivain/afrique/ouest/cameroun/djehuty-biyong)[^3].
 
 
-[^1]: [Afcm Asso](https://www.youtube.com/channel/UCNsqyzDtr6PDtP-2hL8TBOQ). [KémitaMââT au Salon du Livre 2014 avec Biyong Djehouty](https://www.youtube.com/watch?time_continue=114&v=5Kj776oO8xI). Vidéo Youtube. 25 mars 2014. 
-[^2]: [OM5 Télévision](https://www.youtube.com/channel/UCaLMmJOTQdWCqEkteyDnn4w). [STUDIO 5 DJEHUTY BEYONG fev 2016](https://www.youtube.com/watch?time_continue=268&v=B3JxH7JnGsc). Vidéo Youtube. 7 févr. 2016.
+[^1]: [Afcm Asso](https://www.youtube.com/channel/UCNsqyzDtr6PDtP-2hL8TBOQ). [KémitaMââT au Salon du Livre 2014 avec Biyong Djehouty](https://www.youtube.com/watch?v=5Kj776oO8xI). Vidéo Youtube. 25 mars 2014. 
+[^2]: [OM5 Télévision](https://www.youtube.com/channel/UCaLMmJOTQdWCqEkteyDnn4w). [STUDIO 5 DJEHUTY BEYONG fev 2016](https://www.youtube.com/watch?v=B3JxH7JnGsc). Vidéo Youtube. 7 févr. 2016.
 [^3]: [Djehuty Graphics](http://djehutygraphics.com/). Site Web. 
