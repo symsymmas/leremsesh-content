@@ -1,4 +1,4 @@
-<!-- TITLE: Monts Manding -->
-<!-- SUBTITLE: Présentation des Monts Manding -->
+<!-- TITLE: Monts mandings -->
+<!-- SUBTITLE: Présentation des Monts mandings -->
 
 # Header
