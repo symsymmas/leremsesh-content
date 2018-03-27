@@ -13,4 +13,4 @@ Il possible de voir la liste des pages à cette adresse : [https://leremsesh.co
 
 ## Je souhaite rédiger ou modifier un article
 Pour partager votre savoir, il faut suivre [ce lien](https://partage.leremsesh.com).
-Une fois connecté, vous arriverez à une page d'acceuil qui vous expliquera comment vous y prendre. :)
+Une fois connecté, vous arriverez à une page d'acceuil qui vous expliquera comment vous y prendre.
