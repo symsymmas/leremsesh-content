@@ -11,6 +11,6 @@ Pour commencer, faites une recherche dans la barre ci-dessus. Par exemple, pour 
 ## Je ne sais pas quoi chercher
 Il possible de voir la liste des pages à cette adresse : [https://leremsesh.com/all](https://leremsesh.com/all).
 
-## Je souhaite rédiger ou modifier un article
+## Je souhaite créer ou modifier une page
 Pour partager votre savoir, il faut suivre [ce lien](https://partage.leremsesh.com).
 Une fois connecté, vous arriverez à une page d'acceuil qui vous expliquera comment vous y prendre.
