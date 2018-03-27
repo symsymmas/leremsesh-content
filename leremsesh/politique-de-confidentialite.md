@@ -1,4 +1,4 @@
 <!-- TITLE: Politique de confidentialité -->
 <!-- SUBTITLE: Présentation de la Politique De Confidentialite du site Web Leremsesh.com -->
 
-Nous nous engageons à ne collecter aucun renseignement personnel, d'aucune sorte que ce soit. 
+Nous nous engageons à ne collecter aucun renseignement personnel, d'aucune sorte que ce soit sur http://leremsesh.com. 
