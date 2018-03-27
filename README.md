@@ -4,4 +4,5 @@ Les fichiers sont modifiés sur le *site Web de partage d'informations* puis tra
 
 ## Liste des fichiers refusés dans une « Pull request » :
 * leremsesh/* ;
-* README.md.
+* README.md ;
+* home.md.
