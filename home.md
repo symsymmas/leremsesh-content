@@ -4,7 +4,7 @@
 Bienvenue sur partage.leremsesh.com. Si vous souhaitez partager votre savoir, vous êtes à la bonne adresse.
 
 # Je souhaite créer une nouvelle page
-Pour créer un page, suivre les indications suivantes :
+Pour créer une page, suivre les indications suivantes :
 
 * cliquez sur le bouton violet « CRÉER » qui est en haut à droite ;
 * la bulle suivante finit par apparaitre :
