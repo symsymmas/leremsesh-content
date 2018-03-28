@@ -6,7 +6,16 @@ Bienvenue sur partage.leremsesh.com. Si vous souhaitez partager votre savoir, vo
 # Comment ça fonctionne ?
 ## Je souhaite créer une nouvelle page
 Pour créer un page, suivre les indications suivantes :
-* cliquez sur le bouton « Créer » qui est en haut à droite ;
+* cliquez sur le bouton violet « Créer » qui est en haut à droite ;
+* la bulle suivante finit par apparaitre :
+
+![Creer Page](/uploads/interface-web-leremsesh/creer-page.png "Creer Page"){.align-center}
+
+* saisissez le nom de la page que vous souhaitez créer, puis cliquez sur le bouton bleu « CRÉER » ;
+* vous êtes redirigé vers une page comme la suivante :
+
+
+
 * saisissez l'information que vous souhaitez partager ;
 * une fois que vous avez fini d'écrire, cliquez sur le bouton « Sauvegarder » qui se trouvera en haut à droite.
 
