@@ -40,7 +40,7 @@ Pour partager votre savoir, il faut suivre les étapes suivantes :
 
 ![Editer Et Creer](/uploads/interface-web-leremsesh/editer-et-creer.png "Editer Et Creer"){.align-center}
 
-# Par quel procédé vérifiez vous les informations que les gens partagent ?
+# Comment faites-vous pour vérifier la qualité des informations ?
 Tout le monde peut partager son savoir sur leremsesh.com ; ceci étant, afin d'assurer la véracité des informations publiées, leremsesh suit une procédure stricte quant à leurs diffusions.
 
 ## Quelle est la procédure appliquée pour que les pages que 
