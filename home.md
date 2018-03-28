@@ -1,12 +1,12 @@
 <!-- TITLE: Page d'acceuil -->
 <!-- SUBTITLE: Quelques explications avant de démarrer -->
 
-Bienvenue sur partage.leremsesh.com. Si vous souhaitez partager votre savoir, vous êtes à la bonne adresse. :)
+Bienvenue sur partage.leremsesh.com. Si vous souhaitez partager votre savoir, vous êtes à la bonne adresse.
 
 # Je souhaite créer une nouvelle page
 Pour créer un page, suivre les indications suivantes :
 
-* cliquez sur le bouton violet « Créer » qui est en haut à droite ;
+* cliquez sur le bouton violet « CRÉER » qui est en haut à droite ;
 * la bulle suivante finit par apparaitre :
 
 ![Creer Page](/uploads/interface-web-leremsesh/creer-page.png "Creer Page"){.align-center}
@@ -17,11 +17,11 @@ Pour créer un page, suivre les indications suivantes :
 ![Creer Un Nouveau Document](/uploads/interface-web-leremsesh/creer-un-nouveau-document.png "Creer Un Nouveau Document"){.align-center}
 
 * saisissez y les informations que vous souhaitez partager ;
-* une fois que vous avez fini d'écrire, cliquez sur le bouton « Sauvegarder » qui se trouve en haut à droite.
+* une fois que vous avez fini d'écrire, cliquez sur le bouton « SAUVEGARDER » qui se trouve en haut à droite.
 
 **Vous avez réussi à créer votre page !**
 
-Une fois que l'équipe leremsesh aura analysé, filtré et trié les informations que vous avez transmis, celles-ci pourront être visibles sur leremsesh.com.
+Une fois que l'équipe leremsesh aura analysé, filtré et trié les informations que vous avez transmises, celles-ci pourront être visibles sur leremsesh.com.
 
 # Je souhaite modifier une page
 Si vous avez trouvé une page dont les informations sont manquantes ou incorrectes :
@@ -34,7 +34,11 @@ Si vous avez trouvé une page dont les informations sont manquantes ou incorrect
 * la page avec les dernières mises à jour s'affiche ;
 * vérifiez que quelqu'un n'a pas déjà fait la/les modification(s) que vous souhaitez faire ;
 * si la modification n'a toujours pas été fait, cliquez sur le bouton violet « ÉDITER » qui est en haut à droite ;
-* saisissez les informations ;
+* faites vos modifications puis cliquez sur le bouton « SAUVEGARDER » qui est situé en haut à droite ;
+
+**Vous avez terminé !**
+
+Une fois que l'équipe leremsesh aura analysé, filtré et trié les modifications que vous avez apportées, celles-ci seront transmises, puis visibles sur leremesesh.com.
 
 # Comment faites-vous pour vérifier la qualité des informations ?
 Tout le monde peut partager son savoir sur leremsesh.com ; ceci étant, afin d'assurer la véracité des informations, l'équipe leremsesh suit une procédure stricte.
