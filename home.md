@@ -4,10 +4,12 @@
 Bienvenue sur partage.leremsesh.com. Si vous souhaitez partager votre savoir, vous êtes à la bonne adresse. :)
 
 # Comment ça fonctionne ?
-## Je souhaite faire une recherche
+## Je souhaite créer une nouvelle page
+Vous avez une information que personne n'a transmis pour l'instant ?
+Cliquez sur le bouton « Créer
 Pour commencer, faites une recherche dans la barre ci-dessus. Par exemple, pour savoir ce que c'est que leremsesh, saisissez « leremsesh », puis cliquez sur l'une des propositions.
 
-## Je ne sais pas quoi chercher
+## Je souhaite modifier une page
 Il possible de voir la liste des pages à cette adresse : [https://leremsesh.com/all](https://leremsesh.com/all).
 
 ## Je souhaite rédiger ou modifier un article
