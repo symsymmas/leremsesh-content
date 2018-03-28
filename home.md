@@ -23,6 +23,19 @@ Pour créer un page, suivre les indications suivantes :
 
 Une fois que l'équipe leremsesh aura analysé, filtré et trié les informations que vous avez transmis, celles-ci pourront être visibles sur leremsesh.com.
 
+# Je souhaite modifier une page
+Si vous avez trouvé une page dont les informations sont manquantes ou incorrectes :
+
+* trouvez cette page via la barre de recherche ci-dessus ;
+
+![Recherche D Une Page](/uploads/interface-web-leremsesh/recherche-d-une-page.png "Recherche D Une Page"){.align-center}
+
+* cliquez sur la page en question pour y accéder ;
+* la page avec les dernières mises à jour s'affiche ;
+* vérifiez que quelqu'un n'a pas déjà fait la/les modification(s) que vous souhaitez faire ;
+* si la modification n'a toujours pas été fait, cliquez sur le bouton violet « ÉDITER » qui est en haut à droite ;
+* saisissez les informations ;
+
 # Comment faites-vous pour vérifier la qualité des informations ?
 Tout le monde peut partager son savoir sur leremsesh.com ; ceci étant, afin d'assurer la véracité des informations, l'équipe leremsesh suit une procédure stricte.
 
