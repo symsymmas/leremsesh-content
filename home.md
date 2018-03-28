@@ -5,9 +5,10 @@ Bienvenue sur partage.leremsesh.com. Si vous souhaitez partager votre savoir, vo
 
 # Comment ça fonctionne ?
 ## Je souhaite créer une nouvelle page
-Vous avez une information que personne n'a transmis pour l'instant ?
-Cliquez sur le bouton « Créer
-Pour commencer, faites une recherche dans la barre ci-dessus. Par exemple, pour savoir ce que c'est que leremsesh, saisissez « leremsesh », puis cliquez sur l'une des propositions.
+Pour créer un page, suivre les indications suivantes :
+* cliquez sur le bouton « Créer » qui est en haut à droite ;
+* saisissez l'information que vous souhaitez partager ;
+* une fois que vous avez fini d'écrire, cliquez sur le bouton « Sauvegarder » qui se trouvera en haut à droite.
 
 ## Je souhaite modifier une page
 Il possible de voir la liste des pages à cette adresse : [https://leremsesh.com/all](https://leremsesh.com/all).
