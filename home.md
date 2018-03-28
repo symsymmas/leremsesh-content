@@ -45,8 +45,8 @@ Tout le monde peut partager son savoir sur leremsesh.com ; ceci étant, afin d'
 
 ## Quelle est cette pocédure ?
 Les pages publiées sur ce site (partage.leremsesh.com) sont récupérées par l'équipe leremsesh, puis analysées.
-Après analyse, nous filtrons plusieurs fois les informations avant de les partager au grand public.
+Après analyse, les informations sont filtrées plusieurs fois avant d'être partagées au grand public sur leremsesh.com.
 
-## Comment sont filtrées les informations
+## Quelle est le filtrage appliqué ?
 Leremsesh.com étant un Wiki [afrocentré](http://leremsesh.com/ideologie/afrocentricite), le premier filtre consiste à ne garder que les informations pouvant être qualifiées comme tel.
 Ensuite, ces informations sont triées et/ou filtrées selon leurs sources.
