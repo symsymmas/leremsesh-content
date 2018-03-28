@@ -41,12 +41,12 @@ Pour partager votre savoir, il faut suivre les étapes suivantes :
 ![Editer Et Creer](/uploads/interface-web-leremsesh/editer-et-creer.png "Editer Et Creer"){.align-center}
 
 # Comment faites-vous pour vérifier la qualité des informations ?
-Tout le monde peut partager son savoir sur leremsesh.com ; ceci étant, afin d'assurer la véracité des informations publiées, leremsesh suit une procédure stricte quant à leurs diffusions.
+Tout le monde peut partager son savoir sur leremsesh.com ; ceci étant, afin d'assurer la véracité des informations, l'équipe leremsesh suit une procédure stricte.
 
-## Quelle est la procédure appliquée pour que les pages que 
-Les pages publiées sur partage.leremsesh.com sont récoltées puis analysées. Suite à cette analyse, notre équipe filtre les informations 
+## Quelle est cette pocédure ?
+Les pages publiées sur ce site (partage.leremsesh.com) sont récupérées par l'équipe leremsesh, puis analysées.
+Après analyse, nous filtrons plusieurs fois les informations avant de les partager au grand public.
 
 ## Comment sont filtrées les informations
 Leremsesh.com étant un Wiki [afrocentré](http://leremsesh.com/ideologie/afrocentricite), le premier filtre consiste à ne garder que les informations pouvant être qualifiées comme tel.
-Ensuite, ces informations sont filtrées selon la fiabilité de leurs sources.
-
+Ensuite, ces informations sont triées et/ou filtrées selon leurs sources.
