@@ -11,15 +11,15 @@ Pour créer un page, suivre les indications suivantes :
 
 ![Creer Page](/uploads/interface-web-leremsesh/creer-page.png "Creer Page"){.align-center}
 
-* saisissez le nom de la page que vous souhaitez créer, puis cliquez sur le bouton bleu « CRÉER » ;
+* saisissez y le nom de la page que vous souhaitez créer, puis cliquez sur le bouton bleu « CRÉER » ;
 * vous êtes redirigé vers une page comme la suivante :
 
 ![Creer Un Nouveau Document](/uploads/interface-web-leremsesh/creer-un-nouveau-document.png "Creer Un Nouveau Document"){.align-center}
 
-* saisissez les informations que vous souhaitez partager ;
+* saisissez y les informations que vous souhaitez partager ;
 * une fois que vous avez fini d'écrire, cliquez sur le bouton « Sauvegarder » qui se trouve en haut à droite.
 
-**Vous avez réussi à créer votre pages !**
+**Vous avez réussi à créer votre page !**
 
 Une fois que l'équipe leremsesh aura analysé, filtré et trié les informations que vous avez transmis, celles-ci pourront être visibles sur leremsesh.com.
 
