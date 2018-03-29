@@ -1,7 +1,7 @@
 <!-- TITLE: Page d'acceuil -->
 
 # Bienvenue
-Bienvenue sur leremsesh.com, l'encyclopédie afrocentrée sous forme de wiki !
+Bienvenue sur *LEREMSESH*, l'encyclopédie afrocentrée sous forme de wiki !
 
 ![Logo Leremsesh Com](/uploads/logo/logo-leremsesh-com.png "Logo Leremsesh Com"){.align-center}
 # Comment ça fonctionne ?
