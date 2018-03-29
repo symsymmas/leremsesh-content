@@ -49,17 +49,13 @@ Le droit d'opposition s'entend comme étant la possiblité offerte aux internaut
 Le droit de retrait s'entend comme étant la possiblité offerte aux internautes de demander à ce que leurs renseignements personnels ne figurent plus, par exemple, dans une liste de diffusion.
 
 Pour pouvoir exercer ces droits, vous pouvez :
-Code postal : 62 rue de la Pilate, Saint-Jacques-de-la-Lande 35136
 Courriel : kitemona@outlook.fr
-Téléphone : 0695859510
 Section du site web : https://partage.leremsesh.com/
 Droit d'accès
 
 Nous nous engageons à reconnaître un droit d'accès et de rectification aux personnes concernées désireuses de consulter, modifier, voire radier les informations les concernant.
 L'exercice de ce droit se fera :
-Code postal : 62 rue de la Pilate, Saint-jacques-de-la-Lande 35136
 Courriel : kitemona@outlook.fr
-Téléphone : 0695859510
 Section du site web : https://partage.leremsesh.com/
 Sécurité
 
