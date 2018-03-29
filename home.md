@@ -1,10 +1,10 @@
 <!-- TITLE: Page d'acceuil -->
 <!-- SUBTITLE: Quelques explications avant de démarrer -->
 
-Bienvenue sur partage.leremsesh.com. Si vous souhaitez partager votre savoir, vous êtes à la bonne adresse.
+Bienvenue sur *PARTAGE.LEREMSESH*. Si vous souhaitez partager votre savoir, vous êtes à la bonne adresse.
 
 # Je souhaite créer une nouvelle page
-Pour créer une page, suivre les indications suivantes :
+Pour créer une page, suivez les indications suivantes :
 
 * cliquez sur le bouton violet « CRÉER » qui est en haut à droite ;
 * la bulle suivante finit par apparaitre :
@@ -21,12 +21,12 @@ Pour créer une page, suivre les indications suivantes :
 
 **Vous avez réussi à créer votre page !**
 
-Une fois que l'équipe leremsesh aura analysé, filtré et trié les informations que vous avez transmises, celles-ci pourront être visibles sur leremsesh.com.
+Une fois que l'équipe leremsesh aura analysé, filtré et trié les informations que vous avez transmises, celles-ci seront visibles sur leremsesh.com.
 
 # Je souhaite modifier une page
 Si vous avez trouvé une page dont les informations sont manquantes ou incorrectes :
 
-* trouvez cette page via la barre de recherche ci-dessus ;
+* retrouvez cette page via la barre de recherche ci-dessus ;
 
 ![Recherche D Une Page](/uploads/interface-web-leremsesh/recherche-d-une-page.png "Recherche D Une Page"){.align-center}
 
@@ -38,15 +38,15 @@ Si vous avez trouvé une page dont les informations sont manquantes ou incorrect
 
 **Vous avez terminé !**
 
-Une fois que l'équipe leremsesh aura analysé, filtré et trié les modifications que vous avez apportées, celles-ci seront transmises, puis visibles sur leremesesh.com.
+Une fois que l'équipe leremsesh aura analysé, filtré et trié les informations que vous avez transmises, celles-ci seront visibles sur leremsesh.com.
 
 # Comment faites-vous pour vérifier la qualité des informations ?
 Tout le monde peut partager son savoir sur leremsesh.com ; ceci étant, afin d'assurer la véracité des informations, l'équipe leremsesh suit une procédure stricte.
 
 ## Quelle est cette pocédure ?
-Les pages publiées sur ce site (partage.leremsesh.com) sont récupérées par l'équipe leremsesh, puis analysées.
+Les pages publiées sur le site *PARTAGE.LEREMSESH* sont récupérées par l'équipe leremsesh, puis analysées.
 Après analyse, les informations sont filtrées plusieurs fois avant d'être partagées au grand public sur leremsesh.com.
 
 ## Quelle est le filtrage appliqué ?
-Leremsesh.com étant une encyclopédie [afrocentré](http://leremsesh.com/ideologie/afrocentricite) sous forme de [Wiki](https://fr.wikipedia.org/wiki/Wiki), le premier filtre consiste à ne garder que les informations pouvant être qualifiées comme tel.
-Ensuite, ces informations sont triées et/ou filtrées selon leurs sources.
+Leremsesh.com étant une encyclopédie [afrocentrée](http://leremsesh.com/ideologie/afrocentricite) sous forme de [Wiki](https://fr.wikipedia.org/wiki/Wiki), le premier filtre consiste à ne garder que les informations pouvant être qualifiées comme tel.
+Ensuite, ces informations sont triées et filtrées selon plusieurs critères (ex. : les sources).
