@@ -1,4 +1,4 @@
-<!-- TITLE: Jean Jacques Dessalines -->
-<!-- SUBTITLE: A quick summary of Jean Jacques Dessalines -->
+<!-- TITLE: Jean-Jacques Dessalines -->
+<!-- SUBTITLE: Présentation de Jean-Jacques Dessalines -->
 
 # Header
