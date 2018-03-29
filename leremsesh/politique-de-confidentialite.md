@@ -1,64 +1,74 @@
 <!-- TITLE: Politique de confidentialité -->
 <!-- SUBTITLE: Présentation de la Politique De Confidentialite du site Web Leremsesh.com -->
 
-Ci-dessous la politique de confidentialité du site Web leremsesh.com.
+Introduction
+Devant le développement des nouveaux outils de communication, il est nécessaire de porter une attention particulière à la protection de la vie privée. C'est pourquoi, nous nous engageons à respecter la confidentialité des renseignements personnels que nous collectons.
+Collecte des renseignements personnels
 
-# Résumé
-Nous estimons que vous ne devez pas être obligé de fournir des informations personnelles pour lire le contenu d'une page Web. Dès lors, vous devez être en capacité de créer un compte sans avoir à fournir de nom réel ou d’adresse électronique.
+Nous collectons les renseignements suivants :
 
-Nous nous engageons à :
-* décrire, dans cette Politique de confidentialité, comment vos informations sont susceptibles d’être utilisées ou communiquées ;
-* mettre en œuvre des mesures raisonnables pour assurer la sécurité de vos informations personnelles ;
-* ne jamais vendre vos coordonnées et ne jamais les communiquer à des tierces parties à des fins mercantiles ;
-* ne communiquer vos informations personnelles que dans certaines circonstances, comme l'identification des utilisateurs qui éditent le contenu d'une page.
+    Nom
+    Prénom
+    Adresse électronique
 
-Soyez conscient que :
-* tout contenu que vous ajoutez ou toute modification que vous apportez à un site Wikimédia est accessible à tous de manière permanente, publique ;
-* notre communauté d’éditeurs et de contributeurs bénévoles est un organe autoréglementé ;
-* pour la protection de leremsesh.com et des autres utilisateurs, si vous n’êtes pas d’accord avec la présente Politique de confidentialité, vous n’êtes pas autorisé à utiliser le site leremsesh.com.
+Les renseignements personnels que nous collectons sont recueillis au travers de formulaires et grâce à l'interactivité établie entre vous et notre site Web. Nous utilisons également, comme indiqué dans la section suivante, des fichiers témoins et/ou journaux pour réunir des informations vous concernant.
+Formulaires  et interactivité:
 
-# Introduction
-## Bienvenue
-La présente Politique de confidentialité explique comment nous recueillons, utilisons et partageons les informations que nous recevons de vous à travers l’utilisation que vous faites de leremsesh.com. Il est essentiel de comprendre qu’en utilisant leremsesh.com vous autorisez la collecte, le transfert, le traitement, l’enregistrement, la divulgation et l’utilisation de vos informations comme décrit dans la présente Politique de confidentialité. Cela signifie qu’il est important de lire cette Politique attentivement.
+Vos renseignements personnels sont collectés par le biais de formulaire, à savoir :
 
-Nous estimons que vous ne devriez pas avoir à fournir des informations personnelles pour accéder à la connaissance. Par exemple, vous n’avez pas à fournir votre véritable nom, votre adresse ou votre date de naissance pour créer un compte standard ou apporter un contenu aux Sites Wikimédia.
+    services Google ou Github
 
-Nous ne vendons ni ne louons vos informations privées et nous ne les utilisons pas non plus pour vous vendre quoi que ce soit. Nous les utilisons pour identifier les utilisateurs qui éditent ou créent des pages.
+Nous utilisons les renseignements ainsi collectés pour les finalités suivantes :
 
-## Définitions
-Pour que vous puissiez comprendre comment et pourquoi vos informations personnelles sont recueillies et utilisées, nous tentons d'utiliser dans cette Politique le langage courant plutôt que des termes formels. Pour vous aider à comprendre certains mots-clés, voici quelques traductions :
+    identification des créations et modifications de page
 
-* « leremsesh » / « leremsesh.com » / « nous » / « notre » / « nos » : Organisme Leremsesh qui exploite le site leremsesh.com ;
-* « site lermesesh.com » / « nos services » : Les services Web fournis par Lermesesh.com ; à l’exception toutefois des sites et services énoncés à la section « Ce que cette Politique de confidentialité ne couvre pas », ci-dessous.
-* « vous » / « votre » / « vos » / « moi » : Vous, que vous soyez une personne, un groupe ou une organisation, et que vous utilisiez le site Web leremsesh.com ou nos services en votre nom personnel ou pour le compte de quelqu’un d’autre.
-* « cette Politique » / « la présente Politique » / « cette Politique de confidentialité » : Ce document intitulé « Politique de confidentialité de la Fondation Wikimédia »
-* « contributions » : Le contenu que vous ajoutez ou les changements que vous apportez à l’un des Sites Wikimédia.
-* « informations personnelles » : Les informations que vous nous fournissez ou que nous recueillons auprès de vous et qui peuvent être utilisées pour vous identifier. Pour plus de clarté, même si nous ne recueillons pas tous les types d’informations suivants, nous considérons au moins celles-ci comme des « informations personnelles » si elles sont par ailleurs non publiques mais pourraient être utilisées pour vous identifier :
-  1. vos nom véritable, adresses, numéros de téléphone, adresses électroniques, mots de passe, numéros d’identification sur une pièce d’identité officielle, adresses IP, informations sur l’agent utilisateur (user-agent) ou vos numéros de carte bancaire ou de crédit ; et
-  2. lorsqu’associé à un des éléments de la sous-section (a), toute donnée sensible telle que la date de naissance, le genre, l’orientation sexuelle, l’origine raciale, nationale ou ethnique, le statut marital ou familial, les conditions médicales ou de handicaps, l’affiliation politique ou la religion ; et
-  3. tout élément des sous-sections (a) ou (b) lorsqu’il est associé à votre compte utilisateur.
-* « tiers » / « tierces parties » : Ce sont les personnes, entités, sites Internet, services, produits et applications que la Fondation Wikimédia ne contrôle pas, ne gère pas et n’exploite pas elle-même. Cela inclut les autres utilisateurs de Wikimédia et les organisations et groupes indépendants qui aident à promouvoir le mouvement Wikimédia tels que les chapitres Wikimédia, organisations thématiques et les groupes d’utilisateurs, ainsi que leurs employés, directeurs, dirigeants et sous-traitants et les bénéficiaires de subventions.
+Vos renseignements sont également collectés par le biais de l'interactivité pouvant s'établir entre vous et notre site Web et ce, de la façon suivante:
 
-Nous sommes conscients que seuls certains d’entre vous sont familiers avec les termes techniques tels que « pixels de suivi » et « cookies » utilisés dans notre Politique de confidentialité. Que vous soyez un novice sur la terminologie des données privées ou bien un expert qui souhaite juste se rafraîchir la mémoire, notre [Glossaire de termes clés](/politique-de-confidentialite#glossaire) pourrait vous aider.
+    identification et communication de qui a fait quoi, sur le site LEREMSESH
 
-## Ce que cette Politique de confidentialité couvre et ne couvre pas
-Sauf exception expliquée ci-dessous, cette Politique de confidentialité s’applique au recueil et au traitement que nous faisons avec vos informations lors de votre utilisation du site Web Leremsesh.com. Cette Politique s’applique également aux informations que nous recevons de nos partenaires ou d’autres tierces parties. Pour mieux comprendre ce que couvre cette Politique de confidentialité, veuillez lire ce qui suit.
+Nous utilisons les renseignements ainsi collectés pour les finalités suivantes :
 
-### Exemples d’éléments couverts par la présente Politique de confidentialité
-Pour des raisons de clarté, la présente Politique de confidentialité couvre, quelle qu’en soit leur langue :
-* Tous nos sites (fr.leremsesh.com, en.leremsesh.com, etc.), y compris les pages utilisateur, les pages de discussion et les fils d’actualité.
-* Nos blogues (sauf si nous avons prévu une politique distincte pour ces services).
-* Nos applications.
-* Les courriers électroniques, SMS et notifications que nous envoyons ou que vous nous envoyez.
+    création ou modification de page
 
-### Plus de détails sur ce que cette Politique de confidentialité ne couvre pas
-Cette section fait partie de la Politique de confidentialité et a pour objet d’expliquer de manière détaillée les situations qui ne sont pas couvertes par notre Politique de confidentialité.
+Fichiers journaux et témoins
 
-### Sites leremsesh ayant des politiques alternatives
-Certains sites web de la Fondation Wikimédia ont des politiques alternatives de confidentialité ou des réserves qui diffèrent de la présente politique de confidentialité.
-Ces sites web et d’autres sites semblables fourniront un lien vers leur politique de confidentialité (si elle s’applique seule) ou vers des explications sur leurs réserves différentes (si la politique du site est basée sur la présente politique de confidentialité).
+Nous recueillons certaines informations par le biais de fichiers journaux (log file) et de fichiers témoins (cookies). Il s'agit principalement des informations suivantes :
 
-### Membres de la communauté
-leremsesh.com est le fruit de travaux collaboratifs maintenus et mis à jours par sa communauté. Certains membres de la communauté ont accès à certaines informations non publiques et l’utilisation de ces informations peuvent ne pas être couvertes par la présente politique de confidentialité. Par exemple, nos administrateurs peuvent avoir accès aux informations non publiques. Ils sont contraints de suivre notre Politique d’accès aux données données publiques.
+    nom utilisateur
 
-# Glossaire
+
+Le recours à de tels fichiers nous permet :
+
+    identification et communication des création ou modification de page, sur le site LEREMSESH
+
+Droit d'opposition et de retrait
+
+Nous nous engageons à vous offrir un droit d'opposition et de retrait quant à vos renseignements personnels.
+Le droit d'opposition s'entend comme étant la possiblité offerte aux internautes de refuser que leurs renseignements personnels soient utilisées à certaines fins mentionnées lors de la collecte.
+
+Le droit de retrait s'entend comme étant la possiblité offerte aux internautes de demander à ce que leurs renseignements personnels ne figurent plus, par exemple, dans une liste de diffusion.
+
+Pour pouvoir exercer ces droits, vous pouvez :
+Code postal : 62 rue de la Pilate, Saint-Jacques-de-la-Lande 35136
+Courriel : kitemona@outlook.fr
+Téléphone : 0695859510
+Section du site web : https://partage.leremsesh.com/
+Droit d'accès
+
+Nous nous engageons à reconnaître un droit d'accès et de rectification aux personnes concernées désireuses de consulter, modifier, voire radier les informations les concernant.
+L'exercice de ce droit se fera :
+Code postal : 62 rue de la Pilate, Saint-jacques-de-la-Lande 35136
+Courriel : kitemona@outlook.fr
+Téléphone : 0695859510
+Section du site web : https://partage.leremsesh.com/
+Sécurité
+
+Les renseignements personnels que nous collectons sont conservés dans un environnement sécurisé. Les personnes travaillant pour nous sont tenues de respecter la confidentialité de vos informations.
+Pour assurer la sécurité de vos renseignements personnels, nous avons recours aux mesures suivantes :
+
+    Protocole SSL (Secure Sockets Layer)
+    Sauvegarde informatique
+    Identifiant / mot de passe
+    Pare-feu (Firewalls)
+
+Nous nous engageons à maintenir un haut degré de confidentialité en intégrant les dernières innovations technologiques permettant d'assurer la confidentialité de vos transactions. Toutefois, comme aucun mécanisme n'offre une sécurité maximale, une part de risque est toujours présente lorsque l'on utilise Internet pour transmettre des renseignements personnels. 
