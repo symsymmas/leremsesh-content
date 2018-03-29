@@ -1,4 +1,4 @@
-<!-- TITLE: Tousaint Louverture -->
-<!-- SUBTITLE: Présentation de Tousaint Louverture -->
+<!-- TITLE: Tousaint LOUVERTURE -->
+<!-- SUBTITLE: Présentation de Tousaint LOUVERTURE -->
 
 # Header
