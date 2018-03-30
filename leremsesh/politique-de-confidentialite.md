@@ -1,7 +1,7 @@
 <!-- TITLE: Politique de confidentialité -->
 <!-- SUBTITLE: Présentation de la Politique De Confidentialite du site Web Leremsesh.com -->
 
-Introduction
+# Introduction
 Devant le développement des nouveaux outils de communication, il est nécessaire de porter une attention particulière à la protection de la vie privée. C'est pourquoi, nous nous engageons à respecter la confidentialité des renseignements personnels que nous collectons.
 Collecte des renseignements personnels
 
