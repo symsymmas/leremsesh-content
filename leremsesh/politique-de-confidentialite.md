@@ -5,7 +5,7 @@
 Devant le développement des nouveaux outils de communication, il est nécessaire de porter une attention particulière à la protection de la vie privée. C'est pourquoi, nous nous engageons à respecter la confidentialité des renseignements personnels que nous collectons.
 
 # Collecte des renseignements personnels
-Nous collectons certains renseignements propres au compte que vous utilisez pour vous connecter. Ces informations sont les suivantes :
+Nous collectons certains renseignements propres au compte que vous utilisez pour vous connecter. Ces informations sont les suivantes :
 * Nom/Prénom ou pseudonyme ;
 * Adresse électronique.
 
@@ -31,7 +31,7 @@ L'exercice de ce droit se fait par *kitemona arrobase outlook point fr*.
 
 # Sécurité
 Les renseignements personnels que nous collectons sont conservés dans un environnement sécurisé. Les personnes travaillant pour nous sont tenues de respecter la confidentialité de vos informations.
-Pour assurer la sécurité de vos renseignements personnels, nous avons recours aux mesures suivantes :
+Pour assurer la sécurité de vos renseignements personnels, nous avons recours aux mesures suivantes :
 * Protocole SSL (Secure Sockets Layer) ;
 * Sauvegarde informatique ;
 *  Identifiant / mot de passe ;
