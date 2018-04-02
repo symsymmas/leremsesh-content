@@ -19,7 +19,7 @@ Le [nétèr](/spiritualite/terminologie/afrique/nord-est/kmt/ntr) (la divinité 
 * [Nout](/spiritualite/divinite/projection/afrique/nord-est/kmt/nout), la voute céleste ;
 * [Geb](/spiritualite/divinite/projection/afrique/nord-est/kmt/geb), la terre ;
 * [Aset](/spiritualite/divinite/projection/afrique/nord-est/kmt/aset), donommée [Isis](/spiritualite/divinite/projection/afrique/nord-est/kmt/aset) par les Grecs de l'antiquité ;
-* [Oussirè](/spiritualite/divinite/projection/afrique/nord-est/kmt/oussire), dénommé [Osiris](/spiritualite/divinite/projection/afrique/nord-est/kmt/ousire) par les Grecs de l'antiquité.
+* [Oussirè](/spiritualite/divinite/projection/afrique/nord-est/kmt/oussire), dénommé [Osiris](/spiritualite/divinite/projection/afrique/nord-est/kmt/oussire) par les Grecs de l'antiquité.
 
 De plus, ce livre contient certains symboles propres à la culture africaine, par exemple :
 * la croix [Ankh](/spiritualite/symbole/afrique/nord-est/kmt/ankh) ;
