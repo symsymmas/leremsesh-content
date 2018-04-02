@@ -1,4 +1,4 @@
-<!-- TITLE: Ossiré -->
+<!-- TITLE: Oussiré -->
 <!-- SUBTITLE: Présentation d'Oussiré -->
 
 # Header
