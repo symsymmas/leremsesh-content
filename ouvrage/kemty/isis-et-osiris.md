@@ -1,7 +1,7 @@
 <!-- TITLE: Isis & Osiris -->
 <!-- SUBTITLE: Présentation du kémty Isis & Osiris -->
 
-Isis & Osiris est un [kémty](/ouvrage/kemty/kemty-kesako) (bande dessinée africaine) créé et illustré par [Djéhuty Biyong](/personnalite/homme/ecrivain/afrique/ouest/cameroun/djehuty-biyong).[^1]
+Isis & Osiris est un [kémty](/ouvrage/kemty/kemty-kesako) (nom des bandes dessinées africaines) créé et illustré par [Djéhuty Biyong](/personnalite/homme/ecrivain/afrique/ouest/pays/cameroun/djehuty-biyong).[^1]
 
 Cet ouvrage porte sur les origines de l'univers et de l'humanité, selon les philosophes de l'Égypte pharaonique antique ([Kémèt](/geographie/empire/afrique/nord-est/kmt)).[^1]
 
