@@ -1,7 +1,7 @@
 <!-- TITLE: Khépèr -->
 <!-- SUBTITLE: Présentation de Khépèr -->
 
-Khépèr le nom de la loi de la transformation dans la civilisation égyptienne antique ([Kémèt]()).[^1]
+Khépèr le nom de la loi de la transformation dans la civilisation égyptienne antique ([Kémèt](/geographie/empire/afrique/nord-est/kmt)).[^1]
 
 # Adaptations scienifiques
 Couplé au [Noun](/spiritualite/concept/afrique/nord-est/kmt/noun), Khépèr renvoie à la théorie du *Big Bang*.[^1]
