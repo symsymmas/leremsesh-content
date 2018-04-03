@@ -4,7 +4,7 @@
 Amon est l'entité créatrice. C'est elle qui crée tout ce qui existe par le verbe.[^1]
 
 # Origines
-Le [Noun]() qui contenait la loi de la transformation ([Khépèr]()), pris conscience de lui-même et transforma une partie de lui-même en Amon Ra, l'entité créatrice de toute chose.[^1]
+Le [Noun](/spiritualite/concept/afrique/nord-est/kmt/noun) qui contenait la loi de la transformation ([Khépèr](/spiritualite/concept/afrique/nord-est/kmt/kheper)), pris conscience de lui-même et transforma une partie de lui-même en Amon Ra, l'entité créatrice de toute chose.[^1]
 C'est à partir d'Amon Ra que le Noun a pu créer l'univers dans lequel nous vivons.[^1]
 
 # Adaptations religieuses
