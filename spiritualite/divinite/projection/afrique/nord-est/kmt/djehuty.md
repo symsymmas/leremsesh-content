@@ -1,7 +1,7 @@
 <!-- TITLE: Djehuty / Thot -->
 <!-- SUBTITLE: Présentation de Djehuty -->
 
-Dans l'Égypte pharaonique antique ([Kémèt]()), Djehuty est l'entité qui enseigna l'art, les sciences et l'[écriture]().[^1]
+Dans l'Égypte pharaonique antique ([Kémèt](/geographie/empire/afrique/nord-est/kmt)), Djehuty est l'entité qui enseigna l'art, les sciences et l'[écriture](/ecriture/hieroglyphe/mdw-ntr).[^1]
 
 Djehuty (prononcé *djéhouty*) est l'entité dénommée *Thot* par les Grècs de l'antiquité.
 
