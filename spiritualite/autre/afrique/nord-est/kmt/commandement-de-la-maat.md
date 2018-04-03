@@ -50,4 +50,4 @@ Voici la liste des commandements de la Maât[^1][^2] :
 
 
 [^1]: [Biyong Djehuty](/personnalite/homme/ecrivain/afrique/ouest/pays/cameroun/djehuty-biyong). [Isis & Osiris](/ouvrage/kemty/isis-et-osiris). Livre. Édition [Djehuty Graphics](/organisme/djehuty-graphics), 1er trimestre 2014. p.2-4 ; p.34-35. © 2013 Biyong Djehuty ; Tous droits réservés. ISBN 978-2-9545538-8-7
-[^2]: [Dombi FAKOLY](). [L'Origine Négro-Africaine Des Religions Dites Révélées]()
+[^2]: [Dombi FAKOLY](/personnalite/homme/polymathe/afrique/nord-ouest/pays/mali/doumbi-fakoli). [L'Origine Négro-Africaine Des Religions Dites Révélées](/ouvrage/a-classer/l-origine-negro-africaine-des-religions-dites-revelees)
