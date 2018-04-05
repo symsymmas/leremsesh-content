@@ -36,4 +36,4 @@ Voici une liste non exhaustive des ouvrages réalisés par Doumbi-Fakoly[^1] :
 * [La Bible en procès](/ouvrage/a-classer/la-bible-en-proces).
 
 
-[^1]: [Doumbi-Fakoly](). [Marcus Garvey, Expliqué aux adolescents](). Livre. France ; Édition MENAIBUC ; 2ème trimestre 2009. ISBN : 978-2-35349-102-5. 
+[^1]: Doumbi-Fakoly. [Marcus Garvey, Expliqué aux adolescents](/ouvrage/documentaire/marcus-garvey-explique-aux-adolescents). Livre. France ; Édition MENAIBUC ; 2ème trimestre 2009. ISBN : 978-2-35349-102-5. 
