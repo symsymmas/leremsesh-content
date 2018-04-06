@@ -1,4 +1,4 @@
-<!-- TITLE: menaibuc -->
-<!-- SUBTITLE: A quick summary of Menaibuc -->
+<!-- TITLE: MENAIBUC -->
+<!-- SUBTITLE: Présentation de la maison d'édition MENAIBUC -->
 
 # Header
