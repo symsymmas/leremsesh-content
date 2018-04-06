@@ -1,4 +1,4 @@
-<!-- TITLE: Îles de la Caraïbe / Les Antilles -->
+<!-- TITLE: Caraïbes (îles) / Antilles -->
 <!-- SUBTITLE: Présentation des îles de la Caraïbe -->
 
 Les îles de la Caraïbes forment une archipelle située à l'Est de l'Amérique Centrale.
