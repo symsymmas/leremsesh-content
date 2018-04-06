@@ -1,4 +1,4 @@
-<!-- TITLE: Les Caraïbes (peuples) -->
+<!-- TITLE: Caraïbe (peuple) -->
 <!-- SUBTITLE: Présentation des Caraïbes -->
 
 Les Caraïbes sont un peuple ayant vécu sur les [îles de la Caraïbe](/geographie/ile/caraibes/iles-de-la-caraibe).
