@@ -1,21 +1,6 @@
-<!-- TITLE: Page d'acceuil -->
+<!-- TITLE: Foire Aux Questions -->
 
-# Bienvenue
-Bienvenue sur *LEREMSESH*, l'encyclopédie afrocentrée sous forme de wiki !
+# Je souhaite m'identifier
+http://leremsesh.com est un site vitrine qui sert uniquement à accéder à des informations.
 
-![Logo Leremsesh Com](/uploads/logo/logo-leremsesh-com.png "Logo Leremsesh Com"){.align-center}
-# Comment ça fonctionne ?
-## Je souhaite faire une recherche
-Pour commencer, faites une recherche dans la barre ci-dessus. Par exemple, pour savoir ce que c'est que leremsesh, saisissez « leremsesh », puis cliquez sur l'une des propositions.
-
-## Je ne sais pas quoi chercher
-Il possible de voir la liste des pages à cette adresse : [https://leremsesh.com/all](https://leremsesh.com/all).
-
-## Je souhaite créer ou modifier une page
-Voici les étapes à suivre pour partager vos connaissances afrocentrées :
-* tout d'abord, procurez-vous un compte Google ou Github ;
-* à partir du moment où vous possédez au moins l'un de ces comptes, accédez à [ce lien](https://partage.leremsesh.com) ;
-* sur la page qui s'affiche, cliquez sur le bouton qui correspond au compte que vous souhaitez utiliser ;
-* authentifiez-vous, si ce n'est pas déjà fait.
-
-Une fois authentifié, vous accédez directement à la page d'acceuil de *PARTAGE.LEREMSESH* où vous trouverez des informations sur les manipulations vous permettant de créer ou de modifier une page.
+Ceci étant, si vous souhaitez partager votre savoir, vous pouvez passer par https://partage.leremsesh.com. Une fois que vous aurez apporté vos connaissances, nos administrateurs se chargeront de faire les traitements nécessaires pour que celles-ci apparaissent dans *LEREMSESH*.
