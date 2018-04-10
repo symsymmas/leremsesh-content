@@ -5,13 +5,18 @@
 
 Djéhuty Biyong est un auteur de bandes dessinées africaines originaire du pays dénomé [Cameroun](/geographie/pays/afrique/nord-ouest/cameroun).[^2] C'est de lui que vient le terme [kémty](/ouvrage/kemty/kemty-kesako) (nom des bandes dessinées africaines).
 
-Après avoir suivi une partie de ses études dans son pays natal le [Cameroun](/geographie/pays/afrique/nord-ouest/cameroun), Djéhuty Biyong s'en va au [Togo](/geographie/pays/afrique/centre-ouest/togo) puis en France hexagonale, où il achève ses études.
+# Histoire
+Après avoir suivi une partie de ses études dans son pays natal le [Cameroun](/geographie/pays/afrique/nord-ouest/cameroun), Djéhuty Biyong s'en va au [Togo](/geographie/pays/afrique/centre-ouest/togo) puis en France hexagonale, où il achève ses études.[^2]
+
+Après avoir travaillé au sein d'une première maison d'édition où il a eu le temps d'écrire un livre, Djéhuty Biyong crée sa propre maison d'édition ([Djehuyt Graphics](/organisme/editeur/djehuty-graphics)) dans le but de conserver sa créativité d'écrivain et de dessinateur.[^2]
 
 # Ses objectifs
 Djéhuty Biyong a souhaité réaliser des [kémty](/ouvrage/kemty/kemty-kesako) afin que la jeunesse africaine (les jeunes noirs du monde entier) puissent s'imprégner de leur histoire humaine classique africaine de façon ludique et avec « beaucoup de plaisir ».[^1]
 Ceci étant, son public ne s'arrête pas aux jeunes gens, il vise aussi les adultes amateurs de bande dessinée mais n'ayant pas nécessairement les connaissances requises pour s'intéresser aux œuvres [kamites](/peuple/monde/kamit) plus techniques.[^1]
 
 # Liste non exhaustive de ses ouvrages
+Le premier Kémty réalisé par Djéhuty Biyong date de 2004. À cette époque, Djehuty Biyong n'avait pas encore créé sa maison d'édition [Djehuty Graphics](/organisme/editeur/djehuty-graphics).[^2]
+
 Voici une liste non exhaustive des œuvres de Djéhuty Biyong :
 * [Soundjata, La bataille de Kirina](/ouvrage/kemty/soundjata-la-bataille-de-kirina)[^3],
 * [Isis & Osiris](/ouvrage/kemty/isis-et-osiris)[^3],
