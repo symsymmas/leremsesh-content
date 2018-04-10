@@ -1,4 +1,4 @@
 <!-- TITLE: Karukéra / Guadeloupe -->
-<!-- SUBTITLE: Présentation de l'archipelle Karukéra ou la Guadeloupe -->
+<!-- SUBTITLE: Présentation de l'archipel Karukéra ou la Guadeloupe -->
 
 # Header
