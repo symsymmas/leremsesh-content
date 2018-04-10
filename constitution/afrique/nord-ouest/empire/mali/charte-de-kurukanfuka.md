@@ -11,4 +11,4 @@ La *charte de Kurukanfuka* est aussi dénomé :
 * première déclaration des droits de l'homme africaine.
 
 
-[^1]: [Fara Ekolo](https://www.youtube.com/channel/UC6-IxpEVchmoKRXDl9fMxrw). [Où en sommes-nous intellectuel Africain ?](https://www.youtube.com/watch?v=QSNLaGlcGAc). Vidéo Youtube.
+[^1]: [Fara Ekolo](https://www.youtube.com/channel/UC6-IxpEVchmoKRXDl9fMxrw). [Où en sommes-nous intellectuel Africain ?](https://www.youtube.com/watch?v=QSNLaGlcGAc) (en ligne). [Youtube](https://www.youtube.com), 10 mars 2018. Compilation de plusieurs vidéos, 1h 36min 19s. Disponible à https://www.youtube.com/watch?v=QSNLaGlcGAc.
