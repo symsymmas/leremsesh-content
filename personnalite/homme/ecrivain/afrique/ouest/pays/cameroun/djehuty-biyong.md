@@ -18,11 +18,11 @@ Ceci étant, son public ne s'arrête pas aux jeunes gens, il vise aussi les adul
 Le premier Kémty réalisé par Djéhuty Biyong date de 2004. À cette époque, Djehuty Biyong n'avait pas encore créé sa maison d'édition [Djehuty Graphics](/organisme/editeur/djehuty-graphics).[^2]
 
 Voici une liste non exhaustive des œuvres de Djéhuty Biyong :
-* [Soundjata, La bataille de Kirina](/ouvrage/kemty/soundjata-la-bataille-de-kirina)[^3],
-* [Isis & Osiris](/ouvrage/kemty/isis-et-osiris)[^3],
-* [Chaka, l'enfance d'un roi](/ouvrage/kemty/chaka-l-enfance-d-un-roi)[^3],
-* [Kama](/ouvrage/kemty/kama)[^3],
-* [Iteru](/ouvrage/kemty/iteru)[^3],
+* [Soundjata, La bataille de Kirina](/ouvrage/kemty/soundjata-la-bataille-de-kirina)[^3], premier kémty apparu aux éditions [Djehuty Graphics](/organisme/editeur/djehuty-graphics) ;
+* [Isis & Osiris](/ouvrage/kemty/isis-et-osiris)[^3] ;
+* [Chaka, l'enfance d'un roi](/ouvrage/kemty/chaka-l-enfance-d-un-roi)[^3] ;
+* [Kama](/ouvrage/kemty/kama)[^3] ;
+* [Iteru](/ouvrage/kemty/iteru)[^3] ;
 * [Kamtiou](/ouvrage/kemty/kamtiou)[^3].
 
 
