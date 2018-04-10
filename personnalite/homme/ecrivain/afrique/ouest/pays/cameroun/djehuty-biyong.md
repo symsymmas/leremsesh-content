@@ -1,9 +1,10 @@
 <!-- TITLE: Djéhuty Biyong -->
-<!-- SUBTITLE: Présentation du Djéhuty Biyong -->
+<!-- SUBTITLE: Biographie de Djéhuty Biyong -->
 
 ![Photo Djehuty Biyong](/uploads/photo/photo-djehuty-biyong.png "Photo Djehuty Biyong"){.pagelogo}
 
 Djéhuty Biyong est un auteur de bandes dessinées africaines originaire du pays dénomé [Cameroun](/geographie/pays/afrique/nord-ouest/cameroun).[^2] C'est de lui que vient le terme [kémty](/ouvrage/kemty/kemty-kesako) (nom des bandes dessinées africaines).
+Après avoir suivi une partie de ses études dans son pays natal le [Cameroun](/geographie/pays/afrique/nord-ouest/cameroun), Djéhuty Biyong s'en va au [Togo](/geographie/pays/afrique/centre-ouest/togo) puis en France hexagonale.
 
 # Ses objectifs
 Djéhuty Biyong a souhaité réaliser des [kémty](/ouvrage/kemty/kemty-kesako) afin que la jeunesse africaine (les jeunes noirs du monde entier) puissent s'imprégner de leur histoire humaine classique africaine de façon ludique et avec « beaucoup de plaisir ».[^1]
@@ -20,5 +21,5 @@ Voici une liste non exhaustive des œuvres de Djéhuty Biyong :
 
 
 [^1]: [Afcm Asso](https://www.youtube.com/channel/UCNsqyzDtr6PDtP-2hL8TBOQ). [KémitaMââT au Salon du Livre 2014 avec Biyong Djehouty](https://www.youtube.com/watch?v=5Kj776oO8xI). Vidéo Youtube. 25 mars 2014. 
-[^2]: [OM5 Télévision](https://www.youtube.com/channel/UCaLMmJOTQdWCqEkteyDnn4w). [STUDIO 5 DJEHUTY BEYONG fev 2016](https://www.youtube.com/watch?time_continue=4&v=B3JxH7JnGsc) [vidéo en ligne]. [YouTube](https://www.youtube.com) (en ligne). YouTube, 7 févr. 2016 [consulté le 10 Avr. 2018]. Interview de 22h04.
+[^2]: [OM5 Télévision](https://www.youtube.com/channel/UCaLMmJOTQdWCqEkteyDnn4w). [STUDIO 5 DJEHUTY BEYONG fev 2016](https://www.youtube.com/watch?time_continue=4&v=B3JxH7JnGsc) [vidéo en ligne]. [YouTube](https://www.youtube.com) (en ligne). 7 févr. 2016 [consulté le 10 Avr. 2018]. Interview de 22min 04s.
 [^3]: [Djehuty Graphics](http://djehutygraphics.com/). Site Web.
