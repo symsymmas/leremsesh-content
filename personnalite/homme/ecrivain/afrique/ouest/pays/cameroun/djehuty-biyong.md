@@ -8,7 +8,7 @@ Djéhuty Biyong est un auteur de bandes dessinées africaines originaire du pays
 # Histoire
 Après avoir suivi une partie de ses études dans son pays natal le [Cameroun](/geographie/pays/afrique/nord-ouest/cameroun), Djéhuty Biyong s'en va au [Togo](/geographie/pays/afrique/centre-ouest/togo) puis en France hexagonale, où il achève ses études.[^2]
 
-Après avoir travaillé au sein d'une première maison d'édition où il a eu le temps d'écrire un livre, Djéhuty Biyong crée sa propre maison d'édition ([Djehuyt Graphics](/organisme/editeur/djehuty-graphics)) dans le but de conserver sa créativité d'écrivain et de dessinateur.[^2]
+Djéhuty Biyong crée sa propre maison d'édition ([Djehuyt Graphics](/organisme/editeur/djehuty-graphics)) après avoir publié son premier livre paru chez un autre éditeur. Le but de cette entreprise fut, pour lui, de conserver sa créativité d'écrivain et de dessinateur.[^2]
 
 # Ses objectifs
 Djéhuty Biyong a souhaité réaliser des [kémty](/ouvrage/kemty/kemty-kesako) afin que la jeunesse africaine (les jeunes noirs du monde entier) puissent s'imprégner de leur histoire humaine classique africaine de façon ludique et avec « beaucoup de plaisir ».[^1]
