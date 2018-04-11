@@ -1,4 +1,4 @@
 <!-- TITLE: Burkina Faso -->
 <!-- SUBTITLE: Présentation du Burkina Faso -->
 
-# Header
+![Burkinafaso](/uploads/map/burkinafaso.png "Burkinafaso"){.align-center}
