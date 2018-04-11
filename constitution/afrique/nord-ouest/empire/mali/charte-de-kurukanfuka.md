@@ -5,7 +5,7 @@ La *charte de Kurukanfuka* est la constitution de l'empire du Mali. Elle traite 
 Cette charte a été créé en 1236.
 
 # Autres dénominations
-La *charte de Kurukanfuka* est aussi dénomé :
+La *charte de Kurukanfuka* est aussi dénomée :
 * charte du Mali ;
 * constitution du Mali ;
 * première déclaration des droits de l'homme.
