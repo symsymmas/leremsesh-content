@@ -24,5 +24,10 @@ Voir [bataille de kirina](/histoire/afrique/epoque-medievale/confrontation/batai
 # La prise de conscience
 Choqué par le carnage causé par [la bataille de Kirina](/histoire/afrique/epoque-medievale/confrontation/bataille-de-kirina) pour la libération du [Manden](/geographie/afrique/royaume/manden) et par respect pour tous les défunts, Soundjata accomplit un rite funéraire à [Samba Fida](/geographie/afrique/talus/samba-fida). Il prit conscience d'une chose, que la *fraternité, tant par le lait que le sang, doit à jamais prévaloir dans le Manden*[^1]. Cette prise de conscience devint le fil d'ariane de l'[empire du mali](/geographie/afrique/empire/mali).
 
+# L'empire du Mali
+Soundjata Keïta a fondé l'empire du Mali dans le but d'unifier tous les peuples Africains afin de cesser les guerres entre les petits royaumes de l'Afrique de l'Ouest.[^2]
+Ce projet fut un succès étant donné que pendant deux cents ans, les différents royaumes de cet empire furent en paix.[^2]
 
-[^1]: Biyong Djehuty. [Soundjata, la bataille de kirina](/ouvrage/soundjata-la-bataille-de-kirina). Livre. Édition [Djehuty Graphics](/organisme/djehuty-graphics), 1er trimestre 2014. p.1-5, p.8-12, p.20-21, p.23-25, p.28. © 2013 Biyong Djehuty ; Tous droits réservés. ISBN 978-2-9545538-6-3
+
+[^1]: [Biyong Djehuty](/personnalite/homme/ecrivain/afrique/ouest/pays/cameroun/djehuty-biyong). [Soundjata, la bataille de kirina](/ouvrage/soundjata-la-bataille-de-kirina). Livre. Édition [Djehuty Graphics](/organisme/djehuty-graphics), 1er trimestre 2014. p.1-5, p.8-12, p.20-21, p.23-25, p.28. © 2013 Biyong Djehuty ; Tous droits réservés. ISBN 978-2-9545538-6-3
+[^2]: [OM5 Télévision](https://www.youtube.com/channel/UCaLMmJOTQdWCqEkteyDnn4w). [STUDIO 5 DJEHUTY BEYONG fev 2016](https://www.youtube.com/watch?time_continue=4&v=B3JxH7JnGsc) (vidéo en ligne). [YouTube](https://www.youtube.com). 7 févr. 2016 [consulté le 10 Avril 2018]. Interview de 22mn 4s
