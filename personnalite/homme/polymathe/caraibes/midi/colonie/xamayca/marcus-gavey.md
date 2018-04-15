@@ -21,6 +21,7 @@ Marcus Garvey a créé une compagnie maritime dans le but de fournir un moyen de
 
 ## Gouvernement
 L'image suivante représente Marcus Garvey lors de la marche qu'il a organisé aux États-Unis d'Amérique en 1922. Il porte les apparats du gouvernement qu'il a fondé.
+
 ![Marcus Garvey 1922](/uploads/personnalite/marcus-garvey-1922.png "Marcus Garvey 1922"){.align-center}
 
 
