@@ -11,7 +11,7 @@ D'origine soudanaise, [Pér Aat](/personnalite/titre/per-aat) Narmer est né aux
 ## Formation
 Dès l'âge de 4 ans, Narmer étudie auprès du Scribe [Amenhotep](/personnalite/homme/savant/afrique/nord-est/empire/kmt/amenhotep) au sein de « l'école royale ».[^1]
 
-Cette formation a eu pour objectif d'enseigner au futur Pér Aat le savoir des ancêtres, en l'occurence :
+Cette formation a pour objectif d'enseigner le savoir des ancêtres au futur [Pér Aat](/personnalite/titre/per-aat) ; en l'occurence :
 * l'[origine de l'homme](/histoire/afrique/les-origines-de-l-humanite) ;
 * l'art ;
 * les [mathématiques](/mathematiques/mathematiques-africaines) ;
