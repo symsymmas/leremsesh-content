@@ -35,7 +35,7 @@ Suite à l'unification, le [Pér Aat](/personnalite/titre/per-aat) (Pharaon) Nar
 	* la couronne [Déshérèt](/objet/noblesse/afrique/nord-est/kmt/couronne#desheret) qui est de couleur rouge et qui représente la [basse Égypte](/geographie/empire/afrique/nord-est/kmt#la-basse-egypte).
 
 ## Son mariage
-Suite à l'unification de la haute et de la basse Égypte, le [Pér Aat](/personnalite/titre/per-aat) (Pharaon) Narmer se marie avec la Reine [Néishotep](/personnalite/neishotep) par un rituel ancestral mené par le prêtre [Rânéfer](/personnalite/ranefer).
+Suite à l'unification de la haute et de la basse Égypte, le [Pér Aat](/personnalite/titre/per-aat) (Pharaon) Narmer se marie avec la Reine [Néishotep](/personnalite/a-classer/neishotep) par un rituel ancestral mené par le prêtre [Rânéfer](/personnalite/a-classer/ranefer).
 
 
-[^1]: [Nioussérê K. Omotunde](/personnalite/nioussere-kalala-omotunde) ; [Djaïbré Asha Maât](/personnalite/a-classer/djaibre-asha-maat). [L'épopée du roi Narmer](ouvrages/l-epopee-du-roi-narmer). Livre broché. [Edition ANYJART](/organisme/anyjart). Baie-Mahault : [Juin](/histoire/date/calendrier-gregorien/par-mois/juin) [2015](/histoire/date/calendrier-gregorien/par-annee/2015). ISBN 979-10-95097-02-0.
+[^1]: [Nioussérê K. Omotunde](/personnalite/homme/polymathe/caraibes/midi/departement/karukera/nioussere-kalala-omotunde) ; [Djaïbré Asha Maât](/personnalite/a-classer/djaibre-asha-maat). [L'épopée du roi Narmer](ouvrages/l-epopee-du-roi-narmer). Livre broché. [Edition ANYJART](/organisme/anyjart). Baie-Mahault : [Juin](/histoire/date/calendrier-gregorien/par-mois/juin) [2015](/histoire/date/calendrier-gregorien/par-annee/2015). ISBN 979-10-95097-02-0.
