@@ -25,7 +25,7 @@ Les autochtones de *Kémèt* écrivaient ce mot à l'aide des idéogrammes suiva
 
 * L'idéogramme et déterminatif O49[^2] qui représente une localité avec des avenues qui se croisent.  Il se prononce *niout* (NIWT).
 
-![Signe O 49](/uploads/ecriture/signe-o-49.png "Signe O49"){.align-center}
+![O 49](/uploads/ecriture/o-49.png "Signe O49"){.align-center}
 
 # Traduction littérale
 En partant de l'étymologie du mot *Kémèt*, il est possible de décortiquer le mot de la sorte :
