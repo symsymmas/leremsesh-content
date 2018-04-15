@@ -75,7 +75,7 @@ La basse Égypte est au Nord de la haute Égypte (cf. : illustration précéden
 La couronne du [Pharaon](/personnalite/per-aat) de la basse Égypte se nomme Nékhebet et elle est de couleur rouge.[^5]
 
 ## L'unification de la haute et de la basse Égypte
-Dès l'an -3 200, le royaume de Kémèt s'étend de l'Est de l'Afrique jusqu'à la Syrie.
+Vers l'an [-3 200](/histoire/date/calendrier-gregorien/par-an/-3200)[^5], le royaume de Kémèt s'étend de l'Est de l'Afrique jusqu'à la Syrie.
 L'illustration donne un aperçu de cet empire à son apogé territorial
 
 ![Egypt Nk Edit](/uploads/egypt-nk-edit.png "Territoire de la haute et de la basse Égypte à son apogée territoriale")
@@ -85,8 +85,8 @@ Suite à cette unification, le [Pharaon](/personnalite/per-aat) porte la couronn
 
 
 <!-- Sources -->
-[^1]:René-Louis Parfait ÉTILÉ, Grammaire simplifiée de l'Égyptien hiéroglyphique, livre broché, Éditions [MENAIBUC](http://www.menaibuc.com/), ISBN 2-911372-56-5.
-[^2]:[Classification Gardiner](/ecriture/classification-gardiner), page Web.
-[^3]:IshangoTV, [Kemet ou l'Egypte ancienne](https://www.youtube.com/watch?v=lfS4IzC4eLM), vidéo YouTube, 24 janv. 2012.
-[^4]:A CONTRARIO, [L'Égypte Pharaonique : Ni terre noire, ni pays des Noirs](https://www.youtube.com/watch?v=WeU6F0msUGU), vidéo YouTube, 24 févr. 2017.
-[^5]: [Nioussérê K. Omotunde](/personnalite/nioussere-kalala-omotunde) ; [Djaïbré Asha Maât](/personnalite/djaibre-asha-maat). [L'épopée du roi Narmer](http://www.anyjart.com/lpope-du-roi-narmer-omotunde). Livre broché. [Edition ANYJART](http://www.anyjart.com/). Baie-Mahault : Juin 2015. p.21. ISBN 979-10-95097-02-0
+[^1]: René-Louis Parfait ÉTILÉ, Grammaire simplifiée de l'Égyptien hiéroglyphique, livre broché, Éditions [MENAIBUC](http://www.menaibuc.com/), ISBN 2-911372-56-5.
+[^2]: [Classification Gardiner](/ecriture/classification-gardiner), page Web.
+[^3]: IshangoTV, [Kemet ou l'Egypte ancienne](https://www.youtube.com/watch?v=lfS4IzC4eLM), vidéo [YouTube](http://youtube.com), [24](/histoire/date/calendrier-gregorien/par-jour/24) [Janv.](/histoire/date/calendrier-gregorien/par-mois/janvier) [2012](/histoire/date/calendrier-gregorien/par-annee/2012).
+[^4]: A CONTRARIO, [L'Égypte Pharaonique : Ni terre noire, ni pays des Noirs](https://www.youtube.com/watch?v=WeU6F0msUGU), vidéo YouTube, [24](/histoire/date/calendrier-gregorien/par-jour/24) [Févr.](/histoire/date/calendrier-gregorien/par-mois/fevrier) [2017](/histoire/date/calendrier-gregorien/par-annee/2017).
+[^5]: [Nioussérê K. Omotunde](/personnalite/nioussere-kalala-omotunde) ; [Djaïbré Asha Maât](/personnalite/djaibre-asha-maat). [L'épopée du roi Narmer](ouvrages/l-epopee-du-roi-narmer). Livre broché. [Edition ANYJART](/organisme/anyjart). Baie-Mahault : [Juin](/histoire/date/calendrier-gregorien/par-mois/juin) [2015](/histoire/date/calendrier-gregorien/par-annee/2015). ISBN 979-10-95097-02-0.
