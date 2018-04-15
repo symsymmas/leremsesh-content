@@ -1,4 +1,4 @@
-t<!-- TITLE: Kémèt / Égypte pharaonique antique -->
+<!-- TITLE: Kémèt / Égypte pharaonique antique -->
 <!-- SUBTITLE: L'Égypte pharaonique antique : Kémèt -->
 
 ![Kmt](/uploads/ecriture/kmt.png "Kmt"){.pagelogo}
