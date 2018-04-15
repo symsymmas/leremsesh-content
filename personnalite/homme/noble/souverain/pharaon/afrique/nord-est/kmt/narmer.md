@@ -5,7 +5,7 @@
 Le [Pér Aat](/personnalite/titre/per-aat) (ou Pharaon, voir Roi) Narmer est le premier souverain de la haute et de la basse Égypte ([Kémèt](/geographie/empire/afrique/nord-est/kmt)), étant donné qu'il unifia ces deux territoires. [^1]
 
 # Naissance et origines
-D'origine soudanaise, [Pér Aat](/personnalite/titre/per-aat) Narmer est né aux environs de l'an [-3 200](/histoire/date/calendrier-gregorien/par-an/-3200), de sa mère la [Pér Aat](/personnalite/per-aat) [Néfèréty](/personnalite/neferety) et de son père le [Roi](/personnalite/per-aat) [Scorpion](/personnalite/le-roi-scorpion).[^1]
+D'origine soudanaise, [Pér Aat](/personnalite/titre/per-aat) Narmer est né aux environs de l'an [-3 200](/histoire/date/calendrier-gregorien/par-an/-3200), de sa mère la [Pér Aat](/personnalite/titre/per-aat) [Néfèréty](/personnalite/neferety) et de son père le [Roi](/personnalite/per-aat) [Scorpion](/personnalite/le-roi-scorpion).[^1]
 
 # La vie du [Pér Aat](/personnalite/titre/per-aat)
 ## Formation
