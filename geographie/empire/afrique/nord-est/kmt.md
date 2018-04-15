@@ -65,11 +65,11 @@ Dès lors, il est plus facile de comprendre pourquoi les [Kemtiou](/peuple/afriq
 
 ## La haute Égypte
 La haute Égypte est au Sud de la basse Égypte (cf. : illustration précédente). C'est le premier et le plus ancien territoire de Kémèt.
-La couronne du [Pharaon](/personnalite/titre/per-aat) de la haute Égypte se nomme Ouadjet et elle est de couleur blanche.[^5]
+La couronne du [Pharaon](/personnalite/titre/per-aat) de la haute Égypte se nomme [Hédjèt](/objet/noblesse/afrique/nord-est/kmt/couronne#hedjet) et, comme son nom l'indique, elle est de couleur blanche.[^5]
 
 ## La basse Égypte
 La basse Égypte est au Nord de la haute Égypte (cf. : illustration précédente).
-La couronne du [Pharaon](/personnalite/titre/per-aat) de la basse Égypte se nomme Nékhebet et elle est de couleur rouge.[^5]
+La couronne du [Pharaon](/personnalite/titre/per-aat) de la basse Égypte se nomme [Déshérèt](/objet/noblesse/afrique/nord-est/kmt/couronne#desheret) et, comme son nom l'indique, elle est de couleur rouge.[^5]
 
 ## L'unification de la haute et de la basse Égypte
 Vers l'an [-3 200](/histoire/date/calendrier-gregorien/par-an/-3200)[^5], le royaume de Kémèt s'étend de l'Est de l'Afrique jusqu'à la Syrie.
