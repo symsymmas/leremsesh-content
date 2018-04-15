@@ -2,7 +2,7 @@
 <!-- SUBTITLE: Présentation du Roi / Pharaon Narmer -->
 ![Pharao Narmer](/uploads/personnalite/pharao-narmer.png "Tête en calcaire du Pharaon Narmer"){.pagelogo}
 
-Le Roi ou plutôt [Pér aat](/personnalite/titre/per-aat) (Pharaon) Narmer est le premier souverain de la haute et de la basse Égypte ([KMT](/geographie/kmt)), étant donné qu'il unifia ces deux parties du royaume. [^1]
+Le Roi ou plutôt [Pér aat](/personnalite/titre/per-aat) (Pharaon) Narmer est le premier souverain de la haute et de la basse Égypte ([KMT](/geographie/kmt)), étant donné qu'il unifia ces deux territoires. [^1]
 
 # Naissance et origines
 D'origine soudanaise, [Pér aat](/personnalite/titre/per-aat) Narmer est né aux environs de l'an [-3 200](/histoire/date/calendrier-gregorien/par-an/-3200), de sa mère la [reine](/personnalite/per-aat) [Néfèréty](/personnalite/neferety) et de son père le [Roi](/personnalite/per-aat) [Scorpion](/personnalite/le-roi-scorpion).[^1]
