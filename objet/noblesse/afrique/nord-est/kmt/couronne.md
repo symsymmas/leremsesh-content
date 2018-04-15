@@ -4,7 +4,7 @@
 Cette page liste les couronnes de l'empire [Kémèt](/geographie/empire/afrique/nord-est/kmt) (Égypte pharaonique antique).
 
 # Hédjet
-Ouadjet est la couronne de la haute Égypte. Celle-ci est de couleur blanche.
+Hédjet est la couronne de la haute Égypte. Celle-ci est de couleur blanche.
 
 ![Hedjet](/uploads/object/hedjet.png "Hedjet"){.align-center}
 
