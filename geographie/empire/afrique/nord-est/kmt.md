@@ -79,7 +79,7 @@ L'illustration suivante donne un aperçu de cet empire à son apogé territorial
 
 L'unification de la haute et de la basse Égypte est issue de la démarche civilisatrice du [Pharaon](/personnalite/titre/per-aat) [Narmer](/personnalite/homme/noble/souverain/pharaon/afrique/nord-est/kmt/narmer) qui souhaitait calmer les tensions entre les clans du Nord et Kémèt.
 
-Depuis cette unification, les [Pharaons](/personnalite/titre/per-aat) portent la couronne des deux territoires (Déshérèt et Hédjèt), ce qui montre l'intégration des peuples de la basse Égypte au sein de Kémèt, tout en concervant et en respectant leur intégrité.[^5]
+Depuis cette unification, les [Pharaons](/personnalite/titre/per-aat) portent la couronne des deux territoires ([Déshérèt](/objet/noblesse/afrique/nord-est/kmt/couronne#desheret) et [Hédjèt](/objet/noblesse/afrique/nord-est/kmt/couronne#hedjet)), ce qui montre l'intégration des peuples de la basse Égypte au sein de Kémèt, tout en concervant et en respectant leur intégrité.[^5]
 
 
 <!-- Sources -->
