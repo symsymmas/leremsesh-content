@@ -45,16 +45,16 @@ En partant de l'[étymologie](#etymologie) du mot *Kémèt*, il en ressort que 
 Le terme Kémèt peut donc se traduire littéralement par : *aglomération noire*, *cité noire*, voir *pays noir*.[^3]
 
 # Interprétation
-L'expression *TA N Kémèt* peut être utilisée pour aider à interpréter le mot *Kémèt*.[^3]
+L'expression *ta n Kémèt* peut être utilisée pour aider à interpréter le mot *Kémèt*.[^3]
 
 Cette expression est composée de :
-* *Ta* qui signifie *terre* ;
-* *N* qui fait référence à la possession et qui peut se traduire par le mot « à » ou le mot « pour » (quelqu'un) ;[^1]
+* *ta* qui signifie *terre* ;
+* *n* qui fait référence à la possession et qui peut se traduire par le mot « à » ou le mot « pour » (quelqu'un) ;[^1]
 * *Kémèt* (voir [traduction précédente](#traduction-litterale)).
 
 Littéralement, cette expression se traduit par : la *terre de la cité noire* ou la *terre du pays noir*.[^3]
 
-Dès lors, sachant que *Kémèt* ne fait référence ni au sol, ni à la couleur de celui-ci, les termes *cité noire* et *pays noir* renvoient au concept d'Afrique Noire, c'est-à-dire à un endroit où ce n'est pas le sol qui est qualifié de noir mais ses habitants. Dès lors, la traduction exacte du mot *Kémèt* est : *Pays des noirs* ou *cité des noirs*.[^3]
+Dès lors, sachant que *Kémèt* ne fait référence ni au sol, ni à la couleur de celui-ci, puisqu'il y aurait redondance dans l'expression *Ta N Kémèt*, les termes *cité noire* et *pays noir* renvoient au concept d'Afrique Noire, c'est-à-dire à un endroit où ce n'est pas le sol qui est qualifié de noir mais ses habitants. Dès lors, la traduction exacte du mot *Kémèt* est : *Pays des noirs* ou *cité des noirs*.[^3]
 De plus, pour étayer cette thèse, il faut se rappeler des propos d'Hérodote et des autres contemporains des [Kemtiou](/peuple/afrique/nord-est/empire/kmt/kemtiou), qui les définissaient comme étant de couleur noire.[^3]
 
 # L'évolution du royaume
