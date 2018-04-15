@@ -40,7 +40,7 @@ En partant de l'[étymologie](#etymologie) du mot *Kémèt*, il en ressort que 
 ![Coal 471903 1920](/uploads/object/coal-471903-1920.jpg "Tas de charbon")
 
 2. Le troisième signe rappel le concept féminin. En effet, le [mdw ntr](/ecriture/hieroglyphe/mdw-ntr) (écriture et langue de *Kémèt*) a pour particularité de rajouter le phonème *t* a la fin des mots féminins[^6] ;
-3. Le quatrième et dernier signe (NIWT) est utilisé uniquement lorsqu'il est question d'agglomération urbaine, à l'inverse du mot *ta* (ou *to*) qui renvoie à la terre ou au sol.
+3. Le quatrième et dernier signe (NIWT) est utilisé uniquement lorsqu'il est question d'agglomération urbaine, à l'inverse du mot *ta* (ou *to*) qui renvoie à la terre ou au sol.[^5]
 
 Le terme Kémèt peut donc se traduire littéralement par : *aglomération noire*, *cité noire*, voir *pays noir*.[^3]
 
