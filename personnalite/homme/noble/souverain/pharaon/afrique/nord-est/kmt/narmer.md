@@ -30,9 +30,9 @@ Pensant qu'il était à leur merci, le clan du Nord a tenté de piéger le [Pér
 
 ![King Narmer](/uploads/personnalite/king-narmer.jpg "Le Pharaon Narmer sur la Palette de Narmer"){.align-center}
 
-Suite à l'unification, le [Pér Aat](/personnalite/titre/per-aat) (Pharaon) Narmer décida de se re-couronner. Ce couronnement a donné la création d'une nouvelle couronne qui symbolise l'union [de la haute et de la basse Égypte](/geographie/empire/afrique/nord-est/kmt#levolution-du-royaume) : [Pschent](/objet/noblesse/afrique/nord-est/kmt/couronne#pschent). Depuis, la couronne du [Pér Aat](/personnalite/titre/per-aat) (Pharaon) est constituée de la couronne de la haute et de la basse Égypte qui ne font qu'une. Cela symbolise une union entre [la haute et la basse Égypte](/geographie/empire/afrique/nord-est/kmt#levolution-du-royaume). Cette couronne se constitue de :
-	* la couronne Ouadjet qui est de couleur blanche et qui représente la haute Égypte ;
-	* la couronne Nekheret qui est de couleur rouge et qui représente la basse Égypte.
+Suite à l'unification, le [Pér Aat](/personnalite/titre/per-aat) (Pharaon) Narmer décida de se re-couronner. Ce couronnement a donné la création d'une nouvelle couronne qui symbolise l'union [de la haute et de la basse Égypte](/geographie/empire/afrique/nord-est/kmt#levolution-du-royaume) : [Pschent](/objet/noblesse/afrique/nord-est/kmt/couronne#pschent). Depuis, la couronne des [Pér Aat](/personnalite/titre/per-aat) (Pharaon) est l'unification de la [couronne de la haute Egypte](/objet/noblesse/afrique/nord-est/kmt/couronne#hedjet) et de [celle de la basse Égypte](/objet/noblesse/afrique/nord-est/kmt/couronne#desheret), c'est-à-dire :
+	* la couronne [Hédjèt](/objet/noblesse/afrique/nord-est/kmt/couronne#hedjet) qui est de couleur blanche et qui représente la [haute Égypte](/geographie/empire/afrique/nord-est/kmt#la-haute-egypte) ;
+	* la couronne [Déshérèt](/objet/noblesse/afrique/nord-est/kmt/couronne#desheret) qui est de couleur rouge et qui représente la [basse Égypte](/geographie/empire/afrique/nord-est/kmt#la-basse-egypte).
 
 ## Son mariage
 Suite à l'unification de la haute et de la basse Égypte, le [Pér Aat](/personnalite/titre/per-aat) (Pharaon) Narmer se marie avec la Reine [Néishotep](/personnalite/neishotep) par un rituel ancestral mené par le prêtre [Rânéfer](/personnalite/ranefer).
