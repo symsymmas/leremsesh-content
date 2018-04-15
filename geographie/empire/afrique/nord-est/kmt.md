@@ -1,4 +1,4 @@
-<!-- TITLE: Kémèt / Égypte pharaonique antique -->
+t<!-- TITLE: Kémèt / Égypte pharaonique antique -->
 <!-- SUBTITLE: L'Égypte pharaonique antique : Kémèt -->
 
 ![Kmt](/uploads/ecriture/kmt.png "Kmt"){.pagelogo}
@@ -48,7 +48,7 @@ Le terme Kémèt peut donc se traduire littéralement par : *aglomération noir
 L'expression *TA N Kémèt* peut être utilisée pour aider à interpréter le mot *Kémèt*.[^3]
 
 Cette expression est composée de :
-* *Ta* qui signifie terre ;
+* *Ta* qui signifie *terre* ;
 * *N* qui fait référence à la possession et qui peut se traduire par le mot « à » ou le mot « pour » (quelqu'un) ;[^1]
 * *Kémèt* (voir [traduction précédente](#traduction-litterale)).
 
