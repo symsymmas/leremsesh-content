@@ -52,11 +52,10 @@ Cette expression est composée de :
 * *N* qui fait référence à la possession et qui peut se traduire par le mot « à » ou le mot « pour » (quelqu'un)[^1].
 * *Kémèt* (voir [traduction précédente](#traduction-litterale)).
 
-Littéralement, cette expression se traduit par : la *terre du cité noire* ou la *terre du pays noir*.[^3]
+Littéralement, cette expression se traduit par : la *terre de la cité noire* ou la *terre du pays noir*.[^3]
 
-Ceci étant, il faut se rappeler des propos d'Hérodote et des autres contemporains des [Kemtiou](/peuple/afrique/nord-est/empire/kmt/kemtiou), qui les définissaient comme étant d'une couleur noire.[^3]
-
-Dès lors, sachant que *Kémèt* ne fait ni référence au sol, ni à la couleur de celui-ci, la traduction exacte de ce mot est : *Pays des noirs* ou *cité des noirs*. Nous pouvons prendre comme exemple l'expression *Afrique noir* qui fait référence à la couleur des habitants.[^3]
+Dès lors, sachant que *Kémèt* ne fait référence ni au sol, ni à la couleur de celui-ci, les termes *cité noire* et *pays noir* renvoient au concept d'Afrique Noire, c'est-à-dire à un endroit où ce n'est pas le sol qui est qualifié de noir mais ses habitants. Dès lors, la traduction exacte du mot *Kémèt* est : *Pays des noirs* ou *cité des noirs*.[^3]
+De plus, pour étayer cette thèse, il faut se rappeler des propos d'Hérodote et des autres contemporains des [Kemtiou](/peuple/afrique/nord-est/empire/kmt/kemtiou), qui les définissaient comme étant de couleur noire.[^3]
 
 # L'évolution du royaume
 Avant de lire la suite de ce chapitre, il faut se rappeler que les [Égyptiens de l'antiquité](/peuple/afrique/nord-est/empire/kmt/kemtiou) regardaient le monde « tête en bas », c'est à dire que le Nord se trouve en bas et le Sud en haut, comme le présente l'illustration suivante.
