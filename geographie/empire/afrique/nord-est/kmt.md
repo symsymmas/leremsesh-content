@@ -85,7 +85,7 @@ Suite à cette unification, le [Pharaon](/personnalite/titre/per-aat) porte la c
 
 
 <!-- Sources -->
-[^1]: René-Louis Parfait ÉTILÉ, Grammaire simplifiée de l'Égyptien hiéroglyphique, livre broché, Éditions [MENAIBUC](http://www.menaibuc.com/), ISBN 2-911372-56-5.
+[^1]: René-Louis Parfait ÉTILÉ, Grammaire simplifiée de l'Égyptien hiéroglyphique, livre broché, Éditions [MENAIBUC](/organisme/editeur/menaibuc), ISBN 2-911372-56-5.
 [^2]: [Classification Gardiner](/ecriture/hieroglyphe/classification-gardiner), page Web.
 [^3]: IshangoTV, [Kemet ou l'Egypte ancienne](https://www.youtube.com/watch?v=lfS4IzC4eLM), vidéo [YouTube](http://youtube.com), [24](/histoire/date/calendrier-gregorien/par-jour/24) [Janv.](/histoire/date/calendrier-gregorien/par-mois/janvier) [2012](/histoire/date/calendrier-gregorien/par-annee/2012).
 [^4]: A CONTRARIO, [L'Égypte Pharaonique : Ni terre noire, ni pays des Noirs](https://www.youtube.com/watch?v=WeU6F0msUGU), vidéo YouTube, [24](/histoire/date/calendrier-gregorien/par-jour/24) [Févr.](/histoire/date/calendrier-gregorien/par-mois/fevrier) [2017](/histoire/date/calendrier-gregorien/par-annee/2017).
