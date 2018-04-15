@@ -28,12 +28,11 @@ Durant son reigne, le [Pér Aat](/personnalite/titre/per-aat) (Pharaon) Narmer a
 Lors du dernier combat, étant d'une civilisation passifiste, [Pér Aat](/personnalite/titre/per-aat) est allé sur les terres du Nord accompagné uniquement d'une dizaine d'hommes dans le but d'apaiser ces hostilités.
 Pensant qu'il était à leur merci, le clan du Nord a tenté de piéger le [Pér Aat](/personnalite/titre/per-aat). Malheureusement pour eux, Narmer avait envisagé cette embuscade et en peu de temps la flotte militaire de [Kémèt](/geographie/empire/afrique/nord-est/kmt) arriva et déjoua le plan ennemi.[^1]
 
+![King Narmer](/uploads/personnalite/king-narmer.jpg "Le Pharaon Narmer sur la Palette de Narmer"){.align-center}
+
 Suite à l'unification, le [Pér Aat](/personnalite/titre/per-aat) (Pharaon) Narmer décida de se re-couronner. Ce couronnement a donné la création d'une nouvelle couronne qui symbolise l'union [de la haute et de la basse Égypte](/geographie/empire/afrique/nord-est/kmt#levolution-du-royaume). Depuis, la couronne du [Pér Aat](/personnalite/titre/per-aat) (pharaon) est constitué de deux couronnes qui ne font qu'une. Cela symbolise une union entre [la haute et la basse Égypte](/geographie/empire/afrique/nord-est/kmt#levolution-du-royaume). Cette couronne se constitue de :
 	* la couronne Ouadjet qui est de couleur blanche et qui représente la haute Égypte ;
 	* la couronne Nekheret qui est de couleur rouge et qui représente la basse Égypte.
-
-![King Narmer](/uploads/personnalite/king-narmer.jpg "Le Pharaon Narmer sur la Palette de Narmer"){.align-center}
-
 
 ## Son mariage
 Suite à l'unification de la haute et de la basse Égypte, le [Pér Aat](/personnalite/titre/per-aat) (Pharaon) Narmer se marie avec la Reine [Néishotep](/personnalite/neishotep) par un rituel ancestral mené par le prêtre [Rânéfer](/personnalite/ranefer).
