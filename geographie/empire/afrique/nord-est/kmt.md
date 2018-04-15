@@ -6,7 +6,7 @@
 *KMT* (ou *Kémét*) est le nom donné à l'Égypte antique par son peuple (les [Kemtiou](/peuple/afrique/nord-est/empire/kmt/kemtiou))[^1].
 
 # Déchiffrement
-*Kémèt* s'écrit à l'aide des signes suivants[^1][^3] :
+Les autochtones de *Kémèt* écrivaient ce mot à l'aide des idéogrammes suivants[^1][^3] :
 * Le bilitère I6[^2] qui représente un tas/bout de charbon de bois (brulé) ou un morceau de peau de crocodile (avec écailles), d'où sa comparaison aux amphibiens, sauriens et reptiles dans la [classification Gardiner](/ecriture/hieroglyphe/classification-gardiner). Ce signe se prononce *kèm* (KM).
 
 ![Signe I 6](/uploads/ecriture/signe-i-6.png "Signe I 6"){.align-center}
