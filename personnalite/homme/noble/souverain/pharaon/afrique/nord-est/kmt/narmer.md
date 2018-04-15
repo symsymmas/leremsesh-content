@@ -9,7 +9,7 @@ D'origine soudanaise, [Pér Aat](/personnalite/titre/per-aat) Narmer est né aux
 
 # La vie du [Pér Aat](/personnalite/titre/per-aat)
 ## Formation
-Dès l'âge de 4 ans, le [Pér Aat](/personnalite/titre/per-aat) Narmer étudie auprès du Scribe [Amenhotep](/personnalite/homme/savant/afrique/nord-est/empire/kmt/amenhotep) au sein de « l'école royale ».[^1]
+Dès l'âge de 4 ans, Narmer étudie auprès du Scribe [Amenhotep](/personnalite/homme/savant/afrique/nord-est/empire/kmt/amenhotep) au sein de « l'école royale ».[^1]
 
 Cette formation a eu pour objectif d'enseigner au futur Pér Aat le savoir des ancêtres, en l'occurence :
 * l'[origine de l'homme](/histoire/afrique/les-origines-de-l-humanite) ;
