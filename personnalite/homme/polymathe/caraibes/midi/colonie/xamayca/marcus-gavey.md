@@ -32,4 +32,4 @@ Voici une liste non exhaustive de livres rendant hommage à Marcus GARVEY :
 * [Marcus Garvey, expliqué aux adolescents](/ouvrage/documentaire/marcus-garvey-explique-aux-adolescents), un documentaire ayant pour but de présenter le héros qu'est Marcus Garvey aux jeunes mais aussi aux moins jeunes.
 
 
-[^1]: [Doumbi-Fakoly](). [Marcus Garvey expliqué aux adolescents](). Livre. France ; Édition [MENAIBUC]() ; 2ème trimestre 2009. p.7 ; p.11. ISBN : 978-2-35349-102-5. 
+[^1]: [Doumbi-Fakoly](/personnalite/homme/guerrier/afrique/nord-ouest/empire/mali/fakoli-manden). [Marcus Garvey expliqué aux adolescents](/ouvrage/documentaire/marcus-garvey-explique-aux-adolescents). Livre. France ; Édition [MENAIBUC](/organisme/editeur/menaibuc) ; 2ème trimestre 2009. p.7 ; p.11. ISBN : 978-2-35349-102-5. 
