@@ -1,10 +1,13 @@
 <!-- TITLE: Marcus Gavey -->
 <!-- SUBTITLE: Présentation de Marcus Gavey -->
 
-
-
 # Origines
 Marcus Garvey est un africain né en Jamaïque.[^1]
+
+# Famille
+La photo suivante illustre Marcus GARVEY et sa seconde femme, Amy Jacques Garvey. Photo prise datant de 1922.
+
+![Marcus Garvey With Amy Jacques Garvey 1922](/uploads/personnalite/marcus-garvey-with-amy-jacques-garvey-1922.png "Marcus Garvey et Amy Jacques Garvey, sa seconde femme, en 1922."){.align-center}
 
 # Objectifs
 Marcus Garvey est connu pour avoir eu l'ambition de réinstaller l'Afrique dans sa grandeur et sa dignité d'antan tout en insistant son peuple à retourner sur leurs terre d'origine (l'Afrique).[^1]
