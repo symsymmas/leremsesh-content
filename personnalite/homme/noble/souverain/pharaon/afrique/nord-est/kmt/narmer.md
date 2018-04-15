@@ -30,7 +30,7 @@ Pensant qu'il était à leur merci, le clan du Nord a tenté de piéger le [Pér
 
 ![King Narmer](/uploads/personnalite/king-narmer.jpg "Le Pharaon Narmer sur la Palette de Narmer"){.align-center}
 
-Suite à l'unification, le [Pér Aat](/personnalite/titre/per-aat) (Pharaon) Narmer décida de se re-couronner. Ce couronnement a donné la création d'une nouvelle couronne qui symbolise l'union [de la haute et de la basse Égypte](/geographie/empire/afrique/nord-est/kmt#levolution-du-royaume). Depuis, la couronne du [Pér Aat](/personnalite/titre/per-aat) (Pharaon) est constituée de deux couronnes qui ne font qu'une. Cela symbolise une union entre [la haute et la basse Égypte](/geographie/empire/afrique/nord-est/kmt#levolution-du-royaume). Cette couronne se constitue de :
+Suite à l'unification, le [Pér Aat](/personnalite/titre/per-aat) (Pharaon) Narmer décida de se re-couronner. Ce couronnement a donné la création d'une nouvelle couronne qui symbolise l'union [de la haute et de la basse Égypte](/geographie/empire/afrique/nord-est/kmt#levolution-du-royaume) : [Pschent](/objet/noblesse/afrique/nord-est/kmt/couronne#pschent). Depuis, la couronne du [Pér Aat](/personnalite/titre/per-aat) (Pharaon) est constituée de deux couronnes qui ne font qu'une. Cela symbolise une union entre [la haute et la basse Égypte](/geographie/empire/afrique/nord-est/kmt#levolution-du-royaume). Cette couronne se constitue de :
 	* la couronne Ouadjet qui est de couleur blanche et qui représente la haute Égypte ;
 	* la couronne Nekheret qui est de couleur rouge et qui représente la basse Égypte.
 
