@@ -11,5 +11,4 @@ Ouadjet est la couronne de la haute Égypte. Celle-ci est de couleur blanche.
 # Déshérèt
 Déshérèt est la couronne de la basse Égypte. Elle est de couleur rouge.
 
-
-
+![Deshret](/uploads/object/deshret.png "Deshret"){.align-center}
