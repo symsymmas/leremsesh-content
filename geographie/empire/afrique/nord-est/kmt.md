@@ -12,20 +12,20 @@ Les autochtones de *Kémèt* écrivaient ce mot à l'aide des idéogrammes suiva
 	* soit un tas ou un bout de charbon de bois (brulé),
 	* soit les épines d'un porc-épic ;
 
-![Signe I 6](/uploads/ecriture/signe-i-6.png "Signe I 6"){.align-center}
+![I 6](/uploads/ecriture/i-6.png "Signe I6"){.align-center}
 
 
 * L'unilitère G17[^2] qui représente une chouette ou un hibou. Ce signe se prononce comme la lettre *m* ;
 
-![Signe G 17](/uploads/ecriture/signe-g-17.png "Signe G 17"){.align-center}
+![Signe G 17](/uploads/ecriture/signe-g-17.png "Signe G17"){.align-center}
 
 * L'unilitère X1[^2] qui représente du pain ou une galette de pain. Ce signe se prononce comme la lettre *t* ;
 
-![Signe X 1](/uploads/ecriture/signe-x-1.png "Signe X 1"){.align-center}
+![Signe X 1](/uploads/ecriture/signe-x-1.png "Signe X1"){.align-center}
 
 * L'idéogramme et déterminatif O49[^2] qui représente une localité avec des avenues qui se croisent.  Il se prononce *niout* (NIWT).
 
-![Signe O 49](/uploads/ecriture/signe-o-49.png "Signe O 49"){.align-center}
+![Signe O 49](/uploads/ecriture/signe-o-49.png "Signe O49"){.align-center}
 
 # Traduction littérale
 En partant de l'étymologie du mot *Kémèt*, il est possible de décortiquer le mot de la sorte :
