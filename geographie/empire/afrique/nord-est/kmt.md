@@ -48,8 +48,8 @@ Le terme Kémèt peut donc se traduire littéralement par : *aglomération noir
 L'expression *TA N Kémèt* peut être utilisée pour aider à interpréter le mot *Kémèt*.[^3]
 
 Cette expression est composée de :
-* *Ta* qui signifie terre.
-* *N* qui fait référence à la possession et qui peut se traduire par le mot « à » ou le mot « pour » (quelqu'un)[^1].
+* *Ta* qui signifie terre ;
+* *N* qui fait référence à la possession et qui peut se traduire par le mot « à » ou le mot « pour » (quelqu'un) ;[^1]
 * *Kémèt* (voir [traduction précédente](#traduction-litterale)).
 
 Littéralement, cette expression se traduit par : la *terre de la cité noire* ou la *terre du pays noir*.[^3]
