@@ -1,10 +1,10 @@
-<!-- TITLE: 19ème Siècle -->
-<!-- SUBTITLE: Événements s'étant déroulé au 19 Eme Siecle -->
+<!-- TITLE: IXXème Siècle -->
+<!-- SUBTITLE: Événements s'étant déroulé au IXXème Siècle -->
 
-Cette page retrace divers événements qui se sont passés au 19ème siècle.
+Cette page retrace divers événements qui se sont passés au IXXème siècle.
 
 # Naissances
-Voici une liste non exhaustive de naissances remontant au 19ème siècle :
+Voici une liste non exhaustive de naissances remontant au IXXème siècle :
 * [Marcus Garvey](/personnalite/homme/polymathe/caraibes/midi/colonie/xamayca/marcus-gavey) : Africain de [Xamayca](/geographie/ile/caraibes/midi/xamayca), il est né le [18](/histoire/date/calendrier-gregorien/par-jour/18) [Août](/histoire/date/calendrier-gregorier/par-mois/aout) [1887](/histoire/date/calendrier-gregorien/par-annee/1887).[^1]
 
 
