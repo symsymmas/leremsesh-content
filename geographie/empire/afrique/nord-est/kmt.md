@@ -80,7 +80,7 @@ L'illustration donne un aperçu de cet empire à son apogé territorial
 
 ![Egypt Nk Edit](/uploads/egypt-nk-edit.png "Territoire de la haute et de la basse Égypte à son apogée territoriale")
 
-L'unification de la haute et de la basse Égypte est issue de la démarche civilisatrice du [Pharaon](/personnalite/titre/per-aat) [Narmer](/personnalite/le-roi-Narmer) qui a consisté à calmer les tensions entre les clans du Nord et Kémèt.
+L'unification de la haute et de la basse Égypte est issue de la démarche civilisatrice du [Pharaon](/personnalite/titre/per-aat) [Narmer](/personnalite/homme/noble/souverain/pharaon/afrique/nord-est/kmt/narmer) qui a consisté à calmer les tensions entre les clans du Nord et Kémèt.
 Suite à cette unification, le [Pharaon](/personnalite/titre/per-aat) porte la couronne des deux territoires (Nékhebet et Ouadjet), ce qui montre l'intégration des peuples de la basse Égypte au sein de Kémèt, tout en concervant et en respectant leur intégrité.[^5]
 
 
