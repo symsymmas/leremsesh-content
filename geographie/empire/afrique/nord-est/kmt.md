@@ -5,7 +5,7 @@
 
 *KMT* (ou *Kémét*) est le nom donné à l'Égypte antique par son peuple (les [Kemtiou](/peuple/afrique/nord-est/empire/kmt/kemtiou))[^1].
 
-# Déchiffrement
+# Étymologie
 Les autochtones de *Kémèt* écrivaient ce mot à l'aide des idéogrammes suivants[^1][^3]:
 * Le bilitère I6[^2], qui se prononce *kèm* (KM) et qui représente :
 	* soit un morceau de peau de crocodile avec écailles (d'où sa comparaison aux amphibiens, sauriens et reptiles dans la [classification Gardiner](/ecriture/hieroglyphe/classification-gardiner)),
@@ -28,23 +28,19 @@ Les autochtones de *Kémèt* écrivaient ce mot à l'aide des idéogrammes suiva
 ![O 49](/uploads/ecriture/o-49.png "Signe O49"){.align-center}
 
 # Traduction littérale
-En partant de l'étymologie du mot *Kémèt*, il est possible de décortiquer le mot de la sorte :
-1.  Le premier signe (prononcé kèm) représente un morceau de charbon ou la peau de crocodile avec ses écailles.
+En partant de l'[étymologie](#etymologie) du mot *Kémèt*, il en ressort que :
+1.  Le premier idéogramme, comme l'ont admis les égptologues du Colloque du Caire de 1974, représente la couleur noire puisque :
+  * étant donné l'origine négro-africaine des [Kemtiou](/peuple/afrique/nord-est/empire/kmt/kemtiou) (égyptiens de l'époque pharaonique antique) des variantes du son *kèm* sont utilisées dans plusieurs langues Africaines pour désigner la couleur noire,[^4]
+	* comme illustré ci-dessous, les crocodiles (ceux du Nil dans l'image suivante) sont d'une couleur noire,
 
-  * L'illustration suivante montre ce à quoi ressemble des crocodiles du Nil.
+![Crocodile 2697279 1920](/uploads/animaux/crocodile-2697279-1920.jpg "Crocodiles du Nil"){.align-center}
 
-![Crocodile 2697279 1920](/uploads/animaux/crocodile-2697279-1920.jpg "Crocodile 2697279 1920"){.align-center}
+  * le charbon est de couleur noire,
 
-  * L'image qui suit rappelle quelle est la couleur du charbon.
+![Coal 471903 1920](/uploads/object/coal-471903-1920.jpg "Tas de charbon")
 
-![Coal 471903 1920](/uploads/object/coal-471903-1920.jpg "Coal 471903 1920")
-
-  * Lors du Colloque du Caire de 1974, les égyptologues présents ont admit que cet idéogramme représente la couleur noire. L'historien Dibombari Mbock confirme la chose en démontrant que des variantes du son *kèm* sont utilisées dans plusieurs langues Africaines pour désigner la couleur noire[^4].
-
-2. Le troisième signe rappel le concept féminin. En effet, le [mdw ntr](/ecriture/hieroglyphe/mdw-ntr) (écriture et langue de *Kémèt*) a pour particularité de rajouter le phonème *t* a la fin des mots féminins^[Il faut savoir qu'en *proto-bantou*, le mot *pain*, le mot *femme* et le mot *épouse* sont des homonymes. Il est probable que cela vienne du paradygme égypto-nubien (cf. : [L'Égypte Pharaonique : Ni terre noire, ni pays des Noirs](https://www.youtube.com/watch?v=WeU6F0msUGU)].
-
+2. Le troisième signe rappel le concept féminin. En effet, le [mdw ntr](/ecriture/hieroglyphe/mdw-ntr) (écriture et langue de *Kémèt*) a pour particularité de rajouter le phonème *t* a la fin des mots féminins^[Il faut savoir qu'en *proto-bantou*, le mot *pain*, le mot *femme* et le mot *épouse* sont des homonymes. Il est probable que cela vienne du paradygme égypto-nubien (cf. : [L'Égypte Pharaonique : Ni terre noire, ni pays des Noirs](https://www.youtube.com/watch?v=WeU6F0msUGU)] ;
 3. Le quatrième et dernier signe (NIWT) est utilisé uniquement lorsqu'il est question d'agglomération urbaine, à l'inverse du mot *ta* (ou *to*) qui renvoie à la terre ou au sol.
-
 
 Le terme Kémèt peut donc se traduire littéralement par : *aglomération noire*, *cité noire*, voir *pays noir*.[^3]
 
