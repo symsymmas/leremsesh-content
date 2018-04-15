@@ -20,10 +20,9 @@ De plus, Marcus Garvey est l'un des premiers Africains de la diaspora à avoir f
 Marcus Garvey a créé une compagnie maritime dans le but de fournir un moyen de retour en Afrique aux Africains de la diaspora.[^1]
 
 ## Gouvernement
-L'image suivante représente Marcus Garvey lors de la marche qu'il a organisé aux États-Unis d'Amérique en 1922. Il porte les apparats du gouvernement qu'il a fondé.
+L'image suivante représente Marcus Garvey lors de l'évènement qu'il a organisé aux États-Unis d'Amérique en 1922. Il porte les apparats de chef du gouvernement qu'il a fondé.
 
-![Marcus Garvey 1922](/uploads/personnalite/marcus-garvey-1922.png "Marcus Garvey 1922"){.align-center}
-
+![Marcus Garvey March 1922](/uploads/personnalite/marcus-garvey-march-1922.png "Marcus Garvey 1922"){.align-center}
 
 ## Armée
 
