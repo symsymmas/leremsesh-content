@@ -73,7 +73,7 @@ La couronne du [Pharaon](/personnalite/titre/per-aat) de la basse Égypte se nom
 
 ## L'unification de la haute et de la basse Égypte
 Vers l'an [-3 200](/histoire/date/calendrier-gregorien/par-an/-3200)[^5], le royaume de Kémèt s'étend de l'Est de l'Afrique jusqu'à la Syrie.
-L'illustration donne un aperçu de cet empire à son apogé territorial
+L'illustration suivante donne un aperçu de cet empire à son apogé territorial
 
 ![Egypt Nk Edit](/uploads/egypt-nk-edit.png "Territoire de la haute et de la basse Égypte à son apogée territoriale")
 
