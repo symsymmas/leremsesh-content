@@ -7,7 +7,7 @@
 Marcus Garvey est un Africain né le [18](/histoire/date/calendrier-gregorien/par-jour/18) [Août](/histoire/date/calendrier-gregorien/par-mois/aout) [1887](/histoire/date/calendrier-gregorien/par-annee/1887) en [Jamaïque](/geographie/ile/caraibes/midi/xamayca), dans un village côtier nommé *Saint Ann's Park*.[^1] Il est donc né dans une colonie britanique où l'esclavage fut abolie depuis 53 ans, soit en [1834](/histoire/date/calendrier-gregorien/par-annee/1834).[^1]
 
 # Famille
-La photo suivante illustre Marcus GARVEY et sa seconde femme, Amy Jacques Garvey. Photo prise datant de 1922.
+La photo suivante illustre Marcus GARVEY et sa seconde femme, Amy Jacques Garvey. Photo prise en [1922](/histoire/date/calendrier-gregorien/par-annee/1922).
 
 ![Marcus With Amy Jacques Garvey](/uploads/personnalite/marcus-with-amy-jacques-garvey.png "Marcus Garvey et Amy Jacques Garvey, sa seconde femme, en 1922."){.align-center}
 
