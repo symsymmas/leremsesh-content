@@ -1,6 +1,8 @@
 <!-- TITLE: Marcus Gavey -->
 <!-- SUBTITLE: Présentation de Marcus Gavey -->
 
+![Marcus Garvey Portrait](/uploads/personnalite/marcus-garvey-portrait.png "Marcus Garvey Portrait"){.pagelogo}
+
 # Origines
 Marcus Garvey est un africain né en Jamaïque.[^1]
 
