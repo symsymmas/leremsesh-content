@@ -1,7 +1,7 @@
 <!-- TITLE: Soundjata Keïta -->
 <!-- SUBTITLE: Présentation de Soundjata Keïta -->
 
-Soundjata (ou Soundiata) Keïta a fondé l'[empire du Mali](/geographie/afrique/empire/mali) au [XIIIème siècle](/histoire/date/calendrier-gregorien/par-siecle/xiiieme-siecle), suite à la [bataille de Kirina](/evenement/bataille-de-kirina) en pays [Mandé](/geographie/afrique/royaume/manden).[^1]
+Soundjata (ou Soundiata) Keïta a fondé l'[empire du Mali](/geographie/empire/afrique/nord-ouest/mali) au [XIIIème siècle](/histoire/date/calendrier-gregorien/par-siecle/xiiieme-siecle), suite à la [bataille de Kirina](/evenement/bataille-de-kirina) en pays [Mandé](/geographie/afrique/royaume/manden).[^1]
 
 # Généalogie
 Soundjata Keïta est le fils de [Sogolon Konté](/personnalite/femme/autre/sogolon-konte), sa mère, et de son [Naré Maghan Konaté](/personnalite/homme/autre/nare-maghan-konate), son père.[^1]
@@ -22,10 +22,10 @@ En 1229, Soundjata est de retour en sa terre natale. Sa venue a insité les [man
 Voir [bataille de kirina](/histoire/afrique/epoque-medievale/confrontation/bataille-de-kirina)
 
 # La prise de conscience
-Choqué par le carnage causé par [la bataille de Kirina](/histoire/afrique/epoque-medievale/confrontation/bataille-de-kirina) pour la libération du [Manden](/geographie/afrique/royaume/manden) et par respect pour tous les défunts, Soundjata accomplit un rite funéraire à [Samba Fida](/geographie/afrique/talus/samba-fida). Il prit conscience d'une chose, que la *fraternité, tant par le lait que le sang, doit à jamais prévaloir dans le Manden*[^1]. Cette prise de conscience devint le fil d'ariane de l'[empire du mali](/geographie/afrique/empire/mali).
+Choqué par le carnage causé par [la bataille de Kirina](/histoire/afrique/epoque-medievale/confrontation/bataille-de-kirina) pour la libération du [Manden](/geographie/afrique/royaume/manden) et par respect pour tous les défunts, Soundjata accomplit un rite funéraire à [Samba Fida](/geographie/afrique/talus/samba-fida). Il prit conscience d'une chose, que la *fraternité, tant par le lait que le sang, doit à jamais prévaloir dans le Manden*[^1]. Cette prise de conscience devint le fil d'ariane de l'[empire du mali](/geographie/empire/afrique/nord-ouest/mali).
 
 # L'empire du Mali
-Soundjata Keïta a fondé l'empire du Mali dans le but d'unifier tous les peuples Africains afin de cesser les guerres entre les petits royaumes de l'Afrique de l'Ouest.[^2]
+Soundjata Keïta a fondé l'[empire du Mali](/geographie/empire/afrique/nord-ouest/mali) dans le but d'unifier tous les peuples Africains afin de cesser les guerres entre les petits royaumes de l'Afrique de l'Ouest.[^2]
 Ce projet fut un succès étant donné que pendant deux cents ans, les différents royaumes de cet empire furent en paix.[^2]
 
 
