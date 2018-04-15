@@ -19,7 +19,7 @@ Les autochtones de *Kémèt* écrivaient ce mot à l'aide des idéogrammes suiva
 
 ![Signe G 17](/uploads/ecriture/signe-g-17.png "Signe G17"){.align-center}
 
-* L'unilitère X1[^2] qui représente du pain ou une galette de pain. Ce signe se prononce comme la lettre *t* ;
+* L'unilitère X1[^2] qui se prononce comme la lettre *t* et qui représente du pain ou une galette de pain ;
 
 ![Signe X 1](/uploads/ecriture/signe-x-1.png "Signe X1"){.align-center}
 
