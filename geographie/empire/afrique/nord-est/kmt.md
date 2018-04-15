@@ -39,7 +39,7 @@ En partant de l'[étymologie](#etymologie) du mot *Kémèt*, il en ressort que 
 
 ![Coal 471903 1920](/uploads/object/coal-471903-1920.jpg "Tas de charbon")
 
-2. Le troisième signe rappel le concept féminin. En effet, le [mdw ntr](/ecriture/hieroglyphe/mdw-ntr) (écriture et langue de *Kémèt*) a pour particularité de rajouter le phonème *t* a la fin des mots féminins^[Il faut savoir qu'en *proto-bantou*, le mot *pain*, le mot *femme* et le mot *épouse* sont des homonymes. Il est probable que cela vienne du paradygme égypto-nubien (cf. : [L'Égypte Pharaonique : Ni terre noire, ni pays des Noirs](https://www.youtube.com/watch?v=WeU6F0msUGU)] ;
+2. Le troisième signe rappel le concept féminin. En effet, le [mdw ntr](/ecriture/hieroglyphe/mdw-ntr) (écriture et langue de *Kémèt*) a pour particularité de rajouter le phonème *t* a la fin des mots féminins[^6] ;
 3. Le quatrième et dernier signe (NIWT) est utilisé uniquement lorsqu'il est question d'agglomération urbaine, à l'inverse du mot *ta* (ou *to*) qui renvoie à la terre ou au sol.
 
 Le terme Kémèt peut donc se traduire littéralement par : *aglomération noire*, *cité noire*, voir *pays noir*.[^3]
@@ -89,3 +89,4 @@ Suite à cette unification, le [Pharaon](/personnalite/titre/per-aat) porte la c
 [^3]: IshangoTV, [Kemet ou l'Egypte ancienne](https://www.youtube.com/watch?v=lfS4IzC4eLM), vidéo [YouTube](http://youtube.com), [24](/histoire/date/calendrier-gregorien/par-jour/24) [Janv.](/histoire/date/calendrier-gregorien/par-mois/janvier) [2012](/histoire/date/calendrier-gregorien/par-annee/2012).
 [^4]: [A CONTRARIO](/personnalite/homme/polymathe/afrique/ouest/cameroun/dibombari-mbock), [L'Égypte Pharaonique : Ni terre noire, ni pays des Noirs](https://www.youtube.com/watch?v=WeU6F0msUGU), vidéo YouTube, [24](/histoire/date/calendrier-gregorien/par-jour/24) [Févr.](/histoire/date/calendrier-gregorien/par-mois/fevrier) [2017](/histoire/date/calendrier-gregorien/par-annee/2017).
 [^5]: [Nioussérê K. Omotunde](/personnalite/nioussere-kalala-omotunde) ; [Djaïbré Asha Maât](/personnalite/djaibre-asha-maat). [L'épopée du roi Narmer](ouvrages/l-epopee-du-roi-narmer). Livre broché. [Edition ANYJART](/organisme/anyjart). Baie-Mahault : [Juin](/histoire/date/calendrier-gregorien/par-mois/juin) [2015](/histoire/date/calendrier-gregorien/par-annee/2015). ISBN 979-10-95097-02-0.
+[^6]: Il faut savoir qu'en *proto-bantou*, le mot *pain*, le mot *femme* et le mot *épouse* sont des homonymes. Il est probable que cela vienne du paradygme égypto-nubien (cf. : [L'Égypte Pharaonique : Ni terre noire, ni pays des Noirs](https://www.youtube.com/watch?v=WeU6F0msUGU).
