@@ -68,11 +68,11 @@ Dès lors, il est plus facile de comprendre pourquoi les [Kemtiou](/peuple/afriq
 
 ## La haute Égypte
 La haute Égypte est au Sud de la basse Égypte (cf. : illustration précédente). C'est le premier et le plus ancien territoire de Kémèt.
-La couronne du [Pharaon](/personnalite/per-aat) de la haute Égypte se nomme Ouadjet et elle est de couleur blanche.[^5]
+La couronne du [Pharaon](/personnalite/titre/per-aat) de la haute Égypte se nomme Ouadjet et elle est de couleur blanche.[^5]
 
 ## La basse Égypte
 La basse Égypte est au Nord de la haute Égypte (cf. : illustration précédente).
-La couronne du [Pharaon](/personnalite/per-aat) de la basse Égypte se nomme Nékhebet et elle est de couleur rouge.[^5]
+La couronne du [Pharaon](/personnalite/titre/per-aat) de la basse Égypte se nomme Nékhebet et elle est de couleur rouge.[^5]
 
 ## L'unification de la haute et de la basse Égypte
 Vers l'an [-3 200](/histoire/date/calendrier-gregorien/par-an/-3200)[^5], le royaume de Kémèt s'étend de l'Est de l'Afrique jusqu'à la Syrie.
@@ -80,8 +80,8 @@ L'illustration donne un aperçu de cet empire à son apogé territorial
 
 ![Egypt Nk Edit](/uploads/egypt-nk-edit.png "Territoire de la haute et de la basse Égypte à son apogée territoriale")
 
-L'unification de la haute et de la basse Égypte est issue de la démarche civilisatrice du [Pharaon](/personnalite/per-aat) [Narmer](/personnalite/le-roi-Narmer) qui a consisté à calmer les tensions entre les clans du Nord et Kémèt.
-Suite à cette unification, le [Pharaon](/personnalite/per-aat) porte la couronne des deux territoires (Nékhebet et Ouadjet), ce qui montre l'intégration des peuples de la basse Égypte au sein de Kémèt, tout en concervant et en respectant leur intégrité.[^5]
+L'unification de la haute et de la basse Égypte est issue de la démarche civilisatrice du [Pharaon](/personnalite/titre/per-aat) [Narmer](/personnalite/le-roi-Narmer) qui a consisté à calmer les tensions entre les clans du Nord et Kémèt.
+Suite à cette unification, le [Pharaon](/personnalite/titre/per-aat) porte la couronne des deux territoires (Nékhebet et Ouadjet), ce qui montre l'intégration des peuples de la basse Égypte au sein de Kémèt, tout en concervant et en respectant leur intégrité.[^5]
 
 
 <!-- Sources -->
