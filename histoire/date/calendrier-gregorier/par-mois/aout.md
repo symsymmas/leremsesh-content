@@ -3,7 +3,7 @@
 
 Cette page retrace divers événements passés durant un mois d'Août.
 
-# Naissances du mois
+# Naissances
 Voici une liste non exhaustive de naissances datées du mois d'Août :
 * [Marcus Garvey](/personnalite/homme/polymathe/caraibes/midi/colonie/xamayca/marcus-gavey) : Africain de [Xamayca](/geographie/ile/caraibes/midi/xamayca), il est né le [18](/histoire/date/calendrier-gregorien/par-jour/18) Août [1887](/histoire/date/calendrier-gregorien/par-annee/1887).[^1]
 
