@@ -23,7 +23,7 @@ Les autochtones de *Kémèt* écrivaient ce mot à l'aide des idéogrammes suiva
 
 ![Signe X 1](/uploads/ecriture/signe-x-1.png "Signe X1"){.align-center}
 
-* L'idéogramme et déterminatif O49[^2] qui représente une localité avec des avenues qui se croisent.  Il se prononce *niout* (NIWT).
+* L'idéogramme et déterminatif O49[^2] qui se prononce *niout* (NIWT) et qui représente une localité avec des avenues qui se croisent.
 
 ![O 49](/uploads/ecriture/o-49.png "Signe O49"){.align-center}
 
