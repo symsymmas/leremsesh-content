@@ -15,7 +15,7 @@ Les autochtones de *Kémèt* écrivaient ce mot à l'aide des idéogrammes suiva
 ![I 6](/uploads/ecriture/i-6.png "Signe I6"){.align-center}
 
 
-* L'unilitère G17[^2] qui représente une chouette ou un hibou. Ce signe se prononce comme la lettre *m* ;
+* L'unilitère G17[^2] qui se prononce comme la lettre *m* et qui représente une chouette ou un hibou ;
 
 ![Signe G 17](/uploads/ecriture/signe-g-17.png "Signe G17"){.align-center}
 
