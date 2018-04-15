@@ -3,7 +3,7 @@
 
 ![Kmt](/uploads/ecriture/kmt.png "Kmt"){.pagelogo}
 
-*KMT* (ou *Kémét*) est le nom donné à l'Égypte antique par son peuple (les [Kemtiou](http://leremsesh.com/peuple/kemtiou))[^1].
+*KMT* (ou *Kémét*) est le nom donné à l'Égypte antique par son peuple (les [Kemtiou](https://partage.leremsesh.com/peuple/afrique/nord-est/empire/kmt/kemtiou))[^1].
 
 # Déchiffrement
 *Kémèt* s'écrit à l'aide des signes suivants[^1][^3] :
