@@ -4,7 +4,7 @@
 Voici une liste d'événements qui se sont produits au XIIIème siècle du calendrier Grégorien.
 
 # Chartes / constitutions
-* Création de la [première déclaration des droits de l'homme](/constitution/afrique/nord-ouest/empire/mali/charte-de-kurukanfuka), suite à la création de l'empire du [Mali](/geographie/empire/afrique/nord-ouest/mali), en [1236](/histoire/date/calendrier-gregorien/par-annee/1236).[^1]
+* Création de la [première déclaration des droits de l'homme](/constitution/afrique/nord-ouest/empire/mali/charte-de-kurukanfuka) au [Mali](/geographie/empire/afrique/nord-ouest/mali), suite à la fondation de cet empire, en [1236](/histoire/date/calendrier-gregorien/par-annee/1236).[^1]
 
 # Entités géopolitiques
 * Constitution de l'[empire du Mali](/geographie/empire/afrique/nord-ouest/mali) en [1204](/histoire/date/calendrier-gregorien/par-annee/1204).[^2]
