@@ -4,7 +4,7 @@
 ![Marcus Garvey Portrait](/uploads/personnalite/marcus-garvey-portrait.png "Marcus Garvey Portrait"){.pagelogo}
 
 # Origines
-Marcus Garvey est un Africain né le [18 Août]() [1887]() en [Jamaïque](/geographie/ile/caraibes/midi/xamayca), dans un village côtier nommé *Saint Ann's Park*.[^1] Il est donc né dans une colonie britanique où l'esclavage fut abolie depuis 53 ans, soit en 1834.[^1]
+Marcus Garvey est un Africain né le [18](/histoire/date/calendrier-gregorien/par-jour/18) [Août](/histoire/date/calendrier-gregorien/par-mois/aout) [1887](/histoire/date/calendrier-gregorien/par-annee/1887) en [Jamaïque](/geographie/ile/caraibes/midi/xamayca), dans un village côtier nommé *Saint Ann's Park*.[^1] Il est donc né dans une colonie britanique où l'esclavage fut abolie depuis 53 ans, soit en [1834](https://partage.leremsesh.com/histoire/date/calendrier-gregorien/par-annee/1834).[^1]
 
 # Famille
 La photo suivante illustre Marcus GARVEY et sa seconde femme, Amy Jacques Garvey. Photo prise datant de 1922.
