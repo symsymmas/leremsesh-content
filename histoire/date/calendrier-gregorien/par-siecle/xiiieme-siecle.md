@@ -1,5 +1,5 @@
 <!-- TITLE: XIIIème Siècle -->
-<!-- SUBTITLE: Événements s'étant produit au XIIIème Siècle ? -->
+<!-- SUBTITLE: Événements s'étant produit au XIIIème Siècle -->
 
 Voici une liste d'événements qui se sont produits au XIIIème siècle du calendrier Grégorien.
 
