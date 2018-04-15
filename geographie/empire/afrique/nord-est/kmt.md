@@ -55,16 +55,16 @@ Cette expression est composée de :
 
 Littéralement, cette expression se traduit par : la *terre du cité noire* ou la *terre du pays noir*.[^3]
 
-Ceci étant, il faut se rappeler des propos d'Hérodote et des autres contemporains des [Kemtiou](http://leremsesh.com/peuple/kemtiou), qui les définissaient comme étant d'une couleur noire.[^3]
+Ceci étant, il faut se rappeler des propos d'Hérodote et des autres contemporains des [Kemtiou](/peuple/afrique/nord-est/empire/kmt/kemtiou), qui les définissaient comme étant d'une couleur noire.[^3]
 
 Dès lors, sachant que *Kémèt* ne fait ni référence au sol, ni à la couleur de celui-ci, la traduction exacte de ce mot est : *Pays des noirs* ou *cité des noirs*. Nous pouvons prendre comme exemple l'expression *Afrique noir* qui fait référence à la couleur des habitants.[^3]
 
 # L'évolution du royaume
-Avant de lire la suite de ce chapitre, il faut se rappeler que les [Égyptiens de l'antiquité](/peuple/kemtiou) regardaient le monde « tête en bas », c'est à dire que le Nord se trouve en bas et le Sud en haut, comme le présente l'illustration suivante.
+Avant de lire la suite de ce chapitre, il faut se rappeler que les [Égyptiens de l'antiquité](/peuple/afrique/nord-est/empire/kmt/kemtiou) regardaient le monde « tête en bas », c'est à dire que le Nord se trouve en bas et le Sud en haut, comme le présente l'illustration suivante.
 
 ![Tobler Hyperelliptical Projection Small](/uploads/earth/tobler-hyperelliptical-projection-small.png "Tobler Hyperelliptical Projection Small"){.align-center}
 
-Dès lors, il est plus facile de comprendre pourquoi les [Kemtiou](/peuple/kemtiou) (Égyptiens de l'antiquité) appelaient *haute Égypte* le Sud de Kémèt et *basse Égypte* son Nord.
+Dès lors, il est plus facile de comprendre pourquoi les [Kemtiou](/peuple/afrique/nord-est/empire/kmt/kemtiou) (Égyptiens de l'antiquité) appelaient *haute Égypte* le Sud de Kémèt et *basse Égypte* son Nord.
 
 ## La haute Égypte
 La haute Égypte est au Sud de la basse Égypte (cf. : illustration précédente). C'est le premier et le plus ancien territoire de Kémèt.
