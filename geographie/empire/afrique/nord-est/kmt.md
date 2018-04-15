@@ -7,7 +7,7 @@
 
 # Déchiffrement
 Les autochtones de *Kémèt* écrivaient ce mot à l'aide des idéogrammes suivants[^1][^3] :
-* Le bilitère I6[^2], qui se prononce *kèm* (KM) représente :
+* Le bilitère I6[^2], qui se prononce *kèm* (KM) et qui représente :
 	* soit un morceau de peau de crocodile avec écailles (d'où sa comparaison aux amphibiens, sauriens et reptiles dans la [classification Gardiner](/ecriture/hieroglyphe/classification-gardiner)),
 	* soit un tas ou un bout de charbon de bois (brulé) ;
 
