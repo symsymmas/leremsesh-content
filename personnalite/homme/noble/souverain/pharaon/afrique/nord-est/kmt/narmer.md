@@ -15,7 +15,7 @@ Cette formation a pour objectif d'enseigner le savoir des ancêtres au futur [P�
 * l'[origine de l'homme](/histoire/afrique/les-origines-de-l-humanite) ;
 * l'art ;
 * les [mathématiques](/mathematiques/mathematiques-africaines) ;
-* l'[écriture](/ecriture/mdw-ntr) ;
+* l'[écriture](/ecriture/hieroglyphe/mdw-ntr) ;
 * l'architecture ;
 * la physique ;
 * la médecine ;
