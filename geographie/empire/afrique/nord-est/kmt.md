@@ -7,16 +7,18 @@
 
 # Déchiffrement
 Les autochtones de *Kémèt* écrivaient ce mot à l'aide des idéogrammes suivants[^1][^3] :
-* Le bilitère I6[^2] qui représente un tas/bout de charbon de bois (brulé) ou un morceau de peau de crocodile (avec écailles), d'où sa comparaison aux amphibiens, sauriens et reptiles dans la [classification Gardiner](/ecriture/hieroglyphe/classification-gardiner). Ce signe se prononce *kèm* (KM).
+* Le bilitère I6[^2], qui se prononce *kèm* (KM) représente :
+	* soit un morceau de peau de crocodile avec écailles (d'où sa comparaison aux amphibiens, sauriens et reptiles dans la [classification Gardiner](/ecriture/hieroglyphe/classification-gardiner)),
+	* soit un tas ou un bout de charbon de bois (brulé) ;
 
 ![Signe I 6](/uploads/ecriture/signe-i-6.png "Signe I 6"){.align-center}
 
 
-* L'unilitère G17[^2] qui représente une chouette ou un hibou. Ce signe se prononce comme la lettre *m*.
+* L'unilitère G17[^2] qui représente une chouette ou un hibou. Ce signe se prononce comme la lettre *m* ;
 
 ![Signe G 17](/uploads/ecriture/signe-g-17.png "Signe G 17"){.align-center}
 
-* L'unilitère X1[^2] qui représente du pain ou une galette de pain. Ce signe se prononce comme la lettre *t*.
+* L'unilitère X1[^2] qui représente du pain ou une galette de pain. Ce signe se prononce comme la lettre *t* ;
 
 ![Signe X 1](/uploads/ecriture/signe-x-1.png "Signe X 1"){.align-center}
 
