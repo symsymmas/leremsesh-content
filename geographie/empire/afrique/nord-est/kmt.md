@@ -45,7 +45,7 @@ En partant de l'[étymologie](#etymologie) du mot *Kémèt*, il en ressort que 
 Le terme Kémèt peut donc se traduire littéralement par : *aglomération noire*, *cité noire*, voir *pays noir*.[^3]
 
 # Interprétation
-L'expression *ta n Kémèt* peut être utilisée pour aider à interpréter le mot *Kémèt*.[^3]
+L'expression *ta n Kémèt* peut être utilisée pour aider à comprendre le mot *Kémèt*.[^3]
 
 Cette expression est composée de :
 * *ta* qui signifie *terre* ;
