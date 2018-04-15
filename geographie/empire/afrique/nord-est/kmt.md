@@ -38,7 +38,7 @@ En partant de l'étymologie du mot *Kémèt*, il est possible de décortiquer le
 
   * Lors du Colloque du Caire de 1974, les égyptologues présents ont admit que cet idéogramme représente la couleur noire. L'historien Dibombari Mbock confirme la chose en démontrant que des variantes du son *kèm* sont utilisées dans plusieurs langues Africaines pour désigner la couleur noire[^4].
 
-2. Le troisième signe rappel le concept féminin. En effet, le [mdw ntr](/ecriture/mdw-ntr) (écriture et langue de *Kémèt*) a pour particularité de rajouter le phonème *t* a la fin des mots féminins^[Il faut savoir qu'en *proto-bantou*, le mot *pain*, le mot *femme* et le mot *épouse* sont des homonymes. Il est probable que cela vienne du paradygme égypto-nubien (cf. : [L'Égypte Pharaonique : Ni terre noire, ni pays des Noirs](https://www.youtube.com/watch?v=WeU6F0msUGU)].
+2. Le troisième signe rappel le concept féminin. En effet, le [mdw ntr](/ecriture/hieroglyphe/mdw-ntr) (écriture et langue de *Kémèt*) a pour particularité de rajouter le phonème *t* a la fin des mots féminins^[Il faut savoir qu'en *proto-bantou*, le mot *pain*, le mot *femme* et le mot *épouse* sont des homonymes. Il est probable que cela vienne du paradygme égypto-nubien (cf. : [L'Égypte Pharaonique : Ni terre noire, ni pays des Noirs](https://www.youtube.com/watch?v=WeU6F0msUGU)].
 
 3. Le quatrième et dernier signe (NIWT) est utilisé uniquement lorsqu'il est question d'agglomération urbaine, à l'inverse du mot *ta* (ou *to*) qui renvoie à la terre ou au sol.
 
@@ -86,7 +86,7 @@ Suite à cette unification, le [Pharaon](/personnalite/per-aat) porte la couronn
 
 <!-- Sources -->
 [^1]: René-Louis Parfait ÉTILÉ, Grammaire simplifiée de l'Égyptien hiéroglyphique, livre broché, Éditions [MENAIBUC](http://www.menaibuc.com/), ISBN 2-911372-56-5.
-[^2]: [Classification Gardiner](/ecriture/classification-gardiner), page Web.
+[^2]: [Classification Gardiner](/ecriture/hieroglyphe/classification-gardiner), page Web.
 [^3]: IshangoTV, [Kemet ou l'Egypte ancienne](https://www.youtube.com/watch?v=lfS4IzC4eLM), vidéo [YouTube](http://youtube.com), [24](/histoire/date/calendrier-gregorien/par-jour/24) [Janv.](/histoire/date/calendrier-gregorien/par-mois/janvier) [2012](/histoire/date/calendrier-gregorien/par-annee/2012).
 [^4]: A CONTRARIO, [L'Égypte Pharaonique : Ni terre noire, ni pays des Noirs](https://www.youtube.com/watch?v=WeU6F0msUGU), vidéo YouTube, [24](/histoire/date/calendrier-gregorien/par-jour/24) [Févr.](/histoire/date/calendrier-gregorien/par-mois/fevrier) [2017](/histoire/date/calendrier-gregorien/par-annee/2017).
 [^5]: [Nioussérê K. Omotunde](/personnalite/nioussere-kalala-omotunde) ; [Djaïbré Asha Maât](/personnalite/djaibre-asha-maat). [L'épopée du roi Narmer](ouvrages/l-epopee-du-roi-narmer). Livre broché. [Edition ANYJART](/organisme/anyjart). Baie-Mahault : [Juin](/histoire/date/calendrier-gregorien/par-mois/juin) [2015](/histoire/date/calendrier-gregorien/par-annee/2015). ISBN 979-10-95097-02-0.
