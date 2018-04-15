@@ -3,7 +3,7 @@
 
 Bienvenue sur *PARTAGE.LEREMSESH*. Si vous souhaitez partager votre savoir, vous êtes à la bonne adresse.
 
-**Par défaut, quand vous vous connectez pour la première fois à *PARTAGE.LEREMSESH*, vous n'avez pas les droits d'écriture. Pour y remédier, envoyez un mail à *kitemona@outlook.fr*.**
+**Par défaut, quand vous vous connectez pour la première fois à *PARTAGE.LEREMSESH*, vous n'avez pas les droits d'écriture. Pour y remédier, envoyez un mail à *kitemona arobase outlook point fr*.**
 
 # Je souhaite créer une nouvelle page
 Pour créer une page, suivez les indications suivantes :
