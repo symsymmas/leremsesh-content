@@ -4,7 +4,7 @@
 ![Marcus Garvey Portrait](/uploads/personnalite/marcus-garvey-portrait.png "Marcus Garvey Portrait"){.pagelogo}
 
 # Origines
-Marcus Garvey est un Africain né le [18](/histoire/date/calendrier-gregorien/par-jour/18) [Août](/histoire/date/calendrier-gregorien/par-mois/aout) [1887](/histoire/date/calendrier-gregorien/par-annee/1887) en [Jamaïque](/geographie/ile/caraibes/midi/xamayca), dans un village côtier nommé *Saint Ann's Park*.[^1] Il est donc né dans une colonie britanique où l'esclavage fut abolie depuis 53 ans, soit en [1834](/histoire/date/calendrier-gregorien/par-annee/1834).[^1]
+Marcus Garvey est un Africain de la Jamaïque né le [18](/histoire/date/calendrier-gregorien/par-jour/18) [Août](/histoire/date/calendrier-gregorien/par-mois/aout) [1887](/histoire/date/calendrier-gregorien/par-annee/1887) à [Xamayca](/geographie/ile/caraibes/midi/xamayca), dans un village côtier nommé *Saint Ann's Park*.[^1] À cette époque, l'ile est une colonie britanique. L'esclavage y fut abolie 53 ans avant sa naissance, soit en [1834](/histoire/date/calendrier-gregorien/par-annee/1834).[^1] En terme de génération, ses grands-parents ont connu le [Yovoda]() (terme [Fon]() pouvant être traduit grossièrement par l'esclavage).
 
 # Famille
 La photo suivante illustre Marcus GARVEY et sa seconde femme, Amy Jacques Garvey. Photo prise en [1922](/histoire/date/calendrier-gregorien/par-annee/1922).
@@ -12,7 +12,7 @@ La photo suivante illustre Marcus GARVEY et sa seconde femme, Amy Jacques Garvey
 ![Marcus With Amy Jacques Garvey](/uploads/personnalite/marcus-with-amy-jacques-garvey.png "Marcus Garvey et Amy Jacques Garvey, sa seconde femme, en 1922."){.align-center}
 
 # Objectifs
-Malgré le fait qu'il n'ait jamais connu la Matrie de ses ancêtres[^1], Marcus Garvey a eu pour objectif de réinstaller l'Afrique et les Africains dans sa grandeur et sa dignité d'antan tout en incitant son peuple (les Africains de la diaspora) à retourner sur leur terre d'origine (l'Afrique).[^1]
+Malgré le fait qu'il ne soit jamais allé en Afrique[^1], Marcus Garvey a eu pour objectif de réinstaller l'Afrique et les Africains dans sa grandeur et sa dignité d'antan tout en incitant son peuple (les Africains de la diaspora) à retourner sur leur terre d'origine (l'Afrique).[^1]
 De plus, Marcus Garvey est l'un des premiers Africains de la diaspora à avoir fait en sorte que les Africains reprennent possession de leurs terres. En effet, à son époque, outre l'Éthiopie et le Libéria, l'Afrique était totalement colonisée.
 
 # Réalisations
