@@ -3,7 +3,7 @@
 
 ![Cimarron](/uploads/personnalite/cimarron.jpg "Cimarron"){.pagelogo}
 
-Le titre de *Nègre marron* est attribué aux esclaves Africains qui ont fuit leurs conditions en s'enfuyant des plantations. Les *Nègres marrons* sont réputés pour avoir créé des groupes de résistance structurés capables de tenir tête des années aux armées des maîtres esclaves.[^1]
+Le titre de *Nègre marron* est attribué aux esclaves Africains qui ont fuit leurs conditions en s'échappant des plantations. Les *Nègres marrons* sont réputés pour avoir créé des groupes de résistance structurés capables de tenir tête pendant des années aux armées des maîtres esclaves.[^1]
 
 # Étymologie
 Le terme *Nègre marron* est composé des mots *Nègre* et *marron*.
