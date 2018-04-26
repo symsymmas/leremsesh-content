@@ -30,7 +30,9 @@ Le père de *Marcus Garvey* fut l'un de ses premiers formateurs. Il lui enseigna
 *Marcus Garvey* grandit à Saint Ann's ([Xamayca](/geographie/ile/caraibes/midi/xamayca)) où il effectue ses études primaires et secondaires.[^1]
 Afin d'assurer sa réussite scolaire, sa mère, Sarah, lui prend des cours particuliers.[^1]
  
+# Parcours professionnel
 À quatorze ans, *Marcus Garvey* se voit contraint d'arrêter les études par manque de moyens financiers. Dès lors, Alfred E. Burrowes prend *Marcus Garvey* dans son imprimerie, située à Saint Ann's Bay, en tant que typographe.[^1]
+Non seulement ce premier métier lui servit pour ses projets d'avenir mais il lui permit aussi de lire de nombreux ouvrages portant sur des figures historiques de la Caraïbe commme le [général Cudjo](/personnalite/homme/militaire/caraibes/a-situer/general-cudjo), [Tacky](/personnalite/homme/a-classer/caraibes/a-situer/tacky), [Sam Sharpe](/personnalite/homme/a-classer/caraibes/a-situer/sam-sharpe), [Quaco](/personnalite/homme/a-classer/caraibes/a-situer/quaco), [Paul Bogle](/personnalite/homme/a-classer/caraibes/a-situer/paul-bogle).
 
 # Objectifs
 Malgré le fait qu'il ne soit jamais allé en Afrique[^1], Marcus Garvey a eu pour objectif de réinstaller l'Afrique et les Africains dans sa grandeur et sa dignité d'antan tout en incitant son peuple (les Africains de la diaspora) à retourner sur leur terre d'origine (l'Afrique).[^1]
@@ -53,5 +55,5 @@ Voici une liste non exhaustive de livres rendant hommage à Marcus GARVEY :
 * [Marcus Garvey, expliqué aux adolescents](/ouvrage/documentaire/marcus-garvey-explique-aux-adolescents), un documentaire ayant pour but de présenter le héros qu'est Marcus Garvey aux jeunes mais aussi aux moins jeunes.
 
 
-[^1]: [Doumbi-Fakoly](/personnalite/homme/guerrier/afrique/nord-ouest/empire/mali/fakoli-manden). [Marcus Garvey expliqué aux adolescents](/ouvrage/documentaire/marcus-garvey-explique-aux-adolescents). Livre. France ; Édition [MENAIBUC](/organisme/editeur/menaibuc) ; 2ème trimestre 2009. p.7 ; p.11-12. ISBN : 978-2-35349-102-5. 
+[^1]: [Doumbi-Fakoly](/personnalite/homme/guerrier/afrique/nord-ouest/empire/mali/fakoli-manden). [Marcus Garvey expliqué aux adolescents](/ouvrage/documentaire/marcus-garvey-explique-aux-adolescents). Livre. France ; Édition [MENAIBUC](/organisme/editeur/menaibuc) ; 2ème trimestre 2009. p.7 ; p.11-13. ISBN : 978-2-35349-102-5. 
 [^2]: Admin. [Sir Marcus Mosiah Garvey His beliefs deeply influenced the Rastafari, who took his statements as a prophecy](http://join.clubme.net/t26-sir-marcus-mosiah-garvey-his-beliefs-deeply-influenced-the-rastafari-who-took-his-statements-as-a-prophecy#26). Forum sur Internet. Jeu. 13 Jan. 2011 ; 12:50 (lu le 25 Avril 2018).
