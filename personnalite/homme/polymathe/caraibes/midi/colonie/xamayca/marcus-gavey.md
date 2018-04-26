@@ -29,7 +29,7 @@ Le père de *Marcus Garvey* fut l'un de ses premiers formateurs. Il lui enseigna
 
 *Marcus Garvey* grandit à Saint Ann's ([Xamayca](/geographie/ile/caraibes/midi/xamayca)) où il effectue ses études primaires et secondaires.[^1]
 Afin d'assurer sa réussite scolaire, sa mère, Sarah, lui prend des cours particuliers.[^1]
-
+ 
 À quatorze ans, *Marcus Garvey* se voit contraint d'arrêter les études par manque de moyens financiers. Dès lors, Alfred E. Burrowes prend *Marcus Garvey* dans son imprimerie, située à Saint Ann's Bay, en tant que typographe.[^1]
 
 # Objectifs
