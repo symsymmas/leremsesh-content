@@ -4,7 +4,7 @@
 ![Marcus Garvey Portrait](/uploads/personnalite/marcus-garvey-portrait.png "Marcus Garvey Portrait"){.pagelogo}
 
 # Origines
-Marcus Garvey est un Africain de la Jamaïque né le [18](/histoire/date/calendrier-gregorien/par-jour/18) [Août](/histoire/date/calendrier-gregorien/par-mois/aout) [1887](/histoire/date/calendrier-gregorien/par-annee/1887) à [Xamayca](/geographie/ile/caraibes/midi/xamayca), dans un village côtier nommé *Saint Ann's Park*.[^1] À cette époque, l'ile est une colonie britanique. L'esclavage y fut abolie 53 ans avant sa naissance, soit en [1834](/histoire/date/calendrier-gregorien/par-annee/1834).[^1] En terme de génération, ses grands-parents ont connu le [Yovoda](/terminologie/fon/yovodah) (terme [Fon](/langue/afrique/a-situer/fon) pouvant être traduit grossièrement par l'esclavage).
+*Marcus Garvey* est un Africain de [Xamayca](/geographie/ile/caraibes/midi/xamayca) (nom originel de l'île de la Jamaïque). Il est né le [18](/histoire/date/calendrier-gregorien/par-jour/18) [Août](/histoire/date/calendrier-gregorien/par-mois/aout) [1887](/histoire/date/calendrier-gregorien/par-annee/1887) à [Xamayca](/geographie/ile/caraibes/midi/xamayca), dans un village côtier nommé *Saint Ann's Park*.[^1] À cette époque, l'ile est une colonie britanique. L'esclavage y était aboli depuis 53 ans, soit en [1834](/histoire/date/calendrier-gregorien/par-annee/1834).[^1] En terme de génération, ses grands-parents ont connu le [Yovodah](/terminologie/fon/yovodah) (terme [Fon](/langue/afrique/a-situer/fon) utilisé, entre autre, pour l'esclavage).
 
 *Marcus Garvey* possède plusieurs prénom : Manasseh, Moses, Aurelius et Moziah[^1].
 
@@ -32,11 +32,15 @@ Afin d'assurer sa réussite scolaire, sa mère, Sarah, lui prend des cours parti
  
 # Parcours professionnel
 À quatorze ans, *Marcus Garvey* se voit contraint d'arrêter les études par manque de moyens financiers. Dès lors, Alfred E. Burrowes prend *Marcus Garvey* dans son imprimerie, située à Saint Ann's Bay, en tant que typographe.[^1]
-Non seulement ce premier métier lui servit pour ses projets d'avenir mais il lui permit aussi de lire de nombreux ouvrages portant sur des figures historiques de la Caraïbe commme le [général Cudjo](/personnalite/homme/militaire/caraibes/a-situer/general-cudjo), [Tacky](/personnalite/homme/a-classer/caraibes/a-situer/tacky), [Sam Sharpe](/personnalite/homme/a-classer/caraibes/a-situer/sam-sharpe), [Quaco](/personnalite/homme/a-classer/caraibes/a-situer/quaco), [Paul Bogle](/personnalite/homme/a-classer/caraibes/a-situer/paul-bogle).
+Non seulement ce premier métier lui servit pour ses projets d'avenir mais il lui permit aussi de lire de nombreux ouvrages portant sur des figures historiques de la Caraïbe commme le [général Cudjo](/personnalite/homme/militaire/caraibes/a-situer/general-cudjo), [Tacky](/personnalite/homme/a-classer/caraibes/a-situer/tacky), [Sam Sharpe](/personnalite/homme/a-classer/caraibes/a-situer/sam-sharpe), [Quaco](/personnalite/homme/a-classer/caraibes/a-situer/quaco), [Paul Bogle](/personnalite/homme/a-classer/caraibes/a-situer/paul-bogle).[^1]
+
+Étant sérieux et passionné par le métier d'imprimeur, *Marcus Garvey* apprend vite et si bien qu'à l'âge de dix-huit ans, il devient maître typographe et contre-maître à *P.A. Benjamin Company*, l'une des plus grandes imprimeries de Kingston (capitale de [Xamayca](/geographie/ile/caraibes/midi/xamayca)).[^1]
 
 # Objectifs
 Malgré le fait qu'il ne soit jamais allé en Afrique[^1], Marcus Garvey a eu pour objectif de réinstaller l'Afrique et les Africains dans sa grandeur et sa dignité d'antan tout en incitant son peuple (les Africains de la diaspora) à retourner sur leur terre d'origine (l'Afrique).[^1]
 De plus, Marcus Garvey est l'un des premiers Africains de la diaspora à avoir fait en sorte que les Africains reprennent possession de leurs terres. En effet, à son époque, outre l'Éthiopie et le Libéria, l'Afrique était totalement colonisée.
+
+![Marcus Garvey Tenue D Apparat](/uploads/personnalite/marcus-garvey-tenue-d-apparat.png "Marcus Garvey dans une de ses tenues d'apparât"){align-center}
 
 # Réalisations
 ## Compagnie maritime
