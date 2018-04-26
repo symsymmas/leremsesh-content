@@ -23,10 +23,14 @@ La photo suivante illustre Marcus GARVEY et sa seconde femme, Amy Jacques Garvey
 ![Marcus With Amy Jacques Garvey](/uploads/personnalite/marcus-with-amy-jacques-garvey.png "Marcus Garvey et Amy Jacques Garvey, sa seconde femme, en 1922."){.align-center}
 
 # Apprentissage
-Le père de *Marcus Garvey* fut l'un de ses premiers formateurs. Il lui enseignait la lecture et lui racontait des histoires portant sur ses ancêtres ; par exemple, les [Nègres marrons](/personnalite/titre/negre-marron).
+À l'âge de neuf ans, *Marcus Garvey* achetait des livres à l'aide de l'argent que son oncle Benji lui donnait lorsque *Marcus* l'assistait dans ses travaux agricoles.[^1]
+
+Le père de *Marcus Garvey* fut l'un de ses premiers formateurs. Il lui enseignait la lecture et lui racontait des histoires portant sur ses ancêtres ; par exemple, les [Nègres marrons](/personnalite/titre/negre-marron).[^1]
 
 *Marcus Garvey* grandit à Saint Ann's ([Xamayca](/geographie/ile/caraibes/midi/xamayca)) où il effectue ses études primaires et secondaires.[^1]
 Afin d'assurer sa réussite scolaire, sa mère, Sarah, lui prend des cours particuliers.[^1]
+
+À quatorze ans, *Marcus Garvey* se voit contraint d'arrêter les études par manque de moyens financiers. Dès lors, Alfred E. Burrowes prend *Marcus Garvey* dans son imprimerie, située à Saint Ann's Bay, en tant que typographe.[^1]
 
 # Objectifs
 Malgré le fait qu'il ne soit jamais allé en Afrique[^1], Marcus Garvey a eu pour objectif de réinstaller l'Afrique et les Africains dans sa grandeur et sa dignité d'antan tout en incitant son peuple (les Africains de la diaspora) à retourner sur leur terre d'origine (l'Afrique).[^1]
