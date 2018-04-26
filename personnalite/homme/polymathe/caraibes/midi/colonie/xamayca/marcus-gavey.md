@@ -56,9 +56,10 @@ De plus, Marcus Garvey est l'un des premiers Africains de la diaspora à avoir f
 ![Marcus Garvey Tenue D Apparat](/uploads/personnalite/marcus-garvey-tenue-d-apparat.png "Marcus Garvey dans une de ses tenues d'apparât"){.align-center}
 
 # Réalisations
-![Black Star Line Certificate](/uploads/document/black-star-line-certificate.png "certificat de la Black Star Line"){.align-center}
 ## Compagnie maritime
 Marcus Garvey a créé une compagnie maritime dans le but de fournir un moyen de retour en Afrique aux Africains de la diaspora.[^1]
+
+![Black Star Line Certificate](/uploads/document/black-star-line-certificate.png "certificat de la Black Star Line"){.align-center}
 
 ## Gouvernement
 L'image suivante représente Marcus Garvey lors de l'évènement qu'il a organisé aux États-Unis d'Amérique en 1922. Il porte les apparats de chef du gouvernement qu'il a fondé.
