@@ -40,7 +40,7 @@ Non seulement ce premier métier lui servit pour ses projets d'avenir mais il lu
 Malgré le fait qu'il ne soit jamais allé en Afrique[^1], Marcus Garvey a eu pour objectif de réinstaller l'Afrique et les Africains dans sa grandeur et sa dignité d'antan tout en incitant son peuple (les Africains de la diaspora) à retourner sur leur terre d'origine (l'Afrique).[^1]
 De plus, Marcus Garvey est l'un des premiers Africains de la diaspora à avoir fait en sorte que les Africains reprennent possession de leurs terres. En effet, à son époque, outre l'Éthiopie et le Libéria, l'Afrique était totalement colonisée.
 
-![Marcus Garvey Tenue D Apparat](/uploads/personnalite/marcus-garvey-tenue-d-apparat.png "Marcus Garvey dans une de ses tenues d'apparât"){align-center}
+![Marcus Garvey Tenue D Apparat](/uploads/personnalite/marcus-garvey-tenue-d-apparat.png "Marcus Garvey dans une de ses tenues d'apparât"){.align-center}
 
 # Réalisations
 ## Compagnie maritime
