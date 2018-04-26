@@ -4,6 +4,7 @@
 *Xamayca* est le nom d'une île située au Nord de la [Caraïbe](/geographie/ile/caraibes/iles-de-la-caraibe). Ce nom a été donné par les [Caraïbes](/peuple/caraibes/partout/caraibe), avant que les colons Espagnols n'arrivent et ne lui donnent le nom *Jamaïque*, qui est une déformation linguistique de *Xamayca*.
 
 # Gégraphie
+![Xamayca Bis](/uploads/map/xamayca-bis.png "Xamayca Bis"){.align-center}
 # En 2018
 En 2018, *Xamayca* (ou l'île de la Jamaïque) est divisé en plusieurs paroisses. L'une d'entre elles se nomme *Saint Ann*.
 
