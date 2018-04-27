@@ -33,9 +33,9 @@ La photo suivante illustre Marcus GARVEY et sa seconde femme, Amy Jacques Garvey
 
 # Apprentissage
 ## Scolarité
-À l'âge de neuf ans, *Marcus Garvey* achetait des livres à l'aide de l'argent que son oncle Benji lui donnait lorsque *Marcus* l'assistait dans ses travaux agricoles.[^1]
+Dès l'âge de neuf ans, *Marcus Garvey* s'achetait des livres à l'aide de l'argent de poche que son oncle *Benji* lui donnait lorsqu'il l'assistait dans ses travaux agricoles.[^1]
 
-Le père de *Marcus Garvey* fut l'un de ses premiers formateurs. Il lui enseignait la lecture et lui racontait des histoires portant sur ses ancêtres ; par exemple, les [Nègres marrons](/personnalite/titre/negre-marron).[^1]
+Le père de *Marcus Garvey* était un de ses premiers formateurs. Il lui enseignait la lecture et lui racontait des histoires portant sur ses ancêtres, tel quel les [Nègres marrons](/personnalite/titre/negre-marron).[^1]
 
 *Marcus Garvey* grandit à Saint Ann's ([Xamayca](/geographie/ile/caraibes/midi/xamayca)) où il effectue ses études primaires et secondaires.[^1]
 Afin d'assurer sa réussite scolaire, sa mère, Sarah, lui prend des cours particuliers.[^1]
