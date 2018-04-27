@@ -39,6 +39,24 @@ Non seulement ce premier métier lui servit pour ses projets d'avenir mais il lu
 
 Étant sérieux et passionné par le métier d'imprimeur, *Marcus Garvey* apprend vite et si bien qu'à l'âge de dix-huit ans, il devient maître typographe et contre-maître à *P.A. Benjamin Company*, l'une des plus grandes imprimeries de Kingston (capitale de [Xamayca](/geographie/ile/caraibes/midi/xamayca)).[^1]
 
+Après, suite à la grêve de [1907](/histoire/date/calendrier-gregorien/par-annee/1907) à laquelle il a participé, *Marcus Garvey* fut licencié, ce qui l'amena à trouver un autre poste d'imprimeur au gouvernement colonial.
+
+## Politique
+Ses parents n'ayant plus les moyens, *Marcus Garvey* décide de s'auto-former. Dans ce but, il s'invite dans des luttes syndicales à [Xamayca](/geographie/ile/caraibes/midi/xamayca).
+
+En [1907](/histoire/date/calendrier-gregorien/par-annee/1907), un tremblement de terre dévaste son île. Ce phénomène naturel a pour effet[^1] :
+* une pénurie des denrées alimentaires ;
+* une baisse des salaires ;
+* une flambée des prix.
+
+En réponse à cela, les habitants de l'île effectuent une longue grêve déclenchée par l'imprimerie *La Printer's Union*.
+*Marcus Garvey* se joint à cette grêve alors que, étant contre-maître, il se doit, en principe, d'être du côté des patrons. D'ailleurs, malgré les promesses faites le patronat, *Marcus Garvey* décida de rester solidaire de son peuple.[^1]
+Cette solidarité lui fit :
+* perdre son poste ;
+* être radié de la liste des imprimeurs ;
+* être condamné à changer de profession.
+Pourtant, *Marcus* réussi à trouver un poste d'imprimeur au sein du gouvernement colonial.
+
 # Prise de conscience
 *Marcus Garvey* se rend compte que le clivage social de [Xamayca](/geographie/ile/caraibes/midi/xamayca) est l'exact reflet de sa configuration raciale, c'est-à-dire qu'en haut seuls les Blancs accompagnés de quelques rares métis, se trouvent en haut de l'échelle sociale alors qu'au plus bas de l'échelle se trouvent tous les Noirs, formant une masse d'ouvriers agricoles dans les plantations de bananes et de tabac, d'ouvriers du bâtiment et des chemins de fer, de mineurs, de terrassiers,…[^1]
 
@@ -70,13 +88,17 @@ L'image suivante représente Marcus Garvey lors de l'évènement qu'il a organis
 
 ## Armée
 
+## Entreprises
+### The Watchman
+En [1910](/histoire/date/calendrier-gregorien/par-annee/1910), *Marcus Garvey* crée le journal [Watchman](/organisme/journal/watchman) afin de critiquer la ploitique sociale du gouvernement colonial.[^1]
+
 # Hommages
 ## Livres
 Voici une liste non exhaustive de livres rendant hommage à Marcus GARVEY :
 * [Marcus Garvey, expliqué aux adolescents](/ouvrage/documentaire/marcus-garvey-explique-aux-adolescents), un documentaire ayant pour but de présenter le héros qu'est Marcus Garvey aux jeunes mais aussi aux moins jeunes.
 
 
-[^1]: [Doumbi-Fakoly](/personnalite/homme/guerrier/afrique/nord-ouest/empire/mali/fakoli-manden). [Marcus Garvey expliqué aux adolescents](/ouvrage/documentaire/marcus-garvey-explique-aux-adolescents). Livre. France ; Édition [MENAIBUC](/organisme/editeur/menaibuc) ; 2ème trimestre 2009. p.7 ; p.11-13 ; p.15-16 ; p.19. ISBN : 978-2-35349-102-5. 
+[^1]: [Doumbi-Fakoly](/personnalite/homme/guerrier/afrique/nord-ouest/empire/mali/fakoli-manden). [Marcus Garvey expliqué aux adolescents](/ouvrage/documentaire/marcus-garvey-explique-aux-adolescents). Livre. France ; Édition [MENAIBUC](/organisme/editeur/menaibuc) ; 2ème trimestre 2009. p.7 ; p.11-13 ; p.15-16 ; p.19-20. ISBN : 978-2-35349-102-5. 
 [^2]: Admin. [Sir Marcus Mosiah Garvey His beliefs deeply influenced the Rastafari, who took his statements as a prophecy](http://join.clubme.net/t26-sir-marcus-mosiah-garvey-his-beliefs-deeply-influenced-the-rastafari-who-took-his-statements-as-a-prophecy#26). Forum sur Internet. Jeu. 13 Jan. 2011 ; 12:50 (lu le 25 Avril 2018).
 [^3]: [Amy Jacques Garvey](). [Philosophy and Opinions of Marcus Garvey](). Vol. 2. p. 125. Cité par Têtêvi Godwin Tété-Adjalogo.
 [^4]: [Têtêvi Godwin Tété-Adjalogo](). Tome 1. Ed. L'Harmattan ; Paris ; 1995. p. 20.
