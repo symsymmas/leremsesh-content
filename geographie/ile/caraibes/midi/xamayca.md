@@ -13,7 +13,7 @@ Voici une liste d'événements clefs :
 * [18](/histoire/date/calendrier-gregorien/par-jour/18) [Août](/histoire/date/calendrier-gregorien/par-mois/aout) [1887](/histoire/date/calendrier-gregorien/par-annee/1887) : Naissance de [Marcus Garvey](/personnalite/homme/polymathe/caraibes/midi/colonie/xamayca/marcus-gavey) ;
 * [1907](/histoire/date/calendrier-gregorien/par-annee/1907) : un tremblement de terre ravage l'île, ce qui cause une pénurie alimentaire, une baisse de salaire et une hausse des prix qui aboutissent à une grêve.
 * [1910](/histoire/date/calendrier-gregorien/par-annee/1910) :
-	* [Marcus Garvey](/personnalite/homme/polymathe/caraibes/midi/colonie/xamayca/marcus-gavey) adhère au parti politique [National Club](/organisme/parti-politique/national-club),
+	* [Marcus Garvey](/personnalite/homme/polymathe/caraibes/midi/colonie/xamayca/marcus-gavey) adhère au [National Club](/organisme/parti-politique/national-club) où il devient secrétaire adjoint puis animateur du journal officiel du parti politique,
 	* [Marcus Garvey](/personnalite/homme/polymathe/caraibes/midi/colonie/xamayca/marcus-gavey) crée le journal [Watchman](/organisme/journal/watchman),
 * [2018](/histoire/date/calendrier-gregorien/par-annee/2018) : l'île est divisée en plusieurs paroisses dont l'une se nomme *Saint Ann*.
 
