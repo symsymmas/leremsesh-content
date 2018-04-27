@@ -1,7 +1,7 @@
 <!-- TITLE: Xamayca / Jamaïque -->
 <!-- SUBTITLE: Présentation de l'île caribéenne Xamayca -->
 
-*Xamayca* est le nom d'une île située au Nord de la [Caraïbe](/geographie/ile/caraibes/iles-de-la-caraibe). Ce nom a été donné par les [Caraïbes](/peuple/caraibes/partout/caraibe) avant que les colons Espagnols n'arrivent et ne lui donnent le nom *Jamaïque*, qui est une déformation linguistique de *Xamayca* étant donné que la prononciation des deux termes est similaire en espagnol.
+*Xamayca* est le nom d'une île située au Nord de la [Caraïbe](/geographie/ile/caraibes/iles-de-la-caraibe). Ce nom a été donné par les [Caraïbes](/peuple/caraibes/partout/caraibe) avant que les colons Espagnols n'arrivent et ne lui donnent le nom *Jamaïque* ; déformation linguistique de *Xamayca* étant donné que la prononciation des deux termes est similaire en espagnol.
 
 # Gégraphie
 ![Xamayca Bis](/uploads/map/xamayca-bis.png "Carte de Xamayca"){.align-center}
