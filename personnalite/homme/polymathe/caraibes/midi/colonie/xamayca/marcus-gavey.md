@@ -57,6 +57,8 @@ Cette solidarité lui fit :
 * être condamné à changer de profession.
 Pourtant, *Marcus* réussi à trouver un poste d'imprimeur au sein du gouvernement colonial.
 
+En 1910, *Marcus Garvey* adhère au parti politique *National Club*, ce qui lui permet de découvrir la politique par la pratique. Il arrive à obtenir l'un des trois postes de secrétaire adjoint du parti.[^1]
+
 # Prise de conscience
 *Marcus Garvey* se rend compte que le clivage social de [Xamayca](/geographie/ile/caraibes/midi/xamayca) est l'exact reflet de sa configuration raciale, c'est-à-dire qu'en haut seuls les Blancs accompagnés de quelques rares métis, se trouvent en haut de l'échelle sociale alors qu'au plus bas de l'échelle se trouvent tous les Noirs, formant une masse d'ouvriers agricoles dans les plantations de bananes et de tabac, d'ouvriers du bâtiment et des chemins de fer, de mineurs, de terrassiers,…[^1]
 
