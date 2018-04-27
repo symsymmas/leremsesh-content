@@ -79,11 +79,6 @@ Il estime que le devoir de révolte et de combat s'impose à toute personne pren
 « J'ai toujours désiréé de toute mon âme, travailler au progrès de ma race. »[^4]
 
 # Réalisations
-## Compagnie maritime
-Marcus Garvey a créé une compagnie maritime dans le but de fournir un moyen de retour en Afrique aux Africains de la diaspora.[^1]
-
-![Black Star Line Certificate](/uploads/document/black-star-line-certificate.png "certificat de la Black Star Line"){.align-center}
-
 ## Gouvernement
 L'image suivante représente Marcus Garvey lors de l'évènement qu'il a organisé aux États-Unis d'Amérique en 1922. Il porte les apparats de chef du gouvernement qu'il a fondé.
 
@@ -94,6 +89,11 @@ L'image suivante représente Marcus Garvey lors de l'évènement qu'il a organis
 ## Entreprises
 ### The Watchman
 En [1910](/histoire/date/calendrier-gregorien/par-annee/1910), *Marcus Garvey* crée le journal [Watchman](/organisme/journal/watchman) afin de critiquer la ploitique sociale du gouvernement colonial.[^1]
+
+### Compagnie maritime
+Marcus Garvey a créé une compagnie maritime dans le but de fournir un moyen de retour en Afrique aux Africains de la diaspora.[^1]
+
+![Black Star Line Certificate](/uploads/document/black-star-line-certificate.png "certificat de la Black Star Line"){.align-center}
 
 # Hommages
 ## Livres
