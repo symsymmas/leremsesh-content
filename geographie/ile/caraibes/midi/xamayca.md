@@ -18,8 +18,10 @@ Voici une liste d'événements clefs :
 * [2018](/histoire/date/calendrier-gregorien/par-annee/2018) : l'île est divisée en plusieurs paroisses dont l'une se nomme *Saint Ann*.
 
 # Personnages illustres
-Voici une liste non exhaustive de personnages illustres originaires de l'île de la Caraïbe :
-* [Marcus GARVEY](/personnalite/homme/polymathe/caraibes/midi/colonie/xamayca/marcus-gavey)[^1].
+Voici une liste non exhaustive de personnages illustres originaires de *Xamayca* :
+* [Marcus GARVEY](/personnalite/homme/polymathe/caraibes/midi/colonie/xamayca/marcus-gavey)[^1] ;
+* [Bob Marley](/personnalite/homme/artiste/musique/caraibes/midi/colonie/xamayca/bob-marley) ;
+* [Peter Tosh](/personnalite/homme/artiste/musique/caraibes/midi/colonie/xamayca/peter-tosh) ;
 
 
 [^1]: [Doumbi-Fakoly](/personnalite/homme/polymathe/afrique/nord-ouest/pays/mali/doumbi-fakoli). [Marcus Garvey expliqué aux adolescents](/ouvrage/documentaire/marcus-garvey-explique-aux-adolescents). Livre. France ; Édition [MENAIBUC](/organisme/editeur/menaibuc) ; 2ème trimestre 2009. p.7. ISBN : 978-2-35349-102-5. 
