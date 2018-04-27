@@ -23,7 +23,7 @@ Malgré le fait qu'il ne soit jamais allé en Afrique[^1], Marcus Garvey a eu l'
 Son père, qui s'appellait lui aussi *Marcus*, était un maçon. Il possèdait une grande bibliothèque qui lui permettait de travailler son intellecte.
 C'est de son père que *Marcus Garvey* a tenu son amour pour la lecture.[^2][^1]
 
-*Marcus Garvey* est le plus jeune de sa fratrie. Sur ses onze frères et sœurs, *Marcus* et sa sœur Indiana sont les seuls à ne pas être mort en bas âge.[^1]
+*Marcus Garvey* est le plus jeune de sa fratrie. Sur ses onze frères et sœurs, lui et sa sœur *Indiana* sont les seuls à ne pas être morts en bas âge.[^1]
 
 ## Mariages
 
