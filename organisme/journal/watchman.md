@@ -1,7 +1,7 @@
 <!-- TITLE: Watchman -->
 <!-- SUBTITLE: Présentation du journal Watchman -->
 
-Le journal *Watchman* fut créé en [1910](/histoire/date/calendrier-gregorien/par-annee/1910) par *Marcus Garvey*, à [Xamayca](/geographie/ile/caraibes/midi/xamayca) dans le but de critiquer la politique sociale du gouvernement.[^1]
+Le journal *Watchman* fut créé en [1910](/histoire/date/calendrier-gregorien/par-annee/1910) par [Marcus Garvey](/personnalite/homme/polymathe/caraibes/midi/colonie/xamayca/marcus-gavey), à [Xamayca](/geographie/ile/caraibes/midi/xamayca) dans le but de critiquer la politique sociale du gouvernement.[^1]
 
 Ce journal ne vit pas longtemps. Les raisons semblent confuses (désintérêt du lectorat ou action menée par le régime colonial Britanique)[^1]
 
