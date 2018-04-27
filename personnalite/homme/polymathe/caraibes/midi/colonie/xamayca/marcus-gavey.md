@@ -42,10 +42,10 @@ Afin d'assurer sa réussite scolaire, sa mère, Sarah, lui prend des cours parti
 Quand vient le moment où ses parents n'ont plus les moyens de payer ses études, *Marcus* décide de s'auto-former dans le but d'assouvir son désir de servir son peuple.[^1]
  
 ## Parcours professionnel
-À quatorze ans, *Marcus Garvey* se voit contraint d'arrêter les études par manque de moyens financiers. Dès lors, Alfred E. Burrowes prend *Marcus Garvey* dans son imprimerie, située à Saint Ann's Bay, en tant que typographe.[^1]
-Non seulement ce premier métier lui servit pour ses projets d'avenir mais il lui permit aussi de lire de nombreux ouvrages portant sur des figures historiques de la Caraïbe commme le [général Cudjo](/personnalite/homme/militaire/caraibes/a-situer/general-cudjo), [Tacky](/personnalite/homme/a-classer/caraibes/a-situer/tacky), [Sam Sharpe](/personnalite/homme/a-classer/caraibes/a-situer/sam-sharpe), [Quaco](/personnalite/homme/a-classer/caraibes/a-situer/quaco), [Paul Bogle](/personnalite/homme/a-classer/caraibes/a-situer/paul-bogle).[^1]
+À quatorze ans, *Marcus Garvey* se voit contraint d'arrêter les études par manque de moyens financiers. Dès lors, Alfred E. Burrowes prend *Marcus Garvey* dans son imprimerie à Saint Ann's Bay en tant que typographe.[^1]
+Non seulement ce premier métier lui a servi pour ses projets d'avenir mais cela lui a aussi permi de lire de nombreux ouvrages portant sur des figures historiques de la Caraïbe commme le [général Cudjo](/personnalite/homme/militaire/caraibes/a-situer/general-cudjo), [Tacky](/personnalite/homme/a-classer/caraibes/a-situer/tacky), [Sam Sharpe](/personnalite/homme/a-classer/caraibes/a-situer/sam-sharpe), [Quaco](/personnalite/homme/a-classer/caraibes/a-situer/quaco) et [Paul Bogle](/personnalite/homme/a-classer/caraibes/a-situer/paul-bogle).[^1]
 
-Étant sérieux et passionné par le métier d'imprimeur, *Marcus Garvey* apprend vite et si bien qu'à l'âge de dix-huit ans, il devient maître typographe et contre-maître à *P.A. Benjamin Company*, l'une des plus grandes imprimeries de Kingston (capitale de [Xamayca](/geographie/ile/caraibes/midi/xamayca)).[^1]
+Étant sérieux et passionné par le métier d'imprimeur, *Marcus Garvey* a appris vite et si bien qu'à l'âge de dix-huit ans, il devient maître typographe et contre-maître à *P.A. Benjamin Company*, l'une des plus grandes imprimeries de Kingston (capitale de [Xamayca](/geographie/ile/caraibes/midi/xamayca)).[^1]
 
 Après, suite à la grêve de [1907](/histoire/date/calendrier-gregorien/par-annee/1907) à laquelle il a participé, *Marcus Garvey* fut licencié, ce qui l'amena à trouver un autre poste d'imprimeur au gouvernement colonial.
 
