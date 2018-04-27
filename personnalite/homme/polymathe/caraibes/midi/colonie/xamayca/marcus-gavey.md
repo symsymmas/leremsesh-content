@@ -8,9 +8,11 @@
 
 *Marcus Garvey* a reçu plusieurs prénoms : Manasseh, Moses, Aurelius et Moziah[^1].
 
-# Objectifs
-Malgré le fait qu'il ne soit jamais allé en Afrique[^1], Marcus Garvey a eu pour objectif de réinstaller l'Afrique et les Africains dans sa grandeur et sa dignité d'antan tout en incitant son peuple (les Africains de la diaspora) à retourner sur leur terre d'origine (l'Afrique).[^1]
-De plus, Marcus Garvey est l'un des premiers Africains de la diaspora à avoir fait en sorte que les Africains reprennent possession de leurs terres. En effet, à son époque, outre l'Éthiopie et le Libéria, l'Afrique était totalement colonisée.
+# Ambitions
+Malgré le fait qu'il ne soit jamais allé en Afrique[^1], Marcus Garvey eu l'ambition[^1] :
+* de réinstaller l'Afrique et les Africains dans leur grandeur et leur dignité d'antan ;
+* d'inciter son peuple (les Africains de la diaspora) à retourner sur leur terre d'origine (l'Afrique continentale) ;
+* de prendre possession des terres africaines, pour les Africains du continent et de la diaspora (à son époque, outre l'[Éthiopie](/geographie/empire/afrique/nord-est/ethiopie) et le [Libéria](/geographie/pays/afrique/nord-ouest/liberia), l'Afrique était totalement colonisée)
 
 ![Marcus Garvey Tenue D Apparat](/uploads/personnalite/marcus-garvey-tenue-d-apparat.png "Marcus Garvey dans une de ses tenues d'apparât"){.align-center}
 
