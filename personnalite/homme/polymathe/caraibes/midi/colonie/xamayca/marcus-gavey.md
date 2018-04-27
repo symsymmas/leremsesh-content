@@ -44,7 +44,7 @@ Après, suite à la grêve de [1907](/histoire/date/calendrier-gregorien/par-ann
 ## Politique
 Ses parents n'ayant plus les moyens, *Marcus Garvey* décide de s'auto-former. Dans ce but, il s'invite dans des luttes syndicales à [Xamayca](/geographie/ile/caraibes/midi/xamayca).
 
-En [1907](/histoire/date/calendrier-gregorien/par-annee/1907), un tremblement de terre dévaste son île. Ce phénomène naturel a pour effet[^1] :
+En [1907](/histoire/date/calendrier-gregorien/par-annee/1907), un tremblement de terre dévaste son île. Cette catastrophe naturelle engendre[^1] :
 * une pénurie des denrées alimentaires ;
 * une baisse des salaires ;
 * une flambée des prix.
