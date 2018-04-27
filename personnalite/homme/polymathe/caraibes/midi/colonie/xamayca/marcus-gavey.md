@@ -16,7 +16,7 @@ Son père s'appelle lui aussi Marcus. Il vit de la maçonnerie et possède une g
 
 *Marcus Garvey* est le plus jeune de sa fratrie. Sur ses onze frères et sœurs, *Marcus* et sa sœur Indiana sont les seuls à ne pas être mort en bas âge.[^1]
 
-## Mariage
+## Mariages
 
 La photo suivante illustre Marcus GARVEY et sa seconde femme, Amy Jacques Garvey. Photo prise en [1922](/histoire/date/calendrier-gregorien/par-annee/1922).
 
