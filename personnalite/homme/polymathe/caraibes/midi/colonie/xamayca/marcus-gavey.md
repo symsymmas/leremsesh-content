@@ -9,18 +9,19 @@
 *Marcus Garvey* a reçu plusieurs prénoms : Manasseh, Moses, Aurelius et Moziah[^1].
 
 # Ambitions
-Malgré le fait qu'il ne soit jamais allé en Afrique[^1], Marcus Garvey eu l'ambition[^1] :
-* de réinstaller l'Afrique et les Africains dans leur grandeur et leur dignité d'antan ;
+Malgré le fait qu'il ne soit jamais allé en Afrique[^1], Marcus Garvey a eu l'ambition[^1] :
+* de réinstaller l'Afrique et les Africains dans leurs grandeurs et leurs dignités d'antan ;
 * d'inciter son peuple (les Africains de la diaspora) à retourner sur leur terre d'origine (l'Afrique continentale) ;
-* de prendre possession des terres africaines, pour les Africains du continent et de la diaspora (à son époque, outre l'[Éthiopie](/geographie/empire/afrique/nord-est/ethiopie) et le [Libéria](/geographie/pays/afrique/nord-ouest/liberia), l'Afrique était totalement colonisée)
+* de prendre possession des terres africaines, pour les Africains du continent et de la diaspora (à son époque, outre l'[Éthiopie](/geographie/empire/afrique/nord-est/ethiopie) et le [Libéria](/geographie/pays/afrique/nord-ouest/liberia), l'Afrique était totalement colonisée).
 
 ![Marcus Garvey Tenue D Apparat](/uploads/personnalite/marcus-garvey-tenue-d-apparat.png "Marcus Garvey dans une de ses tenues d'apparât"){.align-center}
 
 # Famille
 ## Parents
-Sarah, la mère de *Marcus Garvey* est une femme au foyer pratiquant l'agriculture. Elle partage le terrain sur lequel elle cultive ses plantes avec son frère Benjie, à Chalky Hill.[^1]
+*Sarah*, la mère de *Marcus Garvey*, était une femme au foyer pratiquant l'agriculture. Elle partagait le terrain sur lequel elle cultivait ses plantes avec son frère *Benjie*, à *Chalky Hill*.[^1]
 
-Son père s'appelle lui aussi Marcus. Il vit de la maçonnerie et possède une grande bibliothèque qui lui permet de travailler son intellecte. C'est de son père que *Marcus Garvey* tient son amour pour la lecture.[^2][^1]
+Son père, qui s'appellait lui aussi *Marcus*, était un maçon. Il possèdait une grande bibliothèque qui lui permettait de travailler son intellecte.
+C'est de son père que *Marcus Garvey* a tenu son amour pour la lecture.[^2][^1]
 
 *Marcus Garvey* est le plus jeune de sa fratrie. Sur ses onze frères et sœurs, *Marcus* et sa sœur Indiana sont les seuls à ne pas être mort en bas âge.[^1]
 
