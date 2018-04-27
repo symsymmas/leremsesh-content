@@ -9,14 +9,14 @@
 *Marcus Garvey* possède plusieurs prénom : Manasseh, Moses, Aurelius et Moziah[^1].
 
 # Famille
-## Ses parents
+## Parents
 Sarah, la mère de *Marcus Garvey* est une femme au foyer pratiquant l'agriculture. Elle partage le terrain sur lequel elle cultive ses plantes avec son frère Benjie, à Chalky Hill.[^1]
 
 Son père s'appelle lui aussi Marcus. Il vit de la maçonnerie et possède une grande bibliothèque qui lui permet de travailler son intellecte. C'est de son père que *Marcus Garvey* tient son amour pour la lecture.[^2][^1]
 
 *Marcus Garvey* est le plus jeune de sa fratrie. Sur ses onze frères et sœurs, *Marcus* et sa sœur Indiana sont les seuls à ne pas être mort en bas âge.[^1]
 
-## Son mariage
+## Mariage
 
 La photo suivante illustre Marcus GARVEY et sa seconde femme, Amy Jacques Garvey. Photo prise en [1922](/histoire/date/calendrier-gregorien/par-annee/1922).
 
