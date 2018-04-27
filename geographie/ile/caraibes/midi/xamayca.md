@@ -5,8 +5,15 @@
 
 # Gégraphie
 ![Xamayca Bis](/uploads/map/xamayca-bis.png "Carte de Xamayca"){.align-center}
-# En 2018
-En 2018, *Xamayca* (ou l'île de la Jamaïque) est divisé en plusieurs paroisses. L'une d'entre elles se nomme *Saint Ann*.
+# Périodes clefs
+Voici une liste d'événements clefs :
+* [1834](/histoire/date/calendrier-gregorien/par-annee/1834) : Abolition officielle de l'esclavage ;
+* [1887](/histoire/date/calendrier-gregorien/par-jour/18) [Août](/histoire/date/calendrier-gregorien/par-mois/aout) [1887](/histoire/date/calendrier-gregorien/par-annee/1887) : Naissance de [Marcus Garvey](/personnalite/homme/polymathe/caraibes/midi/colonie/xamayca/marcus-gavey) ;
+* [1907](/histoire/date/calendrier-gregorien/par-annee/1907) : un tremblement de terre ravage l'île, ce qui cause une pénurie alimentaire, une baisse de salaire et une hausse des prix qui aboutissent à une grêve.
+* [1910](/histoire/date/calendrier-gregorien/par-annee/1910) :
+	* [Marcus Garvey](/personnalite/homme/polymathe/caraibes/midi/colonie/xamayca/marcus-gavey) adhère au parti politique [National Club](/organisme/parti-politique/national-club)
+	* [Marcus Garvey](/personnalite/homme/polymathe/caraibes/midi/colonie/xamayca/marcus-gavey) crée le journal [Watchman](/organisme/journal/watchman)
+* [2018](/histoire/date/calendrier-gregorien/par-annee/2018) : l'île est divisée en plusieurs paroisses dont l'une se nomme *Saint Ann*.
 
 # Personnages illustres
 Voici une liste non exhaustive de personnages illustres originaires de l'île de la Caraïbe :
