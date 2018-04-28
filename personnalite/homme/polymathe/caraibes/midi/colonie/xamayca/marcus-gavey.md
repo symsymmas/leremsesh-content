@@ -106,7 +106,7 @@ Voici une liste non exhaustive de livres rendant hommage à Marcus GARVEY :
 * [Marcus Garvey, expliqué aux adolescents](/ouvrage/documentaire/marcus-garvey-explique-aux-adolescents), un documentaire ayant pour but de présenter le héros qu'est Marcus Garvey aux jeunes mais aussi aux moins jeunes.
 
 
-[^1]: [Doumbi-Fakoly](/personnalite/homme/guerrier/afrique/nord-ouest/empire/mali/fakoli-manden). [Marcus Garvey expliqué aux adolescents](/ouvrage/documentaire/marcus-garvey-explique-aux-adolescents). Livre. France ; Édition [MENAIBUC](/organisme/editeur/menaibuc) ; 2ème trimestre 2009. p.7 ; p.11-13 ; p.15-16 ; p.19-20. ISBN : 978-2-35349-102-5. 
+[^1]: [Doumbi-Fakoly](/personnalite/homme/polymathe/afrique/nord-ouest/pays/mali/doumbi-fakoli). [Marcus Garvey expliqué aux adolescents](/ouvrage/documentaire/marcus-garvey-explique-aux-adolescents). Livre. France ; Édition [MENAIBUC](/organisme/editeur/menaibuc) ; 2ème trimestre 2009. p.7 ; p.11-13 ; p.15-16 ; p.19-20. ISBN : 978-2-35349-102-5. 
 [^2]: Admin. [Sir Marcus Mosiah Garvey His beliefs deeply influenced the Rastafari, who took his statements as a prophecy](http://join.clubme.net/t26-sir-marcus-mosiah-garvey-his-beliefs-deeply-influenced-the-rastafari-who-took-his-statements-as-a-prophecy#26). Forum sur Internet. Jeu. 13 Jan. 2011 ; 12:50 (lu le 25 Avril 2018).
 [^3]: [Amy Jacques Garvey](). [Philosophy and Opinions of Marcus Garvey](). Vol. 2. p. 125. Cité par Têtêvi Godwin Tété-Adjalogo.
 [^4]: [Têtêvi Godwin Tété-Adjalogo](). Marcus Garvey. [Père e l'Unité Africaine des Peuples](). Tome 1. Ed. L'Harmattan ; Paris ; 1995. p. 20 ; p. 22.
