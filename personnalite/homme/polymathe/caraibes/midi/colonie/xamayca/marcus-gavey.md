@@ -57,30 +57,28 @@ Par la suite, en [1910](/histoire/date/calendrier-gregorien/par-annee/1910) il e
 Ses parents n'ayant plus les moyens, *Marcus Garvey* décide de s'auto-former.
 Pour commencer, il s'invite dans des luttes syndicales à [Xamayca](/geographie/ile/caraibes/midi/xamayca).
 
-En [1907](/histoire/date/calendrier-gregorien/par-annee/1907), un tremblement de terre dévaste son île. Cette catastrophe naturelle engendre[^1] :
+En [1907](/histoire/date/calendrier-gregorien/par-annee/1907), un tremblement de terre a dévasté son île. Cette catastrophe naturelle a engendré[^1] :
 * une pénurie des denrées alimentaires ;
 * une baisse des salaires ;
 * une flambée des prix.
+En réponse à cela, les habitants de l'île ont effectué une longue grêve qui fut déclenchée par l'imprimerie *La Printer's Union*.[^1]
+*Marcus Garvey* s'est joint au mouvement alors qu'en principe, étant contre-maître, il se devait d'être du côté des patrons. D'ailleurs, malgré les promesses qui lui ont fait le patronat, *Marcus Garvey* s'est tenu de rester solidaire de son peuple. En retour, suite à la grêve, le patronat[^1] :
+* lui a fait perdre son poste ;
+* l'a radié de la liste des imprimeurs ;
+* l'a condamné à changer de profession.
+Malgré cela, *Marcus* a réussi à être embauché en tant qu'imprimeur au sein du gouvernement colonial.
 
-En réponse à cela, les habitants de l'île effectuent une longue grêve déclenchée par l'imprimerie *La Printer's Union*.[^1]
-*Marcus Garvey* se joint à cette grêve alors que, étant contre-maître, il se doit, en principe, d'être du côté des patrons. D'ailleurs, malgré les promesses faites le patronat, *Marcus Garvey* décida de rester solidaire de son peuple.[^1]
-Cette solidarité lui fit :
-* perdre son poste ;
-* être radié de la liste des imprimeurs ;
-* être condamné à changer de profession.
-Pourtant, *Marcus* réussit à trouver un poste d'imprimeur au sein du gouvernement colonial.
-
-En [1910](/histoire/date/calendrier-gregorien/par-annee/1910), *Marcus Garvey* adhère au parti politique [National Club](/organisme/parti-politique/national-club), ce qui lui permet de découvrir la politique par la pratique. Il arrive à obtenir l'un des trois postes de secrétaire adjoint du parti. [National Club](/organisme/parti-politique/national-club) était reconnu au niveau national étant donné que deux de ses membres réussirent à se faire élire au conseil législatif, avant l'arrivé de *Marcus*.[^1]
+En [1910](/histoire/date/calendrier-gregorien/par-annee/1910), *Marcus Garvey* a adhéré au parti politique [National Club](/organisme/parti-politique/national-club), ce qui lui a permi de découvrir la politique par la pratique. [National Club](/organisme/parti-politique/national-club) était reconnu au niveau national étant donné que deux de ses membres ont réussi à se faire élire au conseil législatif avant l'arrivé de *Marcus*.[^1]
+La même année, il y a réussi à obtenir l'un des trois postes de secrétaire adjoint du parti.[^1]
 Enfin, pendant la même année et jusqu'à son départ en Amérique Centrale (en fin d'année), *Marcus* participe à l'animation de [Our Own](/organisme/journal/our-own), le journal du parti.[^1]
 
 # Prise de conscience
-*Marcus Garvey* se rend compte que le clivage social de [Xamayca](/geographie/ile/caraibes/midi/xamayca) est l'exact reflet de sa configuration raciale, c'est-à-dire qu'en haut seuls les Blancs accompagnés de quelques rares métis, se trouvent en haut de l'échelle sociale alors qu'au plus bas de l'échelle se trouvent tous les Noirs, formant une masse d'ouvriers agricoles dans les plantations de bananes et de tabac, d'ouvriers du bâtiment et des chemins de fer, de mineurs, de terrassiers,…[^1]
+*Marcus Garvey* a remarqué que le clivage social de [Xamayca](/geographie/ile/caraibes/midi/xamayca) était l'exact reflet de sa configuration raciale ; c'est-à-dire que seuls les Blancs accompagnés de quelques rares Métis, se trouvaient en haut de l'échelle sociale alors qu'au plus bas étaient tous les Noirs, formant une masse d'ouvriers agricoles dans les plantations de bananes et de tabac, d'ouvriers du bâtiment et des chemins de fer, de mineurs, de terrassiers, etc..[^1]
 
-Ceci étant, l'événement le plus marquant et le plus décisif pour *Marcus* fut d'être victime de racisme de la part d'un homme d'église blanc.[^1]
-Un jour, une camarade blanche du quartier de *Marcus Garvey* fut envoyé en Écosse pour continuer sa scolarité. Le père de cette jeune fille, un pasteur méthodiste, lui ordonna de n'entretenir aucune correspondance avec *Marcus* du fait l'appartenance de ce dernier à la race nègre. Cette information, une fois arrivée aux oreilles de *Marcus Garvey*, l'aide à réaliser que ce racisme est omniprésent.[^1]
-
-Cette prise de conscience aboutit à une flamme révolutionnaire inextinguible chez *Marcus*.[^1]
-Il estime que le devoir de révolte et de combat s'impose à toute personne prenant conscience de l'ampleur des injustices que subit son peuple.[^1]
+Ceci étant, l'événement le plus marquant et le plus décisif pour *Marcus* a été le racisme d'un homme d'église blanc auquel il a dû faire face.[^1]
+Un jour, une camarade blanche du même quartier que celui de *Marcus* a été envoyée en Écosse pour continuer sa scolarité. Le père de cette jeune fille, un pasteur méthodiste, lui a ordonné de n'entretenir aucune correspondance avec *Marcus* du fait de l'appartenance de ce dernier à la race nègre. Cette information, une fois arrivée aux oreilles de *Marcus*, lui a permis de réaliser que ce racisme était omniprésent.[^1]
+Cette prise de conscience a allumé en lui une flamme révolutionnaire inextinguible.[^1]
+Il estimait que le devoir de révolte et de combat s'imposait à toute personne prenant conscience de l'ampleur des injustices que subit son peuple.[^1]
 
 « Je compris qu'il existait des ségrégations dans l'humanité et qu'il y avait plusieurs races, chacune ayant une place bien précise dans la société. »[^3][^5]
 « J'ai toujours désiréé de toute mon âme, travailler au progrès de ma race. »[^4]
