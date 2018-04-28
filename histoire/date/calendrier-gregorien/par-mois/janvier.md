@@ -1,4 +1,4 @@
-<!-- TITLE: 1-Janvier -->
+<!-- TITLE: 01-Janvier -->
 <!-- SUBTITLE: Événement s'étant produit un Janvier -->
 
 Voici une liste d'événements s'étant produit un mois de Janvier du calendrier Grégorien.
