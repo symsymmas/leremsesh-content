@@ -11,7 +11,7 @@ En [1910](/histoire/date/calendrier-gregorien/par-annee/1910), [Marcus Garvey](/
 
 # Bibliographie
 Le parti politique possédait le journal [Our Own](/organisme/journal/our-own).
-En [1910](/histoire/date/calendrier-gregorien/par-annee/1910), [Marcus Garvey](/personnalite/homme/polymathe/caraibes/midi/colonie/xamayca/marcus-gavey) a été chargé d'animer le journal.
+En [1910](/histoire/date/calendrier-gregorien/par-annee/1910), [Marcus Garvey](/personnalite/homme/polymathe/caraibes/midi/colonie/xamayca/marcus-gavey) a été chargé de l'animer.
 
 
 [^1]: [Doumbi-Fakoly](/personnalite/homme/guerrier/afrique/nord-ouest/empire/mali/fakoli-manden). [Marcus Garvey expliqué aux adolescents](/ouvrage/documentaire/marcus-garvey-explique-aux-adolescents). Livre. France ; Édition [MENAIBUC](/organisme/editeur/menaibuc) ; 2ème trimestre 2009. p.20. ISBN : 978-2-35349-102-5. 
