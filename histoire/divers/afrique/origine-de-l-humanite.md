@@ -1,5 +1,4 @@
-<!-- TITLE: Les origines de l'humanité -->
-<!-- SUBTITLE: A quick summary of les origines de l'humanité -->
+<!-- TITLE: L'origine de l'humanité -->
 
 # Le mono originisme
 Le mono originisme est la théorie selon laquelle tous les humains posséderaient un ancêtre commun.
