@@ -47,7 +47,11 @@ Ce premier métier lui a ouvert les portes du monde de l'imprimerie et lui a per
 
 Étant sérieux et passionné par le métier d'imprimeur, *Marcus Garvey* a appris vite et si bien qu'à l'âge de dix-huit ans, il est devenu maître typographe et contre-maître à *P.A. Benjamin Company*, l'une des plus grandes imprimeries de Kingston (capitale de [Xamayca](/geographie/ile/caraibes/midi/xamayca)).[^1]
 
-Suite à la grêve de [1907](/histoire/date/calendrier-gregorien/par-annee/1907) à laquelle il a participé, *Marcus Garvey* fut licencié, ce qui l'amena à trouver un autre poste d'imprimeur au gouvernement colonial.
+Suite à sa participation à la grêve de [1907](/histoire/date/calendrier-gregorien/par-annee/1907), *Marcus* est licencié ; ce qui l'a amené à trouver un autre poste d'imprimeur au gouvernement colonial.
+
+Par la suite, en [1910](/histoire/date/calendrier-gregorien/par-annee/1910) il en est venu à[^1] :
+* créer son premier journal : [Watchman](/organisme/journal/watchman) ;
+* animer [Our Own](/organisme/journal/our-own), le journal du parti politique [National Club](/organisme/parti-politique/national-club).
 
 ## Politique
 Ses parents n'ayant plus les moyens, *Marcus Garvey* décide de s'auto-former. Dans ce but, il s'invite dans des luttes syndicales à [Xamayca](/geographie/ile/caraibes/midi/xamayca).
@@ -63,7 +67,7 @@ Cette solidarité lui fit :
 * perdre son poste ;
 * être radié de la liste des imprimeurs ;
 * être condamné à changer de profession.
-Pourtant, *Marcus* réussi à trouver un poste d'imprimeur au sein du gouvernement colonial.
+Pourtant, *Marcus* réussit à trouver un poste d'imprimeur au sein du gouvernement colonial.
 
 En [1910](/histoire/date/calendrier-gregorien/par-annee/1910), *Marcus Garvey* adhère au parti politique [National Club](/organisme/parti-politique/national-club), ce qui lui permet de découvrir la politique par la pratique. Il arrive à obtenir l'un des trois postes de secrétaire adjoint du parti. [National Club](/organisme/parti-politique/national-club) était reconnu au niveau national étant donné que deux de ses membres réussirent à se faire élire au conseil législatif, avant l'arrivé de *Marcus*.[^1]
 Enfin, pendant la même année et jusqu'à son départ en Amérique Centrale (en fin d'année), *Marcus* participe à l'animation de [Our Own](/organisme/journal/our-own), le journal du parti.[^1]
