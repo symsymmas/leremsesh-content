@@ -80,7 +80,7 @@ Un jour, une camarade blanche du même quartier que celui de *Marcus* a été en
 Cette prise de conscience a allumé en lui une flamme révolutionnaire inextinguible.[^1]
 Il estimait que le devoir de révolte et de combat s'imposait à toute personne prenant conscience de l'ampleur des injustices que subit son peuple.[^1]
 
-« Je compris qu'il existait des ségrégations dans l'humanité et qu'il y avait plusieurs races, chacune ayant une place bien précise dans la société. »[^3][^5]
+« Je compris qu'il existait des ségrégations dans l'humanité et qu'il y avait plusieurs races, chacune ayant une place bien précise dans la société. »[^3][^4]
 « J'ai toujours désiréé de toute mon âme, travailler au progrès de ma race. »[^4]
 
 # Réalisations
@@ -109,5 +109,4 @@ Voici une liste non exhaustive de livres rendant hommage à Marcus GARVEY :
 [^1]: [Doumbi-Fakoly](/personnalite/homme/guerrier/afrique/nord-ouest/empire/mali/fakoli-manden). [Marcus Garvey expliqué aux adolescents](/ouvrage/documentaire/marcus-garvey-explique-aux-adolescents). Livre. France ; Édition [MENAIBUC](/organisme/editeur/menaibuc) ; 2ème trimestre 2009. p.7 ; p.11-13 ; p.15-16 ; p.19-20. ISBN : 978-2-35349-102-5. 
 [^2]: Admin. [Sir Marcus Mosiah Garvey His beliefs deeply influenced the Rastafari, who took his statements as a prophecy](http://join.clubme.net/t26-sir-marcus-mosiah-garvey-his-beliefs-deeply-influenced-the-rastafari-who-took-his-statements-as-a-prophecy#26). Forum sur Internet. Jeu. 13 Jan. 2011 ; 12:50 (lu le 25 Avril 2018).
 [^3]: [Amy Jacques Garvey](). [Philosophy and Opinions of Marcus Garvey](). Vol. 2. p. 125. Cité par Têtêvi Godwin Tété-Adjalogo.
-[^4]: [Têtêvi Godwin Tété-Adjalogo](). Tome 1. Ed. L'Harmattan ; Paris ; 1995. p. 20.
-[^5]: Marcus Garvey. [Père e l'Unité Africaine des Peuples](). Tome 1. Éd. L'Harmattan ; Paris ; 1995. p. 22.
+[^4]: [Têtêvi Godwin Tété-Adjalogo](). Marcus Garvey. [Père e l'Unité Africaine des Peuples](). Tome 1. Ed. L'Harmattan ; Paris ; 1995. p. 20 ; p. 22.
