@@ -2,4 +2,4 @@
 
 # Le mono originisme
 Le mono originisme est la théorie selon laquelle tous les humains posséderaient un ancêtre commun.
-Cette théorie a été démontrée scientifiquement.
+Il a été démontrée scientifiquement que l'homme ([homo sapiens sapiens]()) vient d'[Afrique](/geographie/continent/afrique).
