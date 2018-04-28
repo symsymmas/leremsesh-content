@@ -43,7 +43,7 @@ Quand vient le moment où ses parents n'ont plus les moyens de payer ses études
  
 ## Parcours professionnel
 À quatorze ans, *Marcus Garvey* s'est vu contraint d'arrêter les études par manque de moyens financiers ; il est donc embauché dans l'imprimerie d'*Alfred E. Burrowes* située à *Saint Ann's Bay* en tant que typographe.[^1]
-Non seulement ce premier métier lui a servi pour ses projets d'avenir mais cela lui a aussi permi de lire de nombreux ouvrages portant sur des figures historiques de la Caraïbe commme le [général Cudjo](/personnalite/homme/militaire/caraibes/a-situer/general-cudjo), [Tacky](/personnalite/homme/a-classer/caraibes/a-situer/tacky), [Sam Sharpe](/personnalite/homme/a-classer/caraibes/a-situer/sam-sharpe), [Quaco](/personnalite/homme/a-classer/caraibes/a-situer/quaco) et [Paul Bogle](/personnalite/homme/a-classer/caraibes/a-situer/paul-bogle).[^1]
+Ce premier métier lui a ouvert les portes du monde de l'imprimerie et lui a permi d'augmenter sa culture grâce à la lecture de nombreux ouvrages portant sur des figures historiques de la Caraïbe (ex. : [général Cudjo](/personnalite/homme/militaire/caraibes/a-situer/general-cudjo), [Tacky](/personnalite/homme/a-classer/caraibes/a-situer/tacky), [Sam Sharpe](/personnalite/homme/a-classer/caraibes/a-situer/sam-sharpe), [Quaco](/personnalite/homme/a-classer/caraibes/a-situer/quaco) et [Paul Bogle](/personnalite/homme/a-classer/caraibes/a-situer/paul-bogle)).[^1]
 
 Étant sérieux et passionné par le métier d'imprimeur, *Marcus Garvey* a appris vite et si bien qu'à l'âge de dix-huit ans, il devient maître typographe et contre-maître à *P.A. Benjamin Company*, l'une des plus grandes imprimeries de Kingston (capitale de [Xamayca](/geographie/ile/caraibes/midi/xamayca)).[^1]
 
