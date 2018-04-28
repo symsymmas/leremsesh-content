@@ -54,14 +54,15 @@ Par la suite, en [1910](/histoire/date/calendrier-gregorien/par-annee/1910) il e
 * animer [Our Own](/organisme/journal/our-own), le journal du parti politique [National Club](/organisme/parti-politique/national-club).
 
 ## Politique
-Ses parents n'ayant plus les moyens, *Marcus Garvey* décide de s'auto-former. Dans ce but, il s'invite dans des luttes syndicales à [Xamayca](/geographie/ile/caraibes/midi/xamayca).
+Ses parents n'ayant plus les moyens, *Marcus Garvey* décide de s'auto-former.
+Pour commencer, il s'invite dans des luttes syndicales à [Xamayca](/geographie/ile/caraibes/midi/xamayca).
 
 En [1907](/histoire/date/calendrier-gregorien/par-annee/1907), un tremblement de terre dévaste son île. Cette catastrophe naturelle engendre[^1] :
 * une pénurie des denrées alimentaires ;
 * une baisse des salaires ;
 * une flambée des prix.
 
-En réponse à cela, les habitants de l'île effectuent une longue grêve déclenchée par l'imprimerie *La Printer's Union*.
+En réponse à cela, les habitants de l'île effectuent une longue grêve déclenchée par l'imprimerie *La Printer's Union*.[^1]
 *Marcus Garvey* se joint à cette grêve alors que, étant contre-maître, il se doit, en principe, d'être du côté des patrons. D'ailleurs, malgré les promesses faites le patronat, *Marcus Garvey* décida de rester solidaire de son peuple.[^1]
 Cette solidarité lui fit :
 * perdre son poste ;
