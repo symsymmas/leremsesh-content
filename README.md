@@ -13,10 +13,11 @@ Les fichiers sont modifiés sur le *site Web de partage d'informations* puis tra
 2. Cloner en local
 3. Saisir les commandes suivantes :
 ```
+  $ cd /emplacement/du/clone/en/local/
   $ git checkout master-tmp
   $ git merge --no-commit --no-ff origin/proposition
-  $ git reset -- <fileORfolder>  # À appliquer à chaque fichiers et dossiers précédemment cités
-  $ git commit -m '<comment>'
+  $ git mergetool  # En cas de problème pour effectuer la fusion, il est possible d'utiliser l'outil graphique.
+  $ git commit -m '<comment>'  # Mettre un commentaire explicite, par exemple : Ajout des information de PARTAGE.LEREMSESH datant du <date du commit>.
   $ git push origin master-tmp  # S'assurer que la configuration du clone git est en adéquation avec le dépôt Github.
 ```
 4. Faire une pull request de master.
