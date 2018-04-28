@@ -1,4 +1,4 @@
-<!-- TITLE: Février -->
+<!-- TITLE: 2-Février -->
 <!-- SUBTITLE: Événements s'étant produit un mois de Février -->
 
 Cette page recense des événements qui se sont produit durant le mois de Février du calendrier Grégorien.
