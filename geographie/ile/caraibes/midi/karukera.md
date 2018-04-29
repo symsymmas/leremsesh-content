@@ -7,25 +7,11 @@ La Guadeloupe est un archipel composé d’îles et îlets : la Basse-Terre, la 
 Capitale : la commune de Basse-Terre.
 
 # HISTOIRE
-## Avant Colomb :
-Avant l’intrusion de  Colomb, les îles de la Caraïbes étaient peuplés par les Arawaks, amérindiens venant d’Amazonie.
+## Avant Colomb
+Avant l’intrusion de  Colomb, les îles de la [Caraïbes](https://partage.leremsesh.com/geographie/ile/caraibes/iles-de-la-caraibe) étaient peuplés par les Arawaks, amérindiens venant d’Amazonie.
 Ils ont précédés les Caribas, dans leur installation dans les îles Caraïbéennes.
 
-Les Caribas sont des Kalinagos, amérindiens originaires du nord du Venezuela, ayant migré vers les îles des Caraïbes, du Sud vers le Nord.
-Ils sont appelés Caraïbes, Karibs ou Caribes par les européens.
-Les Kalinagos des Petites Antilles, se dégignaient Cariba «homme courageux »
-
-Lorsque les Cariba entreprirent la conquête des îles de la Caraïbes depuis le Sud, il y eu conflit entre les Cariba et les Arawaks. 
- 
-Les Arawaks et les Caribas, appartiennent au groupe des Kalina, groupe d’amérindiens que l’on retrouve sur la côte Caraïbe de l’Amérique du Sud.
-
-Les Arawaks appelaient les  Caribas, « Caniba ».
-Les européens ont déformé cette appellation en Cannibales et firent des Cariba des dévoreurs d’hommes, ayant exterminé les Arawaks.
-
-Les Kalina des îles de la Caraïbes ont nommé chacune des îles qu’ils ont habité.
-Avec l’extermination des amérindiens des îles de la Caraïbes et la colonisation européenne, les îles ont été renommées.
-
-## 2. Arrivée de Colomb :
+## Arrivée de Colomb
 
 Colomb accosta sur Karukera le 3 novembre 1493, lors de son second voyage vers les Amériques.
 
