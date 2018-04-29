@@ -1,4 +1,3 @@
-<!-- TITLE: Etre Humain -->
-<!-- SUBTITLE: A quick summary of Etre Humain -->
+<!-- TITLE: Être Humain (d'après la spiritualité des Kemtiou) -->
 
 # Header
