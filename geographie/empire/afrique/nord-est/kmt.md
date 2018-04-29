@@ -52,7 +52,7 @@ Cette expression est composée de :
 * *n* qui fait référence à la possession et qui peut se traduire par le mot « à » ou le mot « pour » (quelqu'un) ;[^1]
 * *Kémèt* (voir [traduction précédente](#traduction-litterale)).
 
-Littéralement, cette expression se traduit par : la *terre de la cité noire* ou la *terre du pays noir*.[^3] Par conséquent, dire que le mot *Kémèt* fait référence au sol ou à la couleur du sol de l'Égypte pharaonique antique est absurde puisqu'il y aurait redondance dans l'expression *ta n Kémèt*. De plus, l'argument portant sur le seul fait que le limon du Nil est noir est insuffisant puisque, comme le montre l'illustration suivante, le territoire de cet empire s'étend au-delà du littoral nilotique.
+Littéralement, cette expression se traduit par : la *terre de la cité noire* ou la *terre du pays noir*.[^3]  Ici, le mot Kémèt ne fait pas référence au sol ou à la couleur du sol de l'Égypte pharaonique. De plus, l'argument portant sur le seul fait que le limon du Nil est noir est insuffisant puisque, comme le montre l'illustration suivante, le territoire de cet empire s'étend au-delà du littoral nilotique.
 Dès lors, il faut interpréter les traduction *cité noire* et *pays noir* à l'instar du terme *Afrique Noire*, c'est-à-dire un endroit où ce n'est pas le sol qui est qualifié de noir mais sa population. Par conséquent, la traduction exacte du mot *Kémèt* est : *Pays des noirs* ou *cité des noirs*.[^3]
 De plus, pour étayer cette thèse, il Hérodote et d'autres contemporains des [Kemtiou](/peuple/afrique/nord-est/empire/kmt/kemtiou), les définissaient qualifiaient d'individus « noirs » de couleur.[^3]
 
