@@ -57,7 +57,7 @@ Dès lors, il faut interpréter les traduction *cité noire* et *pays noir* à l
 De plus, pour étayer cette thèse, il Hérodote et d'autres contemporains des [Kemtiou](/peuple/afrique/nord-est/empire/kmt/kemtiou), les définissaient qualifiaient d'individus « noirs » de couleur.[^3]
 
 # L'évolution du royaume
-Avant de lire la suite de ce chapitre, il faut se rappeler que les [Égyptiens de l'antiquité](/peuple/afrique/nord-est/empire/kmt/kemtiou) regardaient le monde « tête en bas », c'est à dire que le Nord se trouve en bas et le Sud en haut, comme le présente l'illustration suivante. Ils placaient le Sud vers le haut, car leurs ancêtres venaient du Sud.
+Avant de lire la suite de ce chapitre, il faut se rappeler que les [Égyptiens de l'antiquité](/peuple/afrique/nord-est/empire/kmt/kemtiou) regardaient le monde « tête en bas », c'est à dire que le Nord se trouve en bas et le Sud en haut, comme le présente l'illustration suivante. Ils plaçaient le Sud vers le haut, car leurs ancêtres venaient du Sud.
 
 ![Tobler Hyperelliptical Projection Small](/uploads/earth/tobler-hyperelliptical-projection-small.png "Tobler Hyperelliptical Projection Small"){.align-center}
 
