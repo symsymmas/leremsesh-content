@@ -4,6 +4,8 @@
 *Xamayca* est le nom d'une île située au Nord de la [Caraïbe](/geographie/ile/caraibes/iles-de-la-caraibe). Ce nom a été donné par les [Caraïbes](/peuple/caraibes/partout/caraibe) avant que les colons Espagnols n'arrivent et ne lui donnent le nom *Jamaica* (Jamaïque) ; déformation linguistique de *Xamayca* étant donné que la prononciation des deux termes est similaire en espagnol.
 
 # Géographie
+Actuellement (en [2018](/histoire/date/calendrier-gregorien/par-annee/2018)), l'île est divisée en plusieurs paroisses dont l'une se nomme *Saint Ann*.
+
 Ci-dessous une carte illustrant l'île *Xamayca* et définissant son emplacement géographique par rapport aux autres [îles de la Caraïbe](/geographie/ile/caraibes/iles-de-la-caraibe).
 
 ![Xamayca Bis](/uploads/map/xamayca-bis.png "Carte de Xamayca"){.align-center}
@@ -14,8 +16,7 @@ Voici une liste d'événements clefs[^1] :
 * [1907](/histoire/date/calendrier-gregorien/par-annee/1907) : un tremblement de terre ravage l'île, ce qui cause une pénurie alimentaire, une baisse de salaire et une hausse des prix qui aboutissent à une grêve.
 * [1910](/histoire/date/calendrier-gregorien/par-annee/1910) :
 	* [Marcus Garvey](/personnalite/homme/polymathe/caraibes/midi/colonie/xamayca/marcus-gavey) crée le journal [Watchman](/organisme/journal/watchman),
-	* [Marcus Garvey](/personnalite/homme/polymathe/caraibes/midi/colonie/xamayca/marcus-gavey) adhère au [National Club](/organisme/parti-politique/national-club) où il devient secrétaire adjoint puis animateur du journal officiel du parti politique,
-* [2018](/histoire/date/calendrier-gregorien/par-annee/2018) : l'île est divisée en plusieurs paroisses dont l'une se nomme *Saint Ann*.
+	* [Marcus Garvey](/personnalite/homme/polymathe/caraibes/midi/colonie/xamayca/marcus-gavey) adhère au [National Club](/organisme/parti-politique/national-club) où il devient secrétaire adjoint puis animateur du journal officiel du parti politique.
 
 # Personnages illustres
 Voici une liste non exhaustive de personnages illustres originaires de *Xamayca* :
