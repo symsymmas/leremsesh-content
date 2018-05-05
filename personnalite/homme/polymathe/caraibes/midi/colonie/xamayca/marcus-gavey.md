@@ -4,7 +4,7 @@
 ![Marcus Garvey Portrait](/uploads/personnalite/marcus-garvey-portrait.png "Marcus Garvey Portrait"){.pagelogo}
 
 # Origines
-*Marcus Garvey* est un Africain de [Xamayca](/geographie/ile/caraibes/midi/xamayca) (nom originel de l'île de la Jamaïque). Il est né le [18](/histoire/date/calendrier-gregorien/par-jour/18) [Août](/histoire/date/calendrier-gregorien/par-mois/aout) [1887](/histoire/date/calendrier-gregorien/par-annee/1887) dans un village côtier nommé *Saint Ann's Park*.[^1] À cette époque, l'ile est une colonie britanique. L'esclavage y était aboli officiellement depuis 53 ans, soit en [1834](/histoire/date/calendrier-gregorien/par-annee/1834).[^1] En terme de génération, ses grands-parents ont connu le [Yovodah](/terminologie/fon/yovodah) (terme [Fon](/langue/afrique/a-situer/fon) utilisé, entre autre, pour l'esclavage).
+*Marcus Garvey* est un Africain de [Xamayca](/geographie/ile/caraibes/midi/xamayca) (nom originel de l'[île de la Jamaïque](/geographie/ile/caraibes/midi/xamayca)). Il est né le [18](/histoire/date/calendrier-gregorien/par-jour/18) [Août](/histoire/date/calendrier-gregorien/par-mois/aout) [1887](/histoire/date/calendrier-gregorien/par-annee/1887) dans un village côtier nommé *Saint Ann's Park*.[^1] À cette époque, l'ile est une colonie britanique. L'esclavage y était aboli officiellement depuis 53 ans, soit en [1834](/histoire/date/calendrier-gregorien/par-annee/1834).[^1] En terme de génération, ses grands-parents ont connu le [Yovodah](/terminologie/fon/yovodah) (terme [Fon](/langue/afrique/a-situer/fon) utilisé, entre autre, pour l'esclavage).
 
 *Marcus Garvey* a reçu plusieurs prénoms : Manasseh, Moses, Aurelius et Moziah[^1].
 
