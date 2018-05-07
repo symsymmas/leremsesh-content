@@ -19,13 +19,13 @@ Les autochtones de *Kémèt* écrivaient ce mot à l'aide des idéogrammes suiva
 
 * L'unilitère G17[^2] qui se prononce comme la lettre *m* et qui représente une chouette ou un hibou ;
 
-* L'unilitère X1[^2] qui se prononce comme la lettre *t* et qui représente du pain ou une galette de pain ;
-
 ![Signe X 1](/uploads/ecriture/signe-x-1.png "Signe X1"){.align-center}
 
-* L'idéogramme et déterminatif O49[^2] qui se prononce *niout* (NIWT) et qui représente une localité avec des avenues qui se croisent.
+* L'unilitère X1[^2] qui se prononce comme la lettre *t* et qui représente du pain ou une galette de pain ;
 
 ![O 49](/uploads/ecriture/o-49.png "Signe O49"){.align-center}
+
+* L'idéogramme et déterminatif O49[^2] qui se prononce *niout* (NIWT) et qui représente une localité avec des avenues qui se croisent.
 
 # Traduction littérale
 En partant de l'[étymologie](#etymologie) du mot *Kémèt*, il en ressort que :
