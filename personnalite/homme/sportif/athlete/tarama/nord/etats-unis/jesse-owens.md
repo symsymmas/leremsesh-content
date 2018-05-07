@@ -13,4 +13,4 @@
 * le sprint sur 100 mètres en 9.4 seconds ;
 * le sprint sur 200 mètres en 20,3 secondes.
 
-![Maxresdefault](/uploads/personnalite/maxresdefault.jpg "Les records du monde de Jesse Owens.")
+![Maxresdefault](/uploads/personnalite/maxresdefault.jpg "Les records du monde de Jesse Owens."){.align-center}
