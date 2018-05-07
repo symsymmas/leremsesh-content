@@ -3,6 +3,8 @@
 
 *Jesse Owens* est un [Kamit](/peuple/monde/kamit) des [États-Unis d'Amérique]() qui a participé aux Jeux Olympiques de [1936](), à Berlin, en Allemagne Nazi.[^1]
 
+![Jesse Owens 1971 Ajman Stamp](/uploads/personnalite/jesse-owens-1971-ajman-stamp.jpg "Jesse Owens 1971 Ajman Stamp"){.align-right}
+
 # Prouesse sportive
 L'illustration suivante présente *Jesse Owens* sur la première place du podium.
 
