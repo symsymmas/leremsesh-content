@@ -25,7 +25,7 @@ Les autochtones de *Kémèt* écrivaient ce mot à l'aide des idéogrammes suiva
 
 * L'idéogramme et déterminatif O49[^2] qui se prononce *niout* (NIWT) et qui représente une localité avec des avenues qui se croisent.
 
-![O 49](/uploads/ecriture/o-49.png "Signe O49"){.align-right}
+![O 49](/uploads/ecriture/o-49.png "Signe O49"){.align-center}
 # Traduction littérale
 En partant de l'[étymologie](#etymologie) du mot *Kémèt*, il en ressort que :
 1.  Le premier idéogramme, comme l'ont admis les égptologues du Colloque du Caire de 1974, représente la couleur noire puisque :
