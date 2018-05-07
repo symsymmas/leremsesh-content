@@ -6,11 +6,11 @@
 Les *pilotes de Tuskegee* sont les premiers pilotes [Kamitiou](/peuple/monde/kamit) (Noirs) des [États-Unis d'Amérique]() à participer à la [seconde guerre tribale Européenne]().[^1]
 
 # Leur formation militaire
+![2011 Maxhaynes Tuskegee Airman 2](/uploads/object/2011-maxhaynes-tuskegee-airman-2.jpg "Maxhaynes Tuskegee Airman 2"){.align-right}
+
 Sous la demande du président Roosevelt, les *pilotes de Tuskegee* ont été entrainés près du *Tuskegee Institute*, une université majoritairement Noire pour [l'expérimentation de Tuskegee]().
 
 # Leur détermination
-![2011 Maxhaynes Tuskegee Airman 2](/uploads/object/2011-maxhaynes-tuskegee-airman-2.jpg "Maxhaynes Tuskegee Airman 2"){.align-right}
-
 En 1940, l'armée des [États-Unis d'Amérique]() pratique la ségrégation. Les *pilotes de Tuskegee* se voient donc non seulement confronté au nazisme mais aussi au racisme.[^1]
 Pour rappel, les [Kamitiou](/peuple/monde/kamit) (Noirs) des [États-Unis d'Amérique]() étaient considérés comme inférieurs pendant la [ségrégation](). Cela signifie que les officiers [leucodermes]() ne pouvaient pas admettre la présence d'officiers [Kamit](/peuple/monde/kamit) (Noir) pouvant donner des ordres à d'autres [leucodermes]().[^1]
 Face à ce racisme, les *pilotes de Tuskegee* ont décidé de former leur groupe de combat.
