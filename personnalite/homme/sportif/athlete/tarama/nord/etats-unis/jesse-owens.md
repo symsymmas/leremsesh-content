@@ -20,7 +20,13 @@ Durant les jeux Olympiques de [1936](), en Allemagne Nazi, *Jesse Owens* a obten
 Après avoir accompli moulte prouesses sportives sur le territoire Nazi, deux hommes illustres n'ont pas dénié saluer *Jesse Owens* :
 * Adolf HITLER ;
 * Franklin Delano ROOSEVELT.
-Voyant que le président n'a pas souhaité le féliciter, *Jesse* se senti frustré. En sus, le Président des États-Unis d'Amérique de l'époque (Franklin Delano ROOSEVELT) invita tous les joueurs blancs à la maison blanche et non *Jesse OWENS*[^3].
+Voyant que le président n'a pas souhaité le féliciter, *Jesse* se senti frustré :
+
+
+
+> « While at the Olympic Games, I had the opportunity to meet the King of England. I had the opportunity to wave at Hitler, and I had the opportunity to talk with the King of Sweden, and some of the greatest men in Europe. Some people say Hitler snubbed me. But I tell you, Hitler didn't snub me—it was our president who snubbed me. The president didn't even send me a telegram. I am not knocking the President. Remember, I am not a politician. But remember that the President did not send me a message of congratulations because people said he was too busy. »
+> 
+En sus, le Président des États-Unis d'Amérique de l'époque (Franklin Delano ROOSEVELT) invita tous les joueurs blancs à la maison blanche et non *Jesse OWENS*[^3].
 
 En 1971, les Nations Arabes Unies impriment un timbre à l'effigie du sportif *Jesse Owens*.
 
