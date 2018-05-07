@@ -21,7 +21,7 @@ Après avoir accompli moulte prouesses sportives sur le territoire Nazi, deux ho
 * Adolf HITLER ;
 * Franklin Delano ROOSEVELT.
 
-Voyant que le président ne prenait pas cas de sa prouesse, *Jesse OWENS* dit :
+Voyant que le président ne prenait pas cas de sa prouesse, *Jesse OWENS* dit lors d'un speech à Baltimore, au Maryland (2 Octobre 1936)[^4] :
 
 > « While at the Olympic Games, I had the opportunity to meet the King of England. I had the opportunity to wave at Hitler, and I had the opportunity to talk with the King of Sweden, and some of the greatest men in Europe. Some people say Hitler snubbed me. But I tell you, Hitler didn't snub me—it was our president who snubbed me. The president didn't even send me a telegram. I am not knocking the President. Remember, I am not a politician. But remember that the President did not send me a message of congratulations because people said he was too busy. »
 > 
@@ -37,4 +37,5 @@ En 1971, les Nations Arabes Unies impriment un timbre à l'effigie du sportif *J
 
 [^1]: [Jesse Owens](http://perno.com/extras/lite/Jesse%20Owens.htm). In [Anthony Perno](http://perno.com/). [Anthony Perno](http://perno.com/) [en ligne]. [consulté le [7]() [Mai]() [2018]()]. http://perno.com/extras/lite/Jesse%20Owens.htm
 [^2]: [Big Ten Network](https://www.youtube.com/channel/UC4LeRw7pIZ_kseS4Krn_DQA). [Big Ten Icons: Jesse Owens 3](https://www.youtube.com/watch?v=kMnKZ6PYLqo) [vidéo en ligne]. [YouTube](https://www.youtube.com/), [8]() [mars]() [2016](), [consulté le [7]() [Mai]() [2018]()]. 1 mn 2 s.
-[^3]: [Lawrence W. Reed](https://fee.org/people/lawrence-w-reed/). [Jesse Owens: "Character Makes the Difference When It's Close](https://fee.org/articles/hitler-didn-t-snub-me-it-was-our-president/). In [FEE](https://fee.org). [FEE](https://fee.org) [en ligne]. , Vendredi 21 Août 2015 [consulté le [7]() [Mai]() [2018]()]. https://fee.org/articles/hitler-didn-t-snub-me-it-was-our-president/
+[^3]: [Lawrence W. Reed](https://fee.org/people/lawrence-w-reed/). [Jesse Owens: "Character Makes the Difference When It's Close](https://fee.org/articles/hitler-didn-t-snub-me-it-was-our-president/). In [FEE](https://fee.org). [FEE](https://fee.org) [en ligne]. Vendredi 21 Août 2015 [consulté le [7]() [Mai]() [2018]()]. https://fee.org/articles/hitler-didn-t-snub-me-it-was-our-president/
+[^4]: [SHMOOP](https://www.shmoop.com). [Hitler didn't snub me—it was our president who snubbed me. The president didn't even send me a telegram.](https://www.shmoop.com/quotes/hitler-didnt-snub-me-the-president-didnt-even-send-me-a-telegram.html). In [SHMOOP](https://www.shmoop.com). [SHMOOP](https://www.shmoop.com) [en ligne]. [consulté le [7]() [Mai]() [2018]()]. https://www.shmoop.com/quotes/hitler-didnt-snub-me-the-president-didnt-even-send-me-a-telegram.html
