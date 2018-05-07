@@ -9,7 +9,7 @@ L'illustration suivante présente *Jesse Owens* sur la première place du podium
 
 # Prouesse sportive
 ![Bundesarchiv Bild 183 R 96374 Berlin Olympiade Jesse Owens Beim Weitsprung Crop](/uploads/personnalite/bundesarchiv-bild-183-r-96374-berlin-olympiade-jesse-owens-beim-weitsprung-crop.jpg "Photo de Jesse Owens en train de faire un saut en longueur"){.align-right}
-![Jesse Owens 1971 Ajman Stamp](/uploads/personnalite/jesse-owens-1971-ajman-stamp.jpg "Timbre d'Ajman (Nations Arabes Unies) datant de 1971 à l'effigie de Jesse Owens"){.align-center}
+![Jesse Owens 1971 Ajman Stamp](/uploads/personnalite/jesse-owens-1971-ajman-stamp.jpg "Timbre d'Ajman (Nations Arabes Unies) datant de 1971 à l'effigie de Jesse Owens")
 
 
 Durant les jeux Olympiques de [1936](), en Allemagne Nazi, *Jesse Owens* a obtenu quatre médailles d'or et a accompli quatre records mondiaux dans le domaine sportif, ce en 45 minutes, par la même occasion [^1] :
