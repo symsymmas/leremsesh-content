@@ -7,17 +7,17 @@
 
 # Étymologie
 Les autochtones de *Kémèt* écrivaient ce mot à l'aide des idéogrammes suivants[^1][^3]:
+
+![I 6](/uploads/ecriture/i-6.png "Signe I6"){.align-right}
+
 * Le bilitère I6[^2], qui se prononce *kèm* (KM) et qui représente :
 	* soit un morceau de peau de crocodile avec écailles (d'où sa comparaison aux amphibiens, sauriens et reptiles dans la [classification Gardiner](/ecriture/hieroglyphe/classification-gardiner)),
 	* soit un tas ou un bout de charbon de bois (brulé),
 	* soit les épines d'un porc-épic[^4] ;
 
-![I 6](/uploads/ecriture/i-6.png "Signe I6"){.align-center}
-
+![Signe G 17](/uploads/ecriture/signe-g-17.png "Signe G17"){.align-right}
 
 * L'unilitère G17[^2] qui se prononce comme la lettre *m* et qui représente une chouette ou un hibou ;
-
-![Signe G 17](/uploads/ecriture/signe-g-17.png "Signe G17"){.align-center}
 
 * L'unilitère X1[^2] qui se prononce comme la lettre *t* et qui représente du pain ou une galette de pain ;
 
