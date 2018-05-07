@@ -1,8 +1,6 @@
 <!-- TITLE: Jesse Owens -->
 <!-- SUBTITLE: Présentation de l'athlète Jesse Owens -->
 
-![Jesse Owens 1971 Ajman Stamp](/uploads/personnalite/jesse-owens-1971-ajman-stamp.jpg "Timbre d'Ajman (Nations Arabes Unies) datant de 1971 à l'effigie de Jesse Owens"){.pagelogo}
-
 *Jesse Owens* est un [Kamit](/peuple/monde/kamit) des [États-Unis d'Amérique]() qui a participé aux Jeux Olympiques de [1936](), à Berlin, en Allemagne Nazi.[^1]
 
 L'illustration suivante présente *Jesse Owens* sur la première place du podium.
@@ -18,11 +16,13 @@ Durant les jeux Olympiques de [1936](), en Allemagne Nazi, *Jesse Owens* a obten
 * le sprint sur 200 mètres en 20,3 secondes ;
 * le 200 mètres haies en 22,6 secondes.
 
-# Déception
+# Hommages
 Après avoir accompli moulte prouesses sportives sur le territoire Nazi, deux hommes illustres n'ont pas dénié saluer *Jesse Owens* :
 * Adolf HITLER ;
 * Franklin Delanoe ROOSEVELT.
 Voyant que le président n'a pas souhaité le féliciter, *Jesse* se senti frustré.
+
+![Jesse Owens 1971 Ajman Stamp](/uploads/personnalite/jesse-owens-1971-ajman-stamp.jpg "Timbre d'Ajman (Nations Arabes Unies) datant de 1971 à l'effigie de Jesse Owens"){.align-center}
 
 
 [^1]: [Jesse Owens](http://perno.com/extras/lite/Jesse%20Owens.htm). In [Anthony Perno](http://perno.com/). [Anthony Perno](http://perno.com/) [en ligne]. [consulté le 7 Mai 2018]. http://perno.com/extras/lite/Jesse%20Owens.htm
