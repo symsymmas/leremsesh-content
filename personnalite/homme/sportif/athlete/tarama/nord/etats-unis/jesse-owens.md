@@ -1,7 +1,7 @@
 <!-- TITLE: Jesse Owens -->
 <!-- SUBTITLE: Présentation de l'athlète Jesse Owens -->
 
-![Jesse Owens Sprint Bis](/uploads/personnalite/jesse-owens-sprint-bis.jpg "Jesse Owens Sprint Bis"){.pagelogo}
+![Jesse Owens Sprint Ter](/uploads/personnalite/jesse-owens-sprint-ter.jpg "Jesse Owens"){.pagelogo}
 
 *Jesse Owens* (prononcé *djèci owèns*) est un [Kamit](/peuple/monde/kamit) des [États-Unis d'Amérique]() qui a participé aux Jeux Olympiques de [1936](), à Berlin, en Allemagne Nazi.[^1]
 
