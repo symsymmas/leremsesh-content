@@ -15,9 +15,9 @@ Les autochtones de *Kémèt* écrivaient ce mot à l'aide des idéogrammes suiva
 	* soit un tas ou un bout de charbon de bois (brulé),
 	* soit les épines d'un porc-épic[^4] ;
 
-* L'unilitère G17[^2] qui se prononce comme la lettre *m* et qui représente une chouette ou un hibou ;
-
 ![Signe G 17](/uploads/ecriture/signe-g-17.png "Signe G17"){.align-right}
+
+* L'unilitère G17[^2] qui se prononce comme la lettre *m* et qui représente une chouette ou un hibou ;
 
 * L'unilitère X1[^2] qui se prononce comme la lettre *t* et qui représente du pain ou une galette de pain ;
 
