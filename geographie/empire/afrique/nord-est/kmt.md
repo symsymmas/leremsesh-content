@@ -33,7 +33,7 @@ En partant de l'[étymologie](#etymologie) du mot *Kémèt*, il en ressort que 
 1.  Le premier idéogramme, comme l'ont admis les égptologues du Colloque du Caire de 1974, représente la couleur noire puisque :
   * des variantes du son *kèm* sont utilisées dans plusieurs langues Africaines pour désigner la couleur noire,[^4]
   * le charbon est de couleur noire,
-  * comme illustré ci-contre, les crocodiles (ceux du Nil dans l'image suivante) sont d'une couleur noire,
+  * comme illustré ci-dessous, les crocodiles (ceux du Nil dans l'image suivante) sont d'une couleur noire,
 
 ![Crocodile 2697279 1920](/uploads/animaux/crocodile-2697279-1920.jpg "Crocodiles du Nil"){.align-center}
 
