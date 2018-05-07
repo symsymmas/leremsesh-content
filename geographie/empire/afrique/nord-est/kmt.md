@@ -32,11 +32,10 @@ Les autochtones de *Kémèt* écrivaient ce mot à l'aide des idéogrammes suiva
 En partant de l'[étymologie](#etymologie) du mot *Kémèt*, il en ressort que :
 1.  Le premier idéogramme, comme l'ont admis les égptologues du Colloque du Caire de 1974, représente la couleur noire puisque :
   * des variantes du son *kèm* sont utilisées dans plusieurs langues Africaines pour désigner la couleur noire,[^4]
+  * le charbon est de couleur noire,
   * comme illustré ci-contre, les crocodiles (ceux du Nil dans l'image suivante) sont d'une couleur noire,
 
 ![Crocodile 2697279 1920](/uploads/animaux/crocodile-2697279-1920.jpg "Crocodiles du Nil"){.align-center}
-
-  * le charbon est de couleur noire,
 
 2. Le troisième signe rappel le concept féminin. En effet, le [mdw ntr](/ecriture/hieroglyphe/mdw-ntr) (écriture et langue de *Kémèt*) a pour particularité de rajouter le phonème *t* a la fin des mots féminins[^6] ;
 3. Le quatrième et dernier signe (NIWT) est utilisé uniquement lorsqu'il est question d'agglomération urbaine, à l'inverse du mot *ta* (ou *to*) qui renvoie à la terre ou au sol.[^5]
