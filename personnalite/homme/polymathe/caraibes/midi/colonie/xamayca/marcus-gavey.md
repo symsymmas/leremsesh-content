@@ -26,9 +26,9 @@ C'est de son père que *Marcus Garvey* a tenu son amour pour la lecture.[^2][^1]
 Enfin, concernant sa fraterie, *Marcus Garvey* est le plus jeune. Sur ses onze frères et sœurs, lui et sa sœur *Indiana* sont les seuls à ne pas être morts en bas âge.[^1]
 
 ## Mariages
-![Marcus With Amy Jacques Garvey](/uploads/personnalite/marcus-with-amy-jacques-garvey.png "Marcus Garvey et Amy Jacques Garvey, sa seconde femme, en 1922."){.align-right}
-
 La photo suivante illustre Marcus GARVEY et sa seconde femme, Amy Jacques Garvey. Photo prise en [1922](/histoire/date/calendrier-gregorien/par-annee/1922).
+
+![Marcus With Amy Jacques Garvey](/uploads/personnalite/marcus-with-amy-jacques-garvey.png "Marcus Garvey et Amy Jacques Garvey, sa seconde femme, en 1922."){.align-center}
 
 # Apprentissage
 ## Scolarité
