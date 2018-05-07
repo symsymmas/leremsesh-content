@@ -1,7 +1,7 @@
 <!-- TITLE: Jesse Owens -->
 <!-- SUBTITLE: Présentation de l'athlète Jesse Owens -->
 
-*Jesse Owens* est un [Kamit](/peuple/monde/kamit) des [États-Unis d'Amérique]() qui a participé aux Jeux Olympiques de [1936](), à Berlin, en Allemagne Nazi.[^1]
+*Jesse Owens* (prononcé *djèci owèns*) est un [Kamit](/peuple/monde/kamit) des [États-Unis d'Amérique]() qui a participé aux Jeux Olympiques de [1936](), à Berlin, en Allemagne Nazi.[^1]
 
 L'illustration suivante présente *Jesse Owens* sur la première place du podium.
 
@@ -19,8 +19,8 @@ Durant les jeux Olympiques de [1936](), en Allemagne Nazi, *Jesse Owens* a obten
 # Hommages
 Après avoir accompli moulte prouesses sportives sur le territoire Nazi, deux hommes illustres n'ont pas dénié saluer *Jesse Owens* :
 * Adolf HITLER ;
-* Franklin Delanoe ROOSEVELT.
-Voyant que le président n'a pas souhaité le féliciter, *Jesse* se senti frustré.
+* Franklin Delano ROOSEVELT.
+Voyant que le président n'a pas souhaité le féliciter, *Jesse* se senti frustré. En sus, le Président des États-Unis d'Amérique de l'époque (Franklin Delano ROOSEVELT) invita tous les joueurs blancs à la maison blanche et non *Jesse OWENS*[^3].
 
 En 1971, les Nations Arabes Unies impriment un timbre à l'effigie du sportif *Jesse Owens*.
 
@@ -29,3 +29,4 @@ En 1971, les Nations Arabes Unies impriment un timbre à l'effigie du sportif *J
 
 [^1]: [Jesse Owens](http://perno.com/extras/lite/Jesse%20Owens.htm). In [Anthony Perno](http://perno.com/). [Anthony Perno](http://perno.com/) [en ligne]. [consulté le [7]() [Mai]() [2018]()]. http://perno.com/extras/lite/Jesse%20Owens.htm
 [^2]: [Big Ten Network](https://www.youtube.com/channel/UC4LeRw7pIZ_kseS4Krn_DQA). [Big Ten Icons: Jesse Owens 3](https://www.youtube.com/watch?v=kMnKZ6PYLqo) [vidéo en ligne]. [YouTube](https://www.youtube.com/), [8]() [mars]() [2016](), [consulté le [7]() [Mai]() [2018]()]. 1 mn 2 s.
+[^3]: [Lawrence W. Reed](https://fee.org/people/lawrence-w-reed/). [Jesse Owens: "Character Makes the Difference When It's Close](https://fee.org/articles/hitler-didn-t-snub-me-it-was-our-president/). In [FEE](https://fee.org). [FEE](https://fee.org) [en ligne]. , Vendredi 21 Août 2015 [consulté le [7]() [Mai]() [2018]()]. https://fee.org/articles/hitler-didn-t-snub-me-it-was-our-president/
