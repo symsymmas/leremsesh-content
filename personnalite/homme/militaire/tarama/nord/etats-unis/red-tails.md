@@ -1,4 +1,4 @@
-<!-- TITLE: Les pilotes de Tuskegee -->
+.<!-- TITLE: Les pilotes de Tuskegee -->
 <!-- SUBTITLE: Présentation des pilotes de Tuskegee -->
 
 Les *pilotes de Tuskegee* sont les premiers pilotes [Kamitiou](/peuple/monde/kamit) (Noirs) des [États-Unis d'Amérique]() à participer à la [seconde guerre tribale Européenne]().[^1]
