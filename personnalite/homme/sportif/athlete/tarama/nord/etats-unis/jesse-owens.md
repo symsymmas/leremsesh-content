@@ -23,4 +23,4 @@ Après avoir accompli moulte prouesses sportives sur le territoire Nazi, deux ho
 Voyant que le président n'a pas souhaité le féliciter, *Jesse* se senti frustré.
 
 
-[^1]: http://perno.com/extras/lite/Jesse%20Owens.htm
+[^1]: Jesse http://perno.com/extras/lite/Jesse%20Owens.htm
