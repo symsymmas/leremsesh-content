@@ -70,10 +70,10 @@ La basse Égypte est au Nord de la haute Égypte (cf. : illustration précéden
 La couronne du [Pharaon](/personnalite/titre/per-aat) de la basse Égypte se nomme [Déshérèt](/objet/noblesse/afrique/nord-est/kmt/couronne#desheret) et, comme son nom l'indique, elle est de couleur rouge.[^5]
 
 ## L'unification de la haute et de la basse Égypte
+![Egypt Nk Edit](/uploads/egypt-nk-edit.png "Territoire de la haute et de la basse Égypte à son apogée territoriale"){.align-right}
+
 Vers l'an [-3 200](/histoire/date/calendrier-gregorien/par-an/-3200)[^5], le royaume de Kémèt s'étend de l'Est de l'Afrique jusqu'à la Syrie.
 L'illustration suivante donne un aperçu de cet empire à son apogé territorial
-
-![Egypt Nk Edit](/uploads/egypt-nk-edit.png "Territoire de la haute et de la basse Égypte à son apogée territoriale")
 
 L'unification de la haute et de la basse Égypte est issue de la démarche civilisatrice du [Pharaon](/personnalite/titre/per-aat) [Narmer](/personnalite/homme/noble/souverain/pharaon/afrique/nord-est/kmt/narmer) qui souhaitait calmer les tensions entre les clans du Nord et Kémèt.
 
