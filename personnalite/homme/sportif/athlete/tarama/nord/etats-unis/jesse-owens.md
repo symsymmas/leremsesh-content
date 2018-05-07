@@ -10,7 +10,7 @@ L'illustration suivante présente *Jesse Owens* sur la première place du podium
 # Prouesse sportive
 ![Bundesarchiv Bild 183 R 96374 Berlin Olympiade Jesse Owens Beim Weitsprung Crop](/uploads/personnalite/bundesarchiv-bild-183-r-96374-berlin-olympiade-jesse-owens-beim-weitsprung-crop.jpg "Photo de Jesse Owens en train de faire un saut en longueur"){.align-center}
 
-Durant les jeux Olympiques de [1936](), en Allemagne Nazi, *Jesse Owens* a obtenu quatre médailles d'or et a accompli quatre records mondiaux dans le domaine sportif, ce en 45 minutes, par la même occasion [^1] :
+Durant les jeux Olympiques de [1936](), en Allemagne Nazi, *Jesse Owens* a obtenu quatre médailles d'or et a accompli quatre records mondiaux dans le domaine sportif, ce en 45 minutes, par la même occasion [^1][^2] :
 * le sprint sur 100 mètres en 9.4 seconds (atteind sans être dépassé) ;
 * un saut en longueur de plus de huit mètres (détenu pendant 25 ans) ;
 * le sprint sur 200 mètres en 20,3 secondes ;
@@ -27,4 +27,5 @@ En 1971, les Nations Arabes Unies impriment un timbre à l'effigie du sportif *J
 ![Jesse Owens 1971 Ajman Stamp](/uploads/personnalite/jesse-owens-1971-ajman-stamp.jpg "Timbre d'Ajman (Nations Arabes Unies) datant de 1971 à l'effigie de Jesse Owens"){.align-center}
 
 
-[^1]: [Jesse Owens](http://perno.com/extras/lite/Jesse%20Owens.htm). In [Anthony Perno](http://perno.com/). [Anthony Perno](http://perno.com/) [en ligne]. [consulté le 7 Mai 2018]. http://perno.com/extras/lite/Jesse%20Owens.htm
+[^1]: [Jesse Owens](http://perno.com/extras/lite/Jesse%20Owens.htm). In [Anthony Perno](http://perno.com/). [Anthony Perno](http://perno.com/) [en ligne]. [consulté le [7]() [Mai]() [2018]()]. http://perno.com/extras/lite/Jesse%20Owens.htm
+[^2]: [Big Ten Network](https://www.youtube.com/channel/UC4LeRw7pIZ_kseS4Krn_DQA). [Big Ten Icons: Jesse Owens 3](https://www.youtube.com/watch?v=kMnKZ6PYLqo) [vidéo en ligne]. [YouTube](https://www.youtube.com/), [8]() [mars]() [2016](), [consulté le [7]() [Mai]() [2018]()]. 1 mn 2 s.
