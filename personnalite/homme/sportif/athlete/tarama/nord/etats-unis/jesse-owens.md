@@ -23,6 +23,7 @@ Après avoir accompli moulte prouesses sportives sur le territoire Nazi, deux ho
 Voyant que le président n'a pas souhaité le féliciter, *Jesse* se senti frustré.
 
 En 1971, les Nations Arabes Unies impriment un timbre à l'effigie du sportif *Jesse Owens*.
+
 ![Jesse Owens 1971 Ajman Stamp](/uploads/personnalite/jesse-owens-1971-ajman-stamp.jpg "Timbre d'Ajman (Nations Arabes Unies) datant de 1971 à l'effigie de Jesse Owens"){.align-center}
 
 
