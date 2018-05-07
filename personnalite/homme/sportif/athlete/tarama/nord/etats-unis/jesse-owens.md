@@ -4,6 +4,7 @@
 *Jesse Owens* est un [Kamit](/peuple/monde/kamit) des [États-Unis d'Amérique]() qui a participé aux Jeux Olympiques de [1936](), à Berlin, en Allemagne Nazi.[^1]
 
 L'illustration suivante présente *Jesse Owens* sur la première place du podium.
+
 ![Bundesarchiv Bild 183 G 00630 Sommerolympiade Siegerehrung Weitsprung](/uploads/personnalite/bundesarchiv-bild-183-g-00630-sommerolympiade-siegerehrung-weitsprung.jpg "Jesse Owens, médaille d'or du saut en longueur"){.align-center}
 
 # Prouesse sportive
