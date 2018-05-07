@@ -14,7 +14,7 @@ Durant les jeux Olympiques de [1936](), en Allemagne Nazi, *Jesse Owens* a obten
 * le sprint sur 200 mètres en 20,3 secondes ;
 * le 200 mètres haies en 22,6 secondes.
 
-![Maxresdefault](/uploads/personnalite/maxresdefault.jpg "Les records du monde de Jesse Owens."){.align-center}
+![Bundesarchiv Bild 183 R 96374 Berlin Olympiade Jesse Owens Beim Weitsprung Crop](/uploads/personnalite/bundesarchiv-bild-183-r-96374-berlin-olympiade-jesse-owens-beim-weitsprung-crop.jpg "Photo de Jesse Owens en train de faire un saut en longueur"){.align-center}
 
 # Déception
 Après avoir accompli moulte prouesses sportives sur le territoire Nazi, deux hommes illustres n'ont pas dénié saluer *Jesse Owens* :
