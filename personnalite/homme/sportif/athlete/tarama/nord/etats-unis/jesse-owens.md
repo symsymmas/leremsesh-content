@@ -1,8 +1,7 @@
 <!-- TITLE: Jesse Owens -->
 <!-- SUBTITLE: Présentation de l'athlète Jesse Owens -->
 
-![Jesse Owens 1971 Ajman Stamp](/uploads/personnalite/jesse-owens-1971-ajman-stamp.jpg "Jesse Owens 1971 Ajman Stamp"){.page-logo}
-
+![Jesse Owens 1971 Ajman Stamp](/uploads/personnalite/jesse-owens-1971-ajman-stamp.jpg "Timbre d'Ajman (Nations Arabes Unies) datant de 1971 à l'effigie de Jesse Owens"){.pagelogo}
 *Jesse Owens* est un [Kamit](/peuple/monde/kamit) des [États-Unis d'Amérique]() qui a participé aux Jeux Olympiques de [1936](), à Berlin, en Allemagne Nazi.[^1]
 
 L'illustration suivante présente *Jesse Owens* sur la première place du podium.
