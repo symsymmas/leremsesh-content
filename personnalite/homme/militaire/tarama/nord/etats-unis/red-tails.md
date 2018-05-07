@@ -1,5 +1,5 @@
-.<!-- TITLE: Les pilotes de Tuskegee -->
-<!-- SUBTITLE: Présentation des pilotes de Tuskegee -->
+.<!-- TITLE: Les pilotes de Tuskegee (Red Tails) -->
+<!-- SUBTITLE: Présentation des pilotes de Tuskegee (alias Red Tails) -->
 
 ![301 St Fighter Squadron Aetc Emblem](/uploads/embleme/301-st-fighter-squadron-aetc-emblem.png "301 St Fighter Squadron Emblem"){.pagelogo}
 
