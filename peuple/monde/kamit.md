@@ -17,10 +17,10 @@ Le mot *Kamit* vient du [Médou Nétèr]() (langue des [Égyptiens Pharaoniues A
 Ce mot a pour origine le [Médou Nétèr]() (langue des [Égyptiens Pharaoniques Antiques]()). Les Égptiens utilisaient le mot *Kamit* pour se désigner (le mot Égyptien vient du latin et non de la langue égyptienne antique[^7]).[^6]
 
 *Kémtiou* (les Noir.e.s) est constutié des idéogrammes suivants[^3][^5] :
-* le bilitère I6[^2], qui se prononce *kèm* ou *kém* et qui représente la couleur noire :
-	* soit un morceau de peau de crocodile avec écailles (d'où sa comparaison aux amphibiens, sauriens et reptiles dans la [classification Gardiner](/ecriture/hieroglyphe/classification-gardiner)),
-	* soit un tas ou un bout de charbon de bois (brulé),
-	* soit les épines d'un porc-épic[^4] ;
+* le bilitère I6[^2], qui se prononce *kèm* ou *kém* et qui représente la couleur noire sous forme :
+	* d'un morceau de peau de crocodile avec écailles (d'où sa comparaison aux amphibiens, sauriens et reptiles dans la [classification Gardiner](/ecriture/hieroglyphe/classification-gardiner)),
+	* d'un tas ou un bout de charbon de bois (brulé),
+	* d'épines d'un porc-épic[^4] ;
 
 ![I 6](/uploads/ecriture/i-6.png "Hiéroglyphe I6"){.align-center}
 
