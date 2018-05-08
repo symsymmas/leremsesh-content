@@ -15,7 +15,7 @@ Ils ont précédés les [Caribas](https://partage.leremsesh.com/peuple/caraibes/
 
 ## Arrivée de Colomb
 
-Colomb accosta sur Karukera le 3 novembre 1493, lors de son second voyage vers les Amériques.[^1]
+Colomb accosta sur Karukera le 3 novembre 1493, lors de son second voyage vers les Amériques.[^1] 
 
 D’abord, Colomb longea une île couverte d’arbre qu’il croyait inhabité.  Cette île s’appelait Wai tukubuli (Grand est son corps). Il ne s’y arrêta pas et la baptisa Dominica (la Dominique).[^1] 
 
