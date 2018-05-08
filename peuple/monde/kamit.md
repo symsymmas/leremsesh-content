@@ -14,9 +14,10 @@ Ce mot a pour origine le [Médou Nétèr]() (langue des [Égyptiens Pharaoniques
 	* soit un morceau de peau de crocodile avec écailles (d'où sa comparaison aux amphibiens, sauriens et reptiles dans la [classification Gardiner](/ecriture/hieroglyphe/classification-gardiner)),
 	* soit un tas ou un bout de charbon de bois (brulé),
 	* soit les épines d'un porc-épic[^4] ;
-* l'unilitère Aa15 qui se prononce *m* et qui représente une côte de gazelle ;
 
 ![Aa 15](/uploads/ecriture/aa-15.png "L'unilètère Aa 15"){.align-right}
+
+* l'unilitère Aa15 qui se prononce *m* et qui représente une côte de gazelle ;
 
 * l'unilitère X1[^2] qui se prononce comme la lettre *t* et qui représente du pain ou une galette de pain ;
 
