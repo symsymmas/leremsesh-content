@@ -3,8 +3,7 @@
 
 ![Sans Titre](/uploads/personnes/sans-titre.png "Couple Kamit"){.pagelogo}
 
-*Kamit* (*Kamtiou* au pluriel) désigne toutes les femmes et tous les hommes Noir.e.s, peu importe leur lieu de naissance, leurs origines, etc.
-Ce terme peut aussi se prononcer *Kémit* (*Kémtiou* au pluriel).
+*Kamit* (*Kamtiou* au pluriel) désigne tout ce qui est Noir (femmes, hommes, cultures, etc.). Ce terme peut aussi se prononcer *Kémit* (*Kémtiou* au pluriel).
 
 # Étymologie
 ![Kemtiou](/uploads/ecriture/kemtiou.png "Kemtiou en Hiéroglyphe"){.align-right}
