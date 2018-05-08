@@ -13,7 +13,7 @@ Capitale : la commune de Basse-Terre.
 Avant l’intrusion de  Colomb, les îles de la [Caraïbes](https://partage.leremsesh.com/geographie/ile/caraibes/iles-de-la-caraibe) étaient peuplés par les Arawaks, amérindiens venant d’Amazonie.
 Ils ont précédés les [Caribas](https://partage.leremsesh.com/peuple/caraibes/partout/caraibe), dans leur installation dans les îles Caraïbéennes.
 
-## Arrivée de Colomb
+## Arrivée de Colomb[^1]
 
 Colomb accosta sur Karukera le 3 novembre 1493, lors de son second voyage vers les Amériques.
 
@@ -29,3 +29,11 @@ Ainsi, Colomb baptisa cette île Guadalupe. (Guadeloupe). Cette île s’appelai
 
 # GÉOGRAPHIE
 Karukéra est divisée en plusieurs communes dont Baie-Mahault fait partie.
+
+
+[1]Vauchelet . La découverte de la Guadeloupe. In: Annales de Géographie, t. 2, n°5, 1892. pp. 92-96.
+
+[2] Caraïbes (peuple). In Wikipédia, l’encyclopédie libre [en ligne].Fondation Wikimedia, [consulté en mars 2018]. Disponible sur : https://fr.wikipedia.org/wiki/Cara%C3%AFbes_(peuple)
+
+[3]Kali'na.In Wikipédia, l’encyclopédie libre [en ligne].Fondation Wikimedia, [consulté en mars 2018]. Disponible sur : https://fr.wikipedia.org/wiki/Kali%27na
+[4]THIERRY L’ETANG. Du nom indigène des îles de l’archipel des Antilles.
