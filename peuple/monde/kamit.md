@@ -6,7 +6,7 @@
 *Kamit* (*Kamtiou* au pluriel) désigne tout ce qui est Noir.e (femmes, hommes, cultures, etc.). Ce terme peut aussi se prononcer *Kémit* (*Kémtiou* au pluriel).
 
 # Pourquoi utiliser ce mot plutôt qu'un autre ?
-Le mot *Kamit* vient du [Médou Nétèr](/ecriture/hieroglyphe/mdw-ntr) (langue des [Égyptiens Pharaoniues Antiques]()). L'utilisation de ce mot plutôt qu'un autre est celui-ci :
+Le mot *Kamit* vient du [Médou Nétèr](/ecriture/hieroglyphe/mdw-ntr) (langue des [Égyptiens Pharaoniues Antiques](/peuple/afrique/nord-est/empire/kmt/kemtiou)). L'utilisation de ce mot plutôt qu'un autre est celui-ci :
 * les mots Noir, Nègre, Négro, Black, Neger, Neager, etc. ont tous une connotation péjorative ;
 * le [Médou Nétèr](/ecriture/hieroglyphe/mdw-ntr) est une langue africaine donc adaptée pour qualifier les peuples africains (du continent comme de la diaspora) ;
 * le [Médou Nétèr](/ecriture/hieroglyphe/mdw-ntr) est une langue morte qui contient la base des [langues africaines]() ([créole](), [Yoruba](), [Swahili](), etc.) ce qui évite toute « jalousie » de la part de peuples *Kamit*, parce qu'une langue vivante serait préférée à une autre.
@@ -14,7 +14,7 @@ Le mot *Kamit* vient du [Médou Nétèr](/ecriture/hieroglyphe/mdw-ntr) (langue 
 # Étymologie
 ![Kemtiou](/uploads/ecriture/kemtiou.png "Kemtiou en Hiéroglyphe"){.align-right}
 
-Ce mot a pour origine le [Médou Nétèr](/ecriture/hieroglyphe/mdw-ntr) (langue des [Égyptiens Pharaoniques Antiques]()). Les Égptiens utilisaient le mot *Kamit* pour se désigner (le mot Égyptien vient du latin et non de la langue égyptienne antique[^7]).[^6]
+Ce mot a pour origine le [Médou Nétèr](/ecriture/hieroglyphe/mdw-ntr) (langue des [Égyptiens Pharaoniques Antiques](/peuple/afrique/nord-est/empire/kmt/kemtiou)). Les Égptiens utilisaient le mot *Kamit* pour se désigner (le mot Égyptien vient du latin et non de la langue égyptienne antique[^7]).[^6]
 
 *Kémtiou* (les Noir.e.s) est constutié des idéogrammes suivants[^3][^5] :
 * le bilitère I6[^2], qui se prononce *kèm* ou *kém* et qui représente la couleur noire sous forme :
