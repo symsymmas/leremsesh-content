@@ -1,4 +1,4 @@
-<!-- TITLE: Kamit -->
+<!-- TITLE: Les Kamtiou (les Noir.e.s) -->
 <!-- SUBTITLE: Présentation du Kamit -->
 
 *Kamit* (*Kamtiou* au pluriel) désigne toutes les femmes et tous les hommes Noir.e.s, peu importe leur lieu de naissance, leurs origines, etc.
