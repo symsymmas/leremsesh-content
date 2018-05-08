@@ -5,7 +5,7 @@
 Ce terme peut aussi se prononcer *Kémit* (*Kémtiou* au pluriel).
 
 # Étymologie
-![I 6](/uploads/ecriture/i-6.png "Hiéroglyphe I6"){.align-right}
+![Kemtiou](/uploads/ecriture/kemtiou.png "Kemtiou en Hiéroglyphe"){.align-right}
 
 Ce mot a pour origine le [Médou Nétèr]() (langue des [Égyptiens Pharaoniques Antiques]()).
 
@@ -14,6 +14,8 @@ Ce mot a pour origine le [Médou Nétèr]() (langue des [Égyptiens Pharaoniques
 	* soit un morceau de peau de crocodile avec écailles (d'où sa comparaison aux amphibiens, sauriens et reptiles dans la [classification Gardiner](/ecriture/hieroglyphe/classification-gardiner)),
 	* soit un tas ou un bout de charbon de bois (brulé),
 	* soit les épines d'un porc-épic[^4] ;
+
+![I 6](/uploads/ecriture/i-6.png "Hiéroglyphe I6"){.align-center}
 
 ![Aa 15](/uploads/ecriture/aa-15.png "L'unilètère Aa 15"){.align-right}
 
@@ -25,7 +27,7 @@ Ce mot a pour origine le [Médou Nétèr]() (langue des [Égyptiens Pharaoniques
 
 * l'unilitère Z4[^2] qui représente un double roseau fleuri stylisé (ou un double trait) et qui se prononce *y* ;
 
-![Z 4](/uploads/ecriture/z-4.png "Hiéroglyphe Z4"){.align-right}
+![Z 4](/uploads/ecriture/z-4.png "Unilitère Z4"){.align-right}
 
 * le trilitère G4 qui représente un rapace/faucon et qui se prononce *tyou* ;
 
@@ -37,7 +39,7 @@ Ce mot a pour origine le [Médou Nétèr]() (langue des [Égyptiens Pharaoniques
 
 * l'idéogramme Z2 qui est un pronom personnel représentant la pluralité/collectivité sous forme de trois traits verticaux.
 
-![Z 2](/uploads/ecriture/z-2.png "Z 2"){.align-center}
+![Z 2](/uploads/ecriture/z-2.png "Idéogramme Z2"){.align-center}
 
 Contrairement au terme Noir (comme l'indique [Frantz Fanon]())[^1], le mot *Kamit* n'a aucune connotation péjorative.
 
