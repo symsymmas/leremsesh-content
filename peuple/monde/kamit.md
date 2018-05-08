@@ -20,7 +20,6 @@ Ce mot a pour origine le [Médou Nétèr]() (langue des [Égyptiens Pharaoniques
 ![Aa 15](/uploads/ecriture/aa-15.png "L'unilètère Aa 15"){.align-right}
 
 * l'unilitère Aa15[^2] qui se prononce *m* et qui représente une côte de gazelle ;
-
 * l'unilitère X1[^2] qui se prononce comme la lettre *t* et qui représente du pain ou une galette de pain ;
 
 ![Signe X 1](/uploads/ecriture/signe-x-1.png "Idéogramme X1"){.align-center}
@@ -28,14 +27,13 @@ Ce mot a pour origine le [Médou Nétèr]() (langue des [Égyptiens Pharaoniques
 ![Z 4](/uploads/ecriture/z-4.png "Unilitère Z4"){.align-right}
 
 * l'unilitère Z4[^2] qui représente un double roseau fleuri stylisé (ou un double trait) et qui se prononce *y* ;
-
 * le trilitère G4 qui représente un rapace/faucon et qui se prononce *tyou* ;
 
 ![G 4](/uploads/ecriture/g-4.png "Trilitère G4"){.align-center}
 
-* l'idéogramme A1 qui représente une personne assise (un homme d'après la [classification Gardiner]()) et qui sert de pronom personnel ;
-
 ![A 1](/uploads/ecriture/a-1.png "Idéogramme A1"){.align-right}
+
+* l'idéogramme A1 qui représente une personne assise (un homme d'après la [classification Gardiner]()) et qui sert de pronom personnel ;
 
 * l'idéogramme Z2 qui est un pronom personnel représentant la pluralité/collectivité sous forme de trois traits verticaux.
 
