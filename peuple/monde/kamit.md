@@ -25,9 +25,9 @@ Ce mot a pour origine le [Médou Nétèr]() (langue des [Égyptiens Pharaoniques
 
 ![Signe X 1](/uploads/ecriture/signe-x-1.png "Idéogramme X1"){.align-center}
 
-* l'unilitère Z4[^2] qui représente un double roseau fleuri stylisé (ou un double trait) et qui se prononce *y* ;
-
 ![Z 4](/uploads/ecriture/z-4.png "Unilitère Z4"){.align-right}
+
+* l'unilitère Z4[^2] qui représente un double roseau fleuri stylisé (ou un double trait) et qui se prononce *y* ;
 
 * le trilitère G4 qui représente un rapace/faucon et qui se prononce *tyou* ;
 
