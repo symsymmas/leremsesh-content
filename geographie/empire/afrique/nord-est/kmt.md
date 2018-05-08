@@ -20,11 +20,12 @@ Les autochtones de *Kémèt* écrivaient ce mot à l'aide des idéogrammes suiva
 
 * l'unilitère X1[^2] qui se prononce comme la lettre *t* et qui représente du pain ou une galette de pain ;
 
-![Signe X 1](/uploads/ecriture/signe-x-1.png "Signe X1"){.align-right}
+![Signe X 1](/uploads/ecriture/signe-x-1.png "Signe X1"){.align-center}
+
+![O 49](/uploads/ecriture/o-49.png "Signe O49"){.align-right}
 
 * l'idéogramme et déterminatif O49[^2] qui se prononce *niout* (NIWT) et qui représente une localité avec des avenues qui se croisent.
 
-![O 49](/uploads/ecriture/o-49.png "Signe O49"){.align-center}
 # Traduction littérale
 ![Coal 471903 1920](/uploads/object/coal-471903-1920.jpg "Tas de charbon"){.align-right}
 
