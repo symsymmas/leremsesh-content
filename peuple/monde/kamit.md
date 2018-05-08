@@ -27,15 +27,14 @@ Ce mot a pour origine le [Médou Nétèr]() (langue des [Égyptiens Pharaoniques
 ![Z 4](/uploads/ecriture/z-4.png "Unilitère Z4"){.align-right}
 
 * l'unilitère Z4[^2] qui représente un double roseau fleuri stylisé (ou un double trait) et qui se prononce *y* ;
-* le trilitère G4 qui représente un rapace/faucon et qui se prononce *tyou* ;
+* le trilitère G4[^2] qui représente un rapace/faucon et qui se prononce *tyou* ;
 
 ![G 4](/uploads/ecriture/g-4.png "Trilitère G4"){.align-center}
 
 ![A 1](/uploads/ecriture/a-1.png "Idéogramme A1"){.align-right}
 
-* l'idéogramme A1 qui représente une personne assise (un homme d'après la [classification Gardiner]()) et qui sert de pronom personnel ;
-
-* l'idéogramme Z2 qui est un pronom personnel représentant la pluralité/collectivité sous forme de trois traits verticaux.
+* l'idéogramme A1[^2] qui représente une personne assise (un homme d'après la [classification Gardiner]()) et qui sert de pronom personnel ;
+* l'idéogramme Z2[^2] qui est un pronom personnel représentant la pluralité/collectivité sous forme de trois traits verticaux.
 
 ![Z 2](/uploads/ecriture/z-2.png "Idéogramme Z2"){.align-center}
 
