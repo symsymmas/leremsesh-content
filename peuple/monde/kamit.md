@@ -40,14 +40,14 @@ Ce mot a pour origine le [Médou Nétèr](/ecriture/hieroglyphe/mdw-ntr) (langue
 
 ![A 1](/uploads/ecriture/a-1.png "Idéogramme A1"){.align-right}
 
-* l'idéogramme A1[^2] qui représente une personne assise (un homme d'après la [classification Gardiner]()) et qui sert de pronom personnel ;
+* l'idéogramme A1[^2] qui représente une personne assise (un homme d'après la [classification Gardiner](/ecriture/hieroglyphe/classification-gardiner)) et qui sert de pronom personnel ;
 * l'idéogramme Z2[^2] qui est un pronom personnel représentant la pluralité/collectivité sous forme de trois traits verticaux.
 
 ![Z 2](/uploads/ecriture/z-2.png "Idéogramme Z2"){.align-center}
 
 Par conséquent, *Kémitiou* peut être traduit par les personnes qui sont de couleur noire.
 
-**Remarque :** Contrairement au terme Noir (comme l'indique [Frantz Fanon]())[^1], le mot *Kamit* n'a aucune connotation péjorative.
+**Remarque :** Contrairement au terme Noir (comme l'indique [Frantz Fanon](/personnalite/homme/psychiatre/caraibes/sud/departement/madinina/frantz-fanon))[^1], le mot *Kamit* n'a aucune connotation péjorative.
 
 
 [^1]: [Frantz Fanon](/personnalite/homme/psychiatre/caraibes/sud/departement/madinina/frantz-fanon). [Peau noire, masques blancs](/ouvrage/a-classer/peau-noire-masques-blancs). Du Seuil, [1952](). 239 pp. ISBN : 2020006014.
@@ -56,4 +56,4 @@ Par conséquent, *Kémitiou* peut être traduit par les personnes qui sont de co
 [^4]: [A CONTRARIO](/personnalite/homme/polymathe/afrique/ouest/cameroun/dibombari-mbock), [L'Égypte Pharaonique : Ni terre noire, ni pays des Noirs](https://www.youtube.com/watch?v=WeU6F0msUGU) [vidéo en ligne]. [YouTube](http://youtube.com), [24](/histoire/date/calendrier-gregorien/par-jour/24) [Févr.](/histoire/date/calendrier-gregorien/par-mois/fevrier) [2017](/histoire/date/calendrier-gregorien/par-annee/2017). https://www.youtube.com/watch?v=WeU6F0msUGU
 [^5]: [List of Egyptian hieroglyphs](https://en.wikipedia.org/wiki/List_of_Egyptian_hieroglyphs#X). In [Wikipédia](wikipedia.org) [en ligne]. Fondation Wikimedia, Mis à jour le [7]() [Mai]() [2018]() [Consulté le [8]() [Mai]() [2018]()]. https://en.wikipedia.org/wiki/List_of_Egyptian_hieroglyphs#X
 [^6]: [ÉTILÉ, René-Louis Parfait](). [Grammaire simplifiée de l'Égyptien hiéroglyphique](). [MENAIBUC](), 2003. 93pp. ISBN : 2-911372-56-5
-[^7]: [Égypte](https://fr.wiktionary.org/wiki/%C3%89gypte). In [Wikitionniare](wiktionary.org) [en ligne]. Fondation Wikimedia, Mis àjour le [31]() [décembre]() [2017]() [Consulté le [8]() [Mai]() [2018]()]. https://fr.wiktionary.org/wiki/%C3%89gypte
+[^7]: [Égypte](https://fr.wiktionary.org/wiki/%C3%89gypte). In [Wikitionniare](https://fr.wiktionary.org) [en ligne]. Fondation Wikimedia, Mis àjour le [31]() [décembre]() [2017]() [Consulté le [8]() [Mai]() [2018]()]. https://fr.wiktionary.org/wiki/%C3%89gypte
