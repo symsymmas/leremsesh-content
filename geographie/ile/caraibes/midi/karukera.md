@@ -13,7 +13,7 @@ Capitale : la commune de Basse-Terre.
 Avant l’intrusion de  Colomb, les îles de la [Caraïbes](https://partage.leremsesh.com/geographie/ile/caraibes/iles-de-la-caraibe) étaient peuplés par les Arawaks, amérindiens venant d’Amazonie.
 Ils ont précédés les [Caribas](https://partage.leremsesh.com/peuple/caraibes/partout/caraibe), dans leur installation dans les îles Caraïbéennes.[^2]
 
-## Arrivée de Colomb[^1]
+## Arrivée de Colomb
 
 Colomb accosta sur Karukera le 3 novembre 1493, lors de son second voyage vers les Amériques.[^1]
 
