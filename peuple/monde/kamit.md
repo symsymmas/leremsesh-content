@@ -18,6 +18,10 @@ Ce mot a pour origine le [Médou Nétèr]() (langue des [Égyptiens Pharaoniques
 
 ![Aa 15](/uploads/ecriture/aa-15.png "L'unilètère Aa 15"){.align-right}
 
+* l'unilitère X1[^2] qui se prononce comme la lettre *t* et qui représente du pain ou une galette de pain ;
+
+![Signe X 1](/uploads/ecriture/signe-x-1.png "Signe X1"){.align-center}
+
 Contrairement au terme Noir[^1], le mot *Kamit* n'a aucune connotation péjorative.
 
 
