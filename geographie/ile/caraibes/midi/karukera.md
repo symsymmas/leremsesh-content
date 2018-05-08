@@ -31,10 +31,10 @@ Ainsi, Colomb baptisa cette île Guadalupe. (Guadeloupe). Cette île s’appelai
 Karukéra est divisée en plusieurs communes dont Baie-Mahault fait partie.
 
 
-[1]Vauchelet . La découverte de la Guadeloupe. In: Annales de Géographie, t. 2, n°5, 1892. pp. 92-96.
+[1]:Vauchelet . La découverte de la Guadeloupe. In: Annales de Géographie, t. 2, n°5, 1892. pp. 92-96.
 
-[2] Caraïbes (peuple). In Wikipédia, l’encyclopédie libre [en ligne].Fondation Wikimedia, [consulté en mars 2018]. Disponible sur : https://fr.wikipedia.org/wiki/Cara%C3%AFbes_(peuple)
+[2]:Caraïbes (peuple). In Wikipédia, l’encyclopédie libre [en ligne].Fondation Wikimedia, [consulté en mars 2018]. Disponible sur : https://fr.wikipedia.org/wiki/Cara%C3%AFbes_(peuple)
 
-[3]Kali'na.In Wikipédia, l’encyclopédie libre [en ligne].Fondation Wikimedia, [consulté en mars 2018]. Disponible sur : https://fr.wikipedia.org/wiki/Kali%27na
+[3]:Kali'na.In Wikipédia, l’encyclopédie libre [en ligne].Fondation Wikimedia, [consulté en mars 2018]. Disponible sur : https://fr.wikipedia.org/wiki/Kali%27na
 
-[4]THIERRY L’ETANG. Du nom indigène des îles de l’archipel des Antilles.
+[4]:THIERRY L’ETANG. Du nom indigène des îles de l’archipel des Antilles.
