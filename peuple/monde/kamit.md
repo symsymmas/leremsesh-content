@@ -50,7 +50,7 @@ Par conséquent, *Kémitiou* peut être traduit par les personnes qui sont de co
 **Remarque :** Contrairement au terme Noir (comme l'indique [Frantz Fanon]())[^1], le mot *Kamit* n'a aucune connotation péjorative.
 
 
-[^1]: [Frantz Fanon](/personnalite/homme/psychiatre/caraibes/sud/departement/madinina/frantz-fanon). [Peau noire, masques blancs](). Du Seuil, 1952. 239 pp. ISBN : 2020006014.
+[^1]: [Frantz Fanon](/personnalite/homme/psychiatre/caraibes/sud/departement/madinina/frantz-fanon). [Peau noire, masques blancs](/ouvrage/a-classer/peau-noire-masques-blancs). Du Seuil, [1952](). 239 pp. ISBN : 2020006014.
 [^2]: [Classification Gardiner](/ecriture/hieroglyphe/classification-gardiner), page Web.
 [^3]: [Famille Malardé](fmalarde.pagesperso-orange.fr/). [Dico : Le Dictionnaire des Hiéroglyphes](http://fmalarde.pagesperso-orange.fr/FM-hiero/dico-15-10-2005.pdf) [PDF]. pagesperso-orange.fr [Consulté le [8]() [Mai]() [2018]()]. http://fmalarde.pagesperso-orange.fr/FM-hiero/dico-15-10-2005.pdf
 [^4]: [A CONTRARIO](/personnalite/homme/polymathe/afrique/ouest/cameroun/dibombari-mbock), [L'Égypte Pharaonique : Ni terre noire, ni pays des Noirs](https://www.youtube.com/watch?v=WeU6F0msUGU) [vidéo en ligne]. [YouTube](http://youtube.com), [24](/histoire/date/calendrier-gregorien/par-jour/24) [Févr.](/histoire/date/calendrier-gregorien/par-mois/fevrier) [2017](/histoire/date/calendrier-gregorien/par-annee/2017). https://www.youtube.com/watch?v=WeU6F0msUGU
