@@ -37,7 +37,7 @@ Ce mot a pour origine le [Médou Nétèr]() (langue des [Égyptiens Pharaoniques
 
 * l'idéogramme Z2 qui est un pronom personnel représentant la pluralité/collectivité sous forme de trois traits verticaux.
 
-
+![Z 2](/uploads/ecriture/z-2.png "Z 2"){.align-center}
 
 Contrairement au terme Noir (comme l'indique [Frantz Fanon]())[^1], le mot *Kamit* n'a aucune connotation péjorative.
 
