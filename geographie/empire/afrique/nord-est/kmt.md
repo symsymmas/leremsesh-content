@@ -9,21 +9,19 @@
 ![I 6](/uploads/ecriture/i-6.png "Idéogramme I6"){.align-right}
 
 Les autochtones de *Kémèt* écrivaient ce mot à l'aide des idéogrammes suivants[^1][^3]:
-
-* Le bilitère I6[^2], qui se prononce *kèm* (KM) et qui représente :
+* le bilitère I6[^2], qui se prononce *kèm* (KM) et qui représente :
 	* soit un morceau de peau de crocodile avec écailles (d'où sa comparaison aux amphibiens, sauriens et reptiles dans la [classification Gardiner](/ecriture/hieroglyphe/classification-gardiner)),
 	* soit un tas ou un bout de charbon de bois (brulé),
 	* soit les épines d'un porc-épic[^4] ;
-
-* L'unilitère G17[^2] qui se prononce comme la lettre *m* et qui représente une chouette ou un hibou ;
+* l'unilitère G17[^2] qui se prononce comme la lettre *m* et qui représente une chouette ou un hibou ;
 
 ![Signe G 17](/uploads/ecriture/signe-g-17.png "Signe G17"){.align-right}
 
-* L'unilitère X1[^2] qui se prononce comme la lettre *t* et qui représente du pain ou une galette de pain ;
+* l'unilitère X1[^2] qui se prononce comme la lettre *t* et qui représente du pain ou une galette de pain ;
 
 ![Signe X 1](/uploads/ecriture/signe-x-1.png "Signe X1"){.align-right}
 
-* L'idéogramme et déterminatif O49[^2] qui se prononce *niout* (NIWT) et qui représente une localité avec des avenues qui se croisent.
+* l'idéogramme et déterminatif O49[^2] qui se prononce *niout* (NIWT) et qui représente une localité avec des avenues qui se croisent.
 
 ![O 49](/uploads/ecriture/o-49.png "Signe O49"){.align-center}
 # Traduction littérale
