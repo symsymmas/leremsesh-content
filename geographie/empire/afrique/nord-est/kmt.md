@@ -6,7 +6,7 @@
 *KMT* (ou *Kémét*) est le nom donné à l'Égypte antique par son peuple (les [Kemtiou](/peuple/afrique/nord-est/empire/kmt/kemtiou))[^1].
 
 # Étymologie
-![I 6](/uploads/ecriture/i-6.png "Signe I6"){.align-right}
+![I 6](/uploads/ecriture/i-6.png "Idéogramme I6"){.align-right}
 
 Les autochtones de *Kémèt* écrivaient ce mot à l'aide des idéogrammes suivants[^1][^3]:
 
@@ -84,6 +84,6 @@ Depuis cette unification, les [Pharaons](/personnalite/titre/per-aat) portent la
 [^1]: René-Louis Parfait ÉTILÉ, Grammaire simplifiée de l'Égyptien hiéroglyphique, livre broché, Éditions [MENAIBUC](/organisme/editeur/menaibuc), ISBN 2-911372-56-5.
 [^2]: [Classification Gardiner](/ecriture/hieroglyphe/classification-gardiner), page Web.
 [^3]: IshangoTV, [Kemet ou l'Egypte ancienne](https://www.youtube.com/watch?v=lfS4IzC4eLM), vidéo [YouTube](http://youtube.com), [24](/histoire/date/calendrier-gregorien/par-jour/24) [Janv.](/histoire/date/calendrier-gregorien/par-mois/janvier) [2012](/histoire/date/calendrier-gregorien/par-annee/2012).
-[^4]: [A CONTRARIO](/personnalite/homme/polymathe/afrique/ouest/cameroun/dibombari-mbock), [L'Égypte Pharaonique : Ni terre noire, ni pays des Noirs](https://www.youtube.com/watch?v=WeU6F0msUGU), vidéo [YouTube](http://youtube.com), [24](/histoire/date/calendrier-gregorien/par-jour/24) [Févr.](/histoire/date/calendrier-gregorien/par-mois/fevrier) [2017](/histoire/date/calendrier-gregorien/par-annee/2017).
+[^4]: [A CONTRARIO](/personnalite/homme/polymathe/afrique/ouest/cameroun/dibombari-mbock), [L'Égypte Pharaonique : Ni terre noire, ni pays des Noirs](https://www.youtube.com/watch?v=WeU6F0msUGU) [vidéo en ligne]. [YouTube](http://youtube.com), [24](/histoire/date/calendrier-gregorien/par-jour/24) [Févr.](/histoire/date/calendrier-gregorien/par-mois/fevrier) [2017](/histoire/date/calendrier-gregorien/par-annee/2017). https://www.youtube.com/watch?v=WeU6F0msUGU
 [^5]: [Nioussérê K. Omotunde](/personnalite/homme/polymathe/caraibes/midi/departement/karukera/nioussere-kalala-omotunde) ; [Djaïbré Asha Maât](/personnalite/a-classer/djaibre-asha-maat). [L'épopée du roi Narmer](/ouvrage/kemty/l-epopee-du-roi-narmer). Livre broché. [Edition ANYJART](/organisme/a-classer/anyjart). [Baie-Mahault](/geographie/ile/caraibes/midi/karukera) : [Juin](/histoire/date/calendrier-gregorien/par-mois/juin) [2015](/histoire/date/calendrier-gregorien/par-annee/2015). ISBN 979-10-95097-02-0.
 [^6]: Il faut savoir qu'en *proto-bantou*, le mot *pain*, le mot *femme* et le mot *épouse* sont des homonymes. Il est probable que cela vienne du paradigme égypto-nubien (cf. : [L'Égypte Pharaonique : Ni terre noire, ni pays des Noirs](https://www.youtube.com/watch?v=WeU6F0msUGU).
