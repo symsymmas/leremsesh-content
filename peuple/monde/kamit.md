@@ -17,11 +17,15 @@ Ce mot a pour origine le [Médou Nétèr]() (langue des [Égyptiens Pharaoniques
 
 ![Aa 15](/uploads/ecriture/aa-15.png "L'unilètère Aa 15"){.align-right}
 
-* l'unilitère Aa15 qui se prononce *m* et qui représente une côte de gazelle ;
+* l'unilitère Aa15[^2] qui se prononce *m* et qui représente une côte de gazelle ;
 
 * l'unilitère X1[^2] qui se prononce comme la lettre *t* et qui représente du pain ou une galette de pain ;
 
-![Signe X 1](/uploads/ecriture/signe-x-1.png "Signe X1"){.align-center}
+![Signe X 1](/uploads/ecriture/signe-x-1.png "Idéogramme X1"){.align-center}
+
+* l'unilytère Z4[^2] qui représente un double roseau fleuri stylisé (ou un double trait) et qui se prononce *y* ;
+
+![Z 4](/uploads/ecriture/z-4.png "Hiéroglyphe Z 4"){.align-right}
 
 Contrairement au terme Noir[^1], le mot *Kamit* n'a aucune connotation péjorative.
 
