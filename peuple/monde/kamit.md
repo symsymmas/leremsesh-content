@@ -9,7 +9,7 @@
 Le mot *Kamit* vient du [Médou Nétèr](/ecriture/hieroglyphe/mdw-ntr) (langue des [Égyptiens Pharaoniues Antiques](/peuple/afrique/nord-est/empire/kmt/kemtiou)). L'utilisation de ce mot plutôt qu'un autre est celui-ci :
 * les mots Noir, Nègre, Négro, Black, Neger, Neager, etc. ont tous une connotation péjorative ;
 * le [Médou Nétèr](/ecriture/hieroglyphe/mdw-ntr) est une langue africaine donc adaptée pour qualifier les peuples africains (du continent comme de la diaspora) ;
-* le [Médou Nétèr](/ecriture/hieroglyphe/mdw-ntr) est une langue morte qui contient la base des [langues africaines]() ([créole](), [Yoruba](), [Swahili](), etc.) ce qui évite toute « jalousie » de la part de peuples *Kamit*, parce qu'une langue vivante serait préférée à une autre.
+* le [Médou Nétèr](/ecriture/hieroglyphe/mdw-ntr) est une langue morte qui contient la base des [langues africaines](/langue/monde/langues-africaines) ([créole](/langue/caraibes/partout/creoles), [Yoruba](/langue/afrique/a-situer/yoruba), [Swahili](/langue/afrique/a-situer/swahili), etc.) ce qui évite toute « jalousie » de la part de peuples *Kamit*, parce qu'une langue vivante serait préférée à une autre.
 
 # Étymologie
 ![Kemtiou](/uploads/ecriture/kemtiou.png "Kemtiou en Hiéroglyphe"){.align-right}
@@ -50,7 +50,7 @@ Par conséquent, *Kémitiou* peut être traduit par les personnes qui sont de co
 **Remarque :** Contrairement au terme Noir (comme l'indique [Frantz Fanon]())[^1], le mot *Kamit* n'a aucune connotation péjorative.
 
 
-[^1]: [Frantz Fanon](). [Peau noire, masques blancs](). Du Seuil, 1952. 239 pp. ISBN : 2020006014.
+[^1]: [Frantz Fanon](/personnalite/homme/psychiatre/caraibes/sud/departement/madinina/frantz-fanon). [Peau noire, masques blancs](). Du Seuil, 1952. 239 pp. ISBN : 2020006014.
 [^2]: [Classification Gardiner](/ecriture/hieroglyphe/classification-gardiner), page Web.
 [^3]: [Famille Malardé](fmalarde.pagesperso-orange.fr/). [Dico : Le Dictionnaire des Hiéroglyphes](http://fmalarde.pagesperso-orange.fr/FM-hiero/dico-15-10-2005.pdf) [PDF]. pagesperso-orange.fr [Consulté le [8]() [Mai]() [2018]()]. http://fmalarde.pagesperso-orange.fr/FM-hiero/dico-15-10-2005.pdf
 [^4]: [A CONTRARIO](/personnalite/homme/polymathe/afrique/ouest/cameroun/dibombari-mbock), [L'Égypte Pharaonique : Ni terre noire, ni pays des Noirs](https://www.youtube.com/watch?v=WeU6F0msUGU) [vidéo en ligne]. [YouTube](http://youtube.com), [24](/histoire/date/calendrier-gregorien/par-jour/24) [Févr.](/histoire/date/calendrier-gregorien/par-mois/fevrier) [2017](/histoire/date/calendrier-gregorien/par-annee/2017). https://www.youtube.com/watch?v=WeU6F0msUGU
