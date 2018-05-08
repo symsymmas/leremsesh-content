@@ -14,7 +14,7 @@ Le mot *Kamit* vient du [Médou Nétèr]() (langue des [Égyptiens Pharaoniues A
 # Étymologie
 ![Kemtiou](/uploads/ecriture/kemtiou.png "Kemtiou en Hiéroglyphe"){.align-right}
 
-Ce mot a pour origine le [Médou Nétèr]() (langue des [Égyptiens Pharaoniques Antiques]()). Les Égptiens utilisaient le mot *Kamit* pour se désigner (le mot Égyptien vient du latin et non de la langue égyptienne antique).[^6]
+Ce mot a pour origine le [Médou Nétèr]() (langue des [Égyptiens Pharaoniques Antiques]()). Les Égptiens utilisaient le mot *Kamit* pour se désigner (le mot Égyptien vient du latin et non de la langue égyptienne antique[^7]).[^6]
 
 *Kémtiou* (les Noir.e.s) est constutié des idéogrammes suivants[^3][^5] :
 * le bilitère I6[^2], qui se prononce *kèm* ou *kém* et qui représente la couleur noire :
@@ -52,7 +52,8 @@ Par conséquent, *Kémitiou* peut être traduit par le peuple de couleur noire.
 
 [^1]: [Frantz Fanon](). [Peau noire, masques blancs](). Du Seuil, 1952. 239 pp. ISBN : 2020006014.
 [^2]: [Classification Gardiner](/ecriture/hieroglyphe/classification-gardiner), page Web.
-[^3]: http://fmalarde.pagesperso-orange.fr/FM-hiero/dico-15-10-2005.pdf
+[^3]: [Famille Malardé](fmalarde.pagesperso-orange.fr/). [Dico : Le Dictionnaire des Hiéroglyphes](http://fmalarde.pagesperso-orange.fr/FM-hiero/dico-15-10-2005.pdf) [PDF]. pagesperso-orange.fr [Consulté le [8]() [Mai]() [2018]()]. http://fmalarde.pagesperso-orange.fr/FM-hiero/dico-15-10-2005.pdf
 [^4]: [A CONTRARIO](/personnalite/homme/polymathe/afrique/ouest/cameroun/dibombari-mbock), [L'Égypte Pharaonique : Ni terre noire, ni pays des Noirs](https://www.youtube.com/watch?v=WeU6F0msUGU) [vidéo en ligne]. [YouTube](http://youtube.com), [24](/histoire/date/calendrier-gregorien/par-jour/24) [Févr.](/histoire/date/calendrier-gregorien/par-mois/fevrier) [2017](/histoire/date/calendrier-gregorien/par-annee/2017). https://www.youtube.com/watch?v=WeU6F0msUGU
-[^5]: https://en.wikipedia.org/wiki/List_of_Egyptian_hieroglyphs#X
+[^5]: [List of Egyptian hieroglyphs](https://en.wikipedia.org/wiki/List_of_Egyptian_hieroglyphs#X). In [Wikipédia](wikipedia.org) [en ligne]. Fondation Wikimedia, Mis à jour le [7]() [Mai]() [2018]() [Consulté le [8]() [Mai]() [2018]()]. https://en.wikipedia.org/wiki/List_of_Egyptian_hieroglyphs#X
 [^6]: [Grammaire simplifiée de l'Égyptien hiéroglyphique]().
+[^7]: https://fr.wiktionary.org/wiki/%C3%89gypte
