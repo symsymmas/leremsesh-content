@@ -12,7 +12,7 @@ L'illustration suivante présente *Jesse Owens* sur la première place du podium
 # Prouesse sportive
 ![Bundesarchiv Bild 183 R 96374 Berlin Olympiade Jesse Owens Beim Weitsprung Crop](/uploads/personnalite/bundesarchiv-bild-183-r-96374-berlin-olympiade-jesse-owens-beim-weitsprung-crop.jpg "Photo de Jesse Owens en train de faire un saut en longueur"){.align-right}
 
-Durant les jeux Olympiques de [1936](), en Allemagne Nazi, *Jesse Owens* a obtenu quatre médailles d'or et a accompli quatre records mondiaux dans le domaine sportif, ce en 45 minutes [^1][^2] :
+Durant les jeux Olympiques de [1936](), en Allemagne Nazi, *Jesse Owens* a obtenu quatre médailles d'or et a accompli quatre records mondiaux dans le domaine sportif, ce en 45 minutes. Ces records sont [^1][^2] :
 * le sprint sur 100 mètres en 9.4 seconds (atteind sans être dépassé) ;
 * un saut en longueur de plus de huit mètres (détenu pendant 25 ans) ;
 * le sprint sur 200 mètres en 20,3 secondes ;
