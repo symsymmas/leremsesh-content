@@ -47,7 +47,7 @@ Ce mot a pour origine le [Médou Nétèr]() (langue des [Égyptiens Pharaoniques
 
 Par conséquent, *Kémitiou* peut être traduit par les personnes qui sont de couleur noire.
 
-**Nota :** Contrairement au terme Noir (comme l'indique [Frantz Fanon]())[^1], le mot *Kamit* n'a aucune connotation péjorative.
+**Remarque :** Contrairement au terme Noir (comme l'indique [Frantz Fanon]())[^1], le mot *Kamit* n'a aucune connotation péjorative.
 
 
 [^1]: [Frantz Fanon](). [Peau noire, masques blancs](). Du Seuil, 1952. 239 pp. ISBN : 2020006014.
