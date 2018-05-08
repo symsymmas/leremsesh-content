@@ -8,10 +8,10 @@
 # Étymologie
 ![Kemtiou](/uploads/ecriture/kemtiou.png "Kemtiou en Hiéroglyphe"){.align-right}
 
-Ce mot a pour origine le [Médou Nétèr]() (langue des [Égyptiens Pharaoniques Antiques]()).
+Ce mot a pour origine le [Médou Nétèr]() (langue des [Égyptiens Pharaoniques Antiques]()). Les Égptiens utilisaient le mot *Kamit* pour se désigner (le mot Égyptien vient du latin et non de la langue égyptienne antique).[^6]
 
 *Kémtiou* (les Noir.e.s) est constutié des idéogrammes suivants[^3][^5] :
-* le bilitère I6[^2], qui se prononce *kèm* ou *kém* et qui représente :
+* le bilitère I6[^2], qui se prononce *kèm* ou *kém* et qui représente la couleur noire :
 	* soit un morceau de peau de crocodile avec écailles (d'où sa comparaison aux amphibiens, sauriens et reptiles dans la [classification Gardiner](/ecriture/hieroglyphe/classification-gardiner)),
 	* soit un tas ou un bout de charbon de bois (brulé),
 	* soit les épines d'un porc-épic[^4] ;
@@ -39,7 +39,9 @@ Ce mot a pour origine le [Médou Nétèr]() (langue des [Égyptiens Pharaoniques
 
 ![Z 2](/uploads/ecriture/z-2.png "Idéogramme Z2"){.align-center}
 
-Contrairement au terme Noir (comme l'indique [Frantz Fanon]())[^1], le mot *Kamit* n'a aucune connotation péjorative.
+Par conséquent, *Kémitiou* peut être traduit par le peuple de couleur noire.
+
+**Nota :** Contrairement au terme Noir (comme l'indique [Frantz Fanon]())[^1], le mot *Kamit* n'a aucune connotation péjorative.
 
 
 [^1]: [Frantz Fanon](). [Peau noire, masques blancs](). Du Seuil, 1952. 239 pp. ISBN : 2020006014.
@@ -47,3 +49,4 @@ Contrairement au terme Noir (comme l'indique [Frantz Fanon]())[^1], le mot *Kami
 [^3]: http://fmalarde.pagesperso-orange.fr/FM-hiero/dico-15-10-2005.pdf
 [^4]: [A CONTRARIO](/personnalite/homme/polymathe/afrique/ouest/cameroun/dibombari-mbock), [L'Égypte Pharaonique : Ni terre noire, ni pays des Noirs](https://www.youtube.com/watch?v=WeU6F0msUGU) [vidéo en ligne]. [YouTube](http://youtube.com), [24](/histoire/date/calendrier-gregorien/par-jour/24) [Févr.](/histoire/date/calendrier-gregorien/par-mois/fevrier) [2017](/histoire/date/calendrier-gregorien/par-annee/2017). https://www.youtube.com/watch?v=WeU6F0msUGU
 [^5]: https://en.wikipedia.org/wiki/List_of_Egyptian_hieroglyphs#X
+[^6]: [Grammaire simplifiée de l'Égyptien hiéroglyphique]().
