@@ -23,9 +23,13 @@ Ce mot a pour origine le [Médou Nétèr]() (langue des [Égyptiens Pharaoniques
 
 ![Signe X 1](/uploads/ecriture/signe-x-1.png "Idéogramme X1"){.align-center}
 
-* l'unilytère Z4[^2] qui représente un double roseau fleuri stylisé (ou un double trait) et qui se prononce *y* ;
+* l'unilitère Z4[^2] qui représente un double roseau fleuri stylisé (ou un double trait) et qui se prononce *y* ;
 
 ![Z 4](/uploads/ecriture/z-4.png "Hiéroglyphe Z4"){.align-right}
+
+* le trilitère G4 qui se prononce *tyou* et qui représente un rapace/faucon ;
+
+![G 4](/uploads/ecriture/g-4.png "G 4"){.align-center}
 
 Contrairement au terme Noir[^1], le mot *Kamit* n'a aucune connotation péjorative.
 
