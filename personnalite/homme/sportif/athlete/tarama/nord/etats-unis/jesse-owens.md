@@ -19,6 +19,7 @@ Durant les jeux Olympiques de [1936](), en Allemagne Nazi, *Jesse Owens* a obten
 * le 200 mètres haies en 22,6 secondes.
 
 # Hommages
+## Aux États-Unis d'Amérique
 Après avoir accompli moulte prouesses sportives sur le territoire Nazi, deux hommes illustres n'ont pas dénié saluer *Jesse Owens* :
 * Adolf HITLER (Führer d'Allemagne) ;
 * Franklin Delano ROOSEVELT (Président des États-Unis d'Amérique).
@@ -32,6 +33,7 @@ Traduction française :
 
 En sus, le Président des États-Unis d'Amérique de l'époque (Franklin Delano ROOSEVELT) invita tous les joueurs blancs à la maison blanche et non *Jesse OWENS*[^3].
 
+## Au Nations Arabes Unies
 En 1971, les Nations Arabes Unies impriment un timbre à l'effigie du sportif *Jesse Owens*.
 
 ![Jesse Owens 1971 Ajman Stamp](/uploads/personnalite/jesse-owens-1971-ajman-stamp.jpg "Timbre d'Ajman (Nations Arabes Unies) datant de 1971 à l'effigie de Jesse Owens"){.align-center}
