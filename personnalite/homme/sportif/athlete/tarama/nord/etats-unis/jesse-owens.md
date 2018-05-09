@@ -33,7 +33,7 @@ Traduction française :
 
 En sus, le Président des États-Unis d'Amérique de l'époque (Franklin Delano ROOSEVELT) invita tous les joueurs blancs à la maison blanche et non *Jesse OWENS*[^3].
 
-## Au Nations Arabes Unies
+## Aux Nations Arabes Unies
 En 1971, les Nations Arabes Unies impriment un timbre à l'effigie du sportif *Jesse Owens*.
 
 ![Jesse Owens 1971 Ajman Stamp](/uploads/personnalite/jesse-owens-1971-ajman-stamp.jpg "Timbre d'Ajman (Nations Arabes Unies) datant de 1971 à l'effigie de Jesse Owens"){.align-center}
