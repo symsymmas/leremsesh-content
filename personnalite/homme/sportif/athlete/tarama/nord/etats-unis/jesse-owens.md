@@ -20,8 +20,8 @@ Durant les jeux Olympiques de [1936](), en Allemagne Nazi, *Jesse Owens* a obten
 
 # Hommages
 Après avoir accompli moulte prouesses sportives sur le territoire Nazi, deux hommes illustres n'ont pas dénié saluer *Jesse Owens* :
-* Adolf HITLER ;
-* Franklin Delano ROOSEVELT.
+* Adolf HITLER (Führer d'Allemagne) ;
+* Franklin Delano ROOSEVELT (président des États-Unis d'Amérique).
 
 Voyant que le président ne prenait pas cas de sa prouesse, *Jesse OWENS* dit lors d'un speech à Baltimore, au Maryland (2 Octobre 1936)[^4] :
 
