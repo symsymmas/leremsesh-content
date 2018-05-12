@@ -7,7 +7,7 @@
 
 *Jesse Owens* (prononcé *djèci owèns*) est un [Kamit](/peuple/monde/kamit) des [États-Unis d'Amérique]() qui a participé aux Jeux Olympiques de [1936](), à Berlin, en Allemagne Nazi.[^1]
 
-L'illustration suivante présente *Jesse Owens* sur la première place du podium.
+L'illustration ci-contre présente *Jesse Owens* sur la première place du podium.
 
 # Prouesse sportive
 Durant les jeux Olympiques de [1936](), en Allemagne Nazi, *Jesse Owens* a obtenu quatre médailles d'or et a accompli quatre records mondiaux dans le domaine sportif, ce en 45 minutes. Ces records sont [^1][^2] :
