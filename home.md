@@ -4,7 +4,7 @@
 Bienvenue sur *LEREMSESH*, l'encyclopédie afrocentrée sous forme de wiki !
 [Plus d'infos…](/leremsesh/presentation-de-leremsesh)
 
-![Logo Leremsesh Com](/uploads/logo/logo-leremsesh-com.png "Logo Leremsesh Com"){.align-center}
+**Par défaut, quand vous vous connectez pour la première fois à *PARTAGE.LEREMSESH*, vous n'avez pas les droits d'écriture. Pour y remédier, envoyez un mail à *kitemona arobase outlook point fr*.**
 
 # Comment ça fonctionne ?
 ## Je souhaite faire une recherche

@@ -7,7 +7,7 @@ Cheick Anta Diop est décédé un 7 Février.[^1]
 Voici une liste non exhaustive de ses ouvrages :
 * [Antériorité des civilisations nègres](/ouvrage/documentaire/anteriorite-des-civilisations-negres) ;
 * [Civilisation ou barbarie](/ouvrage/documentaire/civilisation-ou-barbarie) ;
-* [L'Afrique noire précoloniale](/ouvrage/documentaire/l-afrique-noire-precoloniale) ;
+* [L'Afrique Noire précoloniale](/ouvrage/documentaire/l-afrique-noire-precoloniale) ;
 * [Nations nègres et cultures](/ouvrage/documentaire/nations-negres-et-cultures).
 
 
