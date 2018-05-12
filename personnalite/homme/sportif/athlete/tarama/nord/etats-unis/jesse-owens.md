@@ -10,7 +10,7 @@ L'illustration suivante présente *Jesse Owens* sur la première place du podium
 ![Bundesarchiv Bild 183 G 00630 Sommerolympiade Siegerehrung Weitsprung](/uploads/personnalite/bundesarchiv-bild-183-g-00630-sommerolympiade-siegerehrung-weitsprung.jpg "Jesse Owens, médaille d'or du saut en longueur"){.align-center}
 
 # Prouesse sportive
-[video](https://www.youtube.com/watch?v=hR6VFvMXCN4){.youtube}{.align-center}
+[video](https://www.youtube.com/watch?v=hR6VFvMXCN4){.youtube}{.align-right}
 <-- ![Bundesarchiv Bild 183 R 96374 Berlin Olympiade Jesse Owens Beim Weitsprung Crop](/uploads/personnalite/bundesarchiv-bild-183-r-96374-berlin-olympiade-jesse-owens-beim-weitsprung-crop.jpg "Photo de Jesse Owens en train de faire un saut en longueur"){.align-right} -->
 
 Durant les jeux Olympiques de [1936](), en Allemagne Nazi, *Jesse Owens* a obtenu quatre médailles d'or et a accompli quatre records mondiaux dans le domaine sportif, ce en 45 minutes. Ces records sont [^1][^2] :
