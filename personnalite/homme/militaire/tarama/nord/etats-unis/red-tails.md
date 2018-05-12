@@ -12,7 +12,7 @@ Sous la demande du président Roosevelt, les *pilotes de Tuskegee* ont été ent
 
 # Leur détermination
 En 1940, l'armée des [États-Unis d'Amérique](/geographie/pays/tamara/nord/etats-unis-d-amerique) pratique la [ségrégation](/histoire/epoque-moderne/tamara/nord/etats-unis-d-amerique/actes-racistes/segregation). Les *pilotes de Tuskegee* se voient donc non seulement confrontés au nazisme mais aussi au racisme.[^1]
-Pour rappel, les [Kamitiou](/peuple/monde/kamit) (Noirs) des [États-Unis d'Amérique](/geographie/pays/tamara/nord/etats-unis-d-amerique) étaient considérés comme inférieurs pendant la [ségrégation](/histoire/epoque-moderne/tamara/nord/etats-unis-d-amerique/actes-racistes/segregation). Cela signifie que les officiers [leucodermes]() ne pouvaient pas admettre la présence d'officiers [Kamit](/peuple/monde/kamit) (Noir) pouvant donner des ordres à d'autres [leucodermes]().[^1]
+Pour rappel, les [Kamitiou](/peuple/monde/kamit) (Noirs) des [États-Unis d'Amérique](/geographie/pays/tamara/nord/etats-unis-d-amerique) étaient considérés comme inférieurs pendant la [ségrégation](/histoire/epoque-moderne/tamara/nord/etats-unis-d-amerique/actes-racistes/segregation). Cela signifie que les officiers [leucodermes](/terminologie/francais/leucoderme) ne pouvaient pas admettre la présence d'officiers [Kamit](/peuple/monde/kamit) (Noir) pouvant donner des ordres à d'autres [leucodermes](/terminologie/francais/leucoderme).[^1]
 Face à ce racisme, les *pilotes de Tuskegee* ont décidé de former leur groupe de combat.
 
 # Leur héroisme
