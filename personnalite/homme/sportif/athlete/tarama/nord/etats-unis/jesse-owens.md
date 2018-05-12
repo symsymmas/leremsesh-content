@@ -33,7 +33,7 @@ Voyant que le président ne prenait pas cas de sa prouesse, *Jesse OWENS* dit lo
 Traduction française :
 > Durant les jeux Olympiques, j'ai eu l'opportunité de rencontrer le roi d'Angleterre, serrer la main d'Hitler, parler au roi de Suède et à d'autres personnalités d'Europe. Certaines personnes me disent que Hitler m'a snobbé mais, je vous le dit, ce n'est pas Hitler qui m'a pas snobbé mais notre président. Le Président ne m'a même pas envoyé un télégramme. Je ne casse pas du sucre sur le dos du Président, je ne suis pas politicien. Je ne fais que vous rappeler que le Président ne m'a même pas envoyé un mot pour me féliciter, parce qu'il était trop occupé de ce que l'on dit.
 
-En sus, le Président des États-Unis d'Amérique de l'époque (Franklin Delano ROOSEVELT) invita tous les joueurs blancs à la maison blanche et non *Jesse OWENS*[^3].
+En sus, le Président des États-Unis d'Amérique de l'époque (Franklin Delano ROOSEVELT) invita tous les joueurs blancs à la maison blanche, sans prendre cas des prouesses de *Jesse OWENS*[^3].
 
 ## Aux Nations Arabes Unies
 En 1971, les Nations Arabes Unies impriment un timbre à l'effigie du sportif *Jesse Owens*.
