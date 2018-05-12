@@ -3,11 +3,11 @@
 
 ![Tete De Jesse Owens](/uploads/personnalite/tete-de-jesse-owens.jpg "Tete De Jesse Owens"){.pagelogo}
 
+![Bundesarchiv Bild 183 G 00630 Sommerolympiade Siegerehrung Weitsprung](/uploads/personnalite/bundesarchiv-bild-183-g-00630-sommerolympiade-siegerehrung-weitsprung.jpg "Jesse Owens, médaille d'or du saut en longueur"){.align-right}
+
 *Jesse Owens* (prononcé *djèci owèns*) est un [Kamit](/peuple/monde/kamit) des [États-Unis d'Amérique]() qui a participé aux Jeux Olympiques de [1936](), à Berlin, en Allemagne Nazi.[^1]
 
 L'illustration suivante présente *Jesse Owens* sur la première place du podium.
-
-![Bundesarchiv Bild 183 G 00630 Sommerolympiade Siegerehrung Weitsprung](/uploads/personnalite/bundesarchiv-bild-183-g-00630-sommerolympiade-siegerehrung-weitsprung.jpg "Jesse Owens, médaille d'or du saut en longueur"){.align-center}
 
 # Prouesse sportive
 Durant les jeux Olympiques de [1936](), en Allemagne Nazi, *Jesse Owens* a obtenu quatre médailles d'or et a accompli quatre records mondiaux dans le domaine sportif, ce en 45 minutes. Ces records sont [^1][^2] :
