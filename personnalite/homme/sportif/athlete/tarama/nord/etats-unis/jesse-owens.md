@@ -23,7 +23,7 @@ Ci-dessous, les sauts en longueur réalisés par Jesse Owens, filmés lors des J
 # Hommages
 ## Aux États-Unis d'Amérique
 Après avoir accompli moulte prouesses sportives sur le territoire Nazi, deux hommes illustres n'ont pas dénié saluer *Jesse Owens* :
-* Adolf HITLER (Führer d'Allemagne) ;
+* Adolf HITLER (Führer de l'Allemagne Nazi) ;
 * Franklin Delano ROOSEVELT (Président des États-Unis d'Amérique).
 
 Voyant que le président ne prenait pas cas de sa prouesse, *Jesse OWENS* dit lors d'un speech à Baltimore, au Maryland, le 2 Octobre 1936[^4] :
