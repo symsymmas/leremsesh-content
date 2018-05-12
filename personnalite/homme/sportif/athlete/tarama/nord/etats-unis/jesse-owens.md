@@ -18,6 +18,8 @@ Durant les jeux Olympiques de [1936](), en Allemagne Nazi, *Jesse Owens* a obten
 * le sprint sur 200 mètres en 20,3 secondes ;
 * le 200 mètres haies en 22,6 secondes.
 
+[video](https://www.youtube.com/watch?v=jB0n35UIv-s){.youtube}{.align-center}
+
 # Hommages
 ## Aux États-Unis d'Amérique
 Après avoir accompli moulte prouesses sportives sur le territoire Nazi, deux hommes illustres n'ont pas dénié saluer *Jesse Owens* :
