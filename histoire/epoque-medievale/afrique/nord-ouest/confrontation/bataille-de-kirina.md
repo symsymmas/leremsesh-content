@@ -7,6 +7,7 @@ La bataille de Kirina relate d'une confrontation décisive entre l'armée de l'e
 En Afrique de l'Ouest, vers le début du [XIIIème siècle](/histoire/divers/xiiieme-siecle) (durant l'[époque médiévale Africaine](/histoire/afrique/epoque-medievale)), les [mandings](/peuple/afrique/nord-ouest/manding) sont menacés par les maures et les markas qui, après avoir pillé le [Mandé](/geographie/royaume/afrique/nord-ouest/manden) à neuf reprises, souhaitent les exterminer ; l'objectif des maures et des markas étant d'instaurer la terreur et l'esclavage sur les territoires qu'ils conquièrent.[^1]
 
 # Les ambitions de Soundjata
+![Assembl C 3 A 9 E Constitutive De L 27 Empire Du Mand C 3 A 9 28 Les Chefs De Guerre 29](/uploads/personnalite/assembl-c-3-a-9-e-constitutive-de-l-27-empire-du-mand-c-3-a-9-28-les-chefs-de-guerre-29.jpg "Peinture murale représentant plusieurs personnalités propres à la bataille de Kirina"){.align-right}
 Voyant le danger arriver, [Soundjata Keïta](/personnalite/homme/noble/souverain/empereur/afrique/nord-ouest/mali/soundjata-keita) fait des pieds et des mains pour unifier tout les peuples menacés dans le but d'éradiquer l'ennemi.
 Son objectif était de faire la guerre à l'esclavage. Pour preuve, il voyait en cette pratique quelque chose de si néfaste qu'il obligeait les peuples à rallier sa cause sous penne de sanction : « Si vous (les [Mandings](/peuple/afrique/nord-ouest/manding)) refusez ma proposition, je ne tarderai pas à venir vous faire boire du fer en fusion[^1] ».
 
