@@ -3,7 +3,7 @@
 
 ![301 St Fighter Squadron Aetc Emblem](/uploads/embleme/301-st-fighter-squadron-aetc-emblem.png "301 St Fighter Squadron Emblem"){.pagelogo}
 
-Les *pilotes de Tuskegee* sont les premiers pilotes [Kamitiou](/peuple/monde/kamit) (Noirs) des [États-Unis d'Amérique]() à participer à la [seconde guerre tribale Européenne]().[^1]
+Les *pilotes de Tuskegee* sont les premiers pilotes [Kamtiou](/peuple/monde/kamit) (Noirs) des [États-Unis d'Amérique]() à participer à la [seconde guerre tribale Européenne]().[^1]
 
 # Leur formation militaire
 ![2011 Maxhaynes Tuskegee Airman 2](/uploads/object/2011-maxhaynes-tuskegee-airman-2.jpg "Maxhaynes Tuskegee Airman 2"){.align-right}
