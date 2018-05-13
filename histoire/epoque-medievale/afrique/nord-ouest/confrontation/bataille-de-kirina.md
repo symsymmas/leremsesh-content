@@ -24,6 +24,8 @@ Parmi les personnes qui ont marqué cette bataille, il y a[^1] :
 	* [Somangourou](/personnalite/homme/noble/souverain/empereur/afrique/nord-ouest/sosso/soumangourou), le souverain de l'[empire Sosso](/geographie/afrique/empire/sosso).
 
 # Les affrontements
+![Niger River At Koulikoro](/uploads/paysage/niger-river-at-koulikoro.jpg "Photo du fleuve Djoliba"){.align-right}
+
 La confrontation entre l'armée de l'empire [Sosso](/geographie/afrique/empire/sosso) et celle de Soundjata se déroule en 1235.[^1]
 
 Grâce à l'un de ses espions, [Soundjata Keïta](/personnalite/homme/noble/souverain/empereur/afrique/nord-ouest/mali/soundjata-keita) apprend à quelle date le [Manden](/geographie/royaume/afrique/nord-ouest/manden) se fera attaquer par [Soumangourou](/personnalite/homme/noble/souverain/empereur/afrique/nord-ouest/sosso/soumangourou). Dès lors, [Soundjata](/personnalite/homme/noble/souverain/empereur/afrique/nord-ouest/mali/soundjata-keita) met sur pied la tactique suivante :
@@ -32,9 +34,7 @@ Grâce à l'un de ses espions, [Soundjata Keïta](/personnalite/homme/noble/souv
 	* [Kamara](/personnalite/homme/guerrier/empire/afrique/nord-ouest/mali/kamara) et ses archers placés en hauteur, en direction des [monts Manding](/geographie/afrique/nord-ouest/mont/monts-manding), pour faire de l'ennemi une cible facile,
 * attaquer l'ennemi de front avec [Fakoli](/personnalite/homme/guerrier/empire/afrique/nord-ouest/mali/fakoli-manden) et [Komandian](/personnalite/homme/guerrier/empire/afrique/nord-ouest/mali/Komandian) pour commander les fantassins de [Tonkorobila](/peuple/afrique/nord-ouest/tonkorobila).
 
-Ci-dessous le [fleuve Djoliba](/geographie/fleuve/afrique/a-situer/djoliba) (autrement appelé le [fleuve Niger](/geographie/fleuve/afrique/a-situer/djoliba)).
-
-![Niger River At Koulikoro](/uploads/paysage/niger-river-at-koulikoro.jpg "Photo du fleuve Djoliba"){.align-center}
+Ci-contre le [fleuve Djoliba](/geographie/fleuve/afrique/a-situer/djoliba) (autrement appelé le [fleuve Niger](/geographie/fleuve/afrique/a-situer/djoliba)).
 
 L'armée de [Soundjata](/personnalite/homme/noble/souverain/empereur/afrique/nord-ouest/mali/soundjata-keita) et celle de [Soumangourou](/personnalite/homme/noble/souverain/empereur/afrique/nord-ouest/sosso/soumangourou) perdirent beaucoup d'hommes le premier jour de la bataille de Kirina mais à la fin de la journée, alors que les rescapés de l'empire [Sosso](/geographie/afrique/empire/sosso) demandaient une trêve, celle de Soundjata cherchait désespérément l'empereur [Soumangourou](/personnalite/homme/noble/souverain/empereur/afrique/nord-ouest/sosso/soumangourou) qui avait eu le temps de s'échapper.[^1]
 
