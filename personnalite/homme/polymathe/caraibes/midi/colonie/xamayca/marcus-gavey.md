@@ -109,13 +109,12 @@ L'image suivante représente Marcus Garvey lors de l'évènement qu'il a organis
 
 ## Entreprises
 ### The Watchman
+![Black Star Line Certificate](/uploads/document/black-star-line-certificate.png "certificat de la Black Star Line"){.align-right}
+
 En [1910](/histoire/date/calendrier-gregorien/par-annee/1910), *Marcus Garvey* crée le journal [Watchman](/organisme/journal/watchman) afin de critiquer la ploitique sociale du gouvernement colonial.[^1]
 
 ### Compagnie maritime
 Marcus Garvey a créé une compagnie maritime dans le but de fournir un moyen de retour en Afrique aux Africains de la diaspora.[^1]
-
-![Black Star Line Certificate](/uploads/document/black-star-line-certificate.png "certificat de la Black Star Line"){.align-center}
-
 # Hommages
 ## Livres
 Voici une liste de livres rendant hommage à Marcus GARVEY :
