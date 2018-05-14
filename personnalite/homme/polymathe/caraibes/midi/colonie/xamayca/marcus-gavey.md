@@ -84,6 +84,10 @@ Dès lors, *Marcus* se trouve, de la fin de l'année [1910](), jusqu'en début [
 
 Tout ce que *Marcus* voyait était misère sociale extrème, malnutrition et taudis. Pour dénoncer cela, il crée et anime les journaux [Nacionale]() et [Prensa]() respectivement à Porto Rico et au Panama. L'édition de ces deux journaux ne dure pas longtemps étant donné la pression des régimes en place et du manque d'intérêt des populations (peut-être est-ce dû à la mal nutrition).[^1]
 
+![United 20 Fruit](/uploads/certificates/united-20-fruit.jpg "United 20 Fruit"){.align-right}
+
+L'illustration ci-contre est un certificat d'une grande firme capitaliste transnationale, [United Fruit Company (UFC)]().
+
 # Prise de conscience
 *Marcus Garvey* a remarqué que le clivage social de [Xamayca](/geographie/ile/caraibes/midi/xamayca) était l'exact reflet de sa configuration raciale ; c'est-à-dire que seuls les Blancs accompagnés de quelques rares Métis, se trouvaient en haut de l'échelle sociale alors qu'au plus bas étaient tous les Noirs, formant une masse d'ouvriers agricoles dans les plantations de bananes et de tabac, d'ouvriers du bâtiment et des chemins de fer, de mineurs, de terrassiers, etc..[^1]
 
