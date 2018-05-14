@@ -114,7 +114,7 @@ L'image suivante représente Marcus Garvey lors de l'évènement qu'il a organis
 En [1910](/histoire/date/calendrier-gregorien/par-annee/1910), *Marcus Garvey* crée le journal [Watchman](/organisme/journal/watchman) afin de critiquer la ploitique sociale du gouvernement colonial.[^1]
 
 ### Compagnie maritime
-Marcus Garvey a créé une compagnie maritime dans le but de fournir un moyen de retour en Afrique aux Africains de la diaspora.[^1]
+Marcus Garvey a créé une compagnie maritime dans le but de fournir un moyen de retour en Afrique aux Africains de la diaspora. Celle-ci s'appelle *Black Star Line*.[^1]
 # Hommages
 ## Livres
 Voici une liste de livres rendant hommage à Marcus GARVEY :
