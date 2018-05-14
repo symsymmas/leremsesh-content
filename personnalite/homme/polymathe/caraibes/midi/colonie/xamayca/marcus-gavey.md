@@ -71,6 +71,19 @@ En [1910](/histoire/date/calendrier-gregorien/par-annee/1910), *Marcus Garvey* a
 La même année, il y a réussi à obtenir l'un des trois postes de secrétaire adjoint du parti.[^1]
 Enfin, pendant la même année et jusqu'à son départ en Amérique Centrale (en fin d'année), *Marcus* participe à l'animation de [Our Own](/organisme/journal/our-own), le journal du parti.[^1]
 
+## Voyages
+Dans le but d'en apprendre plus sur la misère qui s'abattait non seulement sur ses frères de [Xamayca](/geographie/ile/caraibes/midi/xamayca) mais aussi ceux des autres pays de l'Amérique Centrale, *Marcus Garvey* entreprit de voyager.[^1]
+Dès lors, *Marcus* se trouve, de la fin de l'année [1910](), jusqu'en début [1911]() à travailler dans des plantations de divers pays[^1] :
+* Porto Rico, où réside un frère de sa mère ;
+* Panama ;
+* Equateur ;
+* Nicaragua ;
+* Honduras ;
+* Colombie ;
+* Venezuela.
+
+Tout ce que *Marcus* voyait était misère sociale extrème, malnutrition et taudis. Pour dénoncer cela, il crée et anime les journaux [Nacionale]() et [Prensa]() respectivement à Porto Rico et au Panama. L'édition de ces deux journaux ne dure pas longtemps étant donné la pression des régimes en place et du manque d'intérêt des populations (peut-être est-ce dû à la mal nutrition).[^1]
+
 # Prise de conscience
 *Marcus Garvey* a remarqué que le clivage social de [Xamayca](/geographie/ile/caraibes/midi/xamayca) était l'exact reflet de sa configuration raciale ; c'est-à-dire que seuls les Blancs accompagnés de quelques rares Métis, se trouvaient en haut de l'échelle sociale alors qu'au plus bas étaient tous les Noirs, formant une masse d'ouvriers agricoles dans les plantations de bananes et de tabac, d'ouvriers du bâtiment et des chemins de fer, de mineurs, de terrassiers, etc..[^1]
 
@@ -110,7 +123,7 @@ Voici une liste de sujet de discussion créés dans des forum sur l'Internet :
 * [Sir Marcus Mosiah Garvey His beliefs deeply influenced the Rastafari, who took his statements as a prophecy](http://join.clubme.net/t26-sir-marcus-mosiah-garvey-his-beliefs-deeply-influenced-the-rastafari-who-took-his-statements-as-a-prophecy#26) créé par l'utilisateur « Admin ».
 
 
-[^1]: [Doumbi-Fakoly](/personnalite/homme/polymathe/afrique/nord-ouest/pays/mali/doumbi-fakoli). [Marcus Garvey expliqué aux adolescents](/ouvrage/documentaire/marcus-garvey-explique-aux-adolescents). Livre. France ; Édition [MENAIBUC](/organisme/editeur/menaibuc) ; 2ème trimestre [2009](/histoire/date/calendrier-gregorien/par-annee/2009). p.7 ; p.11-13 ; p.15-16 ; p.19-20. ISBN : 978-2-35349-102-5. 
+[^1]: [Doumbi-Fakoly](/personnalite/homme/polymathe/afrique/nord-ouest/pays/mali/doumbi-fakoli). [Marcus Garvey expliqué aux adolescents](/ouvrage/documentaire/marcus-garvey-explique-aux-adolescents). Livre. France ; Édition [MENAIBUC](/organisme/editeur/menaibuc) ; 2ème trimestre [2009](/histoire/date/calendrier-gregorien/par-annee/2009). ISBN : 978-2-35349-102-5. 
 [^2]: Admin. [Sir Marcus Mosiah Garvey His beliefs deeply influenced the Rastafari, who took his statements as a prophecy](http://join.clubme.net/t26-sir-marcus-mosiah-garvey-his-beliefs-deeply-influenced-the-rastafari-who-took-his-statements-as-a-prophecy#26). Forum sur [Internet](http://join.clubme.net). [Jeu.](/histoire/date/calendrier-gregorien/par-jour-de-la-semaine/jeudi) [13](/histoire/date/calendrier-gregorien/par-jour/13) [Jan.](/histoire/date/calendrier-gregorien/par-mois/janvier) [2011](/histoire/date/calendrier-gregorien/par-annee/2011) ; 12:50 (lu le [25](/histoire/date/calendrier-gregorien/par-jour/25) [Avril](/histoire/date/calendrier-gregorien/par-mois/avril) [2018](https://partage.leremsesh.com/histoire/date/calendrier-gregorien/par-annee/2018)).
-[^3]: [Amy Jacques Garvey](/personnalite/femme/ecrivaine/a-situer/amy-jacques-garvey). [Philosophy and Opinions of Marcus Garvey](/ouvrage/a-classer/philosophy-and-opinions-of-marcus-garvey). Vol. 2. p. 125. Cité par Têtêvi Godwin Tété-Adjalogo.
-[^4]: [Têtêvi Godwin Tété-Adjalogo](/personnalite/homme/ecrivain/a-situer/tetevi-godwin-tete-adjalogo). [Marcus Garvey, Père de l'Unité Africaine des Peuples](/ouvrage/a-classer/marcus-garvey-pere-de-l-unite-africaine-des-peuples). Tome 1. Ed. L'Harmattan ; [Paris](/geographie/ville/europe/ouest/paris) ; [1995](/histoire/date/calendrier-gregorien/par-annee/1995). p. 20 ; p. 22.
+[^3]: [Amy Jacques Garvey](/personnalite/femme/ecrivaine/a-situer/amy-jacques-garvey). [Philosophy and Opinions of Marcus Garvey](/ouvrage/a-classer/philosophy-and-opinions-of-marcus-garvey). Vol. 2. Cité par Têtêvi Godwin Tété-Adjalogo.
+[^4]: [Têtêvi Godwin Tété-Adjalogo](/personnalite/homme/ecrivain/a-situer/tetevi-godwin-tete-adjalogo). [Marcus Garvey, Père de l'Unité Africaine des Peuples](/ouvrage/a-classer/marcus-garvey-pere-de-l-unite-africaine-des-peuples). Tome 1. Ed. L'Harmattan ; [Paris](/geographie/ville/europe/ouest/paris) ; [1995](/histoire/date/calendrier-gregorien/par-annee/1995).
