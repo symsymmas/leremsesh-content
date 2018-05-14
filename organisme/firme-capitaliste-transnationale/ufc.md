@@ -10,3 +10,6 @@ Son emprise du marché se fait sentir par[^1] :
 * le choix unilatérale du prix des produits fournis par les petits planteurs ;
 * la mise en faillite de ceux-ci ;
 * la distribution de salaires bas.
+
+
+[^1]: [Doumbi-Fakoly](/personnalite/homme/polymathe/afrique/nord-ouest/pays/mali/doumbi-fakoli). [Marcus Garvey expliqué aux adolescents](/ouvrage/documentaire/marcus-garvey-explique-aux-adolescents). Livre. France ; Édition [MENAIBUC](/organisme/editeur/menaibuc) ; 2ème trimestre [2009](/histoire/date/calendrier-gregorien/par-annee/2009). ISBN : 978-2-35349-102-5. 
