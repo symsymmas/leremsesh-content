@@ -1,6 +1,8 @@
 <!-- TITLE: Colonisation -->
 <!-- SUBTITLE: Présentation de la Colonisation -->
 
+Les pratiques coloniales varient selon les pays.
+
 # En Angleterre et aux États-Unis d'Amérique
 Au début du XXème siècle, l'Angleterre laisse une relative liberté de pensée et d'agir à ses administrés. Les [États-Unis d'Amérique](), ayant été sous tutelle Britanique, pratique une politique similaire, suite à l'abolition de l'esclavage.[^1]
 
