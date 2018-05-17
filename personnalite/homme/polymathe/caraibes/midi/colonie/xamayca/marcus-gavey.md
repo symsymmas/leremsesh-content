@@ -117,7 +117,7 @@ Il estimait que le devoir de révolte et de combat s'imposait à toute personne 
 ## Gouvernement
 L'image suivante représente Marcus Garvey lors de l'évènement qu'il a organisé aux États-Unis d'Amérique en [1922](/histoire/date/calendrier-gregorien/par-annee/1922). Il porte les apparats de chef du gouvernement qu'il a fondé.
 
-![Marcus Garvey March 1922](/uploads/personnalite/marcus-garvey-march-1922.png "Marcus Garvey 1922"){.align-center}
+![Marcus Garvey March 1922](/uploads/personnalite/marcus-garvey-march-1922.png "Marcus Garvey en 1922"){.align-center}
 
 ## Armée
 
