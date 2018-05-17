@@ -76,7 +76,7 @@ Enfin, pendant la même année et jusqu'à son départ en Amérique Centrale (en
 ![United 20 Fruit](/uploads/certificates/united-20-fruit.jpg "United 20 Fruit"){.align-right}
 
 Dans le but d'en apprendre plus sur la misère qui s'abattait non seulement sur ses frères de [Xamayca](/geographie/ile/caraibes/midi/xamayca) mais aussi ceux des autres pays de l'Amérique Centrale, *Marcus Garvey* entreprit de voyager.[^1]
-Dès lors, *Marcus* se trouve, de la fin de l'année [1910](), jusqu'en début [1911]() à travailler dans des plantations de divers pays[^1] :
+Dès lors, *Marcus* se trouve, de la fin de l'année [1910](/histoire/date/calendrier-gregorien/par-annee/1910) jusqu'en début [1911](/histoire/date/calendrier-gregorien/par-annee/1911), à travailler dans des plantations de divers pays[^1] :
 * Porto Rico, où réside un frère de sa mère ;
 * Panama ;
 * Equateur ;
@@ -85,17 +85,22 @@ Dès lors, *Marcus* se trouve, de la fin de l'année [1910](), jusqu'en début [
 * Colombie ;
 * Venezuela.
 
-Tout ce que *Marcus* voyait était misère sociale extrème, malnutrition et taudis. Pour dénoncer cela, il crée et anime les journaux [Nacionale]() et [Prensa]() respectivement à Porto Rico et au Panama. L'édition de ces deux journaux ne dure pas longtemps étant donné la pression des régimes en place et du manque d'intérêt des populations (peut-être est-ce dû à la mal nutrition).[^1]
+Tout ce que *Marcus* voyait était de la misère sociale extrème, de la malnutrition et des taudis. Pour dénoncer cela, il a créé et animé les journaux [Nacionale]() et [Prensa]() respectivement à Porto Rico et au Panama. L'édition de ces deux journaux ne dure pas longtemps étant donné la pression des régimes en place et le manque d'intérêt des populations. [^1] Ce dernier était potentiellement dû à la mal nutrition dont elles souffraient.[^1]
 
-L'illustration ci-dessus est un certificat d'une grande firme capitaliste transnationale, [United Fruit Company (UFC)]().
+L'illustration ci-dessus est un certificat d'une grande firme capitaliste transnationale, [United Fruit Company (UFC)](/organisme/firme-capitaliste-transnationale/ufc).
 
 ### L'Europe et les États-Unis d'Amérique
-Suite à son séjour en Amérique Centrale, *Marcus Garvey* décide de voyager en Europe et aux États-Unis d'Amérique pour observer et étudier les mouvements intellectuels [Kamit](). Ainsi, il réussirait à comprendre ces luttes. *Marcus* entre donc en contact avec l'intelligentsia Noire en [1912]() en Angleterre puis en [1916]().[^1]
+Suite à son séjour en Amérique Centrale, *Marcus Garvey* décide de voyager en Europe et aux États-Unis d'Amérique pour observer et étudier les mouvements intellectuels [Kamit](/terminologie/mdw-ntr/kamit). Ainsi, il réussirait à comprendre ces luttes. *Marcus* entre donc en contact avec l'intelligentsia Noire en [1912]() en Angleterre puis en [1916]().[^1]
 
 #### L'Europe
-Quand il arrive à Londres, lieu de résidence de sa sœur [Indiana ](), *Marcus* réussit à trouver du travail en tant que docker aux ports de Liverpool et de Cardiff.[^1]
+Quand il arrive à Londres, lieu de résidence de sa sœur [Indiana ](/personnalite/femme/a-classer/indiana-garvey), *Marcus* réussit à trouver du travail en tant que docker aux ports de Liverpool et de Cardiff.[^1]
 
-En visitant la France, l'Italie, l'Espagne, l'Allemagne, l'Autriche et la Hongrie, *Garvey* y identifie une faible activité intellectuelle [Kamit](). Cela est dû aux [politiques coloniales](/ideologie/colonisation) appliquées par ces pays.[^1]
+En visitant la France, l'Italie, l'Espagne, l'Allemagne, l'Autriche et la Hongrie, *Garvey* y identifie une faible activité intellectuelle [Kamit](/terminologie/mdw-ntr/kamit). Cela est dû aux [politiques coloniales](/ideologie/colonisation) appliquées par ces pays. Par conséquent, c'est là où se pratique l'administration indirecte ([Angleterre](/geographie/pays/europe/ouest/angleterre) et [États-Unis d'Amérique]()) qu'il apprend de l'intelligentsia [Kamit](/terminologie/mdw-ntr/kamit).[^1]
+
+*Marcus* rencontre donc[^1] :
+* [Mohamed Ali Duse](/personnalite/homme/polymathe/afrique/nord-est/egypte/duse-mohamed-ali) à Londres.
+
+Sa rencontre avec [Mohamed Ali Duse](/personnalite/homme/polymathe/afrique/nord-est/egypte/duse-mohamed-ali) lui permet de parfaire son expérience dans la publication et la presse tout en étant en contact physique ou par écrit avec des nationalites [Kamit](/terminologie/mdw-ntr/kamit)
 
 # Prise de conscience
 *Marcus Garvey* a remarqué que le clivage social de [Xamayca](/geographie/ile/caraibes/midi/xamayca) était l'exact reflet de sa configuration raciale ; c'est-à-dire que seuls les Blancs accompagnés de quelques rares Métis, se trouvaient en haut de l'échelle sociale alors qu'au plus bas étaient tous les Noirs, formant une masse d'ouvriers agricoles dans les plantations de bananes et de tabac, d'ouvriers du bâtiment et des chemins de fer, de mineurs, de terrassiers, etc..[^1]
