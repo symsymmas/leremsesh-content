@@ -73,7 +73,7 @@ Enfin, pendant la même année et jusqu'à son départ en Amérique Centrale (en
 
 ## Voyages
 ### L'Amérique Centrale et la Caraïbe
-![United 20 Fruit](/uploads/certificates/united-20-fruit.jpg "United 20 Fruit"){.align-right}
+![United 20 Fruit](/uploads/certificates/united-20-fruit.jpg "Certificat de l'UFC"){.align-right}
 
 Dans le but d'en apprendre plus sur la misère qui s'abattait non seulement sur ses frères de [Xamayca](/geographie/ile/caraibes/midi/xamayca) mais aussi ceux des autres pays de l'Amérique Centrale, *Marcus Garvey* entreprit de voyager.[^1]
 Dès lors, *Marcus* se trouve, de la fin de l'année [1910](/histoire/date/calendrier-gregorien/par-annee/1910) jusqu'en début [1911](/histoire/date/calendrier-gregorien/par-annee/1911), à travailler dans des plantations de divers pays[^1] :
