@@ -92,8 +92,10 @@ L'illustration ci-dessus est un certificat d'une grande firme capitaliste transn
 ### L'Europe et les États-Unis d'Amérique
 Suite à son séjour en Amérique Centrale, *Marcus Garvey* décide de voyager en Europe et aux États-Unis d'Amérique pour observer et étudier les mouvements intellectuels [Kamit](). Ainsi, il réussirait à comprendre ces luttes. *Marcus* entre donc en contact avec l'intelligentsia Noire en [1912]() en Angleterre puis en [1916]().[^1]
 
-#### Londres
+#### L'Europe
 Quand il arrive à Londres, lieu de résidence de sa sœur [Indiana ](), *Marcus* réussit à trouver du travail en tant que docker aux ports de Liverpool et de Cardiff.[^1]
+
+En visitant la France, l'Italie, l'Espagne, l'Allemagne, l'Autriche et la Hongrie, *Garvey* y identifie une faible activité intellectuelle [Kamit](). Cela est dû aux [politiques coloniales](/ideologie/colonisation) appliquées par ces pays.[^1]
 
 # Prise de conscience
 *Marcus Garvey* a remarqué que le clivage social de [Xamayca](/geographie/ile/caraibes/midi/xamayca) était l'exact reflet de sa configuration raciale ; c'est-à-dire que seuls les Blancs accompagnés de quelques rares Métis, se trouvaient en haut de l'échelle sociale alors qu'au plus bas étaient tous les Noirs, formant une masse d'ouvriers agricoles dans les plantations de bananes et de tabac, d'ouvriers du bâtiment et des chemins de fer, de mineurs, de terrassiers, etc..[^1]
