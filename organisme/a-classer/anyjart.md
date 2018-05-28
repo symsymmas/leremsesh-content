@@ -1,7 +1,7 @@
 <!-- TITLE: ANYJART -->
 <!-- SUBTITLE: Présentation de l'organisme ANYJART -->
 
-![Sans Titre](/uploads/personnalite/sans-titre.png "Sans Titre"){.pagelogo}
+![Sans Titre](/uploads/personnalite/sans-titre.png "Omotunde, représentant d'ANYJART."){.pagelogo}
 
 # Bibliographie
 Voici une liste d'ouvrages parus aux édition ANYJART :
