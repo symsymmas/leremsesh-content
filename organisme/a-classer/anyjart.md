@@ -1,4 +1,6 @@
 <!-- TITLE: ANYJART -->
 <!-- SUBTITLE: Présentation de l'organisme ANYJART -->
 
-# Header
+# Bibliographie
+Voici une liste d'ouvrages parus aux édition ANYJART :
+* Le Paprus d'Ahmès, de N. K. OMOTUNDÉ.
