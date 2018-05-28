@@ -1,7 +1,7 @@
 <!-- TITLE: Le Papyrus D'Ahmes -->
 <!-- SUBTITLE: Présentation de la revue « Le Papyrus D'Ahmes » -->
 
-*Le Papyrus D'Ahmès* est une revue annuelle dont le premier numéro est paru en 2015 aux éditions ANYJART. Cette revue porte sur les humanités classiques africaines.
+*Le Papyrus D'Ahmès* est une revue annuelle dont le premier numéro est paru en 2015 aux éditions ANYJART. Cette revue porte sur les [humanités classiques africaines](/divers/humanites-classiques-africaines).
 
 # Les différentes revues
 ## Revue n°1 : Les mathématiques africaines
