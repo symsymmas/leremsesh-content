@@ -6,6 +6,6 @@
 ![Pink Lake 02](/uploads/lake/pink-lake-02.jpg "Pink Lake 02")
 ![Sel Extrait Du Lac Retba](/uploads/lake/sel-extrait-du-lac-retba.jpg "Sel Extrait Du Lac Retba")
 ![Pink Lake Retba](/uploads/lake/pink-lake-retba.jpg "Pink Lake Retba")
-
+![Lac Retba Barque Pour Embarcation Du Sel](/uploads/lake/lac-retba-barque-pour-embarcation-du-sel.jpg "Lac Retba Barque Pour Embarcation Du Sel")
 
 Le lac Retba est un lac dont l'eau est de couleur rose.
