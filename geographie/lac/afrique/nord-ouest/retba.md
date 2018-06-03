@@ -3,7 +3,7 @@
 
 ![Pink Lake 02](/uploads/lake/pink-lake-02.jpg "Le lac Retba et une embarcation utilisée pour récupérer le sel du lac"){.pagelogo}
 
-Le *lac Retba* est un **lac salé** localisé à [Dakar](), dans ce pays africain nomé [Sénégal]().
+Le *lac Retba* est un **lac salé** localisé à 35 km au nord-est de [Dakar](), sur le territoire du village de Sangalkam. La profondeur maximale du lac est de 3m. Non loin de là se trouve l'océan Atlantique qui serait à l'origine de la salinité du *lac Retba*. [^1]
 
 ![Lacretba](/uploads/lake/lacretba.png "Géolocalisation du lac Retba"){.align-center}
 
@@ -15,7 +15,7 @@ Le lac Retba est un non seulement la dernière étape de la [course Paris-Dakar]
 # Les activités réalisées
 ![Lac Retba Dakar Senegal](/uploads/lake/lac-retba-dakar-senegal.jpg "Lac Retba Dakar Senegal"){.align-right}
 
-Comme l'illustre l'image suivante, le sel du lac Retba est extrait à l'aide d'embarcations faites en bois.
+Le sel du lac Retba est extrait à l'aide d'embarcations faites en bois.
 
 ![1 D 24 Ab 158 E 2 Db 7 Ac 1 F 94 Fa 48 E 25 Cb 009 Red Pigment Lac Retba](/uploads/lake/1-d-24-ab-158-e-2-db-7-ac-1-f-94-fa-48-e-25-cb-009-red-pigment-lac-retba.jpg "Vue aérienne du lac Retba"){.aling-center}
 ![Sel Extrait Du Lac Retba](/uploads/lake/sel-extrait-du-lac-retba.jpg "Sel Extrait Du Lac Retba")
