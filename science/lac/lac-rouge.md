@@ -5,7 +5,7 @@
 
 Les *lacs rouges* ou *lacs salés* sont des lacs situés non loin de l'océan.
 
-La salinité de leur eau est nettement supérieure à celle de la mer. Par exemple, le [lac Retba](/geographie/lac/afrique/nord-ouest/retba) (situé à [Dakar](/geographie/ville/afrique/nord-ouest/senegal/dakar) dans le pays nommé [Sénégal](/geographie/pays/afrique/nord-ouest/senegal), en [Afrique](/geographie/continent/afrique)) est d'une salinité de 0,39%, c'est-à-dire que pour un kg d'eau du lac, 390g se trouve être du sel. En comparaison, en moyenne, le taux de sel dans l'eau de mer est de 0,035%.
+La salinité de leur eau est nettement supérieure à celle de la mer. Par exemple, le [lac Retba](/geographie/lac/afrique/nord-ouest/retba) (situé à [Dakar](/geographie/ville/afrique/nord-ouest/senegal/dakar) dans le pays nommé [Sénégal](/geographie/pays/afrique/nord-ouest/senegal), en [Afrique](/geographie/continent/afrique)) est d'une salinité de 39%, c'est-à-dire que pour un kg d'eau du lac, 390g se trouve être du sel. En comparaison, en moyenne, le taux de sel dans l'eau de mer est de 3,5%.
 
 ![Sel Extrait Du Lac Retba](/uploads/lake/sel-extrait-du-lac-retba.jpg "Le lac Retba"){.align-right}
 
