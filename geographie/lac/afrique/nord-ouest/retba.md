@@ -15,7 +15,7 @@ Le lac Retba est un non seulement la dernière étape de la [course Paris-Dakar]
 ![Sel Extrait Du Lac Retba](/uploads/lake/sel-extrait-du-lac-retba.jpg "Échantillon de sel extrait du lac Retba"){.align-center}
 
 # Les activités réalisées
-![Lac Retba Worker Digging Salt](/uploads/lake/lac-retba-worker-digging-salt.jpg "Travailleur en train d'extraire du sel du lac Retba"){.align-right}
+![Lac Retba Worker Digging Salt](/uploads/lake/lac-retba-worker-digging-salt.jpg "Travailleur en train d'extraire du sel du lac Retba"){.align-center}
 
 Le sel est extrait du fond du lac à l'aide de paniers puis transporté dans des embarcations faites en bois.
 
