@@ -10,7 +10,7 @@ Le *lac Retba* est un **lac salé** localisé à 35 km au nord-est de [Dakar](/g
 # La particularité du lac Retba
 ![Pink Lake Retba](/uploads/lake/pink-lake-retba.jpg "Photo du lac Retba"){.align-right}
 
-Le lac Retba est un non seulement la dernière étape de la [course Paris-Dakar]() mais il a aussi la particularité d'être de couleur rose. Cette couleur est due à sa haute teneur en sel (390g de sel par litre d'eau).[^1]
+Le lac Retba est un non seulement la dernière étape de la [course Paris-Dakar](/sport/international/course/course-de-voiture/paris-dakar) mais il a aussi la particularité d'être de couleur rose. Cette couleur est due à sa haute teneur en sel ; en effet, la proportion de sel est de 0,39%, soit 390g de sel par litre d'eau.[^1]
 
 ![Sel Extrait Du Lac Retba](/uploads/lake/sel-extrait-du-lac-retba.jpg "Échantillon de sel extrait du lac Retba"){.align-center}
 
