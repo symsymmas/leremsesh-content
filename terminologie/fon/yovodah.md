@@ -3,7 +3,7 @@
 
 # L'impact du Yovodah
 ## Les mentalités
-Après des siècles de violence et d'ensiegnement basés sur le négatif et l'interdit, les [panafricains](/ideologie/mouvement-panafricain) issus du Yovodah se voient contraint de se reconstruire sur plusieurs plans (morale, physique, pécunière, etc.). En effet, sortant d'un passé colonial et esclavagiste, cette partie du peuple [Kamite](/peuple/afrique/nord-est/empire/kmt/kemtiou) s'est vu contrainte d'adopter[^1] :
+Après des siècles de violence et d'ensiegnement basés sur le négatif et l'interdit, les afro-descendants issus du Yovodah se voient contraint de se reconstruire sur plusieurs plans (morale, physique, pécunière, etc.). En effet, sortant d'un passé colonial et esclavagiste, cette partie du peuple [Kamite](/peuple/afrique/nord-est/empire/kmt/kemtiou) s'est vu contrainte d'adopter[^1] :
 * des expressions négatives ;
 * un déni des sentiments profonds ;
 * une perception pessimiste de l'avenir.
