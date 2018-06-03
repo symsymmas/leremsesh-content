@@ -3,7 +3,7 @@
 
 ![Pink Lake 02](/uploads/lake/pink-lake-02.jpg "Le lac Retba et une embarcation utilisée pour récupérer le sel du lac"){.pagelogo}
 
-Le lac Retba est un lac dont l'eau est de couleur rose. Ce lac se trouve à Dakar, au Sénégal.
+Le lac Retba est un lac dont l'eau est de couleur rose. Ce lac se trouve à Dakar, dans ce pays africain nomé Sénégal.
 
 ![Lacretba](/uploads/lake/lacretba.png "Géolocalisation du lac Retba"){.align-center}
 
