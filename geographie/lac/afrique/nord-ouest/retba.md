@@ -5,12 +5,13 @@
 
 Le *lac Retba* est un **lac salé** localisé à [Dakar](), dans ce pays africain nomé [Sénégal]().
 
-![Lacretba](/uploads/lake/lacretba.png "Géolocalisation du lac Retba"){.align-right}
+![Lacretba](/uploads/lake/lacretba.png "Géolocalisation du lac Retba"){.align-center}
 
 # La particularité du lac Retba
+![Pink Lake Retba](/uploads/lake/pink-lake-retba.jpg "Photo du lac Retba"){.align-right}
+
 Le lac Retba est un non seulement la dernière étape de la [course Paris-Dakar]() mais il a aussi la particularité d'être de couleur rose. Cette couleur est due à sa haute teneur en sel (390g de sel par litre d'eau).[^1]
 
-![Pink Lake Retba](/uploads/lake/pink-lake-retba.jpg "Photo du lac Retba"){.align-center}
 # Les activités réalisées
 ![Lac Retba Dakar Senegal](/uploads/lake/lac-retba-dakar-senegal.jpg "Lac Retba Dakar Senegal"){.align-right}
 
