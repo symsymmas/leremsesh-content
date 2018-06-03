@@ -9,10 +9,10 @@ La salinité de leur eau est nettement supérieure à celle de la mer. Par exemp
 
 ![Sel Extrait Du Lac Retba](/uploads/lake/sel-extrait-du-lac-retba.jpg "Le lac Retba"){.align-right}
 
-La couleur de l'eau n'est pas due au fond des lacs mais aux algues qui y vivent.[^1]
+La couleur de l'eau n'est pas due à ce qui se trouve dans le fond des lacs mais aux sécrétions des algues qui y vivent (le [bêta-carotène]() qui les protège des rayons [UV](), la [lutéine](https://fr.wikipedia.org/wiki/Lut%C3%A9ine), la [zéaxanthine](https://fr.wikipedia.org/wiki/Z%C3%A9axanthine), etc.)[^1]
 Étant donné leur haute teneur en sel, les *lacs rouges* renferment particulièrement des êtres vivants de la famille des **Archaea halophile** (du grec *alos* qui veut dire sel et *philein* qui veut dire aimer). L'algue microscopique [Dunaliella salina](https://fr.wikipedia.org/wiki/Dunaliella_salina) en est un exemple. Cette dernière est utilisée en cosmétique et en tant que complément alimentaire étant donné sa forte teneur en [antioxydants](https://fr.wikipedia.org/wiki/Antioxydant), [bêta-carotène](https://fr.wikipedia.org/wiki/B%C3%AAta-Carot%C3%A8ne) et [glycérol](https://fr.wikipedia.org/wiki/Glyc%C3%A9rol). Une autre algue moins commercialisée, donc moins connue, est **Halobacteria cutirubrum**.[^1]
 
-Ceci étant, la couleur rouge de l'eau varie selon plusieurs critères liés à sa salinité :
+Ceci étant, la couleur rouge de l'eau varie selon plusieurs critères liés à sa salinité[^1] :
 * l'équilibre entre l'**Halobacteria cutirubrum** et [Dunaliella salina](https://fr.wikipedia.org/wiki/Dunaliella_salina) ;
 * la luminosité ;
 * l'évaporation de cette eau.
