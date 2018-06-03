@@ -23,4 +23,4 @@ La proportion de sel dans l'eau du *lac Retba* est de 0,39%, soit 390g de sel pa
 Le sel est extrait du fond du lac à l'aide de paniers puis transporté dans des embarcations faites en bois.
 
 
-[^1]: [Tout sur les lacs roses du monde ! Photos & Explications au rendez-vous !](https://cestpasbanal.blogspot.com/2013/04/tout-sur-les-lacs-roses-du-monde-photos.html). [Amaya Letrange](https://plus.google.com/111664944124095912169). [C'est pas banal !](https://cestpasbanal.blogspot.com/) [en ligne]. [Samedi]() [20]() [avril]() [2013]() [consulté le 03 Juin 2018]. https://cestpasbanal.blogspot.com/2013/04/tout-sur-les-lacs-roses-du-monde-photos.html
+[^1]: [Tout sur les lacs roses du monde ! Photos & Explications au rendez-vous !](https://cestpasbanal.blogspot.com/2013/04/tout-sur-les-lacs-roses-du-monde-photos.html). [Amaya Letrange](https://plus.google.com/111664944124095912169). [C'est pas banal !](https://cestpasbanal.blogspot.com/) [en ligne]. [Samedi]() [20]() [avril]() [2013]() [consulté le [03]() [Juin]() [2018]()]. https://cestpasbanal.blogspot.com/2013/04/tout-sur-les-lacs-roses-du-monde-photos.html
