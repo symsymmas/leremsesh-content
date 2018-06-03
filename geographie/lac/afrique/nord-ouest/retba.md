@@ -3,7 +3,7 @@
 
 ![Pink Lake 02](/uploads/lake/pink-lake-02.jpg "Le lac Retba et une embarcation utilisée pour récupérer le sel du lac"){.pagelogo}
 
-Le *lac Retba* est un **lac salé** localisé à 35 km au nord-est de [Dakar](), sur le territoire du village de Sangalkam. La profondeur maximale du lac est de 3m. Non loin de là se trouve l'océan Atlantique qui serait à l'origine de la salinité du *lac Retba*. [^1]
+Le *lac Retba* est un **lac salé** localisé à 35 km au nord-est de [Dakar](/geographie/ville/afrique/nord-ouest/senegal/dakar), sur le territoire du village de Sangalkam. La profondeur maximale du lac est de 3m. Non loin de là se trouve l'océan Atlantique qui serait à l'origine de la salinité du *lac Retba*. [^1]
 
 ![Lacretba](/uploads/lake/lacretba.png "Géolocalisation du lac Retba"){.align-center}
 
