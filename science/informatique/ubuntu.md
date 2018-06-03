@@ -21,9 +21,12 @@ Tous les aspects précédemment listés font partie de l'essence même de ce [sy
 
 Le projet lui-même définit se mot par « l'humanité qui rend service à elle-même » ou « je suis ce que je suis grâce à ce que nous sommes ».[^3]
 
-Pour étayer ce mode de penser, [© Canonical Ltd](https://www.canonical.com/) a choisi pour son système d'exploitation *Ubuntu* un logo qui représente différentes personnes formant une ronde et se tenant la main.
-Par la suite, le logo s'est vu stylisé comme suit.
+![Circle 510](/uploads/logo/circle-510.png "Illustration de la signification du logo Ubuntu"){.align-right}
 
+Pour étayer ce mode de penser, [© Canonical Ltd](https://www.canonical.com/) a choisi pour son système d'exploitation *Ubuntu* un logo qui représente des personnes différentes en train de former une ronde en se tenant la main.
+Par la suite, le logo s'est vu stylisé à l'instar de l'image suivante.
+
+![Ubuntu X 600](/uploads/logo/ubuntu-x-600.png "Logo Ubuntu"){.align-center}
 
 
 [^1]: [© Canonical Ltd](https://www.canonical.com/) ; Expérience Ubuntu ; [vidéo Wikipédia](https://upload.wikimedia.org/wikipedia/commons/1/17/Experience_ubuntu.ogv) ; 24 May 2006
