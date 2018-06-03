@@ -17,7 +17,7 @@ Le lac Retba est un non seulement la dernière étape de la [course Paris-Dakar]
 # Les activités réalisées
 ![Lac Retba Worker Digging Salt](/uploads/lake/lac-retba-worker-digging-salt.jpg "Lac Retba Worker Digging Salt"){align-right}
 
-Le sel du lac Retba est extrait à l'aide de paniers utilisés  puis transporté dans des embarcations faites en bois.
+Le sel est extrait du fond du lac à l'aide de paniers puis transporté dans des embarcations faites en bois.
 
 
 [^1]: [Tout sur les lacs roses du monde ! Photos & Explications au rendez-vous !](https://cestpasbanal.blogspot.com/2013/04/tout-sur-les-lacs-roses-du-monde-photos.html). [Amaya Letrange](https://plus.google.com/111664944124095912169). [C'est pas banal !](https://cestpasbanal.blogspot.com/) [en ligne]. [Samedi]() [20]() [avril]() [2013]() [consulté le 03 Juin 2018]. https://cestpasbanal.blogspot.com/2013/04/tout-sur-les-lacs-roses-du-monde-photos.html
