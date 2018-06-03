@@ -8,5 +8,5 @@
 ![Lac Retba Barque Pour Embarcation Du Sel](/uploads/lake/lac-retba-barque-pour-embarcation-du-sel.jpg "Lac Retba Barque Pour Embarcation Du Sel")
 ![Lac Retba Worker Digging Salt](/uploads/lake/lac-retba-worker-digging-salt.jpg "Lac Retba Worker Digging Salt")
 
-![Lacretba](/uploads/map/lacretba.png "Lacretba"){.align-right}
 Le lac Retba est un lac dont l'eau est de couleur rose. Ce lac se trouve à Dakar, au Sénégal.
+![Lacretba](/uploads/map/lacretba.png "Géolocalisation du lac Retba"){.center}
