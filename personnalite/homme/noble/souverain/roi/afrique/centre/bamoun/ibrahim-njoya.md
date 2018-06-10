@@ -8,7 +8,7 @@
 # Naissance
 *Ibrahim Njoya* né en [1876]() de [Na Njapdnunke](), sa mère.[^1]
 
-# Son arrivé au pouvoir
+# Son arrivée au pouvoir
 Suite à la guerre civile de [1892]() à [1895]() qui a ravagé le [royaume Bamoun](), Njoya et son peuple se dotent d'une écriture nommée shu-mom. Grâce à celle-ci, les [Bamouns]() améliorent leur système administratif (ex. : fiscalité, justice et archives).[^1]
 
 # Constructions historiques
