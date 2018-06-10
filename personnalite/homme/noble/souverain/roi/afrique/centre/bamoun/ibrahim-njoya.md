@@ -1,15 +1,15 @@
 <!-- TITLE: Ibrahim Njoya -->
-<!-- SUBTITLE: Présentation de Ibrahim Njoya -->
+<!-- SUBTITLE: Présentation du roi Ibrahim Njoya -->
 
 ![Ibrahim Njoya](/uploads/personnalite/ibrahim-njoya.jpg "Ibrahim Njoya"){.pagelogo}
 
-*Ibrahim Njoya* a été le XVIIe roi [Bamouns]() de la dynastie de Nchare Yen. Il a régné de [1887]() à [1933]().
+*Ibrahim Njoya* a été le XVIIème roi [Bamoun]() de la dynastie de [Nchare Yen](). Il a régné de [1887]() à [1933]().
 
-# Environnement familial
+# Naissance
 *Ibrahim Njoya* né en [1876]() de [Na Njapdnunke](), sa mère.
 
 # Son arrivé au pouvoir
-Suite à la guerre civile de [1892]()-[1895]() qui ravage le royaume Bamoun, Njoya et son peuple se dotent d'une écriture nommée shu-mom. Grâce à celle-ci, les [Bamouns]() améliorent leur système administratif (ex. : fiscalité, justice et archives).
+Suite à la guerre civile de [1892]() à [1895]() qui a ravagé le [royaume Bamoun](), Njoya et son peuple se dotent d'une écriture nommée shu-mom. Grâce à celle-ci, les [Bamouns]() améliorent leur système administratif (ex. : fiscalité, justice et archives).
 
 # Constructions historiques
 Durant son règne, *Ibrahim Njoya* construit le [palais des sultants Bamouns](). Celui-ci se trouve à Foumban (pays du Cameroun) et a été classé au patrimoine mondial de l'Unesco.
