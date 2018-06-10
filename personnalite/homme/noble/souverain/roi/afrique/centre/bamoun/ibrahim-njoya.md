@@ -1,8 +1,6 @@
 <!-- TITLE: Ibrahim Njoya -->
 <!-- SUBTITLE: Présentation de Ibrahim Njoya -->
 
-![Njoya Of Bamun](/uploads/personnalite/njoya-of-bamun.jpg "Njoya Of Bamun"){.pagelogo}
-
 *Ibrahim Njoya* a été le XVIIe roi [Bamouns]() de la dynastie de Nchare Yen. Il a régné de [1887]() à [1933]().
 
 # Environnement familial
@@ -15,6 +13,8 @@ Suite à la guerre civile de [1892]()-[1895]() qui ravage le royaume Bamoun, Njo
 Durant son règne, *Ibrahim Njoya* construit le [palais des sultants Bamouns](). Celui-ci se trouve à Foumban (pays du Cameroun) et a été classé au patrimoine mondial de l'Unesco.
 
 # Fondements spirituels et religieux
+![Njoya Of Bamun](/uploads/personnalite/njoya-of-bamun.jpg "Njoya Of Bamun"){.align-right}
+
 En [1915](), *Ibrahim Njoya* crée une spiritualité inspirée de l'islam, du christianisme et de sa spiritualité traditionnelle africaine.
 Par la suite, dès [1920](), *Njoya* adhère à l'islam.
 
