@@ -1,6 +1,8 @@
 <!-- TITLE: Ibrahim Njoya -->
 <!-- SUBTITLE: Présentation de Ibrahim Njoya -->
 
+![Njoya Of Bamun](/uploads/personnalite/njoya-of-bamun.jpg "Njoya Of Bamun"){.pagelogo}
+
 *Ibrahim Njoya* a été le XVIIe roi [Bamouns]() de la dynastie de Nchare Yen. Il a régné de [1887]() à [1933]().
 
 # Environnement familial
