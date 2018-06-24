@@ -1,12 +1,5 @@
 <!-- TITLE: Foire Aux Questions -->
 
-# Comment vérifiez-vous la véracité des informations ?
-Une fois que vous apportez vos connaissances sur le site Web *PARTAGE.LEREMSESH*, nos modératrices et modérateurs se chargent de faire les vérifications nécessaires avant que celles-ci n'apparaissent dans *LEREMSESH*.
-
-# Je souhaite m'identifier
-Le site Web sur lequel vous vous trouvez (*LEREMSESH*) est une vitrine qui sert uniquement à lire des informations [afrocentrées](/ideologie/afrocentricite).
-Si vous voulez partager votre savoir, accédez à [PARTAGE.LEREMSESH](http://partage.leremsesh.com) en suivant ce [lien](https://partage.leremsesh.com).
-
 # Quelle est la différence entre LEREMSESH et PARTAGE.LEREMSESH ?
 *LEREMSESH* est le site vitrine qui permet à n'importe qui d'accéder à des informations [afrocentrées](/ideologie/afrocentricite), sans avoir à s'identifier.
 
@@ -23,3 +16,13 @@ Voici les étapes à suivre pour partager vos connaissances afrocentrées :
 
 Une fois authentifié, vous accédez directement à la page d'acceuil de [PARTAGE.LEREMSESH](https://partage.leremsesh.com), où vous pourrez créer ou modifier des pages de l'encyclopédie.
 En cas de besoin, la page d'acceuil de [PARTAGE.LEREMSESH](https://partage.leremsesh.com) vous expliquera comment faire.
+
+# Pourquoi dois-je m'identifier pour créer ou modifier une page ?
+Afin d'assurer la qualité des informations présentes sur *LEREMSESH*, nous demandons aux utilisatrices et aux utilisateurs souhaitant partager leur savoir de s'identifier. Dès lors, si des personnes souhaitent nuire à cette encyclopédie, celles-ci peuvent perdre leur droit d'écriture.
+
+# Comment vérifiez-vous la véracité des informations ?
+Une fois que vous apportez vos connaissances sur le site Web [PARTAGE.LEREMSESH](https://partage.leremsesh.com), nos modératrices et modérateurs se chargent de faire les vérifications nécessaires avant que celles-ci n'apparaissent dans *LEREMSESH*.
+
+# Je souhaite m'identifier
+Le site Web sur lequel vous vous trouvez (*LEREMSESH*) est une vitrine qui sert uniquement à lire des informations [afrocentrées](/ideologie/afrocentricite).
+Si vous voulez partager votre savoir, accédez à [PARTAGE.LEREMSESH](http://partage.leremsesh.com) en suivant ce [lien](https://partage.leremsesh.com).
