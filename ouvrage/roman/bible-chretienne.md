@@ -28,8 +28,14 @@ La *Bible*, présentée comme étant un ouvrage universel par les [Chrétien.e.s
 > Dépêchez-vous de remonter vers mon père pour lui annoncer : « Voici ce qu'a dit ton fils Joseph : Dieu m'a établi seigneur de toute l'Égypte. Descends vers moi sans tarder ! »
 > (Source : *La Bible*, Genèse, ch. 45, v. 8-9)
 
-* les Égyptiens de l'antiquité constituaient un peuple faible qui séquestrait et restreignait les hébreux dans leur culte (cf. : Genèse, ch. 8.) ;
-* les Égyptiens de [Kémèt](/geographie/empire/afrique/nord-est/kmt), après plusieurs millénaires sur les mêmes terres, ne savent pas comment y faire avec les phénomènes naturelles cycliques qui peuvent s'abattre sur le royaume (cf. : Genèse, ch. 8-10) ;
+* les Égyptiens de l'antiquité constituaient un peuple faible qui séquestrait et restreignait les hébreux dans leur culte (cf. : Exode, ch. 8.) ;
+* les Égyptiens de [Kémèt](/geographie/empire/afrique/nord-est/kmt), après plusieurs millénaires sur les mêmes terres, ne savent pas comment y faire avec les phénomènes naturelles cycliques qui peuvent s'abattre sur le royaume, parce que ce sont des punitions divines (cf. : Exode, ch. 8-10).
+
+# Les incohérences
+La *Bible* présente un dieu omniscient, omnipotent et omniprésent alors que certains écrits disent le contraire.
+Par exemple, dans Exode ch. 12 [Dieu](/religion/divinite/dieu-chretien) demande à Moïse et Aaron de placer une marque lui permettant de distinguer les Hébreux des Égyptiens ; étant omniscient, *Dieu* ne devrait pas avoir besoin que Moïse et Aaron facent ce travail.
+
+# Le négationnisme
 
 
 [^1]: [Doumbi-Fakoli](/personnalite/homme/polymathe/afrique/nord-ouest/pays/mali/doumbi-fakoli). [La Bible en Procès](/ouvrage/documentaire/la-bible-en-proces). [Menaibuc](/organisme/editeur/menaibuc), 2008. 72 p.. ISBN 2-35349-083-2.
