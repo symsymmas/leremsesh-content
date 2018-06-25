@@ -4,6 +4,8 @@
 La bataille de Kirina relate d'une confrontation décisive entre l'armée de l'empire [Sosso](/geographie/afrique/empire/sosso) et celle du [Manden](/geographie/royaume/afrique/nord-ouest/manden).
 
 # Contexte géopolitique
+![Assembl C 3 A 9 E Constitutive De L 27 Empire Du Mand C 3 A 9 28 Les Chefs De Guerre 29](/uploads/personnalite/assembl-c-3-a-9-e-constitutive-de-l-27-empire-du-mand-c-3-a-9-28-les-chefs-de-guerre-29.jpg "Peinture murale représentant plusieurs personnalités propres à la bataille de Kirina"){.align-right}
+
 En Afrique de l'Ouest, vers le début du [XIIIème siècle](/histoire/divers/xiiieme-siecle) (durant l'[époque médiévale Africaine](/histoire/afrique/epoque-medievale)), les [mandings](/peuple/afrique/nord-ouest/manding) sont menacés par les maures et les markas qui, après avoir pillé le [Mandé](/geographie/royaume/afrique/nord-ouest/manden) à neuf reprises, souhaitent les exterminer ; l'objectif des maures et des markas étant d'instaurer la terreur et l'esclavage sur les territoires qu'ils conquièrent.[^1]
 
 # Les ambitions de Soundjata
@@ -22,13 +24,17 @@ Parmi les personnes qui ont marqué cette bataille, il y a[^1] :
 	* [Somangourou](/personnalite/homme/noble/souverain/empereur/afrique/nord-ouest/sosso/soumangourou), le souverain de l'[empire Sosso](/geographie/afrique/empire/sosso).
 
 # Les affrontements
+![Niger River At Koulikoro](/uploads/paysage/niger-river-at-koulikoro.jpg "Photo du fleuve Djoliba"){.align-right}
+
 La confrontation entre l'armée de l'empire [Sosso](/geographie/afrique/empire/sosso) et celle de Soundjata se déroule en 1235.[^1]
 
 Grâce à l'un de ses espions, [Soundjata Keïta](/personnalite/homme/noble/souverain/empereur/afrique/nord-ouest/mali/soundjata-keita) apprend à quelle date le [Manden](/geographie/royaume/afrique/nord-ouest/manden) se fera attaquer par [Soumangourou](/personnalite/homme/noble/souverain/empereur/afrique/nord-ouest/sosso/soumangourou). Dès lors, [Soundjata](/personnalite/homme/noble/souverain/empereur/afrique/nord-ouest/mali/soundjata-keita) met sur pied la tactique suivante :
 * bloquer l'ennemi en cas de retraite avec deux groupes distincts :
-	* [Tiramakan](/personnalite/homme/guerrier/empire/afrique/nord-ouest/mali/tiramakan) et ses chasseurs, postés dans les galeries forestières bordant le fleuve [Djoliba](/geographie/fleuve/afrique/a-situer/djoliba), en compagnie de chiens muselés afin qu'ils n'alertent pas l'ennemi par leurs aboiements,
+	* [Tiramakan](/personnalite/homme/guerrier/empire/afrique/nord-ouest/mali/tiramakan) et ses chasseurs, postés dans les galeries forestières bordant le fleuve [Djoliba](/geographie/fleuve/afrique/a-situer/djoliba) (alias [fleuve Niger](/geographie/fleuve/afrique/a-situer/djoliba)), en compagnie de chiens muselés afin qu'ils n'alertent pas l'ennemi par leurs aboiements,
 	* [Kamara](/personnalite/homme/guerrier/empire/afrique/nord-ouest/mali/kamara) et ses archers placés en hauteur, en direction des [monts Manding](/geographie/afrique/nord-ouest/mont/monts-manding), pour faire de l'ennemi une cible facile,
 * attaquer l'ennemi de front avec [Fakoli](/personnalite/homme/guerrier/empire/afrique/nord-ouest/mali/fakoli-manden) et [Komandian](/personnalite/homme/guerrier/empire/afrique/nord-ouest/mali/Komandian) pour commander les fantassins de [Tonkorobila](/peuple/afrique/nord-ouest/tonkorobila).
+
+Ci-contre le [fleuve Djoliba](/geographie/fleuve/afrique/a-situer/djoliba) (autrement appelé le [fleuve Niger](/geographie/fleuve/afrique/a-situer/djoliba)).
 
 L'armée de [Soundjata](/personnalite/homme/noble/souverain/empereur/afrique/nord-ouest/mali/soundjata-keita) et celle de [Soumangourou](/personnalite/homme/noble/souverain/empereur/afrique/nord-ouest/sosso/soumangourou) perdirent beaucoup d'hommes le premier jour de la bataille de Kirina mais à la fin de la journée, alors que les rescapés de l'empire [Sosso](/geographie/afrique/empire/sosso) demandaient une trêve, celle de Soundjata cherchait désespérément l'empereur [Soumangourou](/personnalite/homme/noble/souverain/empereur/afrique/nord-ouest/sosso/soumangourou) qui avait eu le temps de s'échapper.[^1]
 

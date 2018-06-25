@@ -2,6 +2,7 @@
 <!-- SUBTITLE: Présentation du terme Sekhem -->
 
 Sekhem est un terme utilisé par les [Kemtiou](/peuple/kemtiou) (Égyptiens de l'antiquité).[^1]
+
 Ce terme fait référence à la puissance et la force descructrices et régénératrices.[^1][^2]
 
 [Sekhmet](/spiritualite/divinite/projection/afrique/nord-est/kmt/sekhmet), la démiurge à tête de lionne, incarne ce caractère ontologique.

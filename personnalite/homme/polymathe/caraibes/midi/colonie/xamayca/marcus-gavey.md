@@ -1,20 +1,20 @@
 <!-- TITLE: Marcus Gavey -->
 <!-- SUBTITLE: Présentation de Marcus Gavey -->
 
-![Marcus Garvey Portrait](/uploads/personnalite/marcus-garvey-portrait.png "Marcus Garvey Portrait"){.pagelogo}
+![Marcus Garvey Portrait](/uploads/personnalite/marcus-garvey-portrait.png "Portrait de Marcus Garvey"){.pagelogo}
 
 # Origines
-*Marcus Garvey* est un Africain de [Xamayca](/geographie/ile/caraibes/midi/xamayca) (nom originel de l'île de la Jamaïque). Il est né le [18](/histoire/date/calendrier-gregorien/par-jour/18) [Août](/histoire/date/calendrier-gregorien/par-mois/aout) [1887](/histoire/date/calendrier-gregorien/par-annee/1887) dans un village côtier nommé *Saint Ann's Park*.[^1] À cette époque, l'ile est une colonie britanique. L'esclavage y était aboli officiellement depuis 53 ans, soit en [1834](/histoire/date/calendrier-gregorien/par-annee/1834).[^1] En terme de génération, ses grands-parents ont connu le [Yovodah](/terminologie/fon/yovodah) (terme [Fon](/langue/afrique/a-situer/fon) utilisé, entre autre, pour l'esclavage).
+*Marcus Garvey* est un Africain de [Xamayca](/geographie/ile/caraibes/midi/xamayca) (nom originel de l'[île de la Jamaïque](/geographie/ile/caraibes/midi/xamayca)). Il est né le [18](/histoire/date/calendrier-gregorien/par-jour/18) [Août](/histoire/date/calendrier-gregorien/par-mois/aout) [1887](/histoire/date/calendrier-gregorien/par-annee/1887) dans un village côtier nommé *Saint Ann's Park*.[^1] À cette époque, l'ile est une colonie britanique. L'esclavage y était aboli officiellement depuis 53 ans, soit en [1834](/histoire/date/calendrier-gregorien/par-annee/1834).[^1] En terme de génération, ses grands-parents ont connu le [Yovodah](/terminologie/fon/yovodah) (terme [Fon](/langue/afrique/a-situer/fon) utilisé, entre autre, pour l'esclavage).
 
 *Marcus Garvey* a reçu plusieurs prénoms : Manasseh, Moses, Aurelius et Moziah[^1].
 
 # Ambitions
+![Marcus Garvey Tenue D Apparat](/uploads/personnalite/marcus-garvey-tenue-d-apparat.png "Marcus Garvey dans une de ses tenues d'apparât"){.align-right}
+
 Malgré le fait qu'il ne soit jamais allé en Afrique[^1], Marcus Garvey a eu l'ambition[^1] :
 * de réinstaller l'Afrique et les Africains dans leurs grandeurs et leurs dignités d'antan ;
 * d'inciter son peuple (les Africains de la diaspora) à retourner sur leur terre d'origine (l'Afrique continentale) ;
-* de prendre possession des terres africaines, pour les Africains du continent et de la diaspora (à son époque, outre l'[Éthiopie](/geographie/empire/afrique/nord-est/ethiopie) et le [Libéria](/geographie/pays/afrique/nord-ouest/liberia), l'Afrique était totalement colonisée).
-
-![Marcus Garvey Tenue D Apparat](/uploads/personnalite/marcus-garvey-tenue-d-apparat.png "Marcus Garvey dans une de ses tenues d'apparât"){.align-center}
+* de prendre possession des terres africaines pour les Africains du continent et de la diaspora (à son époque, outre l'[Éthiopie](/geographie/empire/afrique/nord-est/ethiopie) et le [Libéria](/geographie/pays/afrique/nord-ouest/liberia), l'Afrique était totalement colonisée).
 
 # Famille
 ## Parents
@@ -23,10 +23,9 @@ Malgré le fait qu'il ne soit jamais allé en Afrique[^1], Marcus Garvey a eu l'
 Son père, qui s'appellait lui aussi *Marcus*, était un maçon. Il possèdait une grande bibliothèque qui lui permettait de travailler son intellecte.
 C'est de son père que *Marcus Garvey* a tenu son amour pour la lecture.[^2][^1]
 
-*Marcus Garvey* est le plus jeune de sa fratrie. Sur ses onze frères et sœurs, lui et sa sœur *Indiana* sont les seuls à ne pas être morts en bas âge.[^1]
+Enfin, concernant sa fraterie, *Marcus Garvey* est le plus jeune. Sur ses onze frères et sœurs, lui et sa sœur *Indiana* sont les seuls à ne pas être morts en bas âge.[^1]
 
 ## Mariages
-
 La photo suivante illustre Marcus GARVEY et sa seconde femme, Amy Jacques Garvey. Photo prise en [1922](/histoire/date/calendrier-gregorien/par-annee/1922).
 
 ![Marcus With Amy Jacques Garvey](/uploads/personnalite/marcus-with-amy-jacques-garvey.png "Marcus Garvey et Amy Jacques Garvey, sa seconde femme, en 1922."){.align-center}
@@ -72,6 +71,37 @@ En [1910](/histoire/date/calendrier-gregorien/par-annee/1910), *Marcus Garvey* a
 La même année, il y a réussi à obtenir l'un des trois postes de secrétaire adjoint du parti.[^1]
 Enfin, pendant la même année et jusqu'à son départ en Amérique Centrale (en fin d'année), *Marcus* participe à l'animation de [Our Own](/organisme/journal/our-own), le journal du parti.[^1]
 
+## Voyages
+### L'Amérique Centrale et la Caraïbe
+![United 20 Fruit](/uploads/certificates/united-20-fruit.jpg "Certificat de l'UFC"){.align-right}
+
+Dans le but d'en apprendre plus sur la misère qui s'abattait non seulement sur ses frères de [Xamayca](/geographie/ile/caraibes/midi/xamayca) mais aussi ceux des autres pays de l'Amérique Centrale, *Marcus Garvey* entreprit de voyager.[^1]
+Dès lors, *Marcus* se trouve, de la fin de l'année [1910](/histoire/date/calendrier-gregorien/par-annee/1910) jusqu'en début [1911](/histoire/date/calendrier-gregorien/par-annee/1911), à travailler dans des plantations de divers pays[^1] :
+* Porto Rico, où réside un frère de sa mère ;
+* Panama ;
+* Equateur ;
+* Nicaragua ;
+* Honduras ;
+* Colombie ;
+* Venezuela.
+
+Tout ce que *Marcus* voyait était de la misère sociale extrème, de la malnutrition et des taudis. Pour dénoncer cela, il a créé et animé les journaux [Nacionale]() et [Prensa]() respectivement à Porto Rico et au Panama. L'édition de ces deux journaux ne dure pas longtemps étant donné la pression des régimes en place et le manque d'intérêt des populations. [^1] Ce dernier était potentiellement dû à la mal nutrition dont elles souffraient.[^1]
+
+L'illustration ci-dessus est un certificat d'une grande firme capitaliste transnationale, [United Fruit Company (UFC)](/organisme/firme-capitaliste-transnationale/ufc).
+
+### L'Europe et les États-Unis d'Amérique
+Suite à son séjour en Amérique Centrale, *Marcus Garvey* décide de voyager en Europe et aux États-Unis d'Amérique pour observer et étudier les mouvements intellectuels [Kamit](/terminologie/mdw-ntr/kamit). Ainsi, il réussirait à comprendre ces luttes. *Marcus* entre donc en contact avec l'intelligentsia Noire en [1912]() en Angleterre puis en [1916]().[^1]
+
+#### L'Europe
+Quand il arrive à Londres, lieu de résidence de sa sœur [Indiana ](/personnalite/femme/a-classer/indiana-garvey), *Marcus* réussit à trouver du travail en tant que docker aux ports de Liverpool et de Cardiff.[^1]
+
+En visitant la France, l'Italie, l'Espagne, l'Allemagne, l'Autriche et la Hongrie, *Garvey* y identifie une faible activité intellectuelle [Kamit](/terminologie/mdw-ntr/kamit). Cela est dû aux [politiques coloniales](/ideologie/colonisation) appliquées par ces pays. Par conséquent, c'est là où se pratique l'administration indirecte ([Angleterre](/geographie/pays/europe/ouest/angleterre) et [États-Unis d'Amérique]()) qu'il apprend de l'intelligentsia [Kamit](/terminologie/mdw-ntr/kamit).[^1]
+
+*Marcus* rencontre donc[^1] :
+* [Mohamed Ali Duse](/personnalite/homme/polymathe/afrique/nord-est/egypte/duse-mohamed-ali) à Londres.
+
+Sa rencontre avec [Mohamed Ali Duse](/personnalite/homme/polymathe/afrique/nord-est/egypte/duse-mohamed-ali) lui permet de parfaire son expérience dans la publication et la presse tout en étant en contact physique ou par écrit avec des nationalites [Kamit](/terminologie/mdw-ntr/kamit)
+
 # Prise de conscience
 *Marcus Garvey* a remarqué que le clivage social de [Xamayca](/geographie/ile/caraibes/midi/xamayca) était l'exact reflet de sa configuration raciale ; c'est-à-dire que seuls les Blancs accompagnés de quelques rares Métis, se trouvaient en haut de l'échelle sociale alors qu'au plus bas étaient tous les Noirs, formant une masse d'ouvriers agricoles dans les plantations de bananes et de tabac, d'ouvriers du bâtiment et des chemins de fer, de mineurs, de terrassiers, etc..[^1]
 
@@ -87,19 +117,18 @@ Il estimait que le devoir de révolte et de combat s'imposait à toute personne 
 ## Gouvernement
 L'image suivante représente Marcus Garvey lors de l'évènement qu'il a organisé aux États-Unis d'Amérique en [1922](/histoire/date/calendrier-gregorien/par-annee/1922). Il porte les apparats de chef du gouvernement qu'il a fondé.
 
-![Marcus Garvey March 1922](/uploads/personnalite/marcus-garvey-march-1922.png "Marcus Garvey 1922"){.align-center}
+![Marcus Garvey March 1922](/uploads/personnalite/marcus-garvey-march-1922.png "Marcus Garvey en 1922"){.align-center}
 
 ## Armée
 
 ## Entreprises
 ### The Watchman
+![Black Star Line Certificate](/uploads/document/black-star-line-certificate.png "Certificat de la Black Star Line"){.align-right}
+
 En [1910](/histoire/date/calendrier-gregorien/par-annee/1910), *Marcus Garvey* crée le journal [Watchman](/organisme/journal/watchman) afin de critiquer la ploitique sociale du gouvernement colonial.[^1]
 
 ### Compagnie maritime
-Marcus Garvey a créé une compagnie maritime dans le but de fournir un moyen de retour en Afrique aux Africains de la diaspora.[^1]
-
-![Black Star Line Certificate](/uploads/document/black-star-line-certificate.png "certificat de la Black Star Line"){.align-center}
-
+Marcus Garvey a créé une compagnie maritime dans le but de fournir un moyen de retour en Afrique aux Africains de la diaspora. Celle-ci s'appelle *Black Star Line*.[^1]
 # Hommages
 ## Livres
 Voici une liste de livres rendant hommage à Marcus GARVEY :
@@ -111,7 +140,7 @@ Voici une liste de sujet de discussion créés dans des forum sur l'Internet :
 * [Sir Marcus Mosiah Garvey His beliefs deeply influenced the Rastafari, who took his statements as a prophecy](http://join.clubme.net/t26-sir-marcus-mosiah-garvey-his-beliefs-deeply-influenced-the-rastafari-who-took-his-statements-as-a-prophecy#26) créé par l'utilisateur « Admin ».
 
 
-[^1]: [Doumbi-Fakoly](/personnalite/homme/polymathe/afrique/nord-ouest/pays/mali/doumbi-fakoli). [Marcus Garvey expliqué aux adolescents](/ouvrage/documentaire/marcus-garvey-explique-aux-adolescents). Livre. France ; Édition [MENAIBUC](/organisme/editeur/menaibuc) ; 2ème trimestre [2009](/histoire/date/calendrier-gregorien/par-annee/2009). p.7 ; p.11-13 ; p.15-16 ; p.19-20. ISBN : 978-2-35349-102-5. 
+[^1]: [Doumbi-Fakoly](/personnalite/homme/polymathe/afrique/nord-ouest/pays/mali/doumbi-fakoli). [Marcus Garvey expliqué aux adolescents](/ouvrage/documentaire/marcus-garvey-explique-aux-adolescents). Édition [MENAIBUC](/organisme/editeur/menaibuc) ; 2ème trimestre [2009](/histoire/date/calendrier-gregorien/par-annee/2009). 91 p. ISBN : 978-2-35349-102-5.
 [^2]: Admin. [Sir Marcus Mosiah Garvey His beliefs deeply influenced the Rastafari, who took his statements as a prophecy](http://join.clubme.net/t26-sir-marcus-mosiah-garvey-his-beliefs-deeply-influenced-the-rastafari-who-took-his-statements-as-a-prophecy#26). Forum sur [Internet](http://join.clubme.net). [Jeu.](/histoire/date/calendrier-gregorien/par-jour-de-la-semaine/jeudi) [13](/histoire/date/calendrier-gregorien/par-jour/13) [Jan.](/histoire/date/calendrier-gregorien/par-mois/janvier) [2011](/histoire/date/calendrier-gregorien/par-annee/2011) ; 12:50 (lu le [25](/histoire/date/calendrier-gregorien/par-jour/25) [Avril](/histoire/date/calendrier-gregorien/par-mois/avril) [2018](https://partage.leremsesh.com/histoire/date/calendrier-gregorien/par-annee/2018)).
-[^3]: [Amy Jacques Garvey](/personnalite/femme/ecrivaine/a-situer/amy-jacques-garvey). [Philosophy and Opinions of Marcus Garvey](/ouvrage/a-classer/philosophy-and-opinions-of-marcus-garvey). Vol. 2. p. 125. Cité par Têtêvi Godwin Tété-Adjalogo.
-[^4]: [Têtêvi Godwin Tété-Adjalogo](/personnalite/homme/ecrivain/a-situer/tetevi-godwin-tete-adjalogo). [Marcus Garvey, Père de l'Unité Africaine des Peuples](/ouvrage/a-classer/marcus-garvey-pere-de-l-unite-africaine-des-peuples). Tome 1. Ed. L'Harmattan ; [Paris](/geographie/ville/europe/ouest/paris) ; [1995](/histoire/date/calendrier-gregorien/par-annee/1995). p. 20 ; p. 22.
+[^3]: [Amy Jacques Garvey](/personnalite/femme/ecrivaine/a-situer/amy-jacques-garvey). [Philosophy and Opinions of Marcus Garvey](/ouvrage/a-classer/philosophy-and-opinions-of-marcus-garvey). Vol. 2. Cité par Têtêvi Godwin Tété-Adjalogo.
+[^4]: [Têtêvi Godwin Tété-Adjalogo](/personnalite/homme/ecrivain/a-situer/tetevi-godwin-tete-adjalogo). [Marcus Garvey, Père de l'Unité Africaine des Peuples](/ouvrage/a-classer/marcus-garvey-pere-de-l-unite-africaine-des-peuples). Tome 1. Ed. L'Harmattan ; [Paris](/geographie/ville/europe/ouest/paris) ; [1995](/histoire/date/calendrier-gregorien/par-annee/1995).
