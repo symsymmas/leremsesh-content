@@ -13,6 +13,9 @@ La *Bible*, présentée comme étant un ouvrage universel par les [Chrétien.e.s
 * l'origine de l'humanité (Genèse, ch. 9, v. 18 à 19) ;
 
 > Les fils de Noé qui sortirent de l'arche étaient Sem, Cham et Japhet. Cham fut le père de Canaan. Voilà quels sont les trois fils de Noé. Ce sont eux qui ont peuplé toute la terre.[^2]
+> Genèse, ch. 9, v. 18-19
+
+
 
 * 
 
