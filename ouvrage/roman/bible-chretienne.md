@@ -11,7 +11,11 @@ Par la suite, l'ouvrage a été réécrit en [-700](/histoire/date/calendrier-gr
 ## Le révisionnisme
 La *Bible*, présentée comme étant un ouvrage universel par les [Chrétien.e.s](/religion/confession/christianisme), réécrit des faits historiques. Les différentes réalitées historiques réécrites dans la *Bible* sont[^1] :
 * l'origine de l'humanité (Genèse, ch. 9, v. 18 à 19) ;
+
+> Les fils de Noé qui sortirent de l'arche étaient Sem, Cham et Japhet. Cham fut le père de Canaan. Voilà quels sont les trois fils de Noé. Ce sont eux qui ont peuplé toute la terre.[^2]
+
 * 
 
 
 [^1]: [Doumbi-Fakoli](/personnalite/homme/polymathe/afrique/nord-ouest/pays/mali/doumbi-fakoli). [La Bible en Procès](/ouvrage/documentaire/la-bible-en-proces). [Menaibuc](/organisme/editeur/menaibuc), 2008. 72 p.. ISBN 2-35349-083-2.
+[^2]: *La Bible*. Société Biblique de Genève, 2015. 822 p.. ISBN 978-2-608-12301-5.
