@@ -1,4 +1,4 @@
-<!-- TITLE: Ka -->
+<!-- TITLE: Ka divin -->
 <!-- SUBTITLE: Présentation du terme Ka -->
 
 Ka est un terme utilisé par les [Kemtiou](/peuple/kemtiou) (Égyptiens de l'antiquité).[^1]

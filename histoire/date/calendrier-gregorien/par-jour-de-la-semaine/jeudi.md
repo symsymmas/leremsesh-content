@@ -1,4 +1,4 @@
-<!-- TITLE: Jeudi -->
+<!-- TITLE: 04-Jeudi -->
 <!-- SUBTITLE: Événements datés un Jeudi -->
 
 Cette page relate d'événements qui se sont produit un *Jeudi*.
