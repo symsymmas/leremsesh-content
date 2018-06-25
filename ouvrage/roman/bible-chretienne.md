@@ -22,11 +22,14 @@ La *Bible*, présentée comme étant un ouvrage universel par les [Chrétien.e.s
 
 	Remarque : Canaan, Cush, Mistraïm et Puth sont des noms de peuples [Noirs](/terminologie/mdw-ntr/kamit) étant donné que leur père peupla la Terre et que leur grand-père n'est pas un [Kamit](/terminologie/mdw-ntr/kamit), il en découle que les Noirs ne sont pas à l'origine de l'humanité.
 	
-* le fait que [Kémèt](/geographie/empire/afrique/nord-est/kmt) n'ait pas été dirigé par des [Kamtyou](/terminologie/mdw-ntr/kamit), parce que [Dieu](/religion/divinite/dieu-chretien) l'a décidé ainsi ;
+* le fait que [Kémèt](/geographie/empire/afrique/nord-est/kmt) soit dirigé par un étranger et non par un descendant de la famille royale, uniquement par la volonté de [Dieu](/religion/divinite/dieu-chretien) ;
 
 > Ce n'est donc pas vous qui m'avez envoyé ici, c'est Dieu. Il m'a établi père du pharaon, seigneur de toute sa maison et gouverneur de toute l'Égpte.
 > Dépêchez-vous de remonter vers mon père pour lui annoncer : « Voici ce qu'a dit ton fils Joseph : Dieu m'a établi seigneur de toute l'Égypte. Descends vers moi sans tarder ! »
 > (Source : *La Bible*, Genèse, ch. 45, v. 8-9)
+
+* les Égyptiens de l'antiquité forment un peuple de faibles qui séquestraient et restreignait les hébreux :
+	* Genèse, ch. 8.
 
 
 [^1]: [Doumbi-Fakoli](/personnalite/homme/polymathe/afrique/nord-ouest/pays/mali/doumbi-fakoli). [La Bible en Procès](/ouvrage/documentaire/la-bible-en-proces). [Menaibuc](/organisme/editeur/menaibuc), 2008. 72 p.. ISBN 2-35349-083-2.
