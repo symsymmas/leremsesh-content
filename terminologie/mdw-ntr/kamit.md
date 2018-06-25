@@ -1,9 +1,9 @@
-<!-- TITLE: Les Kamtiou (les Noir.e.s) -->
+<!-- TITLE: Les Kamtyou (les Noir.e.s) -->
 <!-- SUBTITLE: Présentation du Kamit -->
 
 ![Sans Titre](/uploads/personnes/sans-titre.png "Couple Kamit"){.pagelogo}
 
-*Kamit* (*Kamtiou* au pluriel) désigne tout ce qui est Noir.e (femmes, hommes, cultures, etc.). Ce terme peut aussi se prononcer *Kémit* (*Kémtiou* au pluriel).
+*Kamit* (*Kamtyou* au pluriel) désigne tout ce qui est Noir.e (femmes, hommes, cultures, etc.). Ce terme peut aussi se prononcer *Kémit* (*Kémtiou* au pluriel).
 
 # Pourquoi utiliser ce mot plutôt qu'un autre ?
 Le mot *Kamit* vient du [Médou Nétèr](/ecriture/hieroglyphe/mdw-ntr) (langue des [Égyptiens Pharaoniues Antiques](/peuple/afrique/nord-est/empire/kmt/kemtiou)). L'utilisation de ce mot plutôt qu'un autre est celui-ci :
