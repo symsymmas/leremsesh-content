@@ -28,8 +28,7 @@ La *Bible*, présentée comme étant un ouvrage universel par les [Chrétien.e.s
 > Dépêchez-vous de remonter vers mon père pour lui annoncer : « Voici ce qu'a dit ton fils Joseph : Dieu m'a établi seigneur de toute l'Égypte. Descends vers moi sans tarder ! »
 > (Source : *La Bible*, Genèse, ch. 45, v. 8-9)
 
-* les Égyptiens de l'antiquité forment un peuple de faibles qui séquestraient et restreignait les hébreux :
-	* Genèse, ch. 8.
+* les Égyptiens de l'antiquité forment un peuple de faibles qui séquestraient et restreignait les hébreux (cf. : Genèse, ch. 8.).
 
 
 [^1]: [Doumbi-Fakoli](/personnalite/homme/polymathe/afrique/nord-ouest/pays/mali/doumbi-fakoli). [La Bible en Procès](/ouvrage/documentaire/la-bible-en-proces). [Menaibuc](/organisme/editeur/menaibuc), 2008. 72 p.. ISBN 2-35349-083-2.
