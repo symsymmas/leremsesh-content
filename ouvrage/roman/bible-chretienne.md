@@ -20,7 +20,7 @@ La *Bible*, présentée comme étant un ouvrage universel par les [Chrétien.e.s
 > Les fils de Cush : Saba, Havila, Sabta, Raema et Sabteca. Les fils de Raema : Séba et Dedan.
 > (Source : *La Bible*, Genèse, ch. 10, v. 6-7)
 
-	* Remarque : Canaan, Cush, Mistraïm et Puth correspondent à des noms de peuples [Noirs](/terminologie/mdw-ntr/kamit), or Noé n'est pas décrit comme étant [Noir](/terminologie/mdw-ntr/kamit),
+	 * Remarque : Canaan, Cush, Mistraïm et Puth correspondent à des noms de peuples [Noirs](/terminologie/mdw-ntr/kamit), or Noé n'est pas décrit comme étant [Noir](/terminologie/mdw-ntr/kamit),
 
 
 [^1]: [Doumbi-Fakoli](/personnalite/homme/polymathe/afrique/nord-ouest/pays/mali/doumbi-fakoli). [La Bible en Procès](/ouvrage/documentaire/la-bible-en-proces). [Menaibuc](/organisme/editeur/menaibuc), 2008. 72 p.. ISBN 2-35349-083-2.
