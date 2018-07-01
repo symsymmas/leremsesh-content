@@ -6,12 +6,12 @@
 # Les Nguzo Saba
 L'objectif ou la « conscience » de la semaine de *Kwanzaa* se résume dans les *Nguzio Saba*, c'est-à-dire les sept principes de Kwanzaa. Chacun des sept jours de l'événement porte sur un *Nguzo Saba* différent.[^1]
 
-Chacun de ces principes ont pour origine la tradition africaine et pour fondement la résurgence historique et culturelle des panafricains.
+Chacun de ces principes ont pour origine la tradition africaine et pour fondement la résurgence historique et culturelle des panafricains.[^1]
 
 Voici les *Nguzo Saba*, dans l'ordre chronologique et une présentation de ces derniers.
 
 ## Umoja = l'unité
-le 26 Décembre
+*Umoja* se déroule le 26 Décembre.
 
 ## Kujichagulia
 le 27 Décembre
@@ -36,4 +36,4 @@ le 1 Janvier
 # La cérémonie
 
 
-[^1]: [Ama Mazama](/personnalite/femme/polymathe/caraibes/midi/karukera/ama-mazama). [Kwanzaa, ou la Célébration du Génie Africain]().
+[^1]: [Ama Mazama](/personnalite/femme/polymathe/caraibes/midi/karukera/ama-mazama). [Kwanzaa, ou la Célébration du Génie Africain](/ouvrage/documentaire/kwanzaa-ou-la-celebration-du-genie-africain). [MENAIBUC](organisme/editeur/menaibuc), 1er trimestre 2006. 47 p.. ISBN 2-911372-83-2.
