@@ -6,4 +6,4 @@ Cette page retrace les évélements relatifs au mois de Décembre du calendrier 
 # Culture
 ## Panafricaine
 Voici une liste non exhaustive d'événements propres à la culture panafricaine qui sont relatives au mois de Décembre :
-* Les six premiers jours de [Kwanzaa](/culture/panafricaine/kwanzaa).
+* Les [six premiers jours de Kwanzaa](/culture/panafricaine/kwanzaa#les-nguzo-saba).
