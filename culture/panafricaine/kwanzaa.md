@@ -1,7 +1,7 @@
 <!-- TITLE: Kwanzaa -->
 <!-- SUBTITLE: Présentation de Kwanzaa -->
 
-*Kwanzaa* est un événement culturel [panafricain]() initié par le [Dr. Maulana Karenga](). Cet événement est fêté par les [Kamtyu]() du continent et de la diaspora du 26 Décembre au 1er Janvier de l'année suivante.
+*Kwanzaa* est un événement culturel [panafricain](/ideologie/mouvement-panafricain) initié par le [Dr. Maulana Karenga](/personnalite/homme/a-classer/tarana/nord/pays/etats-unis/dr-maurana-karenga). Cet événement est fêté par les [Kamtyu](/terminologie/mdw-ntr/kamit) du continent et de la diaspora du [26]() [Décembre]() au [1er]() [Janvier]() de l'année suivante, soit pendant 7 jours.
 
 # Les Nguzo Saba
 L'objectif de la semaine de *Kwanzaa* se résume dans les *Nguzio Saba*, c'est-à-dire les sept principes de Kwanzaa.
