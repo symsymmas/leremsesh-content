@@ -1,9 +1,9 @@
-<!-- TITLE: Les Kamtyou (les Noir.e.s) -->
+<!-- TITLE: Les Kamtyu (les Noir.e.s) -->
 <!-- SUBTITLE: Présentation du Kamit -->
 
 ![Sans Titre](/uploads/personnes/sans-titre.png "Couple Kamit"){.pagelogo}
 
-*Kamit* (*Kamtyou* au pluriel) désigne tout ce qui est Noir.e (femmes, hommes, cultures, etc.). Ce terme peut aussi se prononcer *Kémit* (*Kémtiou* au pluriel).
+*Kamit* (*Kamtyu* au pluriel) désigne tout ce qui est Noir.e (femmes, hommes, cultures, etc.). Ce terme peut aussi se prononcer *Kémit* (*Kémtyu* au pluriel).
 
 # Pourquoi utiliser ce mot plutôt qu'un autre ?
 Le mot *Kamit* vient du [Médou Nétèr](/ecriture/hieroglyphe/mdw-ntr) (langue des [Égyptiens Pharaoniues Antiques](/peuple/afrique/nord-est/empire/kmt/kemtiou)). L'utilisation de ce mot plutôt qu'un autre est celui-ci :
@@ -12,11 +12,11 @@ Le mot *Kamit* vient du [Médou Nétèr](/ecriture/hieroglyphe/mdw-ntr) (langue 
 * le [Médou Nétèr](/ecriture/hieroglyphe/mdw-ntr) est une langue morte qui contient la base des [langues africaines](/langue/monde/langues-africaines) ([créole](/langue/caraibes/partout/creoles), [Yoruba](/langue/afrique/a-situer/yoruba), [Swahili](/langue/afrique/a-situer/swahili), etc.) ce qui évite toute « jalousie » de la part de peuples *Kamit*, parce qu'une langue vivante serait préférée à une autre.
 
 # Étymologie
-![Kemtiou](/uploads/ecriture/kemtiou.png "Kemtiou en Hiéroglyphe"){.align-right}
+![Kemtiou](/uploads/ecriture/kemtiou.png "Kemtyu en Hiéroglyphe"){.align-right}
 
 Ce mot a pour origine le [Médou Nétèr](/ecriture/hieroglyphe/mdw-ntr) (langue des [Égyptiens Pharaoniques Antiques](/peuple/afrique/nord-est/empire/kmt/kemtiou)). Les Égptiens utilisaient le mot *Kamit* pour se désigner (le mot Égyptien vient du latin et non de la langue égyptienne antique[^7]).[^6]
 
-*Kémtiou* (les Noir.e.s) est constutié des idéogrammes suivants[^3][^5] :
+*Kémtyu* (les Noir.e.s) est constutié des idéogrammes suivants[^3][^5] :
 * le bilitère I6[^2], qui se prononce *kèm* ou *kém* et qui représente la couleur noire sous forme :
 	* d'un morceau de peau de crocodile avec écailles (d'où sa comparaison aux amphibiens, sauriens et reptiles dans la [classification Gardiner](/ecriture/hieroglyphe/classification-gardiner)),
 	* d'un tas ou un bout de charbon de bois (brulé),
@@ -45,7 +45,7 @@ Ce mot a pour origine le [Médou Nétèr](/ecriture/hieroglyphe/mdw-ntr) (langue
 
 ![Z 2](/uploads/ecriture/z-2.png "Idéogramme Z2"){.align-center}
 
-Par conséquent, *Kémitiou* peut être traduit par les personnes qui sont de couleur noire.
+Par conséquent, *Kémityu* peut être traduit par les personnes qui sont de couleur noire.
 
 **Remarque :** Contrairement au terme Noir (comme l'indique [Frantz Fanon](/personnalite/homme/psychiatre/caraibes/sud/departement/madinina/frantz-fanon))[^1], le mot *Kamit* n'a aucune connotation péjorative.
 
