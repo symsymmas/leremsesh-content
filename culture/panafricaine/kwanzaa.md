@@ -11,7 +11,9 @@ Chacun de ces principes ont pour origine la tradition africaine et pour fondemen
 Voici les *Nguzo Saba*, dans l'ordre chronologique et une présentation de ces derniers.
 
 ## Umoja = l'unité
-*Umoja*, célébré le 26 Décembre, est le principe de *Kwanzaa* qui porte sur l'unité du peuple [Panafricain](/ideologie/mouvement-panafricain). Cette unité porte sur le plan familial, générationnel et communautaire. C'est avec l'union que les [Kamtyu](/terminologie/mdw-ntr/kamit) réussissent à coexister avec les autres peuples.[^1]
+*Umoja*, célébré le 26 Décembre, est le principe de *Kwanzaa* qui porte sur l'unité du peuple [Panafricain](/ideologie/mouvement-panafricain). Cette unité doit s'observer sur le plan familial, générationnel et communautaire.[^1]
+
+C'est avec l'union que les [Kamtyu](/terminologie/mdw-ntr/kamit) réussissent à coexister avec les autres peuples.
 
 ## Kujichagulia
 le 27 Décembre
