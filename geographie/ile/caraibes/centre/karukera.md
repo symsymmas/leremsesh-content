@@ -14,8 +14,8 @@ Avant l’intrusion de  Colomb, les îles de la [Caraïbe](/geographie/ile/carai
 
 [Christophe COLOMB](/personnalite/homme/colonisateur/europe/sud/pays/republique-de-gene/christoforo-colombo) accosta à *Karukera* le [3](/histoire/date/calendrier-gregorien/par-jour/03) [Novembre](/histoire/date/calendrier-gregorien/par-mois/novembre) [1493](/histoire/date/calendrier-gregorien/par-annee/1493), lors de son second voyage vers les Amériques.[^1] 
 
-Après avoir longé une île couverte d’arbre qu’il croyait inhabitée, [Christophe COMLOMB](/personnalite/homme/colonisateur/europe/sud/pays/republique-de-gene/christoforo-colombo) a atteint l'archipel *Karukera*.
-Cette première île, dénomée [Wai tukubuli](/geographie/ile/caraibes/centre/wai-tukubuli), ce qui signifie grand est son corps, [COLOMB](/personnalite/homme/colonisateur/europe/sud/pays/republique-de-gene/christoforo-colombo) la baptisa [Dominica (la Dominique)](/geographie/ile/caraibes/centre/wai-tukubuli).[^1] 
+Après avoir longé, sans accoster, une île couverte d’arbres qu’il croyait inhabitée, [Christophe COMLOMB](/personnalite/homme/colonisateur/europe/sud/pays/republique-de-gene/christoforo-colombo) a atteint l'archipel *Karukera*.
+Cette première île, dénomée [Wai tukubuli](/geographie/ile/caraibes/centre/wai-tukubuli), qui signifie « grand est son corps », [COLOMB](/personnalite/homme/colonisateur/europe/sud/pays/republique-de-gene/christoforo-colombo) la baptisa [Dominica (la Dominique)](/geographie/ile/caraibes/centre/wai-tukubuli).[^1] 
 
 Les premières îles q'il a croisé après [Wai tukubuli](/geographie/ile/caraibes/centre/wai-tukubuli) étaient des Ilôts, probablement les Saintes. Par la suite, il a vu une seconde île qu’il baptisa *Maria-Galanda* (Marie-Galante en français) du nom de son vaisseau, or il s'avère que cette île se nommait déjà *Ayay*.[^1]
 Il y mouilla.
