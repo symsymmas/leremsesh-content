@@ -7,7 +7,7 @@
 ![Xamayca Bis](/uploads/map/xamayca-bis.png "Carte de Xamayca"){.align-right}
 
 Actuellement (en [2018](/histoire/date/calendrier-gregorien/par-annee/2018)), l'île est divisée en plusieurs paroisses dont l'une se nomme *Saint Ann*.
-Ci-dessous une carte illustrant l'île *Xamayca* et définissant son emplacement géographique par rapport aux autres [îles de la Caraïbe](/geographie/ile/caraibes/iles-de-la-caraibe).
+Ci-contre une carte affichant l'île *Xamayca* et définissant son emplacement géographique par rapport aux autres [îles de la Caraïbe](/geographie/ile/caraibes/iles-de-la-caraibe).
 
 # Périodes clefs
 Voici une liste d'événements clefs[^1] :
