@@ -5,28 +5,30 @@
 
 Karukera désigne un ensemble formé par deux îles : la Basse-Terre et la Grande-Terre. Elles sont séparées par un bras de mer appelée la Rivière-Salée et reliées par deux ponts.
 Cet ensemble d'île est également connu sous le nom de Guadeloupe.
-La Guadeloupe est un archipel composé d’îles et îlets : la Basse-Terre, la Grande-Terre, Marie-Galante, La Désirade et les Saintes.
 
 # HISTOIRE
-## Avant Colomb
+## Les premiers habitants
 Avant l’intrusion de  Colomb, les îles de la [Caraïbe](/geographie/ile/caraibes/iles-de-la-caraibe) étaient peuplées par les Arawaks, des amérindiens venant d’Amazonie. Par la suite, les [Caribas](/peuple/caraibes/partout/caraibe) s'y sont installés.[^2]
 
-## Arrivée de Colomb
+## L'arrivé de Christophe Colomb
 
-Colomb accosta sur Karukera le [3](/histoire/date/calendrier-gregorien/par-jour/03) [Novembre](/histoire/date/calendrier-gregorien/par-mois/novembre) [1493](/histoire/date/calendrier-gregorien/par-annee/1493), lors de son second voyage vers les Amériques.[^1] 
+[Christophe Colomb](/personnalite/homme/colonisateur/europe/sud/pays/republique-de-gene/christoforo-colombo) accosta à *Karukera* le [3](/histoire/date/calendrier-gregorien/par-jour/03) [Novembre](/histoire/date/calendrier-gregorien/par-mois/novembre) [1493](/histoire/date/calendrier-gregorien/par-annee/1493), lors de son second voyage vers les Amériques.[^1] 
 
-D’abord, Colomb longea une île couverte d’arbre qu’il croyait inhabité.  Cette île s’appelait Wai tukubuli (Grand est son corps). Il ne s’y arrêta pas et la baptisa Dominica (la Dominique).[^1] 
+Après avoir longé une île couverte d’arbre qu’il croyait inhabitée, [Christophe COMLOMB](/personnalite/homme/colonisateur/europe/sud/pays/republique-de-gene/christoforo-colombo) a atteint l'archipel *Karukera*.
+Cette première île, dénomée [Wai tukubuli](/geographie/ile/caraibes/centre/wai-tukubuli), ce qui signifie grand est son corps, [COLOMB](/personnalite/homme/colonisateur/europe/sud/pays/republique-de-gene/christoforo-colombo) la baptisa [Dominica (la Dominique)](/geographie/ile/caraibes/centre/wai-tukubuli).[^1] 
 
-Il croisa quelques Ilôts (Les Saintes, probablement), puis une seconde île qu’il baptisa Maria-Galanda (Marie-Galante) du nom de son vaisseau. Cette île se nommait déjà Ayay.[^1]
-Il y mouilla. 
+Les premières îles q'il a croisé après [Wai tukubuli](/geographie/ile/caraibes/centre/wai-tukubuli) étaient des Ilôts, probablement les Saintes. Par la suite, il a vu une seconde île qu’il baptisa *Maria-Galanda* (Marie-Galante en français) du nom de son vaisseau, or il s'avère que cette île se nommait déjà *Ayay*.[^1]
+Il y mouilla.
 
-Le lendemain, il fit appareiller pour se rendre sur une grande île.
+Le lendemain, il pour se rendre sur une grande île.
 Colomb et sa flotte l’abordèrent du côté d’une grande montagne, au milieu duquel était un pic, et duquel coulaient des sources d’eau.
 En se rapprochant, ils purent voir un jet d’eau se précipité d’une immense hauteur. Cette vue magnifique rappela à Colomb les Montagnes de L’Estremadure en Espagne, où se trouvait le monastère royal de Santa-Maria-de-Guadalupe, où il était aller à son retour de son premier voyage dans les Amériques.[^1]
 Ainsi, Colomb baptisa cette île Guadalupe. (Guadeloupe). Cette île s’appelait déjà Kaloukéra ou Caloucaéra et désignait la Basse-Terre.[^1][^3][^4]
 
 # GÉOGRAPHIE
-Karukéra est divisée en plusieurs communes dont Baie-Mahault fait partie.
+La Guadeloupe est un archipel composé d’îles et d'îlets : *Kaloukéra* (rebaptisée Basse-Terre), la Grande-Terre, *Ayay* (rebaptisée Marie-Galante), la Désirade et les Saintes.
+
+En [2018](/histoire/date/calendrier-gregorien/par-annee/2018), *Karukéra* est divisée en plusieurs communes dont Baie-Mahault, localité où se trouve l'organisme [ANYJART](/organisme/a-classer/caraibes/centre/karukera/anyjart).
 
 
 [^1]:Vauchelet . La découverte de la Guadeloupe. In: Annales de Géographie, t. 2, n°5, 1892. pp. 92-96.
