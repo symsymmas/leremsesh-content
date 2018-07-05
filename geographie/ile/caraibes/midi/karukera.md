@@ -9,12 +9,11 @@ La Guadeloupe est un archipel composé d’îles et îlets : la Basse-Terre, la 
 
 # HISTOIRE
 ## Avant Colomb
-Avant l’intrusion de  Colomb, les îles de la [Caraïbes](/geographie/ile/caraibes/iles-de-la-caraibe) étaient peuplés par les Arawaks, amérindiens venant d’Amazonie.
-Ils ont précédés les [Caribas](/peuple/caraibes/partout/caraibe), dans leur installation dans les îles Caraïbéennes.[^2]
+Avant l’intrusion de  Colomb, les îles de la [Caraïbe](/geographie/ile/caraibes/iles-de-la-caraibe) étaient peuplées par les Arawaks, des amérindiens venant d’Amazonie. Par la suite, les [Caribas](/peuple/caraibes/partout/caraibe) s'y sont installés.[^2]
 
 ## Arrivée de Colomb
 
-Colomb accosta sur Karukera le 3 novembre 1493, lors de son second voyage vers les Amériques.[^1] 
+Colomb accosta sur Karukera le [3](/histoire/date/calendrier-gregorien/par-jour/03) [Novembre](/histoire/date/calendrier-gregorien/par-mois/novembre) [1493](/histoire/date/calendrier-gregorien/par-annee/1493), lors de son second voyage vers les Amériques.[^1] 
 
 D’abord, Colomb longea une île couverte d’arbre qu’il croyait inhabité.  Cette île s’appelait Wai tukubuli (Grand est son corps). Il ne s’y arrêta pas et la baptisa Dominica (la Dominique).[^1] 
 
