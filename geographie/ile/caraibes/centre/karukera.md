@@ -18,11 +18,9 @@ Après avoir longé, sans accoster, une île couverte d’arbres qu’il croyait
 Cette première île, dénomée [Wai tukubuli](/geographie/ile/caraibes/centre/wai-tukubuli), qui signifie « grand est son corps », [COLOMB](/personnalite/homme/colonisateur/europe/sud/pays/republique-de-gene/christoforo-colombo) la baptisa [Dominica (la Dominique)](/geographie/ile/caraibes/centre/wai-tukubuli).[^1] 
 
 Les premières îles q'il a croisé après [Wai tukubuli](/geographie/ile/caraibes/centre/wai-tukubuli) étaient des Ilôts, probablement les Saintes. Par la suite, il a vu une seconde île qu’il baptisa *Maria-Galanda* (Marie-Galante en français) du nom de son vaisseau, or il s'avère que cette île se nommait déjà *Ayay*.[^1]
-Il y mouilla.
-
-Le lendemain, il a appareillé pour se rendre sur une grande île où il a abordé en passant du côté d’une grande montagne au milieu de laquelle il y avait un pic et des sources d’eau.
-En se rapprochant, [Christophe COLOMB](/personnalite/homme/colonisateur/europe/sud/pays/republique-de-gene/christoforo-colombo) et ses hommes purent voir un jet d’eau se précipiter d’une immense hauteur. Cette vue rappela à Colomb les Montagnes de L’Estremadure en Espagne, où se trouvait le monastère royal de Santa-Maria-de-Guadalupe, lieu qu'il a visité au retour de son premier voyage dans les Amériques.[^1]
-Ainsi, [Christophe COLOMB](/personnalite/homme/colonisateur/europe/sud/pays/republique-de-gene/christoforo-colombo) baptisa cette île Guadalupe. (Guadeloupe), malgré le fait que cette île s’appelait déjà *Kaloukéra* ou *Caloucaéra*, ce qui se traduit par *la Basse-Terre*.[^1][^3][^4]
+Après y être mouillé, le lendemain, il appareille pour se rendre sur une grande île où il aborde en passant du côté d’une grande montagne au milieu de laquelle il y a un pic et des sources d’eau.
+En se rapprochant, [Christophe COLOMB](/personnalite/homme/colonisateur/europe/sud/pays/republique-de-gene/christoforo-colombo) et ses hommes voient un jet d’eau se précipiter d’une immense hauteur. Cette vue rappelant à [COLOMB](/personnalite/homme/colonisateur/europe/sud/pays/republique-de-gene/christoforo-colombo) les Montagnes de L’Estremadure (Espagne), où se trouvait le monastère royal de Santa-Maria-de-Guadalupe qu'il a visité au retour de son premier voyage dans les Amériques, il baptisa cette île Guadalupe (Guadeloupe).
+Il faut savoir que cette île s'appelait déjà *Kaloukéra* ou *Caloucaéra*, soit en français : *la Basse-Terre*.[^1][^3][^4]
 
 # GÉOGRAPHIE
 La Guadeloupe est un archipel composé d’îles et d'îlets : *Kaloukéra* (rebaptisée Basse-Terre), la Grande-Terre, *Ayay* (rebaptisée Marie-Galante), la Désirade et les Saintes.
