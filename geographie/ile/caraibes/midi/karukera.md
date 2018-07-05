@@ -9,8 +9,8 @@ La Guadeloupe est un archipel composé d’îles et îlets : la Basse-Terre, la 
 
 # HISTOIRE
 ## Avant Colomb
-Avant l’intrusion de  Colomb, les îles de la [Caraïbes](https://partage.leremsesh.com/geographie/ile/caraibes/iles-de-la-caraibe) étaient peuplés par les Arawaks, amérindiens venant d’Amazonie.
-Ils ont précédés les [Caribas](https://partage.leremsesh.com/peuple/caraibes/partout/caraibe), dans leur installation dans les îles Caraïbéennes.[^2]
+Avant l’intrusion de  Colomb, les îles de la [Caraïbes](/geographie/ile/caraibes/iles-de-la-caraibe) étaient peuplés par les Arawaks, amérindiens venant d’Amazonie.
+Ils ont précédés les [Caribas](/peuple/caraibes/partout/caraibe), dans leur installation dans les îles Caraïbéennes.[^2]
 
 ## Arrivée de Colomb
 
