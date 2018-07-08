@@ -26,4 +26,4 @@ Il possible d'en apprendre plus sur ANYJART[^1] :
 * via son site Web : anyjart.com.
 
 
-[^1]: [Le papyrus d'Ahmès](/ouvrage/revue/caraibes/sud/departement/madinina/le-papyrus-d-ahmes). ANYJART, Année 2015. 36 p.
+[^1]: [Le papyrus d'Ahmès](/ouvrage/revue/caraibes/sud/departement/madinina/le-papyrus-d-ahmes). *ANYJART*, Année 2015. 36 p.
