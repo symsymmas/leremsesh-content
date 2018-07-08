@@ -2,7 +2,7 @@
 <!-- SUBTITLE: Présentation des Jeux Olympiques de 1936 -->
 
 
-Les *Jeux Olympiques de 1936* se sont déroulés en Allemagne Nazi, avant la [seconde guerre tribale Européenne]().
+Les *Jeux Olympiques de 1936* se sont déroulés en Allemagne Nazi, avant la [seconde guerre tribale Européenne](/histoire/periode/epoque-moderne/europe/partout/confrontation/seconde-guerre-tribale-europeenne).
 
 [Jesse OWENS](/personnalite/homme/sportif/athlete/tarama/nord/etats-unis/jesse-owens) fait partie des joueurs [Kamtyu](/terminologie/mdw-ntr/kamit) qui ont participé à cet événement. Au nom des [États-Unis d'Amérique](/geographie/pays/tamara/nord/etats-unis-d-amerique), [ce sportif](/personnalite/homme/sportif/athlete/tarama/nord/etats-unis/jesse-owens) a réalisé [cinq records mondiaux](/personnalite/homme/sportif/athlete/tarama/nord/etats-unis/jesse-owens#prouesse-sportive).[^1][^2]
 
