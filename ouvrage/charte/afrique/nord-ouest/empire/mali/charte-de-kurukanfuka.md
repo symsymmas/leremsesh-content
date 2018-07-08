@@ -10,5 +10,8 @@ La *charte de Kurukanfuka* est aussi dénomée :
 * constitution du Mali ;
 * première déclaration des droits de l'homme.
 
+[video](https://www.youtube.com/watch?v=K_tzzRnGzsY){.youtube}
+
+
 
 [^1]: [Fara Ekolo](https://www.youtube.com/channel/UC6-IxpEVchmoKRXDl9fMxrw). [Où en sommes-nous intellectuel Africain ?](https://www.youtube.com/watch?v=QSNLaGlcGAc) (en ligne). [Youtube](https://www.youtube.com), [10](/histoire/date/calendrier-gregorien/par-jour/10) [Mars](/histoire/date/calendrier-gregorien/par-mois/mars) [2018](/histoire/date/calendrier-gregorien/par-annee/2018). Compilation de plusieurs vidéos, 1h 36min 19s. Disponible à https://www.youtube.com/watch?v=QSNLaGlcGAc.
