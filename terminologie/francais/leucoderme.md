@@ -1,5 +1,5 @@
 <!-- TITLE: Leucoderme (blanc.he) -->
-<!-- SUBTITLE: Présentation du Leucoderme -->
+<!-- SUBTITLE: Présentation du terme leucoderme -->
 
 Le mot *leucoderme* a pour étymologie grecque leukos (blanc) et derma (peau).
 
