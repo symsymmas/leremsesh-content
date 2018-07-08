@@ -21,7 +21,9 @@ Ci-dessous, les sauts en longueur réalisés par Jesse Owens, filmés lors des J
 [video](https://www.youtube.com/watch?v=hR6VFvMXCN4){.youtube}{.align-center}
 
 # Hommages
+
 ![Jesse Owens 1971 Ajman Stamp](/uploads/personnalite/jesse-owens-1971-ajman-stamp.jpg "Timbre d'Ajman (Nations Arabes Unies) datant de 1971 à l'effigie de Jesse Owens"){.align-right}
+
 ## Aux Nations Arabes Unies
 En 1971, les Nations Arabes Unies impriment un timbre à l'effigie du sportif *Jesse Owens*.
 
