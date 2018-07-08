@@ -1,4 +1,4 @@
-<!-- TITLE: 03-Mars -->
+<!-- TITLE: 03 - Mars -->
 <!-- SUBTITLE: Événements s'étant produit un mois de Mars -->
 
 Cette page relate d'événements s'étant produit lors d'un mois de Mars du calendrier Grégorien.
