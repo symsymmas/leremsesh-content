@@ -21,6 +21,11 @@ Ci-dessous, les sauts en longueur réalisés par Jesse Owens, filmés lors des J
 [video](https://www.youtube.com/watch?v=hR6VFvMXCN4){.youtube}{.align-center}
 
 # Hommages
+## Aux Nations Arabes Unies
+En 1971, les Nations Arabes Unies impriment un timbre à l'effigie du sportif *Jesse Owens*.
+
+![Jesse Owens 1971 Ajman Stamp](/uploads/personnalite/jesse-owens-1971-ajman-stamp.jpg "Timbre d'Ajman (Nations Arabes Unies) datant de 1971 à l'effigie de Jesse Owens"){.align-center}
+
 ## Aux États-Unis d'Amérique
 Après avoir accompli moulte prouesses sportives sur le territoire Nazi, deux hommes illustres n'ont pas dénié saluer *Jesse Owens* :
 * Adolf HITLER (Führer de l'Allemagne Nazi) ;
@@ -34,11 +39,6 @@ Traduction française :
 > Durant les jeux Olympiques, j'ai eu l'opportunité de rencontrer le roi d'Angleterre, serrer la main d'Hitler, parler au roi de Suède et à d'autres personnalités d'Europe. Certaines personnes me disent que Hitler m'a snobbé mais, je vous le dit, ce n'est pas Hitler qui m'a pas snobbé mais notre président. Le Président ne m'a même pas envoyé un télégramme. Je ne casse pas du sucre sur le dos du Président, je ne suis pas politicien. Je ne fais que vous rappeler que le Président ne m'a même pas envoyé un mot pour me féliciter, parce qu'il était trop occupé de ce que l'on dit.
 
 En sus, le Président des États-Unis d'Amérique de l'époque (Franklin Delano ROOSEVELT) invita tous les joueurs blancs à la maison blanche, sans prendre cas des prouesses de *Jesse OWENS*[^3].
-
-## Aux Nations Arabes Unies
-En 1971, les Nations Arabes Unies impriment un timbre à l'effigie du sportif *Jesse Owens*.
-
-![Jesse Owens 1971 Ajman Stamp](/uploads/personnalite/jesse-owens-1971-ajman-stamp.jpg "Timbre d'Ajman (Nations Arabes Unies) datant de 1971 à l'effigie de Jesse Owens"){.align-center}
 
 
 [^1]: [Jesse Owens](http://perno.com/extras/lite/Jesse%20Owens.htm). In [Anthony Perno](http://perno.com/). [Anthony Perno](http://perno.com/) [en ligne]. [consulté le [7]() [Mai]() [2018]()]. http://perno.com/extras/lite/Jesse%20Owens.htm
