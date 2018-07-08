@@ -1,9 +1,11 @@
 <!-- TITLE: Fleuve Djoliba (fleuve Niger) -->
-<!-- SUBTITLE: Présentation du fleuve Djoliba -->
+<!-- SUBTITLE: Présentation du fleuve Djoliba / Gher n gheren -->
 
 ![1200 Px Niger River Map Svg](/uploads/map/1200-px-niger-river-map-svg.png "Géolocalisation du fleuve Djoliba"){.align-right}
 
-*Djoliba* est le nom donné au *fleuve Niger* par les [Maliens](/peuple/afrique/nord-ouest/malien).[^1]
+*Djoliba* est le nom Bambara d'un fleuve situé en Afrique de l'Ouest.
+
+Ce fleuve est aussi dénommé *Gher n gheren* (le fleuve parmi les fleuves) par les Touareg ou *fleuve Niger* par les européens.[^1]
 
 Ci-contre, une géolocalisation du *fleuve Djoliba*.
 
