@@ -8,7 +8,7 @@ Les *Jeux Olympiques de 1936* se sont déroulés en Allemagne Nazi, avant la [se
 
 Ci-dessous une vidéo présentant quelques épreuves des *Jeux de 1936*.
 
-[video](https://www.youtube.com/watch?v=kMnKZ6PYLqo){.youtube}
+[video](https://www.youtube.com/watch?v=kMnKZ6PYLqo){.youtube}{.align-center}
 
 
 [^1]: [Jesse Owens](http://perno.com/extras/lite/Jesse%20Owens.htm). In [Anthony Perno](http://perno.com/). [Anthony Perno](http://perno.com/) [en ligne]. [consulté le [7](/histoire/date/calendrier-gregorien/par-jour/7) [Mai](/histoire/date/calendrier-gregorien/par-mois/mai) [2018](/histoire/date/calendrier-gregorien/par-annee/2018)]. http://perno.com/extras/lite/Jesse%20Owens.htm
