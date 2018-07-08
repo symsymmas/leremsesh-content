@@ -1,7 +1,7 @@
 <!-- TITLE: Charte de Kurukanfuka / Constitution du Mali -->
 <!-- SUBTITLE: Présentation de la Charte De Kurukanfuka -->
 
-La *charte de Kurukanfuka* est la constitution de l'empire du Mali. Elle traite des droits de la femme et de l'homme, le respect de la nature, etc.[^1].
+La *charte de Kurukanfuka* est la constitution de l'empire du Mali. Celle-ci comprend 134 articles qui traitent des droits de la femme et de l'homme, du respect de la nature, etc.[^1].
 Cette charte a été créée en [1236](/histoire/date/calendrier-gregorien/par-annee/1236).
 
 # Autres dénominations
