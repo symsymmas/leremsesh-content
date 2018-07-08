@@ -3,7 +3,7 @@
 
 La *Unite Fruit Company* (*UFC*) est une frime internationale. Elle est un « empire de l'agroalimentaire » dans la Caraïbe vers l'an [1910](/histoire/date/calendrier-gregorien/par-annee/1910). L'entreprise[^1] :
 * a le monopole de l'exportation des produits agricoles ;
-* possède un centrale sucrière à Boston ([États-Unis d'Amérique](/geographie/pays/tamara/nord/etats-unis-d-amerique)) ;
+* possède une centrale sucrière à Boston ([États-Unis d'Amérique](/geographie/pays/tamara/nord/etats-unis-d-amerique)) ;
 * est propriétaire de plusieurs navires de transport de biens et de personnes.
 
 Son emprise du marché se fait sentir par[^1] :
