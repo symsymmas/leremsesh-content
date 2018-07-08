@@ -12,8 +12,9 @@ Sous la demande du Président Roosevelt, les *pilotes de Tuskegee* ont été ent
 
 # Leur détermination
 En 1940, l'armée des [États-Unis d'Amérique](/geographie/pays/tamara/nord/etats-unis-d-amerique) pratique la [ségrégation](/histoire/epoque-moderne/tamara/nord/etats-unis-d-amerique/actes-racistes/segregation). Les *pilotes de Tuskegee* se voient donc non seulement confrontés au nazisme mais aussi au racisme.[^1]
-Pour rappel, les [Kamtyu](/peuple/monde/kamit) (Noirs) des [États-Unis d'Amérique](/geographie/pays/tamara/nord/etats-unis-d-amerique) étaient considérés comme inférieurs pendant la [ségrégation](/histoire/epoque-moderne/tamara/nord/etats-unis-d-amerique/actes-racistes/segregation). Cela signifie que les officiers [leucodermes](/terminologie/francais/leucoderme) ne pouvaient pas admettre la présence d'officiers [Kamit](/peuple/monde/kamit) (Noir) pouvant donner des ordres à d'autres [leucodermes](/terminologie/francais/leucoderme).[^1]
-Face à ce racisme, les *pilotes de Tuskegee* ont décidé de former leur groupe de combat.
+Pour rappel, à cette époque, les [Kamtyu](/peuple/monde/kamit) (les Noirs) des [États-Unis d'Amérique](/geographie/pays/tamara/nord/etats-unis-d-amerique) étaient considérés comme inférieurs en tous points aux [leucodermes](/terminologie/francais/leucoderme). Cela signifie que les officiers [leucodermes](/terminologie/francais/leucoderme) ne pouvaient pas admettre la présence d'officiers [Kamtyu](/peuple/monde/kamit) pouvant donner des ordres à d'autres [leucodermes](/terminologie/francais/leucoderme) de grade inférieur.[^1]
+
+Face à ce racisme, les *pilotes de Tuskegee* ont décidé de former leur propre groupe de combat.
 
 # Leur héroisme
 En 1943, les *pilotes de Tuskegee* ont participé à la prise de pouvoir de la Sicile par les Alliés durant la [seconde guerre tribale Européenne](/histoire/epoque-moderne/europe/partout/confrontation/seconde-guerre-tribale-europeenne). Ils formaient le groupe 332 et se sont surnommés « Red Tails » du fait de l'empennage rouge de leurs avions. Leur objectif était d'escorter les bombardier des Alliés en territoire Nazi. Ils réussirent à ne perdre que 25 bombardiers, soit moins de la moitié de la moyenne de toute l'armée des [États-Unis d'Amérique](/geographie/pays/tamara/nord/etats-unis-d-amerique).[^1]
