@@ -1,4 +1,4 @@
-<!-- TITLE: 08-Août -->
+<!-- TITLE: 08 - Août -->
 <!-- SUBTITLE: Liste des événements s'étant produits un mois d'Août -->
 
 Cette page retrace divers événements passés durant un mois d'Août.
