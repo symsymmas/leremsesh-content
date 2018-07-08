@@ -1,4 +1,4 @@
-<!-- TITLE: 06-Juin -->
+<!-- TITLE: 06 - Juin -->
 <!-- SUBTITLE: Événements s'étant produit un mois de Juin -->
 
 Cette page retrace les événements qui se sont produit durant l'un des mois de Juin du calendrier Grégorien.
