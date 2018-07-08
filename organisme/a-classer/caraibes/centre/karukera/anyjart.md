@@ -4,7 +4,7 @@
 ![Sans Titre](/uploads/personnalite/sans-titre.png "Omotunde, représentant d'ANYJART."){.pagelogo}
 
 ANYJART est un organisme dédié à la promotion de la connaissance et l’estime de soi.
-Cet organisme s'adresse aux enfants, aux adolescents et aux adultes par l'enseignement pédagogique du savoir [Kamit](/terminologie/mdw-ntr/kamit) (sciences, techniques, histoire, philosophie, art, littérature, etc.) par l'étude de nos Humanités Classiques Africaines (HCA).
+Cet organisme s'adresse aux enfants, aux adolescents et aux adultes par l'enseignement pédagogique du savoir [Kamit](/terminologie/mdw-ntr/kamit) (sciences, techniques, histoire, philosophie, art, littérature, etc.) par l'étude de nos [Humanités Classiques Africaines](/divers/humanites-classiques-africaines) ([HCA](/divers/humanites-classiques-africaines)).
 
 # Bibliographie
 ![F 8 Ec 9 E 94784 D 79209 A 489 Dbcca 9792 Aaf 228 Ec](/uploads/ouvrage/f-8-ec-9-e-94784-d-79209-a-489-dbcca-9792-aaf-228-ec.png "Couverture de la revue « Le papyrus d'Ahmès »"){.align-right}
