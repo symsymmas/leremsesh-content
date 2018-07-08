@@ -4,6 +4,8 @@
 Cette page présente les actions du président *Franklin Delano ROOSEVELT* avec une vision afrocentrée.
 
 # Considérations du peuple Kamit
+![Bundesarchiv Bild 183 G 00630 Sommerolympiade Siegerehrung Weitsprung](/uploads/personnalite/bundesarchiv-bild-183-g-00630-sommerolympiade-siegerehrung-weitsprung.jpg "Jesse OWENS sur la première place du podium"){.align-right}
+
 En [1936](/histoire/date/calendrier-gregorien/par-annee/1936), suite aux Jeux Olympiques de Berlin, le président *Franklin Delano ROOSEVELT* n'a salué que la prouesse des joueurs États-Uniens [leucodermes](). Pour preuve, *Franklin D. ROOSEVELT* n'a invité que ceux-ci à la [maison blanche]() suite au retour des joueurs et [Jesse OWENS](/personnalite/homme/sportif/athlete/tarama/nord/etats-unis/jesse-owens), le [Kamit]() qui a réalisé cinq records mondiaux durant les jeux, a rappellé le [2](/histoire/date/calendrier-gregorien/par-jour/02) [Octobre](/histoire/date/calendrier-gregorien/par-mois/octobre) [1936](/histoire/date/calendrier-gregorien/par-annee/1936) lors d'un speech à Baltimore, que ce président s'est permis de le snobber en n'envoyant ni un télégramme, ni un message sous prétexte d'être trop occupé.[^3][^4]
 
 
