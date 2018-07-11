@@ -21,7 +21,7 @@ En [1915](/histoire/date/calendrier-gregorien/par-annee/1915), *Ibrahim Njoya* c
 Par la suite, dès [1920](/histoire/date/calendrier-gregorien/par-annee/1920), *Njoya* adhère à l'[Islam](/religion/confession/islam).[^1]
 
 # La colonisation européenne
-Entre [1885]() et [1916](), les colons européens introduisent la religion chrétienne dans le royaume et, par la même occasion, démantèlent les structures politiques établies. [^1]
+Entre [1885](/histoire/date/calendrier-gregorien/par-annee/1885) et [1916](), les colons européens introduisent la religion chrétienne dans le royaume et, par la même occasion, démantèlent les structures politiques établies. [^1]
 
 # Sa mort
 Le roi *Njoya* meurt en [1933] à [Yaoundé](), dans une résidence surveillée par l'administration française. [^1]
