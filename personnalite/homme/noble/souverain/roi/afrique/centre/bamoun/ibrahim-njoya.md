@@ -27,4 +27,4 @@ Entre [1885]() et [1916](), les colons européens introduisent la religion chré
 Le roi *Njoya* meurt en [1933] à [Yaoundé](), dans une résidence surveillée par l'administration française. [^1]
 
 
-[^1]: [Ibrahim Njoya](https://fr.wikipedia.org/wiki/Ibrahim_Njoya). In [Wikipédia](https://fr.wikipedia.org/) [en ligne]. Fondation Wikimedia, 2003 [consulté le [10]() [Juin]() [2018]()]. https://fr.wikipedia.org/wiki/Ibrahim_Njoya
+[^1]: [Ibrahim Njoya](https://fr.wikipedia.org/wiki/Ibrahim_Njoya). In [Wikipédia](https://fr.wikipedia.org/) [en ligne]. Fondation Wikimedia, 2003 [consulté le [10](/histoire/date/calendrier-gregorien/par-jour/10) [Juin](/histoire/date/calendrier-gregorien/par-mois/juin) [2018](/histoire/date/calendrier-gregorien/par-annee/2018)]. https://fr.wikipedia.org/wiki/Ibrahim_Njoya
