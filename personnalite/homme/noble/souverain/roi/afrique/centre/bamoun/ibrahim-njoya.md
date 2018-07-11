@@ -3,21 +3,21 @@
 
 ![Ibrahim Njoya](/uploads/personnalite/ibrahim-njoya.jpg "Buste de Ibrahim Njoya"){.pagelogo}
 
-*Ibrahim Njoya* a été le XVIIème roi Bamoun de la dynastie de Nchare Yen. Il a régné de [1887](/histoire/date/calendrier-gregorien/par-annee/1887) à [1933](/histoire/date/calendrier-gregorien/par-annee/1933).[^1]
+*Ibrahim Njoya* a été le XVIIème roi [Bamoun](/peuple/afrique/a-situer/bamoun) de la dynastie de Nchare Yen. Il a régné de [1887](/histoire/date/calendrier-gregorien/par-annee/1887) à [1933](/histoire/date/calendrier-gregorien/par-annee/1933).[^1]
 
 # Naissance
-*Ibrahim Njoya* est né en [1876](/histoire/date/calendrier-gregorien/par-annee/1876) de [Na Njapdnunke](/personnalite/femme/noble/souveraine/reine/afrique/a-situer/bamoun/na-njapdnunke), sa mère.[^1]
+*Ibrahim Njoya* est né en [1876](/histoire/date/calendrier-gregorien/par-annee/1876) de [Na Njapdnunke](/personnalite/femme/noble/souveraine/reine/afrique/a-situer/bamoun/na-njapdnunke), [sa mère](/personnalite/femme/noble/souveraine/reine/afrique/a-situer/bamoun/na-njapdnunke).[^1]
 
 # Son arrivée au pouvoir
-Suite à la guerre civile de [1892](/histoire/date/calendrier-gregorien/par-annee/1892) à [1895]() qui a ravagé le [royaume Bamoun](), Njoya et son peuple se dotent d'une écriture nommée shu-mom. Grâce à celle-ci, les [Bamouns]() améliorent leur système administratif (ex. : fiscalité, justice et archives).[^1]
+Suite à la guerre civile de [1892](/histoire/date/calendrier-gregorien/par-annee/1892) à [1895](/histoire/date/calendrier-gregorien/par-annee/1895) qui a ravagé le [royaume Bamoun](/geographie/royaume/afrique/a-situer/bamoun), *Njoya* et son peuple se dotent d'une écriture nommée shu-mom. Grâce à celle-ci, les [Bamouns](/peuple/afrique/a-situer/bamoun) améliorent leur système administratif (ex. : fiscalité, justice et archives).[^1]
 
 # Constructions historiques
-Durant son règne, *Ibrahim Njoya* construit le [palais des sultants Bamouns](). Celui-ci se trouve à Foumban (pays du Cameroun) et a été classé au patrimoine mondial de l'Unesco.[^1]
+Durant son règne, *Ibrahim Njoya* construit le [palais du sultant Bamoun](/monument/afrique/a-situer/palais-des-sultants-bamouns). Celui-ci se trouve à Foumban (pays du Cameroun) et a été classé au patrimoine mondial de l'Unesco.[^1]
 
 # Fondements spirituels et religieux
 ![Njoya Of Bamun](/uploads/personnalite/njoya-of-bamun.jpg "Le roi des Bamouns, Ibrahim NJOYA"){.align-right}
 
-En [1915](), *Ibrahim Njoya* crée une spiritualité inspirée de l'islam, du christianisme et de sa spiritualité traditionnelle africaine.
+En [1915](/histoire/date/calendrier-gregorien/par-annee/1915), *Ibrahim Njoya* crée une spiritualité inspirée de l'islam, du christianisme et de sa spiritualité traditionnelle africaine.
 Par la suite, dès [1920](), *Njoya* adhère à l'islam.[^1]
 
 # La colonisation européenne
