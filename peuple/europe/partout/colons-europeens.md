@@ -1,4 +1,4 @@
-<!-- TITLE: Colons Européens -->
-<!-- SUBTITLE: Présentation des Colons Européens -->
+<!-- TITLE: Colon(s) Européen(s) -->
+<!-- SUBTITLE: Présentation du colon Européen -->
 
 # Header
