@@ -1,4 +1,8 @@
 <!-- TITLE: Guerre civile Bamoun -->
 <!-- SUBTITLE: Présentation de la guerre civile Bamoun -->
 
-# Header
+La guerre civile Bamoun a durée de [1892](/histoire/date/calendrier-gregorien/par-annee/1892) à [1895](/histoire/date/calendrier-gregorien/par-annee/1895). Celle-ci fut orchestrée par la [France]() dans le but d'annexer le [royaume Bamoun](/geographie/royaume/afrique/a-situer/bamoun) et destituer le [roi Ibrahim Njoya](/personnalite/homme/noble/souverain/roi/afrique/centre/bamoun/ibrahim-njoya).[^1][^2]
+
+
+[^1]: [Ibrahim Njoya](https://fr.wikipedia.org/wiki/Ibrahim_Njoya). In [Wikipédia](https://fr.wikipedia.org/) [en ligne]. Fondation Wikimedia, 2003 [consulté le [10](/histoire/date/calendrier-gregorien/par-jour/10) [Juin](/histoire/date/calendrier-gregorien/par-mois/juin) [2018](/histoire/date/calendrier-gregorien/par-annee/2018)]. https://fr.wikipedia.org/wiki/Ibrahim_Njoya
+[^2]: [PanAfrican Dream Media](https://www.youtube.com/channel/UCu0a1M4ANVmdvF4Zj7c4HIA). [Ibrahim Njoya le roi des Bamoun](https://www.youtube.com/watch?v=bNeYOM_qFjg) [Vidéo en ligne]. [YouTube](https://www.youtube.com/), [27](/histoire/date/calendrier-gregorien/par-jour/27) [févr.](/histoire/date/calendrier-gregorien/par-mois/fevrier) [2017](https://partage.leremsesh.com/histoire/date/calendrier-gregorien/par-annee/2017) [consulté le [14](/histoire/date/calendrier-gregorien/par-jour/14) [Juillet](/histoire/date/calendrier-gregorien/par-mois/juillet) [2018](/histoire/date/calendrier-gregorien/par-annee/2018)]. 1 vidéo, 27min 5s. https://www.youtube.com/watch?v=bNeYOM_qFjg
