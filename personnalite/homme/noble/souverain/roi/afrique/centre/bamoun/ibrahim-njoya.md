@@ -8,8 +8,10 @@
 # Naissance
 *Ibrahim Njoya* est né en [1876](/histoire/date/calendrier-gregorien/par-annee/1876) de [Na Njapdnunke](/personnalite/femme/noble/souveraine/reine/afrique/a-situer/bamoun/na-njapdnunke), [sa mère](/personnalite/femme/noble/souveraine/reine/afrique/a-situer/bamoun/na-njapdnunke).[^1]
 
-# Son arrivée au pouvoir
+# Sciences
 Suite à la [guerre civile](/histoire/evenement/guerre/guerre-civile-bamoun) de [1892](/histoire/date/calendrier-gregorien/par-annee/1892) à [1895](/histoire/date/calendrier-gregorien/par-annee/1895) qui a ravagé le [royaume Bamoun](/geographie/royaume/afrique/a-situer/bamoun), *Njoya* et son peuple se dotent d'une écriture nommée [shu-mom](/ecriture/shu-mom). Grâce à celle-ci, les [Bamouns](/peuple/afrique/a-situer/bamoun) améliorent leur système administratif (ex. : fiscalité, justice et archives).[^1]
+
+![Bamum Syllabary](/uploads/ecriture/bamum-syllabary.png "Bamum Syllabary"){.align-center}
 
 # Mariages
 Le *Roi Ibrahim NJOYA* s'est marrié avec plus de six cent femmes. Par ces mariages, le *Roi NJOYA* souhaitait rassembler tous les critères de beauté féminins.[^2]
