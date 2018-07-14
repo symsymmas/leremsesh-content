@@ -24,7 +24,10 @@ En [1915](/histoire/date/calendrier-gregorien/par-annee/1915), *Ibrahim NJOYA* c
 Par la suite, dès [1920](/histoire/date/calendrier-gregorien/par-annee/1920), *Njoya* adhère à l'[Islam](/religion/confession/islam).[^1]
 
 # La colonisation européenne
+## L'annexion du royaume
 Entre [1885](/histoire/date/calendrier-gregorien/par-annee/1885) et [1916](/histoire/date/calendrier-gregorien/par-annee/1916), les colons européens introduisent la religion [chrétienne](/religion/confession/christianisme) dans le [royaume](/geographie/royaume/afrique/a-situer/bamoun) et, par la même occasion, démantèlent les structures politiques établies. [^1]
+## L'exil du roi
+La [France](/geographie/pays/europe/ouest/france) décide d'exiler le *Sultan NJOYA* à [Yaoundé](/geographie/ville/afrique/centre/cameroun/yaounde).
 
 # Sa mort
 Le sultan *Njoya* meurt en [1933](/histoire/date/calendrier-gregorien/par-annee/1933) à [Yaoundé](/geographie/ville/afrique/centre/cameroun/yaounde), dans une résidence surveillée par l'administration française, suite à son exil dans cette même ville par les français.[^1][^2]
