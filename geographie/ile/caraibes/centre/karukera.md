@@ -16,9 +16,11 @@ Avant l’intrusion de Christophe Colomb, les îles de la [Caraïbe](/geographie
 
 D’abord, il longe une île couverte d’arbre qu’il croit inhabitée. Cette île s’appelait Wai tukubuli  [Wai tukubuli](/geographie/ile/caraibes/centre/wai-tukubuli) (Grand est son corps). Il ne s’y arrête pas et la baptise [Dominica (la Dominique)](/geographie/ile/caraibes/centre/wai-tukubuli).[^1] 
 Ensuite, il croise quelques Ilôts (Les Saintes, probablement), puis une seconde île qu’il baptise *Maria-Galanda* (Marie-Galante en français) du nom de son vaisseau. Cette île se nommait déjà *Ayay*.[^1]
+
 Christophe Colomb mouille à Ayay et appareille le lendemain pour se rendre sur une grande île, qu'il aborde du côté d’une grande montagne, au milieu de laquelle est situé un pic, et duquel coulent des sources d’eau.
 En se rapprochant, [Christophe COLOMB](/personnalite/homme/colonisateur/europe/sud/pays/republique-de-gene/christoforo-colombo) voit un jet d’eau se précipiter d’une immense hauteur. Cette vue rappelle à [COLOMB](/personnalite/homme/colonisateur/europe/sud/pays/republique-de-gene/christoforo-colombo) les Montagnes de L’Estremadure (Espagne), où se trouve le monastère royal de Santa-Maria-de-Guadalupe qu'il a visité au retour de son premier voyage dans les Amériques. Il appelle alors cette île Guadalupe (Guadeloupe).
-Pourtant, cette île porte déjà le nom amérindien de *Kaloukéra* ou *Caloucaéra*.   
+Pourtant, cette île porte déjà le nom amérindien de *Kaloukéra* ou *Caloucaéra*.  
+
 A noter qu'à l'époque, seule l'île de*la Basse-Terre* porte ce nom.[^1][^3][^4] 
 Ce nom a donné Karukera aujourd'hui et désigne tout l'archipel de la Guadeloupe.
 
