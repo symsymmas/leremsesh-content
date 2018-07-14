@@ -27,12 +27,12 @@ Par la suite, dès [1920](/histoire/date/calendrier-gregorien/par-annee/1920), *
 ## L'annexion du royaume
 Entre [1885](/histoire/date/calendrier-gregorien/par-annee/1885) et [1916](/histoire/date/calendrier-gregorien/par-annee/1916), les colons européens introduisent la religion [chrétienne](/religion/confession/christianisme) dans le [royaume](/geographie/royaume/afrique/a-situer/bamoun) et, par la même occasion, démantèlent les structures politiques établies. [^1]
 ## L'exil du roi
-La [France](/geographie/pays/europe/ouest/france) décide d'exiler le *Sultan NJOYA* à [Yaoundé](/geographie/ville/afrique/centre/cameroun/yaounde) dans le but démanteler le pouvoir du *Sultan*.[^2]
+La [France](/geographie/pays/europe/ouest/france) décide d'exiler le *Sultan NJOYA* à [Yaoundé](/geographie/ville/afrique/centre/cameroun/yaounde) dans le but de démanteler le pouvoir du *Sultan*.[^2]/geographie/royaume/afrique/a-situer/bamoun
 
 Pour se faire, les français pactisent avec des [Bamouns](/peuple/afrique/a-situer/bamoun) et d'autres Africains avides de pouvoir et de commandement.[^2]
 
 Voici une liste de « reproches » fait à *NJOYA* par les français pour soutenir le démantèlement du [royaume](/geographie/royaume/afrique/a-situer/bamoun) [^2] :
-* il a plusieurs femmes (plus de six cent) et trop d'enfants ;
+* il a plusieurs épouses (plus de six cent) et trop d'enfants ;
 * il vit dans un grand palais ;
 * il asservit son peuple ;
 * il possède toutes les terres et cultures du royaume ;
@@ -40,13 +40,13 @@ Voici une liste de « reproches » fait à *NJOYA* par les français pour sout
 * il refuse d'être auxilliaire de l'administration française.
 
 Pour comprendre cette supercherie, il faut se rappeler que :
-* à défaut de légaliser la polygamie, le [15](/histoire/date/calendrier-gregorien/par-jour/15) [Décembre](/histoire/date/calendrier-gregorien/par-mois/decembre) [1904](/histoire/date/calendrier-gregorien/par-annee/1904), les français suppriment l'interdiction de mariage entre les personnes ayant pratiqué l'adultère ;
-* le président réside à l'Élysée (11 179 m²) ;
-* les [Kamtyu](/terminologie/mdw-ntr/kamit) de la diaspora vivent dans une situation d'asservissement, malgré l'[abolition officielle de l'esclavage](/histoire/periode/yovodah/abolition-de-lesclavage) ;
-* la [France](/geographie/pays/europe/ouest/france) prend possession des terres et du travail agricole de toutes ses colonies pour son propre profit ;
-* *le Roi Ibrahim NJOYA* a renoncé à son droit de vie ou de mort avant l'arrivé des français ;
-* la peine de mort n'est pas abolie en [France](/geographie/pays/europe/ouest/france), à cette époque ;
-* pour assurer son égémonie, la [France](/geographie/pays/europe/ouest/france) oblige tous les royaumes présents sur le territoire de ses dites colonies françaises à être annexées.
+* à défaut de légaliser la polygamie, le [15](/histoire/date/calendrier-gregorien/par-jour/15) [Décembre](/histoire/date/calendrier-gregorien/par-mois/decembre) [1904](/histoire/date/calendrier-gregorien/par-annee/1904), les français suppriment l'interdiction de mariage entre les personnes ayant pratiqué l'adultère[^3] ;
+* le président réside à l'Élysée (11 179 m²)[^4] ;
+* les [Kamtyu](/terminologie/mdw-ntr/kamit) de la diaspora vivent dans une situation d'asservissement, malgré l'[abolition officielle de l'esclavage](/histoire/periode/yovodah/abolition-de-lesclavage)[^5] ;
+* la [France](/geographie/pays/europe/ouest/france) prend possession des terres et du travail agricole de toutes ses colonies pour son propre profit[^6] ;
+* *le Roi Ibrahim NJOYA* a renoncé à son droit de vie ou de mort avant l'arrivé des français[^2] ;
+* la peine de mort n'est pas abolie en [France](/geographie/pays/europe/ouest/france), à cette époque[^7] ;
+* pour assurer son égémonie, la [France](/geographie/pays/europe/ouest/france) oblige tous les royaumes présents sur le territoire de ses dites colonies françaises à être annexées (le [royaume Bamoun](/geographie/royaume/afrique/a-situer/bamoun) en est l'exemple).
 
 Le [5](/histoire/date/calendrier-gregorien/par-jour/5) [Avril](/histoire/date/calendrier-gregorien/par-mois/avril) [1931](/histoire/date/calendrier-gregorien/par-annee/1931) un arrêté signé par [MARCHAND](/personnalite/homme/colon/europe/ouest/pays/france/marchand) (le gouvereneur des colonies, commissaire de la république française du [Cameroun](/geographie/pays/afrique/nord-ouest/cameroun) et commandeur de la légion d'honneur) stipule ceci[^2] :
 * Article 1 : Le nommé *NJOYA* ex-sultant de [Fumban](/geographie/ville/afrique/nord-ouest/cameroun/foumban) sera interné pendant une période de cinq années avec résidence obligatoire à [Yaoundé](/geographie/ville/afrique/centre/cameroun/yaounde). Les biens seront plassés sous séquestre pendant la durée de l'internement.
@@ -58,3 +58,8 @@ Le sultan *Njoya* meurt en [1933](/histoire/date/calendrier-gregorien/par-annee/
 
 [^1]: [Ibrahim Njoya](https://fr.wikipedia.org/wiki/Ibrahim_Njoya). In [Wikipédia](https://fr.wikipedia.org/) [en ligne]. Fondation Wikimedia, 2003 [consulté le [10](/histoire/date/calendrier-gregorien/par-jour/10) [Juin](/histoire/date/calendrier-gregorien/par-mois/juin) [2018](/histoire/date/calendrier-gregorien/par-annee/2018)]. https://fr.wikipedia.org/wiki/Ibrahim_Njoya
 [^2]: [PanAfrican Dream Media](https://www.youtube.com/channel/UCu0a1M4ANVmdvF4Zj7c4HIA). [Ibrahim Njoya le roi des Bamoun](https://www.youtube.com/watch?v=bNeYOM_qFjg) [Vidéo en ligne]. [YouTube](https://www.youtube.com/), [27](/histoire/date/calendrier-gregorien/par-jour/27) [févr.](/histoire/date/calendrier-gregorien/par-mois/fevrier) [2017](https://partage.leremsesh.com/histoire/date/calendrier-gregorien/par-annee/2017) [consulté le [14](/histoire/date/calendrier-gregorien/par-jour/14) [Juillet](/histoire/date/calendrier-gregorien/par-mois/juillet) [2018](/histoire/date/calendrier-gregorien/par-annee/2018)]. 1 vidéo, 27min 5s. https://www.youtube.com/watch?v=bNeYOM_qFjg
+[^3]: https://fr.wikipedia.org/wiki/Adult%C3%A8re#XIXe_si%C3%A8cle_en_France
+[^4]: https://fr.wikipedia.org/wiki/Palais_de_l%27%C3%89lys%C3%A9e#Le_palais_de_l'%C3%89lys%C3%A9e_en_chiffres
+[^5]: [Doumbi-Fakoly](/personnalite/homme/polymathe/afrique/nord-ouest/pays/mali/doumbi-fakoli). [Marcus Garvey expliqué aux adolescents](/ouvrage/documentaire/marcus-garvey-explique-aux-adolescents). Édition [MENAIBUC](/organisme/editeur/menaibuc) ; 2ème trimestre [2009](/histoire/date/calendrier-gregorien/par-annee/2009). 91 p. ISBN : 978-2-35349-102-5.
+[^6]: Les puissances d'argent de la martinique
+[^7]: 
