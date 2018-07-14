@@ -1,5 +1,5 @@
 <!-- TITLE: Ibrahim Njoya -->
-<!-- SUBTITLE: Présentation du roi Ibrahim Njoya -->
+<!-- SUBTITLE: Présentation du Roi Ibrahim Njoya -->
 
 ![Ibrahim Njoya](/uploads/personnalite/ibrahim-njoya.jpg "Buste de Ibrahim Njoya"){.pagelogo}
 
@@ -11,13 +11,16 @@
 # Son arrivée au pouvoir
 Suite à la [guerre civile](/histoire/evenement/guerre/guerre-civile-bamoun) de [1892](/histoire/date/calendrier-gregorien/par-annee/1892) à [1895](/histoire/date/calendrier-gregorien/par-annee/1895) qui a ravagé le [royaume Bamoun](/geographie/royaume/afrique/a-situer/bamoun), *Njoya* et son peuple se dotent d'une écriture nommée [shu-mom](/ecriture/shu-mom). Grâce à celle-ci, les [Bamouns](/peuple/afrique/a-situer/bamoun) améliorent leur système administratif (ex. : fiscalité, justice et archives).[^1]
 
-# Constructions historiques
+# Mariages
+Le *Roi Ibrahim NJOYA* s'est marrié avec plus de six cent femmes. Par ces mariages, le *Roi NJOYA* souhaitait rassembler tous les critères de beauté féminins.[^2]
+
+# Monuments
 Durant son règne, *Ibrahim Njoya* construit le [palais du sultant Bamoun](/monument/afrique/a-situer/palais-des-sultants-bamouns). Celui-ci se trouve à Foumban (pays du Cameroun) et a été classé au patrimoine mondial de l'Unesco.[^1]
 
 # Fondements spirituels et religieux
-![Njoya Of Bamun](/uploads/personnalite/njoya-of-bamun.jpg "Le roi des Bamouns, Ibrahim NJOYA"){.align-right}
+![Njoya Of Bamun](/uploads/personnalite/njoya-of-bamun.jpg "Le Roi des Bamouns, Ibrahim NJOYA"){.align-right}
 
-En [1915](/histoire/date/calendrier-gregorien/par-annee/1915), *Ibrahim Njoya* crée une spiritualité inspirée de l'[Islam](/religion/confession/islam), du [christianisme](/religion/confession/christianisme) et de sa [spiritualités traditionnelles africaines](/spiritualite/generalite/spiritualite-africaine).
+En [1915](/histoire/date/calendrier-gregorien/par-annee/1915), *Ibrahim NJOYA* crée une spiritualité basée sur les [rites traditionnels]() de son peuple en plus d'influences [musulmanes](/religion/confession/islam) et [chrétiennes](/religion/confession/christianisme).
 Par la suite, dès [1920](/histoire/date/calendrier-gregorien/par-annee/1920), *Njoya* adhère à l'[Islam](/religion/confession/islam).[^1]
 
 # La colonisation européenne
