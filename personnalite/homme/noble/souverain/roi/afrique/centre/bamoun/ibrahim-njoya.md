@@ -27,7 +27,27 @@ Par la suite, dès [1920](/histoire/date/calendrier-gregorien/par-annee/1920), *
 ## L'annexion du royaume
 Entre [1885](/histoire/date/calendrier-gregorien/par-annee/1885) et [1916](/histoire/date/calendrier-gregorien/par-annee/1916), les colons européens introduisent la religion [chrétienne](/religion/confession/christianisme) dans le [royaume](/geographie/royaume/afrique/a-situer/bamoun) et, par la même occasion, démantèlent les structures politiques établies. [^1]
 ## L'exil du roi
-La [France](/geographie/pays/europe/ouest/france) décide d'exiler le *Sultan NJOYA* à [Yaoundé](/geographie/ville/afrique/centre/cameroun/yaounde).
+La [France](/geographie/pays/europe/ouest/france) décide d'exiler le *Sultan NJOYA* à [Yaoundé](/geographie/ville/afrique/centre/cameroun/yaounde) dans le but démanteler le pouvoir du *Sultan*.[^2]
+
+Pour se faire, les français pactisent avec des [Bamouns](/peuple/afrique/a-situer/bamoun) et d'autres Africains avides de pouvoir et de commandement.[^2]
+
+Voici une liste de « reproches » fait à *NJOYA* par les français pour soutenir le démantèlement du [royaume](/geographie/royaume/afrique/a-situer/bamoun) [^2] :
+* il a plusieurs femmes (plus de six cent) et trop d'enfants ;
+* il vit dans un grand palais ;
+* il asservit son peuple ;
+* il possède toutes les terres et cultures du royaume ;
+* il possède le droit de mort et de vie sur les [Bamouns](/peuple/afrique/a-situer/bamoun) ;
+* il refuse d'être auxilliaire de l'administration française.
+
+Pour comprendre cette supercherie, il faut se rappeler que :
+* à défaut de légaliser la polygamie, le [15](/histoire/date/calendrier-gregorien/par-jour/15) [Décembre](/histoire/date/calendrier-gregorien/par-mois/decembre) [1904](/histoire/date/calendrier-gregorien/par-annee/1904), les français suppriment l'interdiction de mariage entre les personnes ayant pratiqué l'adultère ;
+* le président réside à l'Élysée (11 179 m²) ;
+* les [Kamtyu](/terminologie/mdw-ntr/kamit) de la diaspora vivent dans une situation d'asservissement, malgré l'[abolition officielle de l'esclavage](/histoire/periode/yovodah/abolition-de-lesclavage) ;
+* la [France](/geographie/pays/europe/ouest/france) prend possession des terres et du travail agricole de toutes ses colonies pour son propre profit ;
+* *le Roi Ibrahim NJOYA* a renoncé à son droit de vie ou de mort avant l'arrivé des français ;
+* la peine de mort n'est pas abolie en [France](/geographie/pays/europe/ouest/france), à cette époque ;
+* pour assurer son égémonie, la [France](/geographie/pays/europe/ouest/france) oblige tous les royaumes présents sur le territoire de ses dites colonies françaises à être annexées.
+
 Le [5](/histoire/date/calendrier-gregorien/par-jour/5) [Avril](/histoire/date/calendrier-gregorien/par-mois/avril) [1931](/histoire/date/calendrier-gregorien/par-annee/1931) un arrêté signé par [MARCHAND](/personnalite/homme/colon/europe/ouest/pays/france/marchand) (le gouvereneur des colonies, commissaire de la république française du [Cameroun](/geographie/pays/afrique/nord-ouest/cameroun) et commandeur de la légion d'honneur) stipule ceci[^2] :
 * Article 1 : Le nommé *NJOYA* ex-sultant de [Fumban](/geographie/ville/afrique/nord-ouest/cameroun/foumban) sera interné pendant une période de cinq années avec résidence obligatoire à [Yaoundé](/geographie/ville/afrique/centre/cameroun/yaounde). Les biens seront plassés sous séquestre pendant la durée de l'internement.
 * Article 2 : Les chefs de des six conscriptions […] de [Yaoundé](/geographie/ville/afrique/centre/cameroun/yaounde) sont chargés de l'exécution du présent arrêté qui sera enregistré et communiqué partout ou besoin sera et notifié à l'intéressé.
