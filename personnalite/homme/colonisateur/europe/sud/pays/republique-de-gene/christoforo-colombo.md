@@ -1,4 +1,4 @@
-<!-- TITLE: Christophe COLOMB -->
-<!-- SUBTITLE: Présentation de Christoforo Colombo -->
+<!-- TITLE: Cristoforo COLOMBO -->
+<!-- SUBTITLE: Présentation de Cristoforo COLOMBO -->
 
 # Header
