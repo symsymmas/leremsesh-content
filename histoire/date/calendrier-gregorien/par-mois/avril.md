@@ -9,7 +9,7 @@ Voici une liste de publications Facebook qui se sont produits un mois d'Avril :
 
 # Exil
 Voici une liste d'individu exilés un mois d'Avril :
-* le [Roi Ibrahim NJOYA](/personnalite/homme/noble/souverain/roi/afrique/centre/bamoun/ibrahim-njoya) se voit exilé à [Yaoundé](/geographie/ville/afrique/centre/cameroun/yaounde) par les français dans l'arrêté de [MARCHAND]() le [5]() *Avril* [1931](/histoire/date/calendrier-gregorien/par-annee/1931).[^1][^2]
+* le [Roi Ibrahim NJOYA](/personnalite/homme/noble/souverain/roi/afrique/centre/bamoun/ibrahim-njoya) se voit exilé à [Yaoundé](/geographie/ville/afrique/centre/cameroun/yaounde) par les français dans l'arrêté de [MARCHAND](/personnalite/homme/colon/europe/ouest/pays/france/marchand) le [5](/histoire/date/calendrier-gregorien/par-jour/5) *Avril* [1931](/histoire/date/calendrier-gregorien/par-annee/1931).[^1][^2]
 
 
 [^1]: [Ibrahim Njoya](https://fr.wikipedia.org/wiki/Ibrahim_Njoya). In [Wikipédia](https://fr.wikipedia.org/) [en ligne]. Fondation Wikimedia, 2003 [consulté le [10](/histoire/date/calendrier-gregorien/par-jour/10) [Juin](/histoire/date/calendrier-gregorien/par-mois/juin) [2018](/histoire/date/calendrier-gregorien/par-annee/2018)]. https://fr.wikipedia.org/wiki/Ibrahim_Njoya
