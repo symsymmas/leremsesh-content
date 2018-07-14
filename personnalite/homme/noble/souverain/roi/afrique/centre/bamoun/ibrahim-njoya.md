@@ -9,7 +9,7 @@
 *Ibrahim Njoya* est né en [1876](/histoire/date/calendrier-gregorien/par-annee/1876) de [Na Njapdnunke](/personnalite/femme/noble/souveraine/reine/afrique/a-situer/bamoun/na-njapdnunke), [sa mère](/personnalite/femme/noble/souveraine/reine/afrique/a-situer/bamoun/na-njapdnunke).[^1]
 
 # Son arrivée au pouvoir
-Suite à la guerre civile de [1892](/histoire/date/calendrier-gregorien/par-annee/1892) à [1895](/histoire/date/calendrier-gregorien/par-annee/1895) qui a ravagé le [royaume Bamoun](/geographie/royaume/afrique/a-situer/bamoun), *Njoya* et son peuple se dotent d'une écriture nommée [shu-mom](). Grâce à celle-ci, les [Bamouns](/peuple/afrique/a-situer/bamoun) améliorent leur système administratif (ex. : fiscalité, justice et archives).[^1]
+Suite à la [guerre civile]() de [1892](/histoire/date/calendrier-gregorien/par-annee/1892) à [1895](/histoire/date/calendrier-gregorien/par-annee/1895) qui a ravagé le [royaume Bamoun](/geographie/royaume/afrique/a-situer/bamoun), *Njoya* et son peuple se dotent d'une écriture nommée [shu-mom](/ecriture/shu-mom). Grâce à celle-ci, les [Bamouns](/peuple/afrique/a-situer/bamoun) améliorent leur système administratif (ex. : fiscalité, justice et archives).[^1]
 
 # Constructions historiques
 Durant son règne, *Ibrahim Njoya* construit le [palais du sultant Bamoun](/monument/afrique/a-situer/palais-des-sultants-bamouns). Celui-ci se trouve à Foumban (pays du Cameroun) et a été classé au patrimoine mondial de l'Unesco.[^1]
