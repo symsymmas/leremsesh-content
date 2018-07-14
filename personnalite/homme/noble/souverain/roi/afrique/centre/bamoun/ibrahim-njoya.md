@@ -20,8 +20,6 @@ Le *Roi Ibrahim NJOYA* s'est marrié avec plus de six cent femmes. Par ces maria
 Durant son règne, *Ibrahim Njoya* construit le [palais du sultant Bamoun](/monument/afrique/a-situer/palais-des-sultants-bamouns). Celui-ci se trouve à Foumban (pays du Cameroun) et a été classé au patrimoine mondial de l'Unesco.[^1]
 
 # Fondements spirituels et religieux
-![Njoya Of Bamun](/uploads/personnalite/njoya-of-bamun.jpg "Le Roi des Bamouns, Ibrahim NJOYA"){.align-right}
-
 En [1915](/histoire/date/calendrier-gregorien/par-annee/1915), *Ibrahim NJOYA* crée une spiritualité basée sur les [rites traditionnels]() de son peuple en plus d'influences [musulmanes](/religion/confession/islam) et [chrétiennes](/religion/confession/christianisme).
 Par la suite, dès [1920](/histoire/date/calendrier-gregorien/par-annee/1920), *Njoya* adhère à l'[Islam](/religion/confession/islam).[^1]
 
