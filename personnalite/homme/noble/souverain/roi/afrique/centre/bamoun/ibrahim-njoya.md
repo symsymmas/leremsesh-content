@@ -28,7 +28,7 @@ Par la suite, dès [1920](/histoire/date/calendrier-gregorien/par-annee/1920), *
 Entre [1885](/histoire/date/calendrier-gregorien/par-annee/1885) et [1916](/histoire/date/calendrier-gregorien/par-annee/1916), les colons européens introduisent la religion [chrétienne](/religion/confession/christianisme) dans le [royaume](/geographie/royaume/afrique/a-situer/bamoun) et, par la même occasion, démantèlent les structures politiques établies. [^1]
 ## L'exil du roi
 La [France](/geographie/pays/europe/ouest/france) décide d'exiler le *Sultan NJOYA* à [Yaoundé](/geographie/ville/afrique/centre/cameroun/yaounde).
-Le [5]() [Avril](/histoire/date/calendrier-gregorien/par-mois/avril) [1931](/histoire/date/calendrier-gregorien/par-annee/1931) un arrêté signé par *MARCHAND* (le gouvereneur des colonies, commissaire de la république française du Cameroun et commandeur de la légion d'honneur) stipule ceci[^2] :
+Le [5]() [Avril](/histoire/date/calendrier-gregorien/par-mois/avril) [1931](/histoire/date/calendrier-gregorien/par-annee/1931) un arrêté signé par [MARCHAND]() (le gouvereneur des colonies, commissaire de la république française du Cameroun et commandeur de la légion d'honneur) stipule ceci[^2] :
 * Article 1 : Le nommé *NJOYA* ex-sultant de [Fumban]() sera interné pendant une période de cinq années avec résidence obligatoire à [Yaoundé](). Les biens seront plassés sous séquestre pendant la durée de l'internement.
 * Article 2 : Les chefs de des six conscriptions […] de [Yaoundé]() sont chargés de l'exécution du présent arrêté qui sera enregistré et communiqué partout ou besoin sera et notifié à l'intéressé.
 
