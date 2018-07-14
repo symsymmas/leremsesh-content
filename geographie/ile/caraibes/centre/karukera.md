@@ -8,7 +8,7 @@ Cet ensemble est également connu sous le nom de Guadeloupe.
 
 # HISTOIRE
 ## Les Amérindiens 
-Avant l’intrusion de Christophe Colomb, les îles de la [Caraïbe](/geographie/ile/caraibes/iles-de-la-caraibe) sont peuplées par les Arawaks, des amérindiens venant d’Amazonie. Les Arawaks ont précédés [Caribas](/peuple/caraibes/partout/caraibe) qui se sont installés dans les îles caraïbéennes plus tardivement.[^2]
+Avant l’intrusion de Christophe Colomb, les îles de la [Caraïbe](/geographie/ile/caraibes/iles-de-la-caraibe) sont peuplées par les Arawaks, des amérindiens venant d’Amazonie. Les Arawaks ont précédés les [Caribas](/peuple/caraibes/partout/caraibe) qui se sont installés dans les îles caraïbéennes plus tardivement.[^2]
 
 ## L'arrivé de Christophe Colomb
 
