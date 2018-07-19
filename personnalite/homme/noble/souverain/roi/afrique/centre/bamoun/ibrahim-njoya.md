@@ -24,9 +24,13 @@ En [1915](/histoire/date/calendrier-gregorien/par-annee/1915), *Ibrahim NJOYA* c
 Par la suite, dès [1920](/histoire/date/calendrier-gregorien/par-annee/1920), *Njoya* adhère à l'[Islam](/religion/confession/islam).[^1]
 
 # La colonisation européenne
-## L'annexion du royaume
+## La colonisation allemande
+
+## La colonisation française
+### L'annexion du royaume
 Entre [1885](/histoire/date/calendrier-gregorien/par-annee/1885) et [1916](/histoire/date/calendrier-gregorien/par-annee/1916), les colons européens introduisent la religion [chrétienne](/religion/confession/christianisme) dans le [royaume](/geographie/royaume/afrique/a-situer/bamoun) et, par la même occasion, démantèlent les structures politiques établies. [^1]
-## L'exil du roi
+
+### L'exil du roi
 ![Njoya Of Bamun](/uploads/personnalite/njoya-of-bamun.jpg "Le Roi Ibrahim NJOYA"){.align-right}
 
 La [France](/geographie/pays/europe/ouest/france) décide d'exiler le *Sultan NJOYA* à [Yaoundé](/geographie/ville/afrique/centre/cameroun/yaounde) dans le but de démanteler le pouvoir du *Sultan*.[^2]/geographie/royaume/afrique/a-situer/bamoun
