@@ -1,4 +1,4 @@
-<!-- TITLE: AI (Afroncentricity International) -->
+<!-- TITLE: AI (Afroncentricité International) -->
 <!-- SUBTITLE: Présentation d'AI -->
 
 # Header
