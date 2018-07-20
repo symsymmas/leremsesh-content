@@ -82,9 +82,26 @@ Pour comprendre la fourberie, il faut se rappeler que :
 * la peine de mort n'est pas abolie en [France](/geographie/pays/europe/ouest/france), à cette époque[^7] ;
 * pour assurer son égémonie, la [France](/geographie/pays/europe/ouest/france) oblige tous les royaumes présents sur le territoire de ses dites colonies françaises à être annexées (le [royaume Bamoun](/geographie/royaume/afrique/a-situer/bamoun) en est l'exemple).
 
-Le [5](/histoire/date/calendrier-gregorien/par-jour/5) [Avril](/histoire/date/calendrier-gregorien/par-mois/avril) [1931](/histoire/date/calendrier-gregorien/par-annee/1931), un arrêté signé par [MARCHAND](/personnalite/homme/colon/europe/ouest/pays/france/marchand) (le gouvereneur des colonies, commissaire de la république française du [Cameroun](/geographie/pays/afrique/nord-ouest/cameroun) et commandeur de la légion d'honneur) stipule ceci[^2] :
-* Article 1 : Le nommé *NJOYA* ex-sultant de [Fumban](/geographie/ville/afrique/nord-ouest/cameroun/foumban) sera interné pendant une période de cinq années avec résidence obligatoire à [Yaoundé](/geographie/ville/afrique/centre/cameroun/yaounde). Les biens seront plassés sous séquestre pendant la durée de l'internement.
-* Article 2 : Les chefs de des six conscriptions […] de [Yaoundé](/geographie/ville/afrique/centre/cameroun/yaounde) sont chargés de l'exécution du présent arrêté qui sera enregistré et communiqué partout ou besoin sera et notifié à l'intéressé.
+La destitution de *NJOYA* se déroule un matin, lors de son embarquement ; d'un côté les [Bamouns](/peuple/afrique/a-situer/bamoun) désarmés et de l'autre les français menaçant le [peuple](/peuple/afrique/a-situer/bamoun) avec des kalashnikovs.[^2]
+
+Quelques jours après son embarquement, les guerriers [Bamouns](/peuple/afrique/a-situer/bamoun) font circuler la rumeur d'une libération du *Sultan NJOYA*.[^2]
+Par peur d'une libération du *roi* par les guerriers [Bamouns](/peuple/afrique/a-situer/bamoun), les français envisagent d'exiler le *roi* au [Congo](/create/geographie/pays/afrique/centre/congo) avec la complicité d'Africains corrompus. En définitive, l'opposant franco-africain décide d'exiler le roi au [Yaoundé](/geographie/ville/afrique/centre/cameroun/yaounde), à la demande de Tanashangana.[^2]
+
+Le [5](/histoire/date/calendrier-gregorien/par-jour/5) [Avril](/histoire/date/calendrier-gregorien/par-mois/avril) [1931](/histoire/date/calendrier-gregorien/par-annee/1931), un arrêté signé par [MARCHAND](/personnalite/homme/colon/europe/ouest/pays/france/marchand) (le gouvereneur des colonies, commissaire de la république française du [Cameroun](/geographie/pays/afrique/nord-ouest/cameroun) et commandeur de la légion d'honneur) stipule ceci[^2] :
+* Article 1 : Le nommé *NJOYA* ex-sultant de [Fumban](/geographie/ville/afrique/nord-ouest/cameroun/foumban) sera interné pendant une période de cinq années avec résidence obligatoire à [Yaoundé](/geographie/ville/afrique/centre/cameroun/yaounde). Les biens seront plassés sous séquestre pendant la durée de l'internement.
+* Article 2 : Les chefs de des six conscriptions […] de [Yaoundé](/geographie/ville/afrique/centre/cameroun/yaounde) sont chargés de l'exécution du présent arrêté qui sera enregistré et communiqué partout ou besoin sera et notifié à l'intéressé.
+
+# La fin du roi
+Lors de son exil à [Yaoundé](/geographie/ville/afrique/centre/cameroun/yaounde), le *Sultan Ibrahim NJOYA* réussit à créer un lien avec le peuple de Yaoundé. Il le reçoit, lui donne à manger, dessine, peint et enseigne sa langue et son écritureau peuple.[^2]
+En remerciement, le peuple aide le *Roi NJOYA* dans ses travaux de construction.[^2]
+
+Le *Sultan Ibrahim NJOYA* se lie d'amitié avec Shala Tangana. Tel un invité de Tanashangana, *le Roi* est convié aux défilés de l'armée française sur les terres Africaines, au [Yaoundé](/geographie/ville/afrique/centre/cameroun/yaounde).[^2]
+
+*Ibrahim NJOYA* apprécie tant Tangana qu'il en vient à donner son nom à son fils qui né à [Yaoundé](/geographie/ville/afrique/centre/cameroun/yaounde).[^2]
+
+Malgré cette amitié avec Shala Tangana, le *Sultan NJOYA* sait pertinemment que Tangana est du côté des français et qu'il a pour mission de le surveiller.[^2]
+
+Prenant connaissance de la nomination de son frère « Sultan par intérime », par les colons, le *Roi NJOYA* subit un choque psychologique qui le travaille jusqu'à sa mort.
 
 
 [^1]: [Ibrahim Njoya](https://fr.wikipedia.org/wiki/Ibrahim_Njoya). In [Wikipédia](https://fr.wikipedia.org/) [en ligne]. Fondation Wikimedia, 2003 [consulté le [10](/histoire/date/calendrier-gregorien/par-jour/10) [Juin](/histoire/date/calendrier-gregorien/par-mois/juin) [2018](/histoire/date/calendrier-gregorien/par-annee/2018)]. https://fr.wikipedia.org/wiki/Ibrahim_Njoya
