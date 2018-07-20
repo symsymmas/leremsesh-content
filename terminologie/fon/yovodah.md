@@ -12,7 +12,7 @@ Voici une liste non exhaustive de pays qui ont élaboré le *Yovodah* :
 * les [Pays-Bas](/geographie/pays/europe/ouest/pays-bas).
 
 # L'impact du Yovodah
-## Les mentalités
+## … sur les mentalités
 Après des siècles de violence et d'ensiegnement basés sur le négatif et l'interdit, les afro-descendants issus du Yovodah se voient contraint de se reconstruire sur plusieurs plans (morale, physique, pécunier, etc.). En effet, sortant d'un passé colonial et esclavagiste, cette partie du peuple [Kamite](/peuple/afrique/nord-est/empire/kmt/kemtiou) s'est vu contrainte d'adopter[^1] :
 * des expressions négatives ;
 * un déni des sentiments profonds ;
