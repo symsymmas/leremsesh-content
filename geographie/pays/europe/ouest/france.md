@@ -1,7 +1,7 @@
 <!-- TITLE: France -->
 <!-- SUBTITLE: Présentation de la France -->
 
-La *France* fait partie des pays Européens qui ont colonisé différentes terres extra-Européennes (ex. : [Caraïbes](/geographie/ile/caraibes/iles-de-la-caraibe) et [Afrique](/terminologie/autre/afrique)) et asservi différents peuples (ex. : les [Kamtyu](/terminologie/mdw-ntr/kamit)).[^2]
+La *France* fait partie des pays Européens qui ont colonisé différentes terres extra-Européennes, comme les [Caraïbes](/geographie/ile/caraibes/iles-de-la-caraibe) et l'[Afrique](/terminologie/autre/afrique), et asservis différents peuples (ex. : les [Kamtyu](/terminologie/mdw-ntr/kamit)).[^2]
 
 # Idéologie coloniale
 La France a pratiqué une politique coloniale d'assimilation dans le but de contrôler et orienter les pensées, les paroles, les faits et les gestes des populations soumises par la force des armes.[^1]
