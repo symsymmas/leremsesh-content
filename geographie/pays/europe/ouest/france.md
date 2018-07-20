@@ -7,7 +7,7 @@ La *France* fait partie des pays Européens qui ont colonisé différentes terre
 La France a pratiqué une politique coloniale d'assimilation dans le but de contrôler et orienter les pensées, les paroles, les faits et les gestes des populations soumises par la force des armes.[^1]
 
 # Royaumes annexés
-Voici une liste non exhaustive de territoires annexés par la *France* durant le [Yovodah]().
+Voici une liste non exhaustive de territoires annexés par la *France* durant le [Yovodah](/terminologie/fon/yovodah).
 ## Le royaume Bamoun
 Par l'introduction du [christianisme](/religion/confession/christianisme) entre [1885](/histoire/date/calendrier-gregorien/par-annee/1885) et [1916](/histoire/date/calendrier-gregorien/par-annee/1916), les français démentèlent les structures politiques du [royaume](/personnalite/homme/noble/souverain/roi/afrique/centre/bamoun/ibrahim-njoya).[^2]
 Par la suite, à l'aide de quelques [Bamouns](/peuple/afrique/a-situer/bamoun) corrompus, les français exilent le [roi de ce royaume, Ibrahim NJOYA](/personnalite/homme/noble/souverain/roi/afrique/centre/bamoun/ibrahim-njoya).[^2]
