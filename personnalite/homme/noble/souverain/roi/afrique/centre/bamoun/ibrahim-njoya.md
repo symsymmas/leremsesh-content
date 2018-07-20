@@ -15,7 +15,7 @@ Le *Roi Ibrahim NJOYA* s'est marrié avec plus de six cent femmes. Par ces maria
 Le sultan *Njoya* meurt en [1933](/histoire/date/calendrier-gregorien/par-annee/1933) à [Yaoundé](/geographie/ville/afrique/centre/cameroun/yaounde), dans une résidence surveillée par l'administration française, suite à son exil dans cette même ville par les français.[^1][^2]
 
 # Fondements spirituels et religieux
-En [1915](/histoire/date/calendrier-gregorien/par-annee/1915), *Ibrahim NJOYA* crée une spiritualité basée sur les [rites traditionnels]() de son peuple en plus d'influences [musulmanes](/religion/confession/islam) et [chrétiennes](/religion/confession/christianisme).
+En [1915](/histoire/date/calendrier-gregorien/par-annee/1915), *Ibrahim NJOYA* crée une spiritualité basée sur les rites traditionnels de son peuple en plus d'influences [musulmanes](/religion/confession/islam) et [chrétiennes](/religion/confession/christianisme).
 Par la suite, dès [1920](/histoire/date/calendrier-gregorien/par-annee/1920), *Njoya* adhère à l'[Islam](/religion/confession/islam).[^1]
 
 # Monuments
@@ -31,7 +31,7 @@ Suite à la [guerre civile](/histoire/evenement/guerre/guerre-civile-bamoun) de 
 Voir [guerre civile](/histoire/evenement/guerre/guerre-civile-bamoun).
 
 ## Première guerre tribale Européenne
-Lors de la [première guerre tribale Européenne](), le [royaume Bamoun]() est colonisé par les Allemands. En [1920](), soit deux ans après la fin « officielle » de cette guerre, les Allemands capitulent et cessent de se battre contre les anglais sur le territoire des [Bamouns]().[^2]
+Lors de la [première guerre tribale Européenne](/histoire/periode/epoque-moderne/europe/partout/confrontation/premiere-guerre-tribale-europeenne), le [royaume Bamoun](/geographie/royaume/afrique/a-situer/bamoun) est colonisé par les Allemands. En [1920](/histoire/date/calendrier-gregorien/par-annee/1920), soit deux ans après la fin « officielle » de cette guerre, les Allemands capitulent et cessent de se battre contre les anglais sur le territoire des [Bamouns]().[^2]
 
 # La colonisation européenne
 ## La colonisation allemande
