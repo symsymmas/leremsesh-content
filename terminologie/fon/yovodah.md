@@ -4,7 +4,7 @@
 Le terme *Yovodah* désigne le « désastre blanc », c'est-à-dire la catastrophe issue de l'arrivée des Européens [leucodermes](/terminologie/francais/leucoderme) sur les terres d'Afrique. Les Français nomment cela comme « commerce triangulaire », « esclavage » ou « traite négrière ».
 
 # Les agresseurs
-Voici une liste non exhaustive de pays qui ont élaboré le *Yovodah* sont :
+Voici une liste non exhaustive de pays qui ont élaboré le *Yovodah* :
 * le [Portugal](/geographie/pays/europe/ouest/portugal) ;
 * l'[Espagne](/geographie/pays/europe/ouest/espagne) ;
 * la [France](/geographie/pays/europe/ouest/france) ;
