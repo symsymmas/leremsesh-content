@@ -10,7 +10,7 @@ La France a pratiqué une politique coloniale d'assimilation dans le but de cont
 Voici une liste non exhaustive de territoires annexés par la *France* durant le [Yovodah]().
 ## Le royaume Bamoun
 Par l'introduction du [christianisme](/religion/confession/christianisme) entre [1885](/histoire/date/calendrier-gregorien/par-annee/1885) et [1916](/histoire/date/calendrier-gregorien/par-annee/1916), les français démentèlent les structures politiques du [royaume](/personnalite/homme/noble/souverain/roi/afrique/centre/bamoun/ibrahim-njoya).[^2]
-Par la suite, à l'aide de quelques Bamouns corrompus, les français exilent le [roi de ce royaume, Ibrahim NJOYA](/personnalite/homme/noble/souverain/roi/afrique/centre/bamoun/ibrahim-njoya).[^2]
+Par la suite, à l'aide de quelques [Bamouns](/peuple/afrique/a-situer/bamoun) corrompus, les français exilent le [roi de ce royaume, Ibrahim NJOYA](/personnalite/homme/noble/souverain/roi/afrique/centre/bamoun/ibrahim-njoya).[^2]
 
 
 [^1]: [Doumbi-Fakoly](/personnalite/homme/polymathe/afrique/nord-ouest/pays/mali/doumbi-fakoli). [Marcus Garvey expliqué aux adolescents](/ouvrage/documentaire/marcus-garvey-explique-aux-adolescents). Édition [MENAIBUC](/organisme/editeur/menaibuc) ; 2ème trimestre [2009](/histoire/date/calendrier-gregorien/par-annee/2009). 91 p. ISBN : 978-2-35349-102-5.
