@@ -63,9 +63,9 @@ Peu après, les Français et quelques [Bamouns]() trahissent le traité de paix 
 
 Par peur d'une révolte populaire, les Français décident d'exiler le *Sultan NJOYA* à [Yaoundé](/geographie/ville/afrique/centre/cameroun/yaounde), dans le but de démanteler son pouvoir.[^2]
 
-Pour se faire, les français pactisent avec des [Bamouns](/peuple/afrique/a-situer/bamoun) et d'autres Africains avides de pouvoir et de commandement.[^2]
+À l'aide d'un arrêté signé par [MARCHAND](/personnalite/homme/colon/europe/ouest/pays/france/marchand) et d'une liste de « reproches » faits au *roi*, les français accompagnés de [Bamouns](/peuple/afrique/a-situer/bamoun) et d'autres Africains avides de pouvoir et de commandement réussissent à destituer *le Sultan NJOYA*.[^2]
 
-Voici une liste de « reproches » fait à *NJOYA* par les français pour soutenir le démantèlement du [royaume](/geographie/royaume/afrique/a-situer/bamoun) [^2] :
+Voici la liste des « reproches » faits à *NJOYA* par les français pour soutenir le démantèlement du [royaume](/geographie/royaume/afrique/a-situer/bamoun) [^2] :
 * il a plusieurs épouses (plus de six cent) et trop d'enfants ;
 * il vit dans un grand palais ;
 * il asservit son peuple ;
@@ -73,16 +73,16 @@ Voici une liste de « reproches » fait à *NJOYA* par les français pour sout
 * il possède le droit de mort et de vie sur les [Bamouns](/peuple/afrique/a-situer/bamoun) ;
 * il refuse d'être auxilliaire de l'administration française.
 
-Pour comprendre cette supercherie, il faut se rappeler que :
-* à défaut de légaliser la polygamie, le [15](/histoire/date/calendrier-gregorien/par-jour/15) [Décembre](/histoire/date/calendrier-gregorien/par-mois/decembre) [1904](/histoire/date/calendrier-gregorien/par-annee/1904), les français suppriment l'interdiction de mariage entre les personnes ayant pratiqué l'adultère[^3] ;
-* le président réside à l'Élysée (11 179 m²)[^4] ;
-* les [Kamtyu](/terminologie/mdw-ntr/kamit) de la diaspora vivent dans une situation d'asservissement, malgré l'[abolition officielle de l'esclavage](/histoire/periode/yovodah/abolition-de-lesclavage)[^5] ;
+Pour comprendre la fourberie, il faut se rappeler que :
+* à défaut de légaliser la polygamie, le [15](/histoire/date/calendrier-gregorien/par-jour/15) [Décembre](/histoire/date/calendrier-gregorien/par-mois/decembre) [1904](/histoire/date/calendrier-gregorien/par-annee/1904), les français suppriment l'interdiction de mariage entre les personnes ayant pratiqué l'adultère, ce qui montre que le fait qu'un homme possède plusieurs femmes n'est pas un « problème » dans ce pays[^3] ;
+* le président de la république réside à l'Élysée, soit dans 11 179 m²[^4] ;
+* les [Kamtyu](/terminologie/mdw-ntr/kamit) de la diaspora vivent dans une situation d'asservissement dans toutes les colonies françaises, malgré l'[abolition officielle de l'esclavage](/histoire/periode/yovodah/abolition-de-lesclavage)[^5] ;
 * la [France](/geographie/pays/europe/ouest/france) prend possession des terres et du travail agricole de toutes ses colonies pour son propre profit[^6] ;
 * *le Roi Ibrahim NJOYA* a renoncé à son droit de vie ou de mort avant l'arrivé des français[^2] ;
 * la peine de mort n'est pas abolie en [France](/geographie/pays/europe/ouest/france), à cette époque[^7] ;
 * pour assurer son égémonie, la [France](/geographie/pays/europe/ouest/france) oblige tous les royaumes présents sur le territoire de ses dites colonies françaises à être annexées (le [royaume Bamoun](/geographie/royaume/afrique/a-situer/bamoun) en est l'exemple).
 
-Le [5](/histoire/date/calendrier-gregorien/par-jour/5) [Avril](/histoire/date/calendrier-gregorien/par-mois/avril) [1931](/histoire/date/calendrier-gregorien/par-annee/1931) un arrêté signé par [MARCHAND](/personnalite/homme/colon/europe/ouest/pays/france/marchand) (le gouvereneur des colonies, commissaire de la république française du [Cameroun](/geographie/pays/afrique/nord-ouest/cameroun) et commandeur de la légion d'honneur) stipule ceci[^2] :
+Le [5](/histoire/date/calendrier-gregorien/par-jour/5) [Avril](/histoire/date/calendrier-gregorien/par-mois/avril) [1931](/histoire/date/calendrier-gregorien/par-annee/1931), un arrêté signé par [MARCHAND](/personnalite/homme/colon/europe/ouest/pays/france/marchand) (le gouvereneur des colonies, commissaire de la république française du [Cameroun](/geographie/pays/afrique/nord-ouest/cameroun) et commandeur de la légion d'honneur) stipule ceci[^2] :
 * Article 1 : Le nommé *NJOYA* ex-sultant de [Fumban](/geographie/ville/afrique/nord-ouest/cameroun/foumban) sera interné pendant une période de cinq années avec résidence obligatoire à [Yaoundé](/geographie/ville/afrique/centre/cameroun/yaounde). Les biens seront plassés sous séquestre pendant la durée de l'internement.
 * Article 2 : Les chefs de des six conscriptions […] de [Yaoundé](/geographie/ville/afrique/centre/cameroun/yaounde) sont chargés de l'exécution du présent arrêté qui sera enregistré et communiqué partout ou besoin sera et notifié à l'intéressé.
 
@@ -92,5 +92,5 @@ Le [5](/histoire/date/calendrier-gregorien/par-jour/5) [Avril](/histoire/date/ca
 [^3]: https://fr.wikipedia.org/wiki/Adult%C3%A8re#XIXe_si%C3%A8cle_en_France
 [^4]: https://fr.wikipedia.org/wiki/Palais_de_l%27%C3%89lys%C3%A9e#Le_palais_de_l'%C3%89lys%C3%A9e_en_chiffres
 [^5]: [Doumbi-Fakoly](/personnalite/homme/polymathe/afrique/nord-ouest/pays/mali/doumbi-fakoli). [Marcus Garvey expliqué aux adolescents](/ouvrage/documentaire/marcus-garvey-explique-aux-adolescents). Édition [MENAIBUC](/organisme/editeur/menaibuc) ; 2ème trimestre [2009](/histoire/date/calendrier-gregorien/par-annee/2009). 91 p. ISBN : 978-2-35349-102-5.
-[^6]: Les puissances d'argent de la martinique
-[^7]: https://fr.wikipedia.org/wiki/Peine_de_mort_en_France#Opinion_fran%C3%A7aise
+[^6]: [Les puissances d'argent de la martinique]()
+[^7]: [Peine de mort en France − Opinion française](https://fr.wikipedia.org/wiki/Peine_de_mort_en_France#Opinion_fran%C3%A7aise). In [Wikipédia, l'encyclopédie libre](https://fr.wikipedia.org) [en ligne]. Fondation Wikimedia, 2003 [consulté le [18](/histoire/date/calendrier-gregorien/par-jour/18) [Juillet](/histoire/date/calendrier-gregorien/par-mois/juillet) [2018](/histoire/date/calendrier-gregorien/par-annee/2018)]. https://fr.wikipedia.org/wiki/Peine_de_mort_en_France#Opinion_fran%C3%A7aise
