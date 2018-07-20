@@ -1,5 +1,15 @@
-<!-- TITLE: Yovodah -->
+<!-- TITLE: Yovodah (traite négriègre, commerce triangulaire, esclavage) -->
 <!-- SUBTITLE: Définition du terme Yovodah -->
+
+Le terme *Yovodah* désigne le « désastre blanc », c'est-à-dire la catastrophe issue de l'arrivée des Européens [leucodermes](/terminologie/francais/leucoderme) sur les terres d'Afrique. Les Français nomment cela comme « commerce triangulaire », « esclavage » ou « traite négrière ».
+
+# Les agresseurs
+Voici une liste non exhaustive de pays qui ont élaboré le *Yovodah* sont :
+* le [Portugal](/geographie/pays/europe/ouest/portugal) ;
+* l'[Espagne](/geographie/pays/europe/ouest/espagne) ;
+* la [France](/geographie/pays/europe/ouest/france) ;
+* l'[Angleterre](/geographie/pays/europe/ouest/angleterre) ;
+* les [Pays-Bas](/geographie/pays/europe/ouest/pays-bas).
 
 # L'impact du Yovodah
 ## Les mentalités
@@ -13,7 +23,7 @@ Après des siècles de violence et d'ensiegnement basés sur le négatif et l'in
 La psychologue [Diana BAUMRID](https://fr.wikipedia.org/wiki/Diana_Baumrind) démontre que de tels comportements (mêmes involontaires) affectent l'épanouissement des nouvelles générations[^1] :
 > « Les parents préconisent l'obéissance et le respect des règles familiales, mais ils accordent peu de place aux dimensions affectives et relationnelles. Ils considèrent que les enfants et les adolescents doivent se plier aux règles qu'on leur impose et adoptent des mesures disciplinaires punitives en cas de transgression. On recourt peu au dialogue, car ces parents sont d'avis que l'enfant doit se conformer aux exigences parentales, sans discuter. »
 
-# Les solutions allant à l'encontre du Yovodah
+# Les solutions aux problèmes issus du Yovodah
 ## L'Afrocentricité
 Parmi les solutions trouvées par les [panafricains](/ideologie/mouvement-panafricain) du monde enier, nous avons l'[Afrocentricité](/ideologie/afrocentricite) qui a été mis au jour par le [Professeur Molefi Kete Asante](/personnalite/homme/polymathe/tarana/nord/pays/etats-unis/molefi-kete-asante).
 
