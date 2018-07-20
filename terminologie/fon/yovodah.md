@@ -25,9 +25,10 @@ La psychologue [Diana BAUMRID](https://fr.wikipedia.org/wiki/Diana_Baumrind) dé
 
 # Les solutions aux problèmes issus du Yovodah
 ## L'Afrocentricité
-Parmi les solutions trouvées par les [panafricains](/ideologie/mouvement-panafricain) du monde enier, nous avons l'[Afrocentricité](/ideologie/afrocentricite) qui a été mis au jour par le [Professeur Molefi Kete Asante](/personnalite/homme/polymathe/tarana/nord/pays/etats-unis/molefi-kete-asante).
+Parmi les solutions trouvées par les [panafricains](/ideologie/mouvement-panafricain) du monde enier, nous avons l'[Afrocentricité](/ideologie/afrocentricite) qui a été mis au jour par le [Professeur Molefi Kete Asante](/personnalite/homme/polymathe/tarana/nord/pays/etats-unis/molefi-kete-asante).[^2]
 
-Cette idéologie incite tous les [Kemtiou](/peuple/afrique/nord-est/empire/kmt/kemtiou) à changer de mentalité en s'obligeant à voir la réussite dans tous les projets qu'ils entreprennent, principalement quand ceux-ci s'intègrent à la [stratégie afrocentrique](/ideologie/afrocentricite/strategie-afroncentrique).
+Cette idéologie incite tous les [Kemtiou](/peuple/afrique/nord-est/empire/kmt/kemtiou) à changer de mentalité en s'obligeant à voir la réussite dans tous les projets qu'ils entreprennent, principalement quand ceux-ci s'intègrent à la [stratégie afrocentrique](/ideologie/afrocentricite/strategie-afroncentrique).[^2]
 
 
 [^1]: [Le papyrus d'Ahmès](/ouvrage/revue/caraibes/sud/departement/madinina/le-papyrus-d-ahmes). ANYJART, Année 2015. 36 p.
+[^2]: [Molefi Kete Asante](/personnalite/homme/polymathe/tarana/nord/pays/etats-unis/molefi-kete-asante). [L'AFROCENTRICITE](/ouvrage/these/tamara/nord/pays/etats-unis/lafrocentricite). [Afrocentricity International](/organisme/a-classer/international/ai), [2014](). 199p.. ISBN 978-0-9899548-2-2.
