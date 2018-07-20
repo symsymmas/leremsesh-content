@@ -31,4 +31,4 @@ Cette idéologie incite tous les [Kemtiou](/peuple/afrique/nord-est/empire/kmt/k
 
 
 [^1]: [Le papyrus d'Ahmès](/ouvrage/revue/caraibes/sud/departement/madinina/le-papyrus-d-ahmes). ANYJART, Année 2015. 36 p.
-[^2]: [Molefi Kete Asante](/personnalite/homme/polymathe/tarana/nord/pays/etats-unis/molefi-kete-asante). [L'AFROCENTRICITE](/ouvrage/these/tamara/nord/pays/etats-unis/lafrocentricite). [Afrocentricity International](/organisme/a-classer/international/ai), [2014](). 199p.. ISBN 978-0-9899548-2-2.
+[^2]: [Molefi Kete Asante](/personnalite/homme/polymathe/tarana/nord/pays/etats-unis/molefi-kete-asante). [L'AFROCENTRICITE](/ouvrage/these/tamara/nord/pays/etats-unis/lafrocentricite). [Afrocentricity International](/organisme/a-classer/international/ai), [2014](/histoire/date/calendrier-gregorien/par-annee/2014). 199p.. ISBN 978-0-9899548-2-2.
