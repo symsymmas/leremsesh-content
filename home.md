@@ -1,12 +1,14 @@
 <!-- TITLE: Page d'acceuil -->
 
+![Logo Leremsesh Com](/uploads/logo/logo-leremsesh-com.png "Logo de LEREMSESH"){.pagelogo}
+
 # Bienvenue
 Bienvenue sur *LEREMSESH*, l'encyclopédie afrocentrée sous forme de wiki !
 [Plus d'infos…](/leremsesh/presentation-de-leremsesh)
 
-Cette semaine est dédiée à l'[archipelle des Caraïbes](/geographie/ile/caraibes/iles-de-la-caraibe). Ces îles sont aussi appelées [Antilles](/geographie/ile/caraibes/iles-de-la-caraibe#autres-denominations) par les Français.
+![Iles De La Caraibe](/uploads/map/iles-de-la-caraibe.png "Îles de la Caraibe"){.align-right}
 
-![Logo Leremsesh Com](/uploads/logo/logo-leremsesh-com.png "Logo de LEREMSESH"){.align-center}
+Cette semaine est dédiée à l'[archipelle des Caraïbes](/geographie/ile/caraibes/iles-de-la-caraibe). Ces îles sont aussi appelées [Antilles](/geographie/ile/caraibes/iles-de-la-caraibe#autres-denominations) par les Français.
 
 # Comment ça fonctionne ?
 ## Je souhaite faire une recherche
