@@ -4,7 +4,9 @@
 Bienvenue sur *LEREMSESH*, l'encyclopédie afrocentrée sous forme de wiki !
 [Plus d'infos…](/leremsesh/presentation-de-leremsesh)
 
-![Logo Leremsesh Com](/uploads/logo/logo-leremsesh-com.png "Logo Leremsesh Com"){.align-center}
+Cette semaine est dédiée à l'[archipelle des Caraïbes](/geographie/ile/caraibes/iles-de-la-caraibe). Ces îles sont aussi appelées [Antilles](/geographie/ile/caraibes/iles-de-la-caraibe#autres-denominations) par les Français.
+
+![Logo Leremsesh Com](/uploads/logo/logo-leremsesh-com.png "Logo de LEREMSESH"){.align-center}
 
 # Comment ça fonctionne ?
 ## Je souhaite faire une recherche
