@@ -2,7 +2,7 @@
 
 ![Logo Leremsesh Com](/uploads/logo/logo-leremsesh-com.png "Logo de LEREMSESH"){.pagelogo}
 
-**Bienvenue** sur *LEREMSESH*, l'encyclopédie afrocentrée sous forme de wiki !
+**Bienvenue** sur *LEREMSESH*, l'encyclopédie afrocentrée collaborative !
 [Plus d'infos…](/leremsesh/presentation-de-leremsesh)
 
 # Page de la semaine
