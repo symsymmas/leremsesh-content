@@ -5,6 +5,8 @@
 
 *Ibrahim Njoya* a été le XVIIème sultan [Bamoun](/peuple/afrique/a-situer/bamoun) de la dynastie de Nchare Yen. Il a régné de [1887](/histoire/date/calendrier-gregorien/par-annee/1887) à [1933](/histoire/date/calendrier-gregorien/par-annee/1933).[^1]
 
+Ce *Sultan* était vu comme un Dieu par les [Bamoun](/peuple/afrique/a-situer/bamoun), par rapport aux miracles qu'il avait accompli.[^2]
+
 # Naissance
 *Ibrahim Njoya* est né en [1876](/histoire/date/calendrier-gregorien/par-annee/1876) de [Na Njapdnunke](/personnalite/femme/noble/souveraine/reine/afrique/a-situer/bamoun/na-njapdnunke), [sa mère](/personnalite/femme/noble/souveraine/reine/afrique/a-situer/bamoun/na-njapdnunke).[^1]
 
@@ -12,7 +14,7 @@
 Le *Roi Ibrahim NJOYA* s'est marrié avec plus de six cent femmes. Par ces mariages, le *Roi NJOYA* souhaitait rassembler tous les critères de beauté féminins.[^2]
 
 # Décès
-Le sultan *Njoya* meurt en [1933](/histoire/date/calendrier-gregorien/par-annee/1933) à [Yaoundé](/geographie/ville/afrique/centre/cameroun/yaounde), dans une résidence surveillée par l'administration française, suite à son exil dans cette même ville par les français.[^1][^2]
+Le sultan *Njoya* meurt le [30]() [Mai]() [1933](/histoire/date/calendrier-gregorien/par-annee/1933), vers 2h du matin, à [Yaoundé](/geographie/ville/afrique/centre/cameroun/yaounde), suite à son exil dans cette ville par les français.[^1][^2]
 
 # Fondements spirituels et religieux
 En [1915](/histoire/date/calendrier-gregorien/par-annee/1915), *Ibrahim NJOYA* crée une spiritualité basée sur les rites traditionnels de son peuple en plus d'influences [musulmanes](/religion/confession/islam) et [chrétiennes](/religion/confession/christianisme).
@@ -49,7 +51,7 @@ Les Français prennent la succession des Anglais dans la colonisation du [royaum
 Entre [1885](/histoire/date/calendrier-gregorien/par-annee/1885) et [1916](/histoire/date/calendrier-gregorien/par-annee/1916), les colons européens introduisent la religion [chrétienne](/religion/confession/christianisme) dans le [royaume](/geographie/royaume/afrique/a-situer/bamoun) et, par la même occasion, démantèlent les structures politiques établies. [^1]
 
 Quand vient « le tour » de la colonisation française, une opposition [Bamoun]() prend place contre l'installation des Français dans le [royaume]().[^2]
-Pour éviter les effusions de sang, *le Sultan NJOYA* décide de faire la paix avec les Français.[^2]
+Pour éviter les effusions de sang, *le Sultan NJOYA* décide de faire la paix avec les Français. Cet acte, *NJOYA* l'a fait par intérêt pour son [peuple](), afin que celui-ci ne se voit pas de nouveau en guerre.[^2]
 Peu après, les Français et quelques [Bamouns]() trahissent le traité de paix en complotant contre le *Roi*.[^2]
 
 À l'aide d'accusations fausses[^2], les Français :
@@ -78,7 +80,7 @@ Pour comprendre la fourberie, il faut se rappeler que :
 * le président de la république réside à l'Élysée, soit dans 11 179 m²[^4] ;
 * les [Kamtyu](/terminologie/mdw-ntr/kamit) de la diaspora vivent dans une situation d'asservissement dans toutes les colonies françaises, malgré l'[abolition officielle de l'esclavage](/histoire/periode/yovodah/abolition-de-lesclavage)[^5] ;
 * la [France](/geographie/pays/europe/ouest/france) prend possession des terres et du travail agricole de toutes ses colonies pour son propre profit[^6] ;
-* *le Roi Ibrahim NJOYA* a renoncé à son droit de vie ou de mort avant l'arrivé des français[^2] ;
+* *le Roi Ibrahim NJOYA* a renoncé à son droit de vie ou de mort sur son peuple, lors qu'il est devenu *Roi, par conséquent avant l'arrivée des français[^2] ;
 * la peine de mort n'est pas abolie en [France](/geographie/pays/europe/ouest/france), à cette époque[^7] ;
 * pour assurer son égémonie, la [France](/geographie/pays/europe/ouest/france) oblige tous les royaumes présents sur le territoire de ses dites colonies françaises à être annexées (le [royaume Bamoun](/geographie/royaume/afrique/a-situer/bamoun) en est l'exemple).
 
@@ -101,7 +103,17 @@ Le *Sultan Ibrahim NJOYA* se lie d'amitié avec Shala Tangana. Tel un invité de
 
 Malgré cette amitié avec Shala Tangana, le *Sultan NJOYA* sait pertinemment que Tangana est du côté des français et qu'il a pour mission de le surveiller.[^2]
 
-Prenant connaissance de la nomination de son frère « Sultan par intérime », par les colons, le *Roi NJOYA* subit un choque psychologique qui le travaille jusqu'à sa mort.
+Prenant conscience du fait que son frère a été nommé « Sultan par intérime » par les colons et que Shala Tangana le surveille pour les français, le *Roi NJOYA* commence à s'isoler. *NJOYA* en arrive à rester enfermé dans sa chambre et n'accepter que la compagnie de sa femme.[^2]
+Petit à petit, sa santé s'agrave ; sa respiration diminue. Il va à l'hôpital puis il retourne à son domicile. À l'arrivée de la nuit, le *Sultan NJOYA* agonise.[^2]
+
+Le 30 Mai 1933, vers 2h du matin, le *Roi NJOYA* succombe.[^2]
+
+Dans un premier temps, les français décident d'énumer feu le *Sultan* à [Yaoundé]() mais après une négociation menée par les Africains, les français en viennent à accepter d'enterrer le *Roi Ibrahim NJOYA* près des siens, sur les terres [Bamoun](), à [Foumban]().[^2]
+
+Le 31 Mai 1933, la dépouille du *Roi NJOYA* est ramenée à [Foumban](). Les [Atémengé]() voient *NJOYA*, l'homme qui leur a donné de son temps, de son savoir et de son amour, pour la dernière fois.[^2]
+Le cortège est couvert par des pleurs et des désolations.[^2]
+
+Une fois à [Foumban](), les français veulent enterrer le *Roi NJOYA* dans la forêt ; néanmoins, les frères de *NJOYA* et le [peuple]() refusent catégoriquement. Ainsi, grâce à eux, le corps du *Roi NJOYA* peut reposer auprès de celui de ses ancêtres.[^2]
 
 
 [^1]: [Ibrahim Njoya](https://fr.wikipedia.org/wiki/Ibrahim_Njoya). In [Wikipédia](https://fr.wikipedia.org/) [en ligne]. Fondation Wikimedia, 2003 [consulté le [10](/histoire/date/calendrier-gregorien/par-jour/10) [Juin](/histoire/date/calendrier-gregorien/par-mois/juin) [2018](/histoire/date/calendrier-gregorien/par-annee/2018)]. https://fr.wikipedia.org/wiki/Ibrahim_Njoya
