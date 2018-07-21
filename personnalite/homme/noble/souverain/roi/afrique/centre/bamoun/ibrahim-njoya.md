@@ -3,25 +3,25 @@
 
 ![Ibrahim Njoya](/uploads/personnalite/ibrahim-njoya.jpg "Buste de Ibrahim Njoya"){.pagelogo}
 
-*Ibrahim Njoya* a été le XVIIème sultan [Bamoun](/peuple/afrique/a-situer/bamoun) de la dynastie de Nchare Yen. Il a régné de [1887](/histoire/date/calendrier-gregorien/par-annee/1887) à [1933](/histoire/date/calendrier-gregorien/par-annee/1933).[^1]
-
-Ce *Sultan* était vu comme un Dieu par les [Bamoun](/peuple/afrique/a-situer/bamoun), par rapport aux miracles qu'il avait accompli.[^2]
+*Ibrahim Njoya* est le XVIIème sultan [Bamoun](/peuple/afrique/a-situer/bamoun) de la dynastie de Nchare Yen. Il a régné de [1887](/histoire/date/calendrier-gregorien/par-annee/1887) à [1933](/histoire/date/calendrier-gregorien/par-annee/1933).[^1]
+Les [Bamouns](/peuple/afrique/a-situer/bamoun) l'ont considéré comme un Dieu, suite aux miracles qu'il a accomplis.[^2]
 
 # Naissance
 *Ibrahim Njoya* est né en [1876](/histoire/date/calendrier-gregorien/par-annee/1876) de [Na Njapdnunke](/personnalite/femme/noble/souveraine/reine/afrique/a-situer/bamoun/na-njapdnunke), [sa mère](/personnalite/femme/noble/souveraine/reine/afrique/a-situer/bamoun/na-njapdnunke).[^1]
 
 # Mariages
-Le *Roi Ibrahim NJOYA* s'est marrié avec plus de six cent femmes. Par ces mariages, le *Roi NJOYA* souhaitait rassembler tous les critères de beauté féminins.[^2]
+Le *Roi Ibrahim NJOYA* s'est marrié avec plus de six cent femmes. Par ces mariages, il souhaitait rassembler tous les critères de beauté féminins.[^2]
 
 # Décès
-Le sultan *Njoya* meurt le [30]() [Mai]() [1933](/histoire/date/calendrier-gregorien/par-annee/1933), vers 2h du matin, à [Yaoundé](/geographie/ville/afrique/centre/cameroun/yaounde), suite à son exil dans cette ville par les français.[^1][^2]
+Le *Sultan NJOYA* meurt le [30](/histoire/date/calendrier-gregorien/par-jour/30) [Mai](/histoire/date/calendrier-gregorien/par-mois/mai) [1933](/histoire/date/calendrier-gregorien/par-annee/1933), vers 2h du matin, à [Yaoundé](/geographie/ville/afrique/centre/cameroun/yaounde), suite à son exil dans cette ville par les français, avec la complicité de quelques Africains.[^1][^2]
 
 # Fondements spirituels et religieux
-En [1915](/histoire/date/calendrier-gregorien/par-annee/1915), *Ibrahim NJOYA* crée une spiritualité basée sur les rites traditionnels de son peuple en plus d'influences [musulmanes](/religion/confession/islam) et [chrétiennes](/religion/confession/christianisme).
-Par la suite, dès [1920](/histoire/date/calendrier-gregorien/par-annee/1920), *Njoya* adhère à l'[Islam](/religion/confession/islam).[^1]
+Dans le but de renforcer la puissance de son [royaume](/geographie/royaume/afrique/a-situer/bamoun/geographie/royaume/afrique/a-situer/bamoun), le *Roi Ibrahim NJOYA* crée en [1915](/histoire/date/calendrier-gregorien/par-annee/1915)  une spiritualité basée sur les rites traditionnels bamouns ; il y rajoute des éléments religieux provenant du [Coran](/ouvrage/a-classer/coran) et de la [Bible](/ouvrage/roman/bible-chretienne).[^2][^1]
+
+Par la suite, en [1920](/histoire/date/calendrier-gregorien/par-annee/1920), le *Sultan* adhère à l'[Islam](/religion/confession/islam).[^1]
 
 # Monuments
-Durant son règne, *Ibrahim Njoya* construit le [palais du sultant Bamoun](/monument/afrique/a-situer/palais-des-sultants-bamouns). Celui-ci se trouve à Foumban (pays du Cameroun) et a été classé au patrimoine mondial de l'Unesco.[^1]
+Durant son règne, *Ibrahim Njoya* construit le [palais du sultant Bamoun](/monument/afrique/a-situer/palais-des-sultants-bamouns). Celui-ci se trouve à Foumban (pays du Cameroun). Ce monument est classé patrimoine mondial de l'Unesco.[^1]
 
 # Sciences
 ![Bamum Syllabary](/uploads/ecriture/bamum-syllabary.png "L'écriture Shu-Mom"){.align-right}
@@ -106,7 +106,7 @@ Malgré cette amitié avec Shala Tangana, le *Sultan NJOYA* sait pertinemment qu
 Prenant conscience du fait que son frère a été nommé « Sultan par intérime » par les colons et que Shala Tangana le surveille pour les français, le *Roi NJOYA* commence à s'isoler. *NJOYA* en arrive à rester enfermé dans sa chambre et n'accepter que la compagnie de sa femme.[^2]
 Petit à petit, sa santé s'agrave ; sa respiration diminue. Il va à l'hôpital puis il retourne à son domicile. À l'arrivée de la nuit, le *Sultan NJOYA* agonise.[^2]
 
-Le 30 Mai 1933, vers 2h du matin, le *Roi NJOYA* succombe.[^2]
+Le [30]() [Mai]() [1933](), vers 2h du matin, le *Roi NJOYA* succombe.[^2]
 
 Dans un premier temps, les français décident d'énumer feu le *Sultan* à [Yaoundé]() mais après une négociation menée par les Africains, les français en viennent à accepter d'enterrer le *Roi Ibrahim NJOYA* près des siens, sur les terres [Bamoun](), à [Foumban]().[^2]
 
