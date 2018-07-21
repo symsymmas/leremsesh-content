@@ -5,9 +5,9 @@
 Bienvenue sur *LEREMSESH*, l'encyclopédie afrocentrée sous forme de wiki !
 [Plus d'infos…](/leremsesh/presentation-de-leremsesh)
 
+# Page de la semaine
 ![Iles De La Caraibe](/uploads/map/iles-de-la-caraibe.png "Îles de la Caraibe"){.align-right}
 
-# Page de la semaine
 Cette semaine est dédiée à l'[archipelle des Caraïbes](/geographie/ile/caraibes/iles-de-la-caraibe). Ces îles sont aussi appelées [Antilles](/geographie/ile/caraibes/iles-de-la-caraibe#autres-denominations) par les Français.
 
 # Comment ça fonctionne ?
