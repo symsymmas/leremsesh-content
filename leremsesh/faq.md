@@ -1,5 +1,21 @@
 <!-- TITLE: Foire Aux Questions -->
 
+# Comment j'utilise l'encyclopédie ?
+## Je souhaite faire une recherche
+Pour commencer, faites une recherche dans la barre ci-dessus. Par exemple, pour savoir ce que c'est que leremsesh, saisissez « leremsesh », puis cliquez sur l'une des propositions.
+
+## Je ne sais pas quoi chercher
+Il possible de voir la liste des pages à cette adresse : [https://leremsesh.com/all](https://leremsesh.com/all).
+
+## Je souhaite créer ou modifier une page
+Voici les étapes à suivre pour partager vos connaissances afrocentrées :
+* tout d'abord, procurez-vous un compte Google ou Github ;
+* à partir du moment où vous possédez au moins l'un de ces comptes, accédez à [ce lien](https://partage.leremsesh.com) ;
+* sur la page qui s'affiche, cliquez sur le bouton qui correspond au compte que vous souhaitez utiliser ;
+* authentifiez-vous, si ce n'est pas déjà fait.
+
+Une fois authentifié, vous accédez directement à la page d'acceuil de *PARTAGE.LEREMSESH* où vous trouverez des informations sur les manipulations vous permettant de créer ou de modifier une page.
+
 # Quelle est la différence entre LEREMSESH et PARTAGE.LEREMSESH ?
 *LEREMSESH* est le site vitrine qui permet à n'importe qui d'accéder à des informations [afrocentrées](/ideologie/afrocentricite), sans avoir à s'identifier.
 
