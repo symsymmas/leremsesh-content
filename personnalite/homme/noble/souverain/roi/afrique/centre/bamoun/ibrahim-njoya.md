@@ -3,7 +3,7 @@
 
 ![Ibrahim Njoya](/uploads/personnalite/ibrahim-njoya.jpg "Buste de Ibrahim Njoya"){.pagelogo}
 
-*Ibrahim Njoya* est le XVIIème sultan [Bamoun](/peuple/afrique/a-situer/bamoun) de la dynastie de Nchare Yen. Il a régné de [1887](/histoire/date/calendrier-gregorien/par-annee/1887) à [1933](/histoire/date/calendrier-gregorien/par-annee/1933).[^1]
+*Ibrahim Njoya* est le XVIIème sultan (ou roi) [Bamoun](/peuple/afrique/a-situer/bamoun) de la dynastie de Nchare Yen. Il a régné de [1887](/histoire/date/calendrier-gregorien/par-annee/1887) à [1933](/histoire/date/calendrier-gregorien/par-annee/1933).[^1]
 Les [Bamouns](/peuple/afrique/a-situer/bamoun) l'ont considéré comme un Dieu, suite aux miracles qu'il a accomplis.[^2]
 
 # Naissance
@@ -21,12 +21,15 @@ Dans le but de renforcer la puissance de son [royaume](/geographie/royaume/afriq
 Par la suite, en [1920](/histoire/date/calendrier-gregorien/par-annee/1920), le *Sultan* adhère à l'[Islam](/religion/confession/islam).[^1]
 
 # Monuments
-Durant son règne, *Ibrahim Njoya* construit le [palais du sultant Bamoun](/monument/afrique/a-situer/palais-des-sultants-bamouns). Celui-ci se trouve à Foumban (pays du Cameroun). Ce monument est classé patrimoine mondial de l'Unesco.[^1]
+Durant son règne, le *Roi Ibrahim NJOYA* construit le [palais des sultant Bamoun](/monument/afrique/a-situer/palais-des-sultants-bamouns). Celui-ci se trouve à Foumban (pays du Cameroun). Ce monument est classé patrimoine mondial de l'UNESCO.[^1]
 
 # Sciences
 ![Bamum Syllabary](/uploads/ecriture/bamum-syllabary.png "L'écriture Shu-Mom"){.align-right}
 
-Suite à la [guerre civile](/histoire/evenement/guerre/guerre-civile-bamoun) de [1892](/histoire/date/calendrier-gregorien/par-annee/1892) à [1895](/histoire/date/calendrier-gregorien/par-annee/1895) qui a ravagé le [royaume Bamoun](/geographie/royaume/afrique/a-situer/bamoun), *Njoya* et son peuple se dotent d'une écriture nommée [shu-mom](/ecriture/shu-mom). Grâce à celle-ci, les [Bamouns](/peuple/afrique/a-situer/bamoun) améliorent leur système administratif (ex. : fiscalité, justice et archives).[^1]
+Suite à la [guerre civile](/histoire/evenement/guerre/guerre-civile-bamoun) de [1892](/histoire/date/calendrier-gregorien/par-annee/1892) à [1895](/histoire/date/calendrier-gregorien/par-annee/1895) qui a ravagée le [royaume Bamoun](/geographie/royaume/afrique/a-situer/bamoun), *NJOYA* et son peuple se dotent d'une nouvelle écriture nommée [shu-mom](/ecriture/shu-mom).[^1]
+Cette réalisation vient de la trop forte complexité de l'écriture précédemment utilisée, pour que le [peuple](/peuple/afrique/a-situer/bamoun) puisse la maitriser. Ainsi, pour y pallier, le *Sultan NJOYA* a décidé de simplifier cette ancienne écriture pour en faire le [shu-mom](/ecriture/shu-mom).[^2]
+
+Grâce à cette dernière, les [Bamouns](/peuple/afrique/a-situer/bamoun) ont amélioré le système administratif du [royaume](/geographie/royaume/afrique/a-situer/bamoun) (fiscalité, justice, archives, etc.).[^1]
 
 # Guerres
 ## Guerre civile
