@@ -1,7 +1,8 @@
 <!-- TITLE: Page d'acceuil -->
 <!-- SUBTITLE: Quelques explications avant de démarrer -->
 
-Bienvenue sur *PARTAGE.LEREMSESH*. Si vous souhaitez partager votre savoir, vous êtes à la bonne adresse.
+Bienvenue sur *PARTAGE.LEREMSESH*.
+Si vous souhaitez partager votre savoir, vous êtes à la bonne adresse.
 
 # Je souhaite créer une nouvelle page
 **Par défaut, quand vous vous connectez pour la première fois à *PARTAGE.LEREMSESH*, vous n'avez pas les droits d'écriture. Pour y remédier, envoyez un mail à *kitemona arobase outlook point fr*.**
