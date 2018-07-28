@@ -6,7 +6,7 @@
 [Plus d'infos…](/leremsesh/presentation-de-leremsesh)
 
 # Page de la semaine
-À l'honneur cette semaine : [Marcus GARVEY](/personnalite/homme/polymathe/caraibes/midi/colonie/xamayca/marcus-gavey), un Afro-Jamaïcain de milieu social modeste qui a créé un gouvernement, une armée, des entreprises et uni des milliers de Noirs dans le but de leur redonner leur grandeur d'antan.
+À l'honneur cette semaine : [Marcus GARVEY](/personnalite/homme/polymathe/caraibes/midi/colonie/xamayca/marcus-gavey), un Afro-Jamaïcain de milieu social modeste qui a créé un gouvernement, une armée, des entreprises et uni des milliers de Noir.e.s dans le but de leur redonner leur grandeur d'antan.
 
 Cet homme est une fierté de la Jamaïque et un prophète pour les Rastas.
 
