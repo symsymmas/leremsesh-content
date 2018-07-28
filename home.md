@@ -6,9 +6,15 @@
 [Plus d'infos…](/leremsesh/presentation-de-leremsesh)
 
 # Page de la semaine
-Cette semaine est dédiée à l'[archipelle des Caraïbes](/geographie/ile/caraibes/iles-de-la-caraibe). Ces îles sont aussi appelées [Antilles](/geographie/ile/caraibes/iles-de-la-caraibe#autres-denominations) par les Français.
+À l'honneur cette semaine : [Marcus GARVEY](/personnalite/homme/polymathe/caraibes/midi/colonie/xamayca/marcus-gavey), un Afro-Jamaïcain de milieu social modeste qui a créé un gouvernement, une armée, des entreprises et uni des milliers de Noirs dans le but de leur redonner leur grandeur d'antan.
 
-![Iles De La Caraibe](/uploads/map/iles-de-la-caraibe.png "Îles de la Caraibe"){.align-center}
+Cet homme est une fiertée de la Jamaïque et il est vu comme un prophète par les Rastas.
+
+Il est aussi un pilier du mouvement panafricain ; par exemple, l'utilisation des couleurs rouge, noir et vert qui sont utilisées par ce mouvement viennent de cet homme.
+
+Apprenez en plus sur [Marcus GARVEY](/personnalite/homme/polymathe/caraibes/midi/colonie/xamayca/marcus-gavey) par [ici](/personnalite/homme/polymathe/caraibes/midi/colonie/xamayca/marcus-gavey).
+
+![Marcus Garvey March 1922](/uploads/personnalite/marcus-garvey-march-1922.png "Marcus Garvey dans sa tenue d'apparait − 1922"){.align-center}
 
 # Comment j'utilise l'encyclopédie ?
 Si vous souhaitez apprendre à utiliser cette encyclopédie, vous pouvez accéder à [la Foire Aux Questions](/leremsesh/faq).
