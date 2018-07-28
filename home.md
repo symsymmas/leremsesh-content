@@ -12,7 +12,7 @@ Cet homme est une fierté de la Jamaïque et un prophète pour les Rastas.
 
 Il est aussi un pilier du mouvement panafricain ; par exemple, il est à l'origine des couleurs rouge, noir et vert qui sont utilisées par ce mouvement.
 
-Apprenez en plus sur [Marcus GARVEY](/personnalite/homme/polymathe/caraibes/midi/colonie/xamayca/marcus-gavey) par [ici](/personnalite/homme/polymathe/caraibes/midi/colonie/xamayca/marcus-gavey).
+Apprenez en plus sur [Marcus GARVEY](/personnalite/homme/polymathe/caraibes/midi/colonie/xamayca/marcus-gavey) -->[ici](/personnalite/homme/polymathe/caraibes/midi/colonie/xamayca/marcus-gavey)<--.
 
 ![Marcus Garvey March 1922](/uploads/personnalite/marcus-garvey-march-1922.png "Marcus Garvey dans sa tenue d'apparat − 1922"){.align-center}
 
