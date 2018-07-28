@@ -9,7 +9,7 @@
 *Marcus Garvey* a reçu plusieurs prénoms : Manasseh, Moses, Aurelius et Moziah[^1].
 
 # Ambitions
-![Marcus Garvey Tenue D Apparat](/uploads/personnalite/marcus-garvey-tenue-d-apparat.png "Marcus Garvey dans une de ses tenues d'apparât"){.align-right}
+![Marcus Garvey Tenue D Apparat](/uploads/personnalite/marcus-garvey-tenue-d-apparat.png "Marcus Garvey dans une de ses tenues d'apparat"){.align-right}
 
 Malgré le fait qu'il ne soit jamais allé en Afrique[^1], Marcus Garvey a eu l'ambition[^1] :
 * de réinstaller l'Afrique et les Africains dans leurs grandeurs et leurs dignités d'antan ;
