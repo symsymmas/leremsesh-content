@@ -14,7 +14,7 @@ Il est aussi un pilier du mouvement panafricain ; par exemple, il est à l'orig
 
 Apprenez en plus sur [Marcus GARVEY](/personnalite/homme/polymathe/caraibes/midi/colonie/xamayca/marcus-gavey) par [ici](/personnalite/homme/polymathe/caraibes/midi/colonie/xamayca/marcus-gavey).
 
-![Marcus Garvey March 1922](/uploads/personnalite/marcus-garvey-march-1922.png "Marcus Garvey dans sa tenue d'apparait − 1922"){.align-center}
+![Marcus Garvey March 1922](/uploads/personnalite/marcus-garvey-march-1922.png "Marcus Garvey dans sa tenue d'apparat − 1922"){.align-center}
 
 # Comment j'utilise l'encyclopédie ?
 Si vous souhaitez apprendre à utiliser cette encyclopédie, vous pouvez accéder à [la Foire Aux Questions](/leremsesh/faq).
