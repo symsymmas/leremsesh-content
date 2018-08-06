@@ -1,7 +1,7 @@
 <!-- TITLE: Shu Mom -->
 <!-- SUBTITLE: Présentation de l'écriture Shu Mom -->
 
-![Bamum Syllabary](/uploads/ecriture/bamum-syllabary.png "L'écriture syllabique des Bamouns : le Shu-Mom"){.page-logo}
+![Bamum Syllabary](/uploads/ecriture/bamum-syllabary.png "L'écriture syllabique des Bamouns : le Shu-Mom"){.pagelogo}
 
 *Shu-Mom* est le nom d'une écriture et d'un alphabet créée par les [Bamouns](/peuple/afrique/a-situer/bamoun), vers l'an [1896](/histoire/date/calendrier-gregorien/par-annee/1896) du [calendrier Grégorien](/histoire/date/calendrier-gregorien).[^1][^2]
 
