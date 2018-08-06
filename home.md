@@ -13,4 +13,4 @@
 Apprenez en plus sur [l'empire Africain Kémèt](/geographie/empire/afrique/nord-est/kmt) en cliquant --> [ici](/geographie/empire/afrique/nord-est/kmt) <--.
 
 # Comment j'utilise l'encyclopédie ?
-Si vous souhaitez apprendre à utiliser cette encyclopédie, vous pouvez accéder à [la Foire Aux Questions](/leremsesh/faq).
+Besoin d'aide pour utiliser l'encyclopédie ? Faites un tour sur [la Foire Aux Questions](/leremsesh/faq).
