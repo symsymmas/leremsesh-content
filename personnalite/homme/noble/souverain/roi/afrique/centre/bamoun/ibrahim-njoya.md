@@ -36,7 +36,7 @@ Grâce à cette dernière, les [Bamouns](/peuple/afrique/a-situer/bamoun) ont am
 Voir [guerre civile Bamoun](/histoire/evenement/guerre/guerre-civile-bamoun).
 
 ## Première guerre tribale Européenne
-Lors de la [première guerre tribale Européenne](/histoire/periode/epoque-moderne/europe/partout/confrontation/premiere-guerre-tribale-europeenne), le [royaume Bamoun](/geographie/royaume/afrique/nord-ouest/bamoun) est colonisé par les Allemands. En [1920](/histoire/date/calendrier-gregorien/par-annee/1920), soit deux ans après la fin « officielle » de cette guerre, les Allemands capitulent et cessent de se battre contre les anglais sur le territoire des [Bamouns]().[^2]
+Lors de la [première guerre tribale Européenne](/histoire/periode/epoque-moderne/europe/partout/confrontation/premiere-guerre-tribale-europeenne), le [royaume Bamoun](/geographie/royaume/afrique/nord-ouest/bamoun) est colonisé par les Allemands. En [1920](/histoire/date/calendrier-gregorien/par-annee/1920), soit deux ans après la fin officielle de cette guerre, les Allemands capitulent et cessent de se battre contre les anglais sur le territoire des [Bamouns]().[^2]
 
 # La colonisation européenne
 ## La colonisation allemande
