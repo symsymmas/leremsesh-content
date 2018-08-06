@@ -26,7 +26,7 @@ Durant son règne, le *Roi Ibrahim NJOYA* construit le [palais des sultant Bamou
 # Sciences
 ![Bamum Syllabary](/uploads/ecriture/bamum-syllabary.png "L'écriture syllabique des Bamouns : le Shu-Mom"){.align-right}
 
-Suite à la [guerre civile](/histoire/evenement/guerre/guerre-civile-bamoun) de [1892](/histoire/date/calendrier-gregorien/par-annee/1892) à [1895](/histoire/date/calendrier-gregorien/par-annee/1895) qui a ravagée le [royaume Bamoun](/geographie/royaume/afrique/nord-ouest/bamoun), *NJOYA* et son peuple se dotent d'une nouvelle écriture nommée [shu-mom](/ecriture/shu-mom).[^1]
+Suite à la [guerre civile](/histoire/evenement/guerre/guerre-civile-bamoun) de [1892](/histoire/date/calendrier-gregorien/par-annee/1892) à [1895](/histoire/date/calendrier-gregorien/par-annee/1895) qui a ravagé le [royaume Bamoun](/geographie/royaume/afrique/nord-ouest/bamoun), *NJOYA* et son peuple se dotent d'une nouvelle écriture nommée [shu-mom](/ecriture/shu-mom).[^1]
 Cette réalisation vient de la complexité de l'écriture précédemment utilisée ; en effet, cette écriture était trop complexe pour que les [Bamouns](/peuple/afrique/a-situer/bamoun) réussissent tous à la maitriser. Ainsi, pour y pallier, le *Sultan NJOYA* a décidé de simplifier cette ancienne écriture pour en faire le [shu-mom](/ecriture/shu-mom).[^2]
 
 Grâce à cette dernière, les [Bamouns](/peuple/afrique/a-situer/bamoun) ont amélioré le système administratif du [royaume](/geographie/royaume/afrique/nord-ouest/bamoun) (fiscalité, justice, archives, etc.).[^1]
