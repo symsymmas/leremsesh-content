@@ -16,7 +16,7 @@ Le *Roi Ibrahim NJOYA* s'est marrié avec plus de six cent femmes. Par ces maria
 Le *Sultan NJOYA* meurt le [30](/histoire/date/calendrier-gregorien/par-jour/30) [Mai](/histoire/date/calendrier-gregorien/par-mois/mai) [1933](/histoire/date/calendrier-gregorien/par-annee/1933), vers 2h du matin, à [Yaoundé](/geographie/ville/afrique/centre/cameroun/yaounde), suite à son exil dans cette ville par les français, avec la complicité de quelques Africains avides.[^1][^2]
 
 # Fondements spirituels et religieux
-Dans le but de renforcer la puissance de son [royaume](/geographie/royaume/afrique/a-situer/bamoun/geographie/royaume/afrique/a-situer/bamoun), le *Roi Ibrahim NJOYA* crée en [1915](/histoire/date/calendrier-gregorien/par-annee/1915)  une spiritualité basée sur les rites traditionnels bamouns ; il y rajoute des éléments religieux provenant du [Coran](/ouvrage/a-classer/coran) et de la [Bible](/ouvrage/roman/bible-chretienne).[^2][^1]
+Dans le but de renforcer la puissance de son [royaume](/geographie/royaume/afrique/a-situer/bamoun), le *Roi Ibrahim NJOYA* crée en [1915](/histoire/date/calendrier-gregorien/par-annee/1915)  une spiritualité basée sur les rites traditionnels bamouns ; il y rajoute des éléments religieux provenant du [Coran](/ouvrage/a-classer/coran) et de la [Bible](/ouvrage/roman/bible-chretienne).[^2][^1]
 
 Par la suite, en [1920](/histoire/date/calendrier-gregorien/par-annee/1920), le *Sultan* adhère à l'[Islam](/religion/confession/islam).[^1]
 
