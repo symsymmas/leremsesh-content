@@ -16,7 +16,7 @@ Le *Roi Ibrahim NJOYA* s'est marrié avec plus de six cent femmes. Par ces maria
 Le *Sultan NJOYA* meurt le [30](/histoire/date/calendrier-gregorien/par-jour/30) [Mai](/histoire/date/calendrier-gregorien/par-mois/mai) [1933](/histoire/date/calendrier-gregorien/par-annee/1933), vers 2h du matin, à [Yaoundé](/geographie/ville/afrique/centre/cameroun/yaounde), suite à son exil dans cette ville par les français, avec la complicité de quelques Africains avides.[^1][^2]
 
 # Fondements spirituels et religieux
-Dans le but de renforcer la puissance de son [royaume](/geographie/royaume/afrique/a-situer/bamoun), le *Roi Ibrahim NJOYA* crée en [1915](/histoire/date/calendrier-gregorien/par-annee/1915)  une spiritualité basée sur les rites traditionnels bamouns ; il y rajoute des éléments religieux provenant du [Coran](/ouvrage/a-classer/coran) et de la [Bible](/ouvrage/roman/bible-chretienne).[^2][^1]
+Dans le but de renforcer la puissance de son [royaume](/geographie/royaume/afrique/nord-ouest/bamoun), le *Roi Ibrahim NJOYA* crée en [1915](/histoire/date/calendrier-gregorien/par-annee/1915)  une spiritualité basée sur les rites traditionnels bamouns ; il y rajoute des éléments religieux provenant du [Coran](/ouvrage/a-classer/coran) et de la [Bible](/ouvrage/roman/bible-chretienne).[^2][^1]
 
 Par la suite, en [1920](/histoire/date/calendrier-gregorien/par-annee/1920), le *Sultan* adhère à l'[Islam](/religion/confession/islam).[^1]
 
@@ -26,17 +26,17 @@ Durant son règne, le *Roi Ibrahim NJOYA* construit le [palais des sultant Bamou
 # Sciences
 ![Bamum Syllabary](/uploads/ecriture/bamum-syllabary.png "L'écriture Shu-Mom"){.align-right}
 
-Suite à la [guerre civile](/histoire/evenement/guerre/guerre-civile-bamoun) de [1892](/histoire/date/calendrier-gregorien/par-annee/1892) à [1895](/histoire/date/calendrier-gregorien/par-annee/1895) qui a ravagée le [royaume Bamoun](/geographie/royaume/afrique/a-situer/bamoun), *NJOYA* et son peuple se dotent d'une nouvelle écriture nommée [shu-mom](/ecriture/shu-mom).[^1]
+Suite à la [guerre civile](/histoire/evenement/guerre/guerre-civile-bamoun) de [1892](/histoire/date/calendrier-gregorien/par-annee/1892) à [1895](/histoire/date/calendrier-gregorien/par-annee/1895) qui a ravagée le [royaume Bamoun](/geographie/royaume/afrique/nord-ouest/bamoun), *NJOYA* et son peuple se dotent d'une nouvelle écriture nommée [shu-mom](/ecriture/shu-mom).[^1]
 Cette réalisation vient de la trop forte complexité de l'écriture précédemment utilisée, pour que le [peuple](/peuple/afrique/a-situer/bamoun) puisse la maitriser. Ainsi, pour y pallier, le *Sultan NJOYA* a décidé de simplifier cette ancienne écriture pour en faire le [shu-mom](/ecriture/shu-mom).[^2]
 
-Grâce à cette dernière, les [Bamouns](/peuple/afrique/a-situer/bamoun) ont amélioré le système administratif du [royaume](/geographie/royaume/afrique/a-situer/bamoun) (fiscalité, justice, archives, etc.).[^1]
+Grâce à cette dernière, les [Bamouns](/peuple/afrique/a-situer/bamoun) ont amélioré le système administratif du [royaume](/geographie/royaume/afrique/nord-ouest/bamoun) (fiscalité, justice, archives, etc.).[^1]
 
 # Guerres
 ## Guerre civile
 Voir [guerre civile Bamoun](/histoire/evenement/guerre/guerre-civile-bamoun).
 
 ## Première guerre tribale Européenne
-Lors de la [première guerre tribale Européenne](/histoire/periode/epoque-moderne/europe/partout/confrontation/premiere-guerre-tribale-europeenne), le [royaume Bamoun](/geographie/royaume/afrique/a-situer/bamoun) est colonisé par les Allemands. En [1920](/histoire/date/calendrier-gregorien/par-annee/1920), soit deux ans après la fin « officielle » de cette guerre, les Allemands capitulent et cessent de se battre contre les anglais sur le territoire des [Bamouns]().[^2]
+Lors de la [première guerre tribale Européenne](/histoire/periode/epoque-moderne/europe/partout/confrontation/premiere-guerre-tribale-europeenne), le [royaume Bamoun](/geographie/royaume/afrique/nord-ouest/bamoun) est colonisé par les Allemands. En [1920](/histoire/date/calendrier-gregorien/par-annee/1920), soit deux ans après la fin « officielle » de cette guerre, les Allemands capitulent et cessent de se battre contre les anglais sur le territoire des [Bamouns]().[^2]
 
 # La colonisation européenne
 ## La colonisation allemande
@@ -51,7 +51,7 @@ L'entente entre le roi et les Anglais reste toute « respectueuse et harmonieus
 Les Français prennent la succession des Anglais dans la colonisation du [royaume Bamoun]().[^2]
 
 ### L'annexion du royaume
-Entre [1885](/histoire/date/calendrier-gregorien/par-annee/1885) et [1916](/histoire/date/calendrier-gregorien/par-annee/1916), les colons européens introduisent la religion [chrétienne](/religion/confession/christianisme) dans le [royaume](/geographie/royaume/afrique/a-situer/bamoun) et, par la même occasion, démantèlent les structures politiques établies. [^1]
+Entre [1885](/histoire/date/calendrier-gregorien/par-annee/1885) et [1916](/histoire/date/calendrier-gregorien/par-annee/1916), les colons européens introduisent la religion [chrétienne](/religion/confession/christianisme) dans le [royaume](/geographie/royaume/afrique/nord-ouest/bamoun) et, par la même occasion, démantèlent les structures politiques établies. [^1]
 
 Quand vient « le tour » de la colonisation française, une opposition [Bamoun]() prend place contre l'installation des Français dans le [royaume]().[^2]
 Pour éviter les effusions de sang, *le Sultan NJOYA* décide de faire la paix avec les Français. Cet acte, *NJOYA* l'a fait par intérêt pour son [peuple](), afin que celui-ci ne se voit pas de nouveau en guerre.[^2]
@@ -70,7 +70,7 @@ Par peur d'une révolte populaire, les Français décident d'exiler le *Sultan N
 
 À l'aide d'un arrêté signé par [MARCHAND](/personnalite/homme/colon/europe/ouest/pays/france/marchand) et d'une liste de « reproches » faits au *roi*, les français accompagnés de [Bamouns](/peuple/afrique/a-situer/bamoun) et d'autres Africains avides de pouvoir et de commandement réussissent à destituer *le Sultan NJOYA*.[^2]
 
-Voici la liste des « reproches » faits à *NJOYA* par les français pour soutenir le démantèlement du [royaume](/geographie/royaume/afrique/a-situer/bamoun) [^2] :
+Voici la liste des « reproches » faits à *NJOYA* par les français pour soutenir le démantèlement du [royaume](/geographie/royaume/afrique/nord-ouest/bamoun) [^2] :
 * il a plusieurs épouses (plus de six cent) et trop d'enfants ;
 * il vit dans un grand palais ;
 * il asservit son peuple ;
@@ -85,7 +85,7 @@ Pour comprendre la fourberie, il faut se rappeler que :
 * la [France](/geographie/pays/europe/ouest/france) prend possession des terres et du travail agricole de toutes ses colonies pour son propre profit[^6] ;
 * *le Roi Ibrahim NJOYA* a renoncé à son droit de vie ou de mort sur son peuple, lors qu'il est devenu *Roi, par conséquent avant l'arrivée des français[^2] ;
 * la peine de mort n'est pas abolie en [France](/geographie/pays/europe/ouest/france), à cette époque[^7] ;
-* pour assurer son égémonie, la [France](/geographie/pays/europe/ouest/france) oblige tous les royaumes présents sur le territoire de ses dites colonies françaises à être annexées (le [royaume Bamoun](/geographie/royaume/afrique/a-situer/bamoun) en est l'exemple).
+* pour assurer son égémonie, la [France](/geographie/pays/europe/ouest/france) oblige tous les royaumes présents sur le territoire de ses dites colonies françaises à être annexées (le [royaume Bamoun](/geographie/royaume/afrique/nord-ouest/bamoun) en est l'exemple).
 
 La destitution de *NJOYA* se déroule un matin, lors de son embarquement ; d'un côté les [Bamouns](/peuple/afrique/a-situer/bamoun) désarmés et de l'autre les français menaçant le [peuple](/peuple/afrique/a-situer/bamoun) avec des kalashnikovs.[^2]
 
