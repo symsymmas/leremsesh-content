@@ -36,32 +36,32 @@ Grâce à cette dernière, les [Bamouns](/peuple/afrique/a-situer/bamoun) ont am
 Voir [guerre civile Bamoun](/histoire/evenement/guerre/guerre-civile-bamoun).
 
 ## Première guerre tribale Européenne
-Lors de la [première guerre tribale Européenne](/histoire/periode/epoque-moderne/europe/partout/confrontation/premiere-guerre-tribale-europeenne), le [royaume Bamoun](/geographie/royaume/afrique/nord-ouest/bamoun) est colonisé par les Allemands. En [1920](/histoire/date/calendrier-gregorien/par-annee/1920), soit deux ans après la fin officielle de cette guerre, les Allemands capitulent et cessent de se battre contre les anglais sur le territoire des [Bamouns]().[^2]
+Lors de la [première guerre tribale Européenne](/histoire/periode/epoque-moderne/europe/partout/confrontation/premiere-guerre-tribale-europeenne), le [royaume Bamoun](/geographie/royaume/afrique/nord-ouest/bamoun) est colonisé par les Allemands. En [1920](/histoire/date/calendrier-gregorien/par-annee/1920), soit deux ans après la fin officielle de cette guerre, les Allemands capitulent et cessent de se battre contre les anglais sur le territoire des [Bamouns](/peuple/afrique/a-situer/bamoun).[^2]
 
 # La colonisation européenne
 ## La colonisation allemande
 Les Allemands sont les premiers colons Européens que rencontre *Ibrahim*.[^2]
-Le *sultan* acceuil ces colons avec respect et laisse découvrir le [royaume](). Surpris de l'avancé civilisationnel des [Bamouns](), les Allemands perdent leurs apprioris et le [royaume Bamoun]() envisage d'effectuer des échanges avec les [Allemands]().[^2]
+Le *sultan* acceuil ces colons avec respect et laisse découvrir le [royaume](/geographie/royaume/afrique/nord-ouest/bamoun). Surpris de l'avancé civilisationnel des [Bamouns](/peuple/afrique/a-situer/bamoun), les Allemands perdent leurs apprioris et le [royaume Bamoun](/geographie/royaume/afrique/nord-ouest/bamoun) envisage d'effectuer des échanges avec les Allemands.[^2]
 
 ## La colonisation anglaise
-Suite à la défaite des Allemands sur les terres [Bamouns](), les Anglais deviennent les nouveaux colons du [royaume]().[^2]
-L'entente entre le roi et les Anglais reste toute « respectueuse et harmonieuse » qu'avec les Allemands, avant la [guerre]().[^2]
+Suite à la défaite des Allemands sur les terres [Bamouns](/peuple/afrique/a-situer/bamoun), les Anglais deviennent les nouveaux colons du [royaume](/geographie/royaume/afrique/nord-ouest/bamoun).[^2]
+L'entente entre le roi et les Anglais reste tout autant « respectueuse et harmonieuse » qu'avec les Allemands, avant la [première guerre tribale européenne](/histoire/periode/epoque-moderne/europe/partout/confrontation/premiere-guerre-tribale-europeenne).[^2]
 
 ## La colonisation française
-Les Français prennent la succession des Anglais dans la colonisation du [royaume Bamoun]().[^2]
+Les Français prennent la succession des Anglais dans la colonisation du [royaume Bamoun](/geographie/royaume/afrique/nord-ouest/bamoun).[^2]
 
 ### L'annexion du royaume
 Entre [1885](/histoire/date/calendrier-gregorien/par-annee/1885) et [1916](/histoire/date/calendrier-gregorien/par-annee/1916), les colons européens introduisent la religion [chrétienne](/religion/confession/christianisme) dans le [royaume](/geographie/royaume/afrique/nord-ouest/bamoun) et, par la même occasion, démantèlent les structures politiques établies. [^1]
 
-Quand vient « le tour » de la colonisation française, une opposition [Bamoun]() prend place contre l'installation des Français dans le [royaume]().[^2]
-Pour éviter les effusions de sang, *le Sultan NJOYA* décide de faire la paix avec les Français. Cet acte, *NJOYA* l'a fait par intérêt pour son [peuple](), afin que celui-ci ne se voit pas de nouveau en guerre.[^2]
-Peu après, les Français et quelques [Bamouns]() trahissent le traité de paix en complotant contre le *Roi*.[^2]
+Quand vient « le tour » de la colonisation française, une opposition [Bamoun](/peuple/afrique/a-situer/bamoun) prend place contre l'installation des Français dans le [royaume](/geographie/royaume/afrique/nord-ouest/bamoun).[^2]
+Pour éviter les effusions de sang, *le Sultan NJOYA* décide de faire la paix avec les Français. Cet acte, *NJOYA* l'a fait par intérêt pour son [peuple](/peuple/afrique/a-situer/bamoun), afin que celui-ci ne se voit pas de nouveau en guerre.[^2]
+Peu après, les Français et quelques [Bamouns](/peuple/afrique/a-situer/bamoun) trahissent le traité de paix en complotant contre le *Roi*.[^2]
 
 À l'aide d'accusations fausses[^2], les Français :
-* interdisent l'enseignement du [Shu-Mom]() ;
-* interdisent le [Ngouon]() ;
-* divisent le royaume en [chefferies supérieures]() ;
-* construisent une route principale passant à l'intérieur du [palais d'*Ibrahim*]().
+* interdisent l'enseignement du [Shu-Mom](/ecriture/shu-mom) ;
+* interdisent le Ngouon ;
+* divisent le royaume en chefferies supérieures ;
+* construisent une route principale passant à l'intérieur du [palais d'*Ibrahim*](/monument/afrique/a-situer/palais-des-sultants-bamouns).
 
 ### L'exil du roi
 ![Njoya Of Bamun](/uploads/personnalite/njoya-of-bamun.jpg "Le Roi Ibrahim NJOYA"){.align-right}
@@ -109,14 +109,14 @@ Malgré cette amitié avec Shala Tangana, le *Sultan NJOYA* sait pertinemment qu
 Prenant conscience du fait que son frère a été nommé « Sultan par intérime » par les colons et que Shala Tangana le surveille pour les français, le *Roi NJOYA* commence à s'isoler. *NJOYA* en arrive à rester enfermé dans sa chambre et n'accepter que la compagnie de sa femme.[^2]
 Petit à petit, sa santé s'agrave ; sa respiration diminue. Il va à l'hôpital puis il retourne à son domicile. À l'arrivée de la nuit, le *Sultan NJOYA* agonise.[^2]
 
-Le [30]() [Mai]() [1933](), vers 2h du matin, le *Roi NJOYA* succombe.[^2]
+Le [30](/histoire/date/calendrier-gregorien/par-jour/30) [Mai](/histoire/date/calendrier-gregorien/par-mois/mai) [1933](V), vers 2h du matin, le *Roi NJOYA* succombe.[^2]
 
-Dans un premier temps, les français décident d'énumer feu le *Sultan* à [Yaoundé]() mais après une négociation menée par les Africains, les français en viennent à accepter d'enterrer le *Roi Ibrahim NJOYA* près des siens, sur les terres [Bamoun](), à [Foumban]().[^2]
+Dans un premier temps, les français décident d'énumer feu le *Sultan* à [Yaoundé](/geographie/ville/afrique/centre/cameroun/yaounde) mais après une négociation menée par les Africains, les français en viennent à accepter d'enterrer le *Roi Ibrahim NJOYA* près des siens, sur les terres [Bamoun](/peuple/afrique/a-situer/bamoun), à [Foumban](/geographie/ville/afrique/nord-ouest/cameroun/foumban).[^2]
 
-Le 31 Mai 1933, la dépouille du *Roi NJOYA* est ramenée à [Foumban](). Les [Atémengé]() voient *NJOYA*, l'homme qui leur a donné de son temps, de son savoir et de son amour, pour la dernière fois.[^2]
+Le 31 Mai 1933, la dépouille du *Roi NJOYA* est ramenée à [Foumban](/geographie/ville/afrique/nord-ouest/cameroun/foumban). Les Atémengé voient *NJOYA*, l'homme qui leur a donné de son temps, de son savoir et de son amour, pour la dernière fois.[^2]
 Le cortège est couvert par des pleurs et des désolations.[^2]
 
-Une fois à [Foumban](), les français veulent enterrer le *Roi NJOYA* dans la forêt ; néanmoins, les frères de *NJOYA* et le [peuple]() refusent catégoriquement. Ainsi, grâce à eux, le corps du *Roi NJOYA* peut reposer auprès de celui de ses ancêtres.[^2]
+Une fois à [Foumban](/geographie/ville/afrique/nord-ouest/cameroun/foumban), les français veulent enterrer le *Roi NJOYA* dans la forêt ; néanmoins, les frères de *NJOYA* et le [peuple Bamoun](/peuple/afrique/a-situer/bamoun) refusent catégoriquement. Ainsi, grâce à eux, le corps du *Roi NJOYA* peut reposer auprès de celui de ses ancêtres.[^2]
 
 
 [^1]: [Ibrahim Njoya](https://fr.wikipedia.org/wiki/Ibrahim_Njoya). In [Wikipédia](https://fr.wikipedia.org/) [en ligne]. Fondation Wikimedia, 2003 [consulté le [10](/histoire/date/calendrier-gregorien/par-jour/10) [Juin](/histoire/date/calendrier-gregorien/par-mois/juin) [2018](/histoire/date/calendrier-gregorien/par-annee/2018)]. https://fr.wikipedia.org/wiki/Ibrahim_Njoya
@@ -124,5 +124,5 @@ Une fois à [Foumban](), les français veulent enterrer le *Roi NJOYA* dans la f
 [^3]: https://fr.wikipedia.org/wiki/Adult%C3%A8re#XIXe_si%C3%A8cle_en_France
 [^4]: https://fr.wikipedia.org/wiki/Palais_de_l%27%C3%89lys%C3%A9e#Le_palais_de_l'%C3%89lys%C3%A9e_en_chiffres
 [^5]: [Doumbi-Fakoly](/personnalite/homme/polymathe/afrique/nord-ouest/pays/mali/doumbi-fakoli). [Marcus Garvey expliqué aux adolescents](/ouvrage/documentaire/marcus-garvey-explique-aux-adolescents). Édition [MENAIBUC](/organisme/editeur/menaibuc) ; 2ème trimestre [2009](/histoire/date/calendrier-gregorien/par-annee/2009). 91 p. ISBN : 978-2-35349-102-5.
-[^6]: [Les puissances d'argent de la martinique]()
+[^6]: [Guy CABORT-MASSON](/personnalite/homme/ecrivain/caraibes/centre/departement/madinina/guy-cabort-masson). [Les puissances d'argent de la martinique − La caste des Békés](/ouvrage/these/caraibes/centre/departement/madinina/les-puissances-dargent-en-martinique-la-caste-beke). Voix de Peuple
 [^7]: [Peine de mort en France − Opinion française](https://fr.wikipedia.org/wiki/Peine_de_mort_en_France#Opinion_fran%C3%A7aise). In [Wikipédia, l'encyclopédie libre](https://fr.wikipedia.org) [en ligne]. Fondation Wikimedia, 2003 [consulté le [18](/histoire/date/calendrier-gregorien/par-jour/18) [Juillet](/histoire/date/calendrier-gregorien/par-mois/juillet) [2018](/histoire/date/calendrier-gregorien/par-annee/2018)]. https://fr.wikipedia.org/wiki/Peine_de_mort_en_France#Opinion_fran%C3%A7aise
