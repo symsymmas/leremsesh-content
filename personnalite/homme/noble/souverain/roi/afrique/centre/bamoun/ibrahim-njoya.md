@@ -16,7 +16,7 @@ Le *Roi Ibrahim NJOYA* s'est marrié avec plus de six cent femmes. Par ces maria
 Le *Sultan NJOYA* meurt le [30](/histoire/date/calendrier-gregorien/par-jour/30) [Mai](/histoire/date/calendrier-gregorien/par-mois/mai) [1933](/histoire/date/calendrier-gregorien/par-annee/1933), vers 2h du matin, à [Yaoundé](/geographie/ville/afrique/centre/cameroun/yaounde), suite à son exil dans cette ville par les français, avec la complicité de quelques Africains avides.[^1][^2]
 
 # Fondements spirituels et religieux
-Dans le but de renforcer la puissance de son [royaume](/geographie/royaume/afrique/nord-ouest/bamoun), le *Roi Ibrahim NJOYA* crée en [1915](/histoire/date/calendrier-gregorien/par-annee/1915)  une spiritualité basée sur les rites traditionnels bamouns ; il y rajoute des éléments religieux provenant du [Coran](/ouvrage/a-classer/coran) et de la [Bible](/ouvrage/roman/bible-chretienne).[^2][^1]
+Dans le but de renforcer la puissance de [son royaume](/geographie/royaume/afrique/nord-ouest/bamoun), le *Roi Ibrahim NJOYA* crée en [1915](/histoire/date/calendrier-gregorien/par-annee/1915)  une spiritualité basée sur les rites traditionnels bamouns ; il y rajoute des éléments religieux provenant du [Coran](/ouvrage/a-classer/coran) et de la [Bible](/ouvrage/roman/bible-chretienne).[^2][^1]
 
 Par la suite, en [1920](/histoire/date/calendrier-gregorien/par-annee/1920), le *Sultan* adhère à l'[Islam](/religion/confession/islam).[^1]
 
@@ -44,7 +44,7 @@ Les Allemands sont les premiers colons Européens que rencontre *Ibrahim*.[^2]
 Le *sultan* acceuil ces colons avec respect et laisse découvrir le [royaume](/geographie/royaume/afrique/nord-ouest/bamoun). Surpris de l'avancé civilisationnel des [Bamouns](/peuple/afrique/a-situer/bamoun), les Allemands perdent leurs apprioris et le [royaume Bamoun](/geographie/royaume/afrique/nord-ouest/bamoun) envisage d'effectuer des échanges avec les Allemands.[^2]
 
 ## La colonisation anglaise
-Suite à la défaite des Allemands sur les terres [Bamouns](/peuple/afrique/a-situer/bamoun), les Anglais deviennent les nouveaux colons du [royaume](/geographie/royaume/afrique/nord-ouest/bamoun).[^2]
+Suite à la défaite des Allemands sur les [terres bamouns](/geographie/royaume/afrique/nord-ouest/bamoun), les Anglais deviennent les nouveaux colons du [royaume](/geographie/royaume/afrique/nord-ouest/bamoun).[^2]
 L'entente entre le roi et les Anglais reste tout autant « respectueuse et harmonieuse » qu'avec les Allemands, avant la [première guerre tribale européenne](/histoire/periode/epoque-moderne/europe/partout/confrontation/premiere-guerre-tribale-europeenne).[^2]
 
 ## La colonisation française
@@ -111,7 +111,7 @@ Petit à petit, sa santé s'agrave ; sa respiration diminue. Il va à l'hôpita
 
 Le [30](/histoire/date/calendrier-gregorien/par-jour/30) [Mai](/histoire/date/calendrier-gregorien/par-mois/mai) [1933](V), vers 2h du matin, le *Roi NJOYA* succombe.[^2]
 
-Dans un premier temps, les français décident d'énumer feu le *Sultan* à [Yaoundé](/geographie/ville/afrique/centre/cameroun/yaounde) mais après une négociation menée par les Africains, les français en viennent à accepter d'enterrer le *Roi Ibrahim NJOYA* près des siens, sur les terres [Bamoun](/peuple/afrique/a-situer/bamoun), à [Foumban](/geographie/ville/afrique/nord-ouest/cameroun/foumban).[^2]
+Dans un premier temps, les français décident d'énumer feu le *Sultan* à [Yaoundé](/geographie/ville/afrique/centre/cameroun/yaounde) mais après une négociation menée par les Africains, les français en viennent à accepter d'enterrer le *Roi Ibrahim NJOYA* près des siens, sur les [terres bamouns](/geographie/royaume/afrique/nord-ouest/bamoun), à [Foumban](/geographie/ville/afrique/nord-ouest/cameroun/foumban).[^2]
 
 Le 31 Mai 1933, la dépouille du *Roi NJOYA* est ramenée à [Foumban](/geographie/ville/afrique/nord-ouest/cameroun/foumban). Les Atémengé voient *NJOYA*, l'homme qui leur a donné de son temps, de son savoir et de son amour, pour la dernière fois.[^2]
 Le cortège est couvert par des pleurs et des désolations.[^2]
