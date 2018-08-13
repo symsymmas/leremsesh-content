@@ -10,7 +10,7 @@
 
 À l'honneur cette semaine : [Xamayca](/geographie/ile/caraibes/midi/xamayca), l'une des plus grandes iles de la [Caraïbe](/geographie/ile/caraibes/iles-de-la-caraibe)
 
-Apprenez-en plus sur [Xamayca (alias Jamaïque](/geographie/ile/caraibes/midi/xamayca) en cliquant --> [ici](/geographie/ile/caraibes/midi/xamayca) <--.
+Apprenez-en plus sur [Xamayca (alias Jamaïque)](/geographie/ile/caraibes/midi/xamayca) en cliquant --> [ici](/geographie/ile/caraibes/midi/xamayca) <--.
 
 # Comment j'utilise l'encyclopédie ?
 Besoin d'aide pour utiliser l'encyclopédie ? Faites un tour sur [la Foire Aux Questions](/leremsesh/faq).
