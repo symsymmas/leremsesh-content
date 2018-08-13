@@ -6,12 +6,11 @@
 [Plus d'infos…](/leremsesh/presentation-de-leremsesh)
 
 # Page de la semaine
-![Kmt](/uploads/ecriture/kmt.png "Kmt"){.align-right}
+![Xamayca Bis](/uploads/map/xamayca-bis.png "Carte de Xamayca"){.align-right}
 
-À l'honneur cette semaine : [Kémèt, l'Égypte pharaonique antique](/geographie/empire/afrique/nord-est/kmt). Cet empire de plus de 6 000 ans est le plus ancien de toute l'humanité.
-À son époque, il est une passerelle entre les Africains et les autres peuples du monde entier ; il permet aux Européens, aux Indiens et aux asiatiques de bénéficier d'une langue, d'une écriture et d'autres sciences.
+À l'honneur cette semaine : [Xamayca](/geographie/ile/caraibes/midi/xamayca), l'une des plus grandes iles de la [Caraïbe](/geographie/ile/caraibes/iles-de-la-caraibe)
 
-Apprenez-en plus sur [l'empire Africain Kémèt](/geographie/empire/afrique/nord-est/kmt) en cliquant --> [ici](/geographie/empire/afrique/nord-est/kmt) <--.
+Apprenez-en plus sur [Xamayca (alias Jamaïque](/geographie/ile/caraibes/midi/xamayca) en cliquant --> [ici](/geographie/ile/caraibes/midi/xamayca) <--.
 
 # Comment j'utilise l'encyclopédie ?
 Besoin d'aide pour utiliser l'encyclopédie ? Faites un tour sur [la Foire Aux Questions](/leremsesh/faq).
