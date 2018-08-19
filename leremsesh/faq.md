@@ -39,15 +39,15 @@ Si vous avez identifié une page dont les informations sont manquantes ou incorr
 * cliquez sur la page en question pour y accéder ;
 * la page avec les dernières mises à jour s'affiche ;
 * vérifiez que quelqu'un n'a pas déjà fait la/les modification(s) que vous souhaitez faire ;
-* s'il reste des modification(s) à apporter, cliquez sur le bouton « ÉDITER » qui est en haut à droite ;
+* s'il reste des modification(s) à apporter, cliquez sur le bouton « ÉDITER » en haut à droite ;
 
 ![Boutonediter Partage Leremsesh](/uploads/interface-web-leremsesh/boutonediter-partage-leremsesh.png "Boutonediter Partage Leremsesh"){.align-center}
 
-* une vos modifications apportées, cliquez sur le bouton « SAUVEGARDER » qui est en haut à droite.
+* une fois vos modifications apportées, cliquez sur le bouton « SAUVEGARDER » en haut à droite.
 
 ![Boutonsauvegarder Partage Leremsesh](/uploads/interface-web-leremsesh/boutonsauvegarder-partage-leremsesh.png "Bouton sauvegarder"){.align-center}
 
-**Vous avez terminé !**
+**Vous avez terminé. :)**
 
 Une fois que l'équipe LEREMSESH a analysé, filtré et trié les informations que vous avez transmises, celles-ci sont visibles pour tous les internautes sur leremsesh.com.
 
