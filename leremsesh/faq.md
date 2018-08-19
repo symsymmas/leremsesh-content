@@ -25,7 +25,7 @@ Pour créer une page, suivez les indications suivantes :
 
 ![Boutonsauvegarder Partage Leremsesh](/uploads/interface-web-leremsesh/boutonsauvegarder-partage-leremsesh.png "Bouton sauvegarder"){.align-center}
 
-**Votre page créée ! :D**
+**Vous avez créé une page LEREMSESH ! :D**
 
 Une fois que l'équipe LEREMSESH aura analysé, filtré et trié les informations que vous avez transmises, celles-ci seront visibles sur leremsesh.com.
 
