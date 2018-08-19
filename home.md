@@ -1,6 +1,8 @@
 <!-- TITLE: Page d'acceuil -->
 <!-- SUBTITLE: Quelques explications avant de démarrer -->
 
+
+
 Bienvenue sur *PARTAGE.LEREMSESH*.
 Si vous souhaitez partager votre savoir, vous êtes à la bonne adresse.
 
