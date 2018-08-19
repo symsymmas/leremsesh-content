@@ -7,10 +7,14 @@ Bienvenue sur *PARTAGE.LEREMSESH*.
 Si vous souhaitez partager votre savoir, vous êtes à la bonne adresse.
 
 # Je ne sais pas comment rajouter des informations ou en modifier
-Vous souhaitez créer une nouvelle page ou en modifier une ? Suivez --> [ce lien]() <--.
+Vous souhaitez créer une nouvelle page ou en modifier une ?
+
+Suivez --> [ce lien]() <--.
 
 # D'autres questions ?
-Vous avez d'autres questions sur *PARTAGE.LEREMSESH* ? Une [Foire Aux Questions]() a été crée pour vous --> [ici]() <--.
+Vous avez d'autres questions sur *PARTAGE.LEREMSESH* ?
+
+Une [Foire Aux Questions](/leremsesh/faq) a été crée pour vous --> [ici](/leremsesh/faq) <--.
 
 # Je souhaite créer une nouvelle page
 **Par défaut, quand vous vous connectez pour la première fois à *PARTAGE.LEREMSESH*, vous n'avez pas les droits d'écriture. Pour y remédier, envoyez un mail à *kitemona arobase outlook point fr*.**
