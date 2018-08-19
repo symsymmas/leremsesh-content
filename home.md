@@ -1,7 +1,7 @@
 <!-- TITLE: Page d'acceuil -->
 <!-- SUBTITLE: Quelques explications avant de démarrer -->
 
-![Logo Siteweb](/uploads/logo/logo-siteweb.png "Logo Siteweb"){.pagelogo}
+![Logo Siteweb](/uploads/logo/logo-siteweb.png "Logo de LEREMSESH"){.pagelogo}
 
 Bienvenue sur *PARTAGE.LEREMSESH*.
 Si vous souhaitez partager votre savoir, vous êtes à la bonne adresse.
