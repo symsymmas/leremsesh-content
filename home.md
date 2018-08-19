@@ -9,7 +9,7 @@ Si vous souhaitez partager votre savoir, vous êtes à la bonne adresse.
 # Je ne sais pas comment rajouter des informations ou en modifier
 Vous souhaitez créer une nouvelle page ou en modifier une ?
 
-Suivez --> [ce lien]() <--.
+Suivez --> [ce lien](/leremsesh/faq) <--.
 
 # D'autres questions ?
 Vous avez d'autres questions sur *PARTAGE.LEREMSESH* ?
