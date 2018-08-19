@@ -30,7 +30,7 @@ Pour créer une page, suivez les indications suivantes :
 Une fois que l'équipe LEREMSESH a analysé, filtré et trié les informations que vous avez transmises, celles-ci sont visibles pour tous les internautes sur leremsesh.com.
 
 ## Je souhaite modifier une page
-Si vous avez trouvé une page dont les informations sont manquantes ou incorrectes :
+Si vous avez identifié une page dont les informations sont manquantes ou incorrectes :
 
 * retrouvez cette page via la barre de recherche ci-dessus ;
 
