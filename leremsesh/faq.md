@@ -59,5 +59,5 @@ Les pages publiées sur le site *PARTAGE.LEREMSESH* sont récupérées par l'éq
 Après analyse, les informations sont filtrées plusieurs fois avant d'être partagées au grand public sur leremsesh.com.
 
 ## Quelle est le filtrage appliqué ?
-Leremsesh.com étant une encyclopédie [afrocentrée](http://leremsesh.com/ideologie/afrocentricite) sous forme de [Wiki](https://fr.wikipedia.org/wiki/Wiki), le premier filtre consiste à ne garder que les informations pouvant être qualifiées comme tel.
+Leremsesh.com étant une encyclopédie [afrocentrée](http://leremsesh.com/ideologie/afrocentricite) sous forme de [Wiki](https://fr.wikipedia.org/wiki/Wiki), le premier filtre consiste à ne garder que les informations pouvant être qualifiées ainsi.
 Ensuite, ces informations sont triées et filtrées selon plusieurs critères (ex. : les sources).
