@@ -6,11 +6,12 @@
 [Plus d'infos…](/leremsesh/presentation-de-leremsesh)
 
 # Page de la semaine
-![Xamayca Bis](/uploads/map/xamayca-bis.png "Carte de Xamayca"){.align-right}
 
-À l'honneur cette semaine : [Xamayca](/geographie/ile/caraibes/midi/xamayca), l'une des plus grandes iles de la [Caraïbe](/geographie/ile/caraibes/iles-de-la-caraibe)
+![Pharao Narmer](/uploads/personnalite/pharao-narmer.png "Tête en calcaire du Pharaon Narmer"){.align-right}
 
-Apprenez-en plus sur [Xamayca (alias Jamaïque)](/geographie/ile/caraibes/midi/xamayca) en cliquant --> [ici](/geographie/ile/caraibes/midi/xamayca) <--.
+À l'honneur cette semaine : [le Roi Narmer](/personnalite/homme/noble/souverain/pharaon/afrique/nord-est/kmt/narmer), le pharaon qui unifie [la Haute et la Basse Égypte](/geographie/empire/afrique/nord-est/kmt) en -3 200 dans le but d'apaiser les conflits entre les clans du Nord et les Égyptiens de la [Haute Égypte](/geographie/empire/afrique/nord-est/kmt#la-haute-egypte).
+
+Découvrez les prouesses du [Pharaon Narmer](/personnalite/homme/noble/souverain/pharaon/afrique/nord-est/kmt/narmer) qui n'est autre que le fils du roi Scorpion --> [ici](/personnalite/homme/noble/souverain/pharaon/afrique/nord-est/kmt/narmer) <--.
 
 # Comment j'utilise l'encyclopédie ?
 Besoin d'aide pour utiliser l'encyclopédie ? Faites un tour sur [la Foire Aux Questions](/leremsesh/faq).
