@@ -27,7 +27,7 @@ Pour créer une page, suivez les indications suivantes :
 
 **Vous avez créé une page LEREMSESH ! :D**
 
-Une fois que l'équipe LEREMSESH aura analysé, filtré et trié les informations que vous avez transmises, celles-ci seront visibles sur leremsesh.com.
+Une fois que l'équipe LEREMSESH a analysé, filtré et trié les informations que vous avez transmises, celles-ci deviennent visibles sur leremsesh.com.
 
 ## Je souhaite modifier une page
 Si vous avez trouvé une page dont les informations sont manquantes ou incorrectes :
