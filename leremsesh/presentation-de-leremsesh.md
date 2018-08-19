@@ -1,7 +1,7 @@
 <!-- TITLE: leremsesh.com -->
 <!-- SUBTITLE: Présentation de leremsesh.com -->
 
-![Logo Leremsesh Com](/uploads/logo/logo-leremsesh-com.png "Logo Leremsesh Com"){.pagelogo}
+![Logo Leremsesh Com](/uploads/logo/logo_siteWeb.png "Logo de LÉRÉMSÈSH"){.pagelogo}
 
 *LEREMSESH* (prononcé lérémséch) est une encyclopédie [afrocentrée](/philosophie/afrocentricite) collaborative fondée par Kitémona SYMSYMMAS en [Mars](/histoire/date/calendrier-gregorien/par-mois/mars) [2018](/histoire/date/calendrier-gregorien/par-annee/2018).
 Les articles qui constituent *LEREMSESH* sont éditables par tous, à partir du moment où les informations apportées ont une dimension [afrocentrée](/ideologie/afrocentricite).
