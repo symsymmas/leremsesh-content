@@ -1,6 +1,6 @@
 <!-- TITLE: Page d'acceuil -->
 
-![Logo Leremsesh Com](/uploads/logo/logo-leremsesh-com.png "Logo de LEREMSESH"){.pagelogo}
+![Logo Leremsesh Com](/uploads/logo/logo_siteWeb.png "Logo de LEREMSESH"){.pagelogo}
 
 **Bienvenue** sur *LEREMSESH*, l'encyclopédie afrocentrée collaborative !
 [Plus d'infos…](/leremsesh/presentation-de-leremsesh)
