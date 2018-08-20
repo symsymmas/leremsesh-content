@@ -1,4 +1,4 @@
-<!-- TITLE: Marcus Gavey -->
+<!-- TITLE: Marcus Garvey -->
 <!-- SUBTITLE: Présentation de Marcus Gavey -->
 
 ![Marcus Garvey Portrait](/uploads/personnalite/marcus-garvey-portrait.png "Portrait de Marcus Garvey"){.pagelogo}
