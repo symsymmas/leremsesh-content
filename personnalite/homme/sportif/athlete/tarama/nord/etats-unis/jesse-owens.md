@@ -23,7 +23,7 @@ Ci-dessous, les sauts en longueur réalisés par Jesse Owens, filmés lors des [
 # Hommages
 ## Aux États-Unis d'Amérique
 Après avoir accompli moulte prouesses sportives sur le territoire Nazi, deux hommes illustres n'ont pas dénié saluer *Jesse Owens* :
-* Adolf HITLER (Führer de l'Allemagne Nazi) ;
+* Adolf HITLER (Führer de l'Allemagne Nazie) ;
 * [Franklin Delano ROOSEVELT](/personnalite/homme/a-classer/tarana/nord/pays/etats-unis/president/franklin-delano-roosevelt) (Président des États-Unis d'Amérique).
 
 En effet, le [Président Franklin D. ROOSEVELT](/personnalite/homme/a-classer/tarana/nord/pays/etats-unis/president/franklin-delano-roosevelt)) invita tous les joueurs [leucodermes](/terminologie/francais/leucoderme) à la maison blanche sans prendre cas des prouesses de *Jesse OWENS*[^3].
@@ -37,7 +37,7 @@ Traduction française :
 
 ## Aux Nations Arabes Unies
 
-![Jesse Owens 1971 Ajman Stamp](/uploads/personnalite/jesse-owens-1971-ajman-stamp.jpg "Timbre d'Ajman (Nations Arabes Unies) datant de 1971 à l'effigie de Jesse Owens"){.align-right}
+![Jesse Owens 1971 Ajman Stamp](/uploads/personnalite/jesse-owens-1971-ajman-stamp.jpg "Timbre de 1971, provenant d'Ajman (Nations Arabes Unies) et à l'effigie de Jesse Owens"){.align-right}
 
 En 1971, les Nations Arabes Unies impriment un timbre à l'effigie du sportif *Jesse Owens*.
 
