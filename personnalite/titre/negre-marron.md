@@ -3,7 +3,7 @@
 
 ![Cimarron](/uploads/personnalite/cimarron.jpg "Représentation d'un nègre marron."){.pagelogo}
 
-Le titre de *Nègre marron* est attribué aux Africains asservis durant le [Yovodah](/terminologie/fon/yovodah) qui ont fuit leurs conditions en s'échappant des plantations. Ils sont réputés pour avoir créé des groupes de résistance structurés capables de tenir tête pendant des années aux armées des maîtres esclaves.[^1]
+Le titre de *Nègre marron* est attribué aux Africains asservis durant le [Yovodah](/terminologie/fon/yovodah) qui ont fuit leurs conditions d'esclave en s'échappant des plantations. Ils ont la réputation d'avoir créé des groupes de résistance structurés capables de tenir tête pendant des années aux armées des maîtres esclaves.[^1]
 
 # Étymologie
 Le terme *Nègre marron* est composé des mots *Nègre* et *marron*.
