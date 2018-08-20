@@ -97,10 +97,8 @@ Quand il arrive à Londres, lieu de résidence de sa sœur [Indiana](/personnali
 
 En visitant la France, l'Italie, l'Espagne, l'Allemagne, l'Autriche et la Hongrie, *Garvey* y identifie une faible activité intellectuelle [Kamit](/terminologie/mdw-ntr/kamit). Cela vient des [politiques coloniales](/ideologie/colonisation) appliquées par ces pays. Il en découle donc qu'il rencontre l'intelligentsia Noire principalement où se pratique l'administration coloniale indirecte (en [Angleterre](/geographie/pays/europe/ouest/angleterre) et aux [États-Unis d'Amérique](/geographie/pays/tamara/nord/etats-unis-d-amerique)).[^1]
 
-*Marcus* rencontre donc[^1] :
-* [Mohamed Ali Duse](/personnalite/homme/polymathe/afrique/nord-est/egypte/duse-mohamed-ali) à Londres.
-
-Sa rencontre avec [Mohamed Ali Duse](/personnalite/homme/polymathe/afrique/nord-est/egypte/duse-mohamed-ali) lui permet de parfaire son expérience dans la publication et la presse tout en étant en contact physique ou par écrit avec des nationalites [Kamit](/terminologie/mdw-ntr/kamit)
+*Marcus* rencontre donc [Mohamed Ali Duse](/personnalite/homme/polymathe/afrique/nord-est/egypte/duse-mohamed-ali) à Londres.[^1]
+Cette rencontre permet à *Marcus* de parfaire son expérience dans la publication et la presse tout en étant en contact physique ou par écrit avec des nationalites [Kamtyu](/terminologie/mdw-ntr/kamit).
 
 # Prise de conscience
 *Marcus Garvey* a remarqué que le clivage social de [Xamayca](/geographie/ile/caraibes/midi/xamayca) était l'exact reflet de sa configuration raciale ; c'est-à-dire que seuls les Blancs accompagnés de quelques rares Métis, se trouvaient en haut de l'échelle sociale alors qu'au plus bas étaient tous les Noirs, formant une masse d'ouvriers agricoles dans les plantations de bananes et de tabac, d'ouvriers du bâtiment et des chemins de fer, de mineurs, de terrassiers, etc..[^1]
