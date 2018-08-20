@@ -1,7 +1,7 @@
 <!-- TITLE: Jesse Owens -->
 <!-- SUBTITLE: Présentation de l'athlète Jesse Owens -->
 
-![Tete De Jesse Owens](/uploads/personnalite/tete-de-jesse-owens.jpg "Tete De Jesse Owens"){.pagelogo}
+![Tete De Jesse Owens](/uploads/personnalite/tete-de-jesse-owens.jpg "Tête de Jesse Owens"){.pagelogo}
 
 ![Bundesarchiv Bild 183 G 00630 Sommerolympiade Siegerehrung Weitsprung](/uploads/personnalite/bundesarchiv-bild-183-g-00630-sommerolympiade-siegerehrung-weitsprung.jpg "Jesse Owens, médaille d'or du saut en longueur"){.align-right}
 
