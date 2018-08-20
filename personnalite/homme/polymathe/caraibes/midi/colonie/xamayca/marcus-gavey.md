@@ -18,10 +18,10 @@ Malgré le fait qu'il ne soit jamais allé en Afrique[^1], Marcus Garvey a eu l'
 * de prendre possession des terres africaines pour les Africains du continent et de la diaspora (à son époque, outre l'[Éthiopie](/geographie/empire/afrique/nord-est/ethiopie) et le [Libéria](/geographie/pays/afrique/nord-ouest/liberia), l'Afrique était totalement colonisée).
 
 # Famille
-*Sarah*, la mère de *Marcus Garvey*, est une femme au foyer. Elle pratique l'agriculture sur un terrain qu'elle partage avec son frère *Benjie*, à *Chalky Hill*.[^1]
-
 Son père, qui s'appelle lui aussi *Marcus*, est maçon. Il possède une grande bibliothèque qui lui permet de travailler son intellecte.
 C'est de son père que *Marcus Garvey* tient son amour pour la lecture.[^2][^1]
+
+*Sarah*, la mère de *Marcus Garvey*, est une femme au foyer. Elle pratique l'agriculture sur un terrain qu'elle partage avec son frère *Benjie*, à *Chalky Hill*. Se terrain permet à *Marcus Garvey* de se faire de l'argent de poche pour acheter ses premiers livres. [^1]
 
 Enfin, concernant sa fraterie, *Marcus Garvey* est le plus jeune. Sur ses onze frères et sœurs, lui et sa sœur *Indiana* sont les seuls à ne pas être morts en bas âge.[^1]
 
