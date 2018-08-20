@@ -90,12 +90,12 @@ Tout ce que *Marcus* voit n'est que misère sociale extrème, malnutrition et ta
 L'illustration ci-contre est un certificat d'une grande firme capitaliste transnationale, [United Fruit Company (UFC)](/organisme/firme-capitaliste-transnationale/ufc).
 
 ### L'Europe et les États-Unis d'Amérique
-Suite à son séjour en Amérique Centrale, *Marcus Garvey* décide de voyager en Europe et aux États-Unis d'Amérique pour observer et étudier les mouvements intellectuels [Kamit](/terminologie/mdw-ntr/kamit). Ainsi, il réussirait à comprendre ces luttes. *Marcus* entre donc en contact avec l'intelligentsia Noire en [1912]() en Angleterre puis en [1916]().[^1]
+Suite à son séjour en Amérique Centrale, *Marcus Garvey* décide de voyager en Europe et aux États-Unis d'Amérique pour observer et étudier les mouvements intellectuels [Kamit](/terminologie/mdw-ntr/kamit). Ainsi, *Marcus* entre en contact avec l'intelligentsia Noire en [1912]() en Angleterre puis en [1916](). Grâce à cela, il réussit à comprendre les luttes menées. [^1]
 
 #### L'Europe
-Quand il arrive à Londres, lieu de résidence de sa sœur [Indiana ](/personnalite/femme/a-classer/indiana-garvey), *Marcus* réussit à trouver du travail en tant que docker aux ports de Liverpool et de Cardiff.[^1]
+Quand il arrive à Londres, lieu de résidence de sa sœur [Indiana](/personnalite/femme/a-classer/indiana-garvey), *Marcus* réussit à trouver du travail en tant que docker aux ports de Liverpool et de Cardiff.[^1]
 
-En visitant la France, l'Italie, l'Espagne, l'Allemagne, l'Autriche et la Hongrie, *Garvey* y identifie une faible activité intellectuelle [Kamit](/terminologie/mdw-ntr/kamit). Cela est dû aux [politiques coloniales](/ideologie/colonisation) appliquées par ces pays. Par conséquent, c'est là où se pratique l'administration indirecte ([Angleterre](/geographie/pays/europe/ouest/angleterre) et [États-Unis d'Amérique]()) qu'il apprend de l'intelligentsia [Kamit](/terminologie/mdw-ntr/kamit).[^1]
+En visitant la France, l'Italie, l'Espagne, l'Allemagne, l'Autriche et la Hongrie, *Garvey* y identifie une faible activité intellectuelle [Kamit](/terminologie/mdw-ntr/kamit). Cela vient des [politiques coloniales](/ideologie/colonisation) appliquées par ces pays. Il en découle donc qu'il rencontre l'intelligentsia Noire principalement où se pratique l'administration coloniale indirecte (en [Angleterre](/geographie/pays/europe/ouest/angleterre) et aux [États-Unis d'Amérique](/geographie/pays/tamara/nord/etats-unis-d-amerique)).[^1]
 
 *Marcus* rencontre donc[^1] :
 * [Mohamed Ali Duse](/personnalite/homme/polymathe/afrique/nord-est/egypte/duse-mohamed-ali) à Londres.
