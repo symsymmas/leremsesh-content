@@ -75,8 +75,8 @@ Enfin, pendant la même année et jusqu'à son départ en Amérique Centrale (en
 ### L'Amérique Centrale et la Caraïbe
 ![United 20 Fruit](/uploads/certificates/united-20-fruit.jpg "Certificat de l'UFC"){.align-right}
 
-Dans le but d'en apprendre plus sur la misère qui s'abattait non seulement sur ses frères de [Xamayca](/geographie/ile/caraibes/midi/xamayca) mais aussi ceux des autres pays de l'Amérique Centrale, *Marcus Garvey* entreprit de voyager.[^1]
-Dès lors, *Marcus* se trouve, de la fin de l'année [1910](/histoire/date/calendrier-gregorien/par-annee/1910) jusqu'en début [1911](/histoire/date/calendrier-gregorien/par-annee/1911), à travailler dans des plantations de divers pays[^1] :
+Dans le but d'en apprendre plus sur la condition de ses frères de [Xamayca](/geographie/ile/caraibes/midi/xamayca) mais aussi d'autres pays de l'Amérique Centrale, *Marcus Garvey* entreprend de voyager.[^1]
+Dès lors, il se trouve, de la fin de l'année [1910](/histoire/date/calendrier-gregorien/par-annee/1910) jusqu'en début [1911](/histoire/date/calendrier-gregorien/par-annee/1911), à travailler dans des plantations de divers pays[^1] :
 * Porto Rico, où réside un frère de sa mère ;
 * Panama ;
 * Equateur ;
@@ -85,9 +85,9 @@ Dès lors, *Marcus* se trouve, de la fin de l'année [1910](/histoire/date/calen
 * Colombie ;
 * Venezuela.
 
-Tout ce que *Marcus* voyait était de la misère sociale extrème, de la malnutrition et des taudis. Pour dénoncer cela, il a créé et animé les journaux [Nacionale]() et [Prensa]() respectivement à Porto Rico et au Panama. L'édition de ces deux journaux ne dure pas longtemps étant donné la pression des régimes en place et le manque d'intérêt des populations. [^1] Ce dernier était potentiellement dû à la mal nutrition dont elles souffraient.[^1]
+Tout ce que *Marcus* voit n'est que misère sociale extrème, malnutrition et taudis. Pour dénoncer cela, il créé et anime les journaux [Nacionale]() et [Prensa]() respectivement à Porto Rico et au Panama. L'édition de ces deux journaux ne dure pas longtemps étant donné la pression des régimes en place et le manque d'intérêt des populations. [^1] Ce dernier était potentiellement dû à la mal nutrition dont elles souffraient.[^1]
 
-L'illustration ci-dessus est un certificat d'une grande firme capitaliste transnationale, [United Fruit Company (UFC)](/organisme/firme-capitaliste-transnationale/ufc).
+L'illustration ci-contre est un certificat d'une grande firme capitaliste transnationale, [United Fruit Company (UFC)](/organisme/firme-capitaliste-transnationale/ufc).
 
 ### L'Europe et les États-Unis d'Amérique
 Suite à son séjour en Amérique Centrale, *Marcus Garvey* décide de voyager en Europe et aux États-Unis d'Amérique pour observer et étudier les mouvements intellectuels [Kamit](/terminologie/mdw-ntr/kamit). Ainsi, il réussirait à comprendre ces luttes. *Marcus* entre donc en contact avec l'intelligentsia Noire en [1912]() en Angleterre puis en [1916]().[^1]
@@ -122,6 +122,11 @@ L'image suivante représente Marcus Garvey lors de l'évènement qu'il a organis
 ## Armée
 
 ## Entreprises
+### Journaux de presse
+Pendant son voyage en Amérique et aux Caraïbes ([1910](/histoire/date/calendrier-gregorien/par-annee/1910)-[1911](/histoire/date/calendrier-gregorien/par-annee/1911)), *Marcus Garvey* crée le journaux [Nacionale]() à Porto Rico et [Prensa]() au Panama.
+
+Le régime politique en place et le manque d'intérêt des populations engendrent le déclin de ces journaux. Les problèmes de nutrition des Portoricain.e.s semblent être la raison de ce « désintéressement ».[^1]
+
 ### The Watchman
 ![Black Star Line Certificate](/uploads/document/black-star-line-certificate.png "Certificat de la Black Star Line"){.align-right}
 
