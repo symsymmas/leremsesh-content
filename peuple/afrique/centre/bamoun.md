@@ -1,4 +1,4 @@
-<!-- TITLE: Bamoun (peuple) -->
+<!-- TITLE: Bamouns (peuple) -->
 <!-- SUBTITLE: Présentation des Bamouns -->
 
 Les *Bamouns* forment un peuple de [kamtyou](/terminologie/mdw-ntr/kamit) situés en [Afrique](/geographie/continent/afrique).
