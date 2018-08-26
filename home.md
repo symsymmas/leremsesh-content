@@ -2,16 +2,17 @@
 
 ![Logo Leremsesh Com](/uploads/logo/logo_siteWeb.png "Logo de LEREMSESH"){.pagelogo}
 
-**Bienvenue** sur *LEREMSESH*, l'encyclopédie afrocentrée collaborative !
-[Plus d'infos…](/leremsesh/presentation-de-leremsesh)
+**Bienvenue** sur *LÉRÉMSÈSH*, l'encyclopédie afrocentrée collaborative !
+Cette encyclopédie en ligne vous permet de **partager** et d'**accéder** à des **informations mettant en valeur des thématiques centrées sur le peuple Noir**.
+[En savoir plus sur LÉRÉMSÈSH](/leremsesh/presentation-de-leremsesh)
 
 # Page de la semaine
 
-![Pharao Narmer](/uploads/personnalite/pharao-narmer.png "Tête en calcaire du Pharaon Narmer"){.align-right}
+À l'honneur cette semaine : l'écrivain et dessinateur [Djéhuty Biyong](/personnalite/homme/ecrivain/afrique/ouest/pays/cameroun/djehuty-biyong). Cet artiste aux œuvres multiples a eu l'ingéniosité de donner un nom aux bandes dessinées créées par les Noirs.
 
-À l'honneur cette semaine : [le Roi Narmer](/personnalite/homme/noble/souverain/pharaon/afrique/nord-est/kmt/narmer), le pharaon qui unifie [la Haute et la Basse Égypte](/geographie/empire/afrique/nord-est/kmt) en -3 200 dans le but d'apaiser les conflits entre les clans du Nord et les Égyptiens de la [Haute Égypte](/geographie/empire/afrique/nord-est/kmt#la-haute-egypte).
+Apprenez-en plus sur [Djéhuty Biyong](/personnalite/homme/ecrivain/afrique/ouest/pays/cameroun/djehuty-biyong), l'artiste aux multiples œuvres --> [ici](/personnalite/homme/ecrivain/afrique/ouest/pays/cameroun/djehuty-biyong) <--.
 
-Découvrez les prouesses du [Pharaon Narmer](/personnalite/homme/noble/souverain/pharaon/afrique/nord-est/kmt/narmer) qui n'est autre que le fils du roi Scorpion --> [ici](/personnalite/homme/noble/souverain/pharaon/afrique/nord-est/kmt/narmer) <--.
+[video](https://www.youtube.com/watch?time_continue=4&v=B3JxH7JnGsc){.youtube}{.align-center}
 
 # Comment j'utilise l'encyclopédie ?
 Besoin d'aide pour utiliser l'encyclopédie ? Faites un tour sur [la Foire Aux Questions](/leremsesh/faq).
