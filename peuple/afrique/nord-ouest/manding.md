@@ -1,4 +1,4 @@
-<!-- TITLE: Manding (peuple) -->
+<!-- TITLE: Mandings (peuple) -->
 <!-- SUBTITLE: Présentation du peuple Manding -->
 
 # Header
