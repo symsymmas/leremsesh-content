@@ -4,9 +4,9 @@
 Cette page liste les couronnes de l'empire [Kémèt](/geographie/empire/afrique/nord-est/kmt) (Égypte pharaonique antique).
 
 # Hédjet
-![Hedjet](/uploads/object/hedjet.png "Hedjet"){.align-right}
-
 Hédjet est la couronne de la haute Égypte. Celle-ci est de couleur blanche.
+
+![Hedjet](/uploads/object/hedjet.png "Hedjet"){.align-center}
 
 # Déshérèt
 Déshérèt est la couronne de la basse Égypte. Elle est de couleur rouge.
