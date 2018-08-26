@@ -3,7 +3,8 @@
 ![Logo Leremsesh Com](/uploads/logo/logo_siteWeb.png "Logo de LEREMSESH"){.pagelogo}
 
 **Bienvenue** sur *LÉRÉMSÈSH*, l'encyclopédie afrocentrée collaborative !
-Cette encyclopédie en ligne vous permet de **partager** et d'**accéder** à des **informations mettant en valeur des thématiques centrées sur le peuple Noir**.
+
+Cette encyclopédie en ligne vous permet de *partager* et d'*accéder* à des *informations mettant en valeur des thématiques centrées sur le peuple Noir*.
 [En savoir plus sur LÉRÉMSÈSH](/leremsesh/presentation-de-leremsesh)
 
 # Page de la semaine
