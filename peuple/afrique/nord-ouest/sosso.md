@@ -1,4 +1,4 @@
-<!-- TITLE: Sosso (peuple) -->
+<!-- TITLE: Sossos (peuple) -->
 <!-- SUBTITLE: Présentation du peuple Sosso -->
 
 Les Sossos sont des maîtres forgerons qui devinrent une armée redoutable lorsque [Soumangourou](/personnalite/homme/noble/souverain/roi/sosso/soumangourou) décida de transformer le royaume [Sosso](/geographie/afrique/royaume/sosso) en un puissant empire.[^1]
