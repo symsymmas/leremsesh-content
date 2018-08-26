@@ -3,7 +3,7 @@
 
 ![Ibrahim Njoya](/uploads/personnalite/ibrahim-njoya.jpg "Buste de Ibrahim Njoya"){.pagelogo}
 
-*Ibrahim Njoya* est le XVIIème sultan (ou roi) [Bamoun](/peuple/afrique/a-situer/bamoun) de la dynastie de Nchare Yen. Il a régné de [1887](/histoire/date/calendrier-gregorien/par-annee/1887) à [1933](/histoire/date/calendrier-gregorien/par-annee/1933).[^1]
+*le Roi* ou *le Sultant Ibrahim Njoya* est le XVIIème représentant du peuple [Bamoun](/peuple/afrique/a-situer/bamoun) de la dynastie de Nchare Yen. Il a régné de [1887](/histoire/date/calendrier-gregorien/par-annee/1887) à [1933](/histoire/date/calendrier-gregorien/par-annee/1933).[^1]
 Les [Bamouns](/peuple/afrique/a-situer/bamoun) l'ont considéré comme un Dieu, suite aux miracles qu'il a accomplis.[^2]
 
 # Naissance
@@ -11,9 +11,6 @@ Les [Bamouns](/peuple/afrique/a-situer/bamoun) l'ont considéré comme un Dieu, 
 
 # Mariages
 Le *Roi Ibrahim NJOYA* s'est marrié avec plus de six cent femmes. Par ces mariages, il souhaitait rassembler tous les critères de beauté féminins.[^2]
-
-# Décès
-Le *Sultan NJOYA* meurt le [30](/histoire/date/calendrier-gregorien/par-jour/30) [Mai](/histoire/date/calendrier-gregorien/par-mois/mai) [1933](/histoire/date/calendrier-gregorien/par-annee/1933), vers 2h du matin, à [Yaoundé](/geographie/ville/afrique/centre/cameroun/yaounde), suite à son exil dans cette ville par les français, avec la complicité de quelques Africains avides.[^1][^2]
 
 # Fondements spirituels et religieux
 Dans le but de renforcer la puissance de [son royaume](/geographie/royaume/afrique/nord-ouest/bamoun), le *Roi Ibrahim NJOYA* crée en [1915](/histoire/date/calendrier-gregorien/par-annee/1915)  une spiritualité basée sur les rites traditionnels bamouns ; il y rajoute des éléments religieux provenant du [Coran](/ouvrage/a-classer/coran) et de la [Bible](/ouvrage/roman/bible-chretienne).[^2][^1]
@@ -96,13 +93,13 @@ Le [5](/histoire/date/calendrier-gregorien/par-jour/5) [Avril](/histoire/date/ca
 * Article 1 : Le nommé *NJOYA* ex-sultant de [Fumban](/geographie/ville/afrique/nord-ouest/cameroun/foumban) sera interné pendant une période de cinq années avec résidence obligatoire à [Yaoundé](/geographie/ville/afrique/centre/cameroun/yaounde). Les biens seront plassés sous séquestre pendant la durée de l'internement.
 * Article 2 : Les chefs de des six conscriptions […] de [Yaoundé](/geographie/ville/afrique/centre/cameroun/yaounde) sont chargés de l'exécution du présent arrêté qui sera enregistré et communiqué partout ou besoin sera et notifié à l'intéressé.
 
-# La fin du roi
-Lors de son exil à [Yaoundé](/geographie/ville/afrique/centre/cameroun/yaounde), le *Sultan Ibrahim NJOYA* réussit à créer un lien avec le peuple de Yaoundé. Il le reçoit, lui donne à manger, dessine, peint et enseigne sa langue et son écritureau peuple.[^2]
+# La fin du reigne
+Lors de son exil à [Yaoundé](/geographie/ville/afrique/centre/cameroun/yaounde), le *Sultan Ibrahim NJOYA* réussit à créer un lien avec le peuple de Yaoundé.[^2]
+*Le Sultan* reçoit le peuple, lui donne à manger, dessine et peint avec lui, lui enseigne sa langue et son écriture (le [shu-mom](/ecriture/shu-mom)), etc.[^2]
 En remerciement, le peuple aide le *Roi NJOYA* dans ses travaux de construction.[^2]
 
-Le *Sultan Ibrahim NJOYA* se lie d'amitié avec Shala Tangana. Tel un invité de Tanashangana, *le Roi* est convié aux défilés de l'armée française sur les terres Africaines, au [Yaoundé](/geographie/ville/afrique/centre/cameroun/yaounde).[^2]
-
-*Ibrahim NJOYA* apprécie tant Tangana qu'il en vient à donner son nom à son fils qui né à [Yaoundé](/geographie/ville/afrique/centre/cameroun/yaounde).[^2]
+Cet exil engendre une amitié entre *le Sultan* et Shala Tangana, un africain nommé chef du [Yaoundé](/geographie/ville/afrique/centre/cameroun/yaounde) par les envahisseurs français. Tel un invité de Tanashangana, *le Roi* est convié aux défilés de l'armée française sur les terres Africaines, au [Yaoundé](/geographie/ville/afrique/centre/cameroun/yaounde).[^2]
+*le Sultan Ibrahim NJOYA* apprécie tant Tangana qu'il en vient à donner son nom à son fils qui né à [Yaoundé](/geographie/ville/afrique/centre/cameroun/yaounde).[^2]
 
 Malgré cette amitié avec Shala Tangana, le *Sultan NJOYA* sait pertinemment que Tangana est du côté des français et qu'il a pour mission de le surveiller.[^2]
 
@@ -117,6 +114,8 @@ Le 31 Mai 1933, la dépouille du *Roi NJOYA* est ramenée à [Foumban](/geograph
 Le cortège est couvert par des pleurs et des désolations.[^2]
 
 Une fois à [Foumban](/geographie/ville/afrique/nord-ouest/cameroun/foumban), les français veulent enterrer le *Roi NJOYA* dans la forêt ; néanmoins, les frères de *NJOYA* et le [peuple Bamoun](/peuple/afrique/a-situer/bamoun) refusent catégoriquement. Ainsi, grâce à eux, le corps du *Roi NJOYA* peut reposer auprès de celui de ses ancêtres.[^2]
+
+Le *Sultan NJOYA* meurt le [30](/histoire/date/calendrier-gregorien/par-jour/30) [Mai](/histoire/date/calendrier-gregorien/par-mois/mai) [1933](/histoire/date/calendrier-gregorien/par-annee/1933), vers 2h du matin, à [Yaoundé](/geographie/ville/afrique/centre/cameroun/yaounde), suite à son exil dans cette ville par les envahisseurs français, avec la complicité de quelques Africains avides.[^1][^2]
 
 
 [^1]: [Ibrahim Njoya](https://fr.wikipedia.org/wiki/Ibrahim_Njoya). In [Wikipédia](https://fr.wikipedia.org/) [en ligne]. Fondation Wikimedia, 2003 [consulté le [10](/histoire/date/calendrier-gregorien/par-jour/10) [Juin](/histoire/date/calendrier-gregorien/par-mois/juin) [2018](/histoire/date/calendrier-gregorien/par-annee/2018)]. https://fr.wikipedia.org/wiki/Ibrahim_Njoya
