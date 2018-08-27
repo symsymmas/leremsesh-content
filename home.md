@@ -3,8 +3,8 @@
 
 ![Logo Siteweb](/uploads/logo/logo-siteweb.png "Logo de LEREMSESH"){.pagelogo}
 
-Bienvenue sur *PARTAGE.LEREMSESH*.
-Si vous souhaitez partager votre savoir, vous êtes à la bonne adresse.
+**Bienvenue** sur *PARTAGE.LEREMSESH*.
+Si vous souhaitez *partager votre savoir*, vous êtes à la bonne adresse.
 
 # Je ne sais pas comment rajouter des informations ou en modifier
 Vous souhaitez créer une nouvelle page ou en modifier une ?
