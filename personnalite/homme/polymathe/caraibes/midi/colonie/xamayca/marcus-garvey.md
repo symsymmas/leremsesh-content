@@ -15,7 +15,7 @@ Il nait le [18](/histoire/date/calendrier-gregorien/par-jour/18) [Août](/histoi
 Même s'il n'a jamais mis les pieds en Afrique[^1], *Marcus Garvey* a eu l'ambition[^1] :
 * de réinstaller l'Afrique et les Africains (tous les Noirs) dans leurs grandeurs et leurs dignités d'antan ;
 * d'inciter son peuple (les Africains de la diaspora) à retourner sur sa terre d'origine (l'Afrique continentale) ;
-* de prendre possession des terres africaines pour les Africains du continent et de la diaspora (à son époque, outre l'[Éthiopie](/geographie/empire/afrique/nord-est/ethiopie) et le [Libéria](/geographie/pays/afrique/nord-ouest/liberia), l'Afrique était totalement colonisée).
+* de prendre possession des terres africaines pour les Africains du continent et de la diaspora (à son époque, outre l'[Éthiopie](/geographie/empire/afrique/nord-est/ethiopie) et le [Libéria](/geographie/pays/afrique/nord-ouest/liberia), l'Afrique se trouve totalement colonisée).
 
 # Famille
 Son père, qui s'appelle lui aussi *Marcus*, est maçon. Il possède une grande bibliothèque qui lui permet de travailler son intellecte.
