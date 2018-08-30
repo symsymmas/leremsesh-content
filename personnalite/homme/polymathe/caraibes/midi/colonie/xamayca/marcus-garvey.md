@@ -90,7 +90,7 @@ Tout ce que *Marcus* voit n'est que misère sociale extrême, malnutrition et ta
 L'illustration ci-contre est un certificat d'une grande firme capitaliste transnationale, [United Fruit Company (UFC)](/organisme/firme-capitaliste-transnationale/ufc).
 
 ### L'Europe et les États-Unis d'Amérique
-Suite à son séjour en Amérique Centrale, *Marcus Garvey* décide de voyager en Europe et aux États-Unis d'Amérique pour observer et étudier les mouvements intellectuels [Kamit](/terminologie/mdw-ntr/kamit). Ainsi, *Marcus* entre en contact avec l'intelligentsia Noire en [1912](/histoire/date/calendrier-gregorien/par-annee/1912) en Angleterre puis en [1916](). Grâce à cela, il réussit à comprendre les luttes menées. [^1]
+Suite à son séjour en Amérique Centrale, *Marcus Garvey* décide de voyager en Europe et aux États-Unis d'Amérique pour observer et étudier les mouvements intellectuels [Kamit](/terminologie/mdw-ntr/kamit). Ainsi, *Marcus* entre en contact avec l'intelligentsia Noire en [1912](/histoire/date/calendrier-gregorien/par-annee/1912) en Angleterre puis en [1916](/histoire/date/calendrier-gregorien/par-annee/1916). Grâce à cela, il réussit à comprendre les luttes menées. [^1]
 
 #### L'Europe
 Quand il arrive à Londres, lieu de résidence de sa sœur [Indiana](/personnalite/femme/a-classer/indiana-garvey), *Marcus* réussit à trouver du travail en tant que docker aux ports de Liverpool et de Cardiff.[^1]
@@ -121,16 +121,14 @@ L'image suivante représente Marcus Garvey lors de l'évènement qu'il a organis
 
 ## Entreprises
 ### Journaux de presse
-Pendant son voyage en Amérique et aux Caraïbes ([1910](/histoire/date/calendrier-gregorien/par-annee/1910)-[1911](/histoire/date/calendrier-gregorien/par-annee/1911)), *Marcus Garvey* crée le journaux [Nacionale]() à Porto Rico et [Prensa]() au Panama.
-
+Pendant son voyage en Amérique et aux Caraïbes ([1910](/histoire/date/calendrier-gregorien/par-annee/1910)-[1911](/histoire/date/calendrier-gregorien/par-annee/1911)), *Marcus Garvey* crée les journaux [Nacionale](/ouvrage/journal/caraibes/centre/pays/porto-rico/nacionale) et [Prensa](/ouvrage/journal/tarama/centre/pays/panama/prensa), respectivement à Porto Rico et au Panama.
 Le régime politique en place et le manque d'intérêt des populations engendrent le déclin de ces journaux. Les problèmes de nutrition des Portoricain.e.s semblent être la raison de ce « désintéressement ».[^1]
-
-### The Watchman
-![Black Star Line Certificate](/uploads/document/black-star-line-certificate.png "Certificat de la Black Star Line"){.align-right}
 
 En [1910](/histoire/date/calendrier-gregorien/par-annee/1910), *Marcus Garvey* crée le journal [Watchman](/organisme/journal/watchman) afin de critiquer la ploitique sociale du gouvernement colonial.[^1]
 
 ### Compagnie maritime
+![Black Star Line Certificate](/uploads/document/black-star-line-certificate.png "Certificat de la Black Star Line"){.align-right}
+
 Marcus Garvey a créé une compagnie maritime dans le but de fournir un moyen de retour en Afrique aux Africains de la diaspora. Celle-ci s'appelle *Black Star Line*.[^1]
 # Hommages
 ## Livres
