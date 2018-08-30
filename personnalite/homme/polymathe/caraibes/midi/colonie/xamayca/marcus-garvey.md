@@ -85,7 +85,7 @@ Dès lors, il se trouve, de la fin de l'année [1910](/histoire/date/calendrier-
 * Colombie ;
 * Venezuela.
 
-Tout ce que *Marcus* voit n'est que misère sociale extrême, malnutrition et taudis. Pour dénoncer cela, il créé et anime les journaux [Nacionale]() et [Prensa]() respectivement à Porto Rico et au Panama. L'édition de ces deux journaux ne dure pas longtemps étant donné la pression des régimes en place et le manque d'intérêt des populations. [^1] Ce dernier étant potentiellement dû à la mal nutrition dont les [kamtyu](/terminologie/mdw-ntr/kamit) souffrent à cette époque.[^1]
+Tout ce que *Marcus* voit n'est que misère sociale extrême, malnutrition et taudis. Pour dénoncer cela, il créé et anime les journaux [Nacionale](/ouvrage/journal/caraibes/centre/pays/porto-rico/nacionale) et [Prensa]() respectivement à Porto Rico et au Panama. L'édition de ces deux journaux ne dure pas longtemps étant donné la pression des régimes en place et le manque d'intérêt des populations. [^1] Ce dernier étant potentiellement dû à la mal nutrition dont les [kamtyu](/terminologie/mdw-ntr/kamit) souffrent à cette époque.[^1]
 
 L'illustration ci-contre est un certificat d'une grande firme capitaliste transnationale, [United Fruit Company (UFC)](/organisme/firme-capitaliste-transnationale/ufc).
 
