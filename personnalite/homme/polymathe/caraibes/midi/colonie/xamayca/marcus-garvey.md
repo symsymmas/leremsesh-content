@@ -48,9 +48,9 @@ Ce premier métier lui a ouvert les portes du monde de l'imprimerie et lui a per
 
 Suite à sa participation à la grêve de [1907](/histoire/date/calendrier-gregorien/par-annee/1907), *Marcus* est licencié ; ce qui l'a amené à trouver un autre poste d'imprimeur au gouvernement colonial.
 
-Par la suite, en [1910](/histoire/date/calendrier-gregorien/par-annee/1910) il en est venu à[^1] :
-* créer son premier journal : [Watchman](/organisme/journal/watchman) ;
-* animer [Our Own](/organisme/journal/our-own), le journal du parti politique [National Club](/organisme/parti-politique/national-club).
+Par la suite, en [1910](/histoire/date/calendrier-gregorien/par-annee/1910), il[^1] :
+* crée son premier journal : [Watchman](/organisme/journal/watchman) ;
+* anime [Our Own](/organisme/journal/our-own), le journal du parti politique [National Club](/organisme/parti-politique/national-club).
 
 ## Politique
 Ses parents n'ayant plus les moyens, *Marcus Garvey* décide de s'auto-former.
