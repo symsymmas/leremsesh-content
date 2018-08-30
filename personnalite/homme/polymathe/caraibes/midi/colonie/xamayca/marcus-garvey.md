@@ -87,7 +87,7 @@ Dès lors, il se trouve, de la fin de l'année [1910](/histoire/date/calendrier-
 
 Tout ce que *Marcus* voit n'est que misère sociale extrême, malnutrition et taudis. Pour dénoncer cela, il créé et anime les journaux [Nacionale](/ouvrage/journal/caraibes/centre/pays/porto-rico/nacionale) et [Prensa](/ouvrage/journal/tarama/centre/pays/panama/prensa) respectivement à Porto Rico et au Panama. L'édition de ces deux journaux ne dure pas longtemps étant donné la pression des régimes en place et le manque d'intérêt des populations. [^1] Ce dernier étant potentiellement dû à la mal nutrition dont les [kamtyu](/terminologie/mdw-ntr/kamit) souffrent à cette époque.[^1]
 
-L'illustration ci-contre est un certificat d'une grande firme capitaliste transnationale : [United Fruit Company (UFC)](/organisme/firme-capitaliste-transnationale/ufc).
+L'illustration ci-contre est un certificat d'une grande firme capitaliste transnationale de l'époque : [United Fruit Company (UFC)](/organisme/firme-capitaliste-transnationale/ufc).
 
 ### L'Europe et les États-Unis d'Amérique
 Suite à son séjour en Amérique Centrale, *Marcus Garvey* décide de voyager en Europe et aux États-Unis d'Amérique pour observer et étudier les mouvements intellectuels [Kamit](/terminologie/mdw-ntr/kamit). Ainsi, *Marcus* entre en contact avec l'intelligentsia Noire en [1912](/histoire/date/calendrier-gregorien/par-annee/1912) en Angleterre puis en [1916](/histoire/date/calendrier-gregorien/par-annee/1916). Grâce à cela, il réussit à comprendre les luttes menées. [^1]
