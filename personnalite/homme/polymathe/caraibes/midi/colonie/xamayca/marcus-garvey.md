@@ -102,7 +102,13 @@ En visitant la France, l'Italie, l'Espagne, l'Allemagne, l'Autriche et la Hongri
 #### Les États-Unis d'Amérique
 
 # Prise de conscience
-*Marcus Garvey* a remarqué que le clivage social de [Xamayca](/geographie/ile/caraibes/midi/xamayca) était l'exact reflet de sa configuration raciale ; c'est-à-dire que seuls les Blancs accompagnés de quelques rares Métis, se trouvaient en haut de l'échelle sociale alors qu'au plus bas étaient tous les Noirs, formant une masse d'ouvriers agricoles dans les plantations de bananes et de tabac, d'ouvriers du bâtiment et des chemins de fer, de mineurs, de terrassiers, etc..[^1]
+Lors de ses voyages, *Marcus Garvey* a remarqué que le clivage social de [Xamayca](/geographie/ile/caraibes/midi/xamayca) est l'exact reflet de la configuration raciale mondiale ; c'est-à-dire que seuls les Blancs accompagnés de quelques rares Métis, se trouvent en haut de l'échelle sociale alors qu'au plus bas se trouvent tous les Noirs, qui forment une masse d'ouvriers[^1] :
+* agricoles dans les plantations de bananes et de tabac ;
+* du bâtiment ;
+* des chemins de fer ;
+* des mines ;
+* de terrassement ;
+* etc.
 
 Ceci étant, l'événement le plus marquant et le plus décisif pour *Marcus* a été le racisme d'un homme d'église blanc auquel il a dû faire face.[^1]
 Un jour, une camarade blanche du même quartier que celui de *Marcus* a été envoyée en Écosse pour continuer sa scolarité. Le père de cette jeune fille, un pasteur méthodiste, lui a ordonné de n'entretenir aucune correspondance avec *Marcus* du fait de l'appartenance de ce dernier à la race nègre. Cette information, une fois arrivée aux oreilles de *Marcus*, lui a permis de réaliser que ce racisme était omniprésent.[^1]
