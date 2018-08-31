@@ -97,8 +97,7 @@ Quand il arrive à Londres, lieu de résidence de sa sœur [Indiana](/personnali
 
 En visitant la France, l'Italie, l'Espagne, l'Allemagne, l'Autriche et la Hongrie, *Garvey* y identifie une faible activité intellectuelle [Kamit](/terminologie/mdw-ntr/kamit). Cela vient des [politiques coloniales](/ideologie/colonisation) appliquées par ces pays. Il en découle donc qu'il rencontre l'intelligentsia Noire principalement où se pratique l'administration coloniale indirecte (en [Angleterre](/geographie/pays/europe/ouest/angleterre) et aux [États-Unis d'Amérique](/geographie/pays/tamara/nord/etats-unis-d-amerique)).[^1]
 
-*Marcus* rencontre donc [Mohamed Ali Duse](/personnalite/homme/polymathe/afrique/nord-est/egypte/duse-mohamed-ali) à Londres.[^1]
-Cette rencontre permet à *Marcus* de parfaire son expérience dans la publication et la presse tout en étant en contact physique ou par écrit avec des nationalites [Kamtyu](/terminologie/mdw-ntr/kamit).
+À Londres, *Marcus* rencontre [Mohamed Ali Duse](/personnalite/homme/polymathe/afrique/nord-est/egypte/duse-mohamed-ali).[^1] Cette rencontre permet à *Marcus* de parfaire son expérience dans la publication et la presse tout en étant en contact physique ou écrit avec des nationalistes [Kamit](/terminologie/mdw-ntr/kamit).
 
 #### Les États-Unis d'Amérique
 
