@@ -110,13 +110,14 @@ Lors de ses voyages, *Marcus Garvey* a remarqué que le clivage social de [Xamay
 * de terrassement ;
 * etc.
 
-Ceci étant, l'événement le plus marquant et le plus décisif pour *Marcus* a été le racisme d'un homme d'église blanc auquel il a dû faire face.[^1]
-Un jour, une camarade blanche du même quartier que celui de *Marcus* a été envoyée en Écosse pour continuer sa scolarité. Le père de cette jeune fille, un pasteur méthodiste, lui a ordonné de n'entretenir aucune correspondance avec *Marcus* du fait de l'appartenance de ce dernier à la race nègre. Cette information, une fois arrivée aux oreilles de *Marcus*, lui a permis de réaliser que ce racisme était omniprésent.[^1]
-Cette prise de conscience a allumé en lui une flamme révolutionnaire inextinguible.[^1]
-Il estimait que le devoir de révolte et de combat s'imposait à toute personne prenant conscience de l'ampleur des injustices que subit son peuple.[^1]
+Ceci étant, l'événement le plus marquant et le plus décisif pour *Marcus* a été le racisme d'un homme d'église Blanc en son égard.[^1]
+Plus jeune, une camarade Blanche de *Marcus*, qui habite dans le même quatier que lui, a été envoyée en Écosse par son Père, un pasteur méthodiste, pour continuer sa scolarité. Avant son départ, le père de la jeune fille lui a ordonné de n'entretenir aucune correspondance avec *Marcus* du fait de son appartenance à la race nègre. Cette information, une fois arrivée aux oreilles de *Marcus*, lui a ouvert les yeux sur un racisme omniprésent.[^1]
+C'est cette prise de conscience qui a allumé en lui une flamme révolutionnaire inextinguible.[^1]
+Dès lors, il a estimé que le devoir de révolte et de combat s'imposent à toute personne prenant conscience de l'ampleur des injustices que subit son peuple.[^1]
 
-« Je compris qu'il existait des ségrégations dans l'humanité et qu'il y avait plusieurs races, chacune ayant une place bien précise dans la société. »[^3][^4]
-« J'ai toujours désiréé de toute mon âme, travailler au progrès de ma race. »[^4]
+> Je compris qu'il existait des ségrégations dans l'humanité et qu'il y avait plusieurs races, chacune ayant une place bien précise dans la société.[^3][^4]
+
+> J'ai toujours désiréé de toute mon âme, travailler au progrès de ma race.[^4]
 
 # Réalisations
 ## Gouvernement
