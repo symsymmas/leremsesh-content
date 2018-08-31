@@ -102,7 +102,7 @@ En visitant la France, l'Italie, l'Espagne, l'Allemagne, l'Autriche et la Hongri
 #### Les États-Unis d'Amérique
 
 # Prise de conscience
-Lors de ses voyages, *Marcus Garvey* a remarqué que le clivage social de [Xamayca](/geographie/ile/caraibes/midi/xamayca) est l'exact reflet de la configuration raciale mondiale ; c'est-à-dire que seuls les Blancs accompagnés de quelques rares Métis, se trouvent en haut de l'échelle sociale alors qu'au plus bas se trouvent tous les Noirs, qui forment une masse d'ouvriers[^1] :
+Lors de ses voyages, *Marcus Garvey* a remarqué que le clivage social de [Xamayca](/geographie/ile/caraibes/midi/xamayca) est l'exact reflet de la configuration raciale mondiale ; c'est-à-dire que seuls les Blancs accompagnés de quelques rares Métis, se trouvent en haut de l'échelle sociale tandis qu'au plus bas se trouvent tous les Noirs qui forment une masse d'ouvriers[^1] :
 * agricoles dans les plantations de bananes et de tabac ;
 * du bâtiment ;
 * des chemins de fer ;
@@ -110,10 +110,9 @@ Lors de ses voyages, *Marcus Garvey* a remarqué que le clivage social de [Xamay
 * de terrassement ;
 * etc.
 
-Ceci étant, l'événement le plus marquant et le plus décisif pour *Marcus* a été le racisme d'un homme d'église Blanc en son égard.[^1]
-Plus jeune, une camarade Blanche de *Marcus*, qui habite dans le même quatier que lui, a été envoyée en Écosse par son Père, un pasteur méthodiste, pour continuer sa scolarité. Avant son départ, le père de la jeune fille lui a ordonné de n'entretenir aucune correspondance avec *Marcus* du fait de son appartenance à la race nègre. Cette information, une fois arrivée aux oreilles de *Marcus*, lui a ouvert les yeux sur un racisme omniprésent.[^1]
-C'est cette prise de conscience qui a allumé en lui une flamme révolutionnaire inextinguible.[^1]
-Dès lors, il a estimé que le devoir de révolte et de combat s'imposent à toute personne prenant conscience de l'ampleur des injustices que subit son peuple.[^1]
+Ceci étant, l'événement le plus marquant et le plus décisif pour *Marcus* est le racisme d'un homme d'église Blanc en son égard.[^1]
+Étant plus jeune, un paster méthoiste Blanc envoie sa jeune fille en Écosse pour les études. Cette jeune fille Blanche étant une camarade de *Marcus*, son père lui ordonne de n'entretenir aucune correspondance avec ce jeune homme, du fait de son appartenance à la race nègre. Habitant dans le même quartier, *Marcus* finit par apprendre la nouvelle ; ce qui lui ouvre les yeux sur un racisme omniprésent.[^1]
+Cette prise de conscience allume en lui une flamme révolutionnaire inextinguible. Dès lors, il estime que le devoir de révolte et de combat s'imposent à toute personne prenant conscience de l'ampleur des injustices que subit son peuple.[^1]
 
 > Je compris qu'il existait des ségrégations dans l'humanité et qu'il y avait plusieurs races, chacune ayant une place bien précise dans la société.[^3][^4]
 
