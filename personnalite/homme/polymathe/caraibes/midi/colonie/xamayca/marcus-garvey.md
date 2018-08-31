@@ -129,7 +129,7 @@ L'image suivante représente Marcus Garvey lors de l'évènement qu'il a organis
 ## Entreprises
 ### Journaux de presse
 Pendant son voyage en Amérique et aux Caraïbes ([1910](/histoire/date/calendrier-gregorien/par-annee/1910)-[1911](/histoire/date/calendrier-gregorien/par-annee/1911)), *Marcus Garvey* crée les journaux [Nacionale](/ouvrage/journal/caraibes/centre/pays/porto-rico/nacionale) et [Prensa](/ouvrage/journal/tarama/centre/pays/panama/prensa), respectivement à Porto Rico et au Panama.
-Le régime politique en place et le manque d'intérêt des populations engendrent le déclin de ces journaux. Les problèmes de nutrition des Portoricain.e.s semblent être la raison de ce « désintéressement ».[^1]
+Le régime politique en place et le manque d'intérêt des populations engendrent le déclin de ces journaux. Les problèmes de nutrition des habitants semblent être la raison de ce « désintéressement ».[^1]
 
 En [1910](/histoire/date/calendrier-gregorien/par-annee/1910), *Marcus Garvey* crée le journal [Watchman](/organisme/journal/watchman) afin de critiquer la ploitique sociale du gouvernement colonial.[^1]
 
