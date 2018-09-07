@@ -1,4 +1,4 @@
-<!-- TITLE: Caraïbes (peuple) -->
+<!-- TITLE: Cariba / Caraïbes (peuple) -->
 <!-- SUBTITLE: Présentation des Caraïbes -->
 
 Les Caraïbes ou Cariba sont un peuple ayant vécu sur les [îles de la Caraïbe](/geographie/ile/caraibes/iles-de-la-caraibe).
