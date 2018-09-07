@@ -1,4 +1,4 @@
-<!-- TITLE: Kemtyu (Égyptien.e.s de l'antiquité) -->
+<!-- TITLE: Kemtyu (peuple égyptien de l'antiquité) -->
 <!-- SUBTITLE: Présentation des Kemtyou -->
 
 Le terme *Kemtyu* est le nom que se donnent les Égyptiens de l'antiquité. Ce terme fait opposition aux autres peuples étrangers.[^1]
