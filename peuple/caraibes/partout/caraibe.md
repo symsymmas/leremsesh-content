@@ -7,11 +7,11 @@ Ce peuple a été exterminé par les [colons européens](/peuple/europe/partout/
 
 Les Caribas sont des Kalinagos, amérindiens originaires du nord du Venezuela, ayant migré vers les îles des Caraïbes, du Sud vers le Nord.
 Ils sont appelés Caraïbes, Karibs ou Caribes par les européens.
-Les Kalinagos des Petites Antilles, se dégignaient Cariba «homme courageux »
+Les Kalinagos des Petites Antilles, se désignaient Cariba «homme courageux »
 
-Lorsque les Cariba entreprirent la conquête des îles de la Caraïbes depuis le Sud, il y eu conflit entre les Cariba et les Arawaks. 
+Lorsque les Cariba entreprirent la conquête des îles de la Caraïbes depuis le Sud, il y eu conflit entre eux et les Arawaks. 
  
-Les Arawaks et les Caribas, appartiennent au groupe des Kalina, groupe d’amérindiens que l’on retrouve sur la côte Caraïbe de l’Amérique du Sud.
+Les Arawaks et les Caribas appartiennent au groupe des Kalina, groupe d’amérindiens que l’on retrouve sur la côte Caraïbe de l’Amérique du Sud.
 
 Les Arawaks appelaient les  Caribas, « Caniba ».
 Les européens ont déformé cette appellation en Cannibales et firent des Cariba des dévoreurs d’hommes, ayant exterminé les Arawaks.
