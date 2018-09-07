@@ -2,7 +2,7 @@
 <!-- SUBTITLE: Présentation des Caraïbes -->
 
 Les Caraïbes ou Cariba sont un peuple ayant vécu sur les [îles de la Caraïbe](/geographie/ile/caraibes/iles-de-la-caraibe).
-Ce peuple a été exterminé par les [colons européens](/peuple/europe/partout/colons-europeens) sur la majorité de leurs terres. À présent, il est possible de les retrouver sur quelques rares îles, par exemple Cuba.
+Ce peuple a été exterminé par les [colons européens](/peuple/europe/partout/colons-europeens) sur la majorité de leurs terres. À présent, il est possible de les retrouver sur quelques îles, par exemple [Cuba](/geographie/ile/caraibes/nord/cuba).
 
 
 Les Caribas sont des Kalinagos, amérindiens originaires du nord du Venezuela, ayant migré vers les îles des Caraïbes, du Sud vers le Nord.
