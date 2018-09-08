@@ -13,12 +13,11 @@ Voici une liste non exhaustive de pays qui ont élaboré le *Yovodah* :
 
 # L'impact du Yovodah
 ## … sur les mentalités
+![Diana Blumberg Baumrind 2 C 1965](/uploads/personnalite/diana-blumberg-baumrind-2-c-1965.png "Diana Blumberg Baumrind, en 1965"){.align-right}
 Après des siècles de violence et d'enseignement basés sur le négatif et l'interdit, les afro-descendant.e.s issu.e.s du Yovodah se voient contraint.e.s de se reconstruire sur plusieurs plans : morale, physique, pécunier, etc. En effet, sortant d'un passé colonial et esclavagiste, cette partie du peuple [Kamit](/peuple/afrique/nord-est/empire/kmt/kemtiou) se voit contraint d'adopter[^1] :
 * des expressions négatives ;
 * un déni des sentiments profonds ;
 * une perception pessimiste de l'avenir.
-
-![Diana Blumberg Baumrind 2 C 1965](/uploads/personnalite/diana-blumberg-baumrind-2-c-1965.png "Diana Blumberg Baumrind, en 1965"){.align-right}
 
 La psychologue [Diana BAUMRID](https://fr.wikipedia.org/wiki/Diana_Baumrind) démontre que de tels comportements (mêmes involontaires) affectent l'épanouissement des nouvelles générations[^1] :
 > « Les parents préconisent l'obéissance et le respect des règles familiales, mais ils accordent peu de place aux dimensions affectives et relationnelles. Ils considèrent que les enfants et les adolescents doivent se plier aux règles qu'on leur impose et adoptent des mesures disciplinaires punitives en cas de transgression. On recourt peu au dialogue, car ces parents sont d'avis que l'enfant doit se conformer aux exigences parentales, sans discuter. »
