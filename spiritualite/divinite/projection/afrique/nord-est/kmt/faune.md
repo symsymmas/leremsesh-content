@@ -1,3 +1,3 @@
-<!-- TITLE: La faune d'après la spiritualité des Kemtiou -->
+<!-- TITLE: Faune (spiritualité kemit) -->
 
 # Header
