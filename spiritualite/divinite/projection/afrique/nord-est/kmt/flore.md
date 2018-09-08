@@ -1,3 +1,3 @@
-<!-- TITLE: La flore d'après la spiritualité des Kemtiou -->
+<!-- TITLE: Flore (spiritualité kemit) -->
 
 # Header
