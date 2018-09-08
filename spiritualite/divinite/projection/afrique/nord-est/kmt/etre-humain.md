@@ -1,3 +1,3 @@
-<!-- TITLE: L'être Humain d'après la spiritualité des Kemtiou -->
+<!-- TITLE: Être humain (spiritualité kemit) -->
 
 # Header
