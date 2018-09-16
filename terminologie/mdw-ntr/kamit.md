@@ -6,7 +6,7 @@
 *Kamit* (*Kamtyu* au pluriel) désigne tout ce qui est Noir.e (femmes, hommes, cultures, etc.). Ce terme peut aussi se prononcer *Kémit* (*Kémtyu* au pluriel).
 
 # Pourquoi utiliser ce mot plutôt qu'un autre ?
-Le mot *Kamit* vient du [Médou Nétèr](/ecriture/hieroglyphe/mdw-ntr) (langue des [Égyptiens Pharaoniues Antiques](/peuple/afrique/nord-est/empire/kmt/kemtiou)). L'utilisation de ce mot plutôt qu'un autre est celui-ci :
+Le mot *Kamit* vient du [Médou Nétèr](/ecriture/hieroglyphe/mdw-ntr) (langue des [Égyptiens Pharaoniques Antiques](/peuple/afrique/nord-est/empire/kmt/kemtiou)). L'utilisation de ce mot plutôt qu'un autre est celui-ci :
 * les mots Noir, Nègre, Négro, Black, Neger, Neager, etc. ont tous une connotation péjorative ;
 * le [Médou Nétèr](/ecriture/hieroglyphe/mdw-ntr) est une langue africaine donc adaptée pour qualifier les peuples africains (du continent comme de la diaspora) ;
 * le [Médou Nétèr](/ecriture/hieroglyphe/mdw-ntr) est une langue morte qui contient la base des [langues africaines](/langue/monde/langues-africaines) ([créole](/langue/caraibes/partout/creoles), [Yoruba](/langue/afrique/a-situer/yoruba), [Swahili](/langue/afrique/a-situer/swahili), etc.) ce qui évite toute « jalousie » de la part de peuples *Kamit*, parce qu'une langue vivante serait préférée à une autre.
