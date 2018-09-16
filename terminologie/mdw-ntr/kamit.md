@@ -1,5 +1,5 @@
 <!-- TITLE: Les Kamtyu (les Noir.e.s) -->
-<!-- SUBTITLE: Présentation du Kamit -->
+<!-- SUBTITLE: Présentation des Kamtyu -->
 
 ![Sans Titre](/uploads/personnes/sans-titre.png "Couple Kamit"){.pagelogo}
 
