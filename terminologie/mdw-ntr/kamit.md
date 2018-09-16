@@ -9,7 +9,7 @@
 Le mot *Kamit* vient du [Médou Nétèr](/ecriture/hieroglyphe/mdw-ntr) (langue [Égyptienne pharaonique antique](/peuple/afrique/nord-est/empire/kmt/kemtiou)). L'utilisation de ce mot plutôt qu'un autre est celui-ci :
 * les mots Noir, Nègre, Négro, Black, Neger, Neager, etc. ont tous une connotation péjorative ;
 * le [Médou Nétèr](/ecriture/hieroglyphe/mdw-ntr) est une langue négro-africaine donc adaptée pour qualifier les Noir.e.s ;
-* le [Médou Nétèr](/ecriture/hieroglyphe/mdw-ntr) est une langue morte qui contient la base des [langues africaines](/langue/monde/langues-africaines) ([créole](/langue/caraibes/partout/creoles), [Yoruba](/langue/afrique/a-situer/yoruba), [Swahili](/langue/afrique/a-situer/swahili), etc.) ce qui évite toute « jalousie » de la part de peuples *Kamit*, parce qu'une langue vivante serait préférée à une autre.
+* le [Médou Nétèr](/ecriture/hieroglyphe/mdw-ntr) est une langue morte qui contient la base des [langues africaines](/langue/monde/langues-africaines) ([créole](/langue/caraibes/partout/creoles), [Yoruba](/langue/afrique/a-situer/yoruba), [Swahili](/langue/afrique/a-situer/swahili), etc.), ce qui évite toute « jalousie » de la part de peuples *Kamtyu*, parce qu'une langue vivante est plus valorisée qu'une autre.
 
 # Étymologie
 ![Kemtiou](/uploads/ecriture/kemtiou.png "Kemtyu en Hiéroglyphe"){.align-right}
