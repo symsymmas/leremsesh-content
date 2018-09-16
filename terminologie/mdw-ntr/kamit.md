@@ -14,7 +14,7 @@ Le mot *Kamit* vient du [Médou Nétèr](/ecriture/hieroglyphe/mdw-ntr) (langue 
 # Étymologie
 ![Kemtiou](/uploads/ecriture/kemtiou.png "Kemtyu en Hiéroglyphe"){.align-right}
 
-Ce mot a pour origine le [Médou Nétèr](/ecriture/hieroglyphe/mdw-ntr) (langue des [Égyptiens Pharaoniques Antiques](/peuple/afrique/nord-est/empire/kmt/kemtiou)). Les Égptiens utilisaient le mot *Kamit* pour se désigner (le mot Égyptien vient du latin et non de la langue égyptienne antique[^7]).[^6]
+Ce mot a pour origine le [Médou Nétèr](/ecriture/hieroglyphe/mdw-ntr) (langue [Égyptienne pharaonique antique](/peuple/afrique/nord-est/empire/kmt/kemtiou)). À l'époque, les Égptien.ne.s utilisent le mot *Kamit* pour se désigner. Il faut rappeler que le mot « égyptien » vient du latin et non de la langue égyptienne antique.[^7][^6]
 
 *Kémtyu* (les Noir.e.s) est constutié des idéogrammes suivants[^3][^5] :
 * le bilitère I6[^2], qui se prononce *kèm* ou *kém* et qui représente la couleur noire sous forme :
