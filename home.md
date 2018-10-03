@@ -9,7 +9,7 @@ Cette encyclopédie en ligne vous permet de *partager* et d'*accéder* à des *i
 
 # Page à l'honneur
 
-![Njoya Of Bamun](/uploads/personnalite/njoya-of-bamun.jpg "Le Roi Ibrahim NJOYA"){.align-right}
+![Ibrahim Njoya](/uploads/personnalite/ibrahim-njoya.jpg "Buste du Sultan Ibrahim Njoya"){.align-right}
 
 À l'honneur cette semaine : le [Sultan Ibrahim NJOYA](/personnalite/homme/noble/souverain/roi/afrique/centre/bamoun/ibrahim-njoya), un souverain Africain qui est à l'origine :
 * d'une [écriture africaine simplifiée](/ecriture/shu-mom) ;
