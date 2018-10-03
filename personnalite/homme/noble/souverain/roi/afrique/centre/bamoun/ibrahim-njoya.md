@@ -6,6 +6,8 @@
 *le Roi* ou *le Sultant Ibrahim Njoya* est le XVIIème représentant du peuple [Bamoun](/peuple/afrique/a-situer/bamoun) de la dynastie de Nchare Yen. Il a régné de [1887](/histoire/date/calendrier-gregorien/par-annee/1887) à [1933](/histoire/date/calendrier-gregorien/par-annee/1933).[^1]
 Les [Bamouns](/peuple/afrique/a-situer/bamoun) l'ont considéré comme un Dieu, suite aux miracles qu'il a accomplis.[^2]
 
+[video](https://www.youtube.com/watch?v=bNeYOM_qFjg){.youtube}
+
 # Naissance
 *Ibrahim Njoya* est né en [1876](/histoire/date/calendrier-gregorien/par-annee/1876) de [Na Njapdnunke](/personnalite/femme/noble/souveraine/reine/afrique/a-situer/bamoun/na-njapdnunke), [sa mère](/personnalite/femme/noble/souveraine/reine/afrique/a-situer/bamoun/na-njapdnunke).[^1]
 
