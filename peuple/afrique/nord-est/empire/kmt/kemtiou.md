@@ -1,5 +1,5 @@
-<!-- TITLE: Kemtiou -->
-<!-- SUBTITLE: Présentation du peuple Kemtiou -->
+<!-- TITLE: Kemtiou (Égyptien.e.s de l'antiquité) -->
+<!-- SUBTITLE: Présentation des Kemtiou -->
 
 Le terme *Kemtiou* est le nom que se donnent les Égyptiens de l'antiquité. Ce terme fait opposition aux autres peuples étrangers.[^1]
 # Interprétation du terme

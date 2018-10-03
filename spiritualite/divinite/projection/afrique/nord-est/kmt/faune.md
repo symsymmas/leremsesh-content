@@ -1,4 +1,3 @@
-<!-- TITLE: La faune -->
-<!-- SUBTITLE: A quick summary of Animaux -->
+<!-- TITLE: La faune d'après la spiritualité des Kemtiou -->
 
 # Header
