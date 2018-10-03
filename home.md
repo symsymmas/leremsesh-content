@@ -7,12 +7,17 @@
 Cette encyclopédie en ligne vous permet de *partager* et d'*accéder* à des *informations mettant en valeur des thématiques centrées sur le peuple Noir*.
 [En savoir plus sur LÉRÉMSÈSH](/leremsesh/presentation-de-leremsesh)
 
-# Page de la semaine
-![Mali Empire Map](/uploads/map/mali-empire-map.png "Territoire de l'empire du Manden"){.align-right}
+# Page à l'honneur
 
-À l'honneur cette semaine : l'[empire du Mali](/geographie/empire/afrique/nord-ouest/mali). Cet empire est le résultat de l'unification de plusieurs royaumes nord-africains par [Soundjata Keïta](/personnalite/homme/noble/souverain/empereur/afrique/nord-ouest/mali/soundjata-keita) vers l'an [1204](/histoire/date/calendrier-gregorien/par-annee/1204) du calendrier Grégorien. L'empire du Mali est si riche économiquement que l'un de ses empereurs ([Kanka Moussa](/personnalite/homme/noble/souverain/empereur/afrique/nord-ouest/mali/kanka-moussa)) est qualifié, jusqu'en [2018](/histoire/date/calendrier-gregorien/par-annee/2018), d'homme le plus riche du monde.
+![Njoya Of Bamun](/uploads/personnalite/njoya-of-bamun.jpg "Le Roi Ibrahim NJOYA"){.align-right}
 
-Apprenez-en plus sur [l'emipire du Mali](/geographie/empire/afrique/nord-ouest/mali) et ses empereurs --> [ici](/geographie/empire/afrique/nord-ouest/mali) <--.
+À l'honneur cette semaine : le [Sultan Ibrahim NJOYA](/personnalite/homme/noble/souverain/roi/afrique/centre/bamoun/ibrahim-njoya), un souverain Africain qui est à l'origine :
+* d'une [écriture africaine simplifiée](/ecriture/shu-mom) ;
+* d'une spiritualité africaine « revisitée » ;
+* d'un [palais situé en plein milieu du pays nommé Cameroun](/monument/afrique/a-situer/palais-des-sultants-bamouns).
+Le [Roi Ibrahim NJOYA](/personnalite/homme/noble/souverain/roi/afrique/centre/bamoun/ibrahim-njoya) a tout fait pour servir son peuple. Malheureusement, l'invasion européenne et sa [seconde guerre tribale](histoire/epoque-moderne/europe/partout/confrontation/seconde-guerre-tribale-europeenne) a eu pour effet d'ébranler son royaume.
+
+Apprenez-en plus sur [Sultan Ibrahim NJOYA](/personnalite/homme/noble/souverain/roi/afrique/centre/bamoun/ibrahim-njoya), ses œuvres et [son royaume](/geographie/royaume/afrique/nord-ouest/bamoun)  --> [ici](/personnalite/homme/noble/souverain/roi/afrique/centre/bamoun/ibrahim-njoya) <--.
 
 # Comment j'utilise l'encyclopédie ?
 Besoin d'aide pour utiliser l'encyclopédie ? Faites un tour sur [la Foire Aux Questions](/leremsesh/faq).
