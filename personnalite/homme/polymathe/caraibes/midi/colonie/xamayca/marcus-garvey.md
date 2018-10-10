@@ -17,6 +17,9 @@ Même s'il n'a jamais mis les pieds en Afrique[^1], *Marcus Garvey* a eu l'ambit
 * d'inciter son peuple (les Africains de la diaspora) à retourner sur sa terre d'origine (l'Afrique continentale) ;
 * de prendre possession des terres africaines pour les Africains du continent et de la diaspora (à son époque, outre l'[Éthiopie](/geographie/empire/afrique/nord-est/ethiopie) et le [Libéria](/geographie/pays/afrique/nord-ouest/liberia), l'Afrique se trouve totalement colonisée).
 
+[video](https://www.youtube.com/watch?v=kyeyr7fqf8M){.youtube}
+
+
 # Famille
 Son père, qui s'appelle lui aussi *Marcus*, est maçon. Il possède une grande bibliothèque qui lui permet de travailler son intellecte.
 C'est de son père que *Marcus Garvey* tient son amour pour la lecture.[^2][^1]
