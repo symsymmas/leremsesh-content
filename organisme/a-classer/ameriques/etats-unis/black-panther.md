@@ -1,6 +1,8 @@
 <!-- TITLE: Black Panther -->
 <!-- SUBTITLE: Présentation des Black Panther -->
 
+![Bpp Logo](/uploads/logo/bpp-logo.png "Black Panther logo")
+
 Dans les années 60, les *Black Panther* sont des afro-américains des États-Unis d'Amérique qui se sont révoltés contre le système en place dans le but de « donner le pouvoir au peuple »[^1].
 
 
