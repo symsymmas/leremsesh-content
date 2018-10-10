@@ -6,9 +6,17 @@
 Dans les années 60, les *Black Panther* sont des afro-américains des États-Unis d'Amérique qui se sont révoltés contre le système en place dans le but de « donner le pouvoir au peuple »[^1].
 Ce groupe de femmes et d'hommes [kamtyu]() (Noir.e.s) se sont levés face aux brutalités et aux assassinats policiers de l'époque. Pour assurer leur sécurité, ils invoquèrent la constitution des États-Unis d'Amérique, qui leur permettait de se munir d'armes à feux, ce dans le but de s'autodéfendre face aux menaces extérieures.
 
-# Leader
+# Personnalités
+## Leaders
 Voici la liste des leaders des *Black Panther* :
-* [Fred Hampton]()[^1].
+* [Fred Hampton]()[^1] ;
+* [Huey P. NEWTON]().
+
+## Artistes
+Voici une liste d'artistes qui ont venté les mérites des *Black Panther*[^1] :
+* [Boots Riley]() ;
+* [Tupac Shakur]() ;
+* [Common]().
 
 # Un système communautaire
 ## La jeunesse kamit
