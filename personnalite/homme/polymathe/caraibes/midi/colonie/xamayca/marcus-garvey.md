@@ -17,6 +17,8 @@ Même s'il n'a jamais mis les pieds en Afrique[^1], *Marcus Garvey* a eu l'ambit
 * d'inciter son peuple (les Africains de la diaspora) à retourner sur sa terre d'origine (l'Afrique continentale) ;
 * de prendre possession des terres africaines pour les Africains du continent et de la diaspora (à son époque, outre l'[Éthiopie](/geographie/empire/afrique/nord-est/ethiopie) et le [Libéria](/geographie/pays/afrique/nord-ouest/liberia), l'Afrique se trouve totalement colonisée).
 
+La vidéo suivante est un bref discours de *Marcus GARVEY* à son peuple. Il l'invite à s'améliorer et à recouvrer sa grandeur d'antan. Ce speech démontre les qualités oratoires de ce héros.
+
 [video](https://www.youtube.com/watch?v=kyeyr7fqf8M){.youtube}
 
 
