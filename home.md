@@ -9,15 +9,14 @@ Cette encyclopédie en ligne vous permet de *partager* et d'*accéder* à des *i
 
 # Page à l'honneur
 
-![Ibrahim Njoya](/uploads/personnalite/ibrahim-njoya.jpg "Buste du Sultan Ibrahim Njoya"){.align-right}
+![Kemtiou](/uploads/ecriture/kemtiou.png "Kemtyu en Hiéroglyphe"){.align-right}
 
-À l'honneur cette semaine : le [Sultan Ibrahim NJOYA](/personnalite/homme/noble/souverain/roi/afrique/centre/bamoun/ibrahim-njoya), un souverain Africain qui est à l'origine :
-* d'une [écriture africaine simplifiée](/ecriture/shu-mom) ;
-* d'une spiritualité africaine « revisitée » ;
-* d'un [palais situé en plein milieu du pays nommé Cameroun](/monument/afrique/a-situer/palais-des-sultants-bamouns).
-Le [Roi Ibrahim NJOYA](/personnalite/homme/noble/souverain/roi/afrique/centre/bamoun/ibrahim-njoya) a tout fait pour servir son peuple. Malheureusement, l'invasion européenne et sa [seconde guerre tribale](histoire/epoque-moderne/europe/partout/confrontation/seconde-guerre-tribale-europeenne) a eu pour effet d'ébranler son royaume.
+À l'honneur cette semaine : le terme [Kamit](/terminologie/mdw-ntr/kamit).
 
-Apprenez-en plus sur [Sultan Ibrahim NJOYA](/personnalite/homme/noble/souverain/roi/afrique/centre/bamoun/ibrahim-njoya), ses œuvres et [son royaume](/geographie/royaume/afrique/nord-ouest/bamoun)  --> [ici](/personnalite/homme/noble/souverain/roi/afrique/centre/bamoun/ibrahim-njoya) <--.
+Ce mot, instauré par les Noir.e.s, désigne le peuple noir d'Afrique et sa diaspora. Il provient du [Médou Nétchèr](/ecriture/hieroglyphe/mdw-ntr) (langue Égyptienne pharaonique antique).
+L'utilisation des termes « noir », « nègre », etc. pour désigner ce peuple est inadapté étant donné que ces mots proviennent d'un paradigme étranger. Dès lors, dans le but d'unir le peuple dit noir, sans discriminer quelque langue vivante que ce soit, le mot « [kamit](/terminologie/mdw-ntr/kamit) » a été choisi. 
+
+Apprenez-en plus sur le terme [kamit](/terminologie/mdw-ntr/kamit) --> [ici](/terminologie/mdw-ntr/kamit) <--.
 
 # Comment j'utilise l'encyclopédie ?
 Besoin d'aide pour utiliser l'encyclopédie ? Faites un tour sur [la Foire Aux Questions](/leremsesh/faq).
