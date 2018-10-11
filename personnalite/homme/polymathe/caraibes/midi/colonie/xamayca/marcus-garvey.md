@@ -106,6 +106,9 @@ En visitant la France, l'Italie, l'Espagne, l'Allemagne, l'Autriche et la Hongri
 
 #### Les États-Unis d'Amérique
 
+## Littérature
+Lors de son séjour à Londres, l'intellect de *Marcus GARVEY* évolue grâce aux écrits de [Henry Sylvester Williams](/personnalite/a-classer/henry-sylvester-williams), [William Edward Burghardt Dubois](/personnalite/homme/polymathe/tarana/nord/pays/etats-unis/william-edouard-budgard-du-bois) et [Edward Wilmot Blyden](/personnalite/homme/polymathe/tarana/nord/pays/etats-unis/Edward Wilmot Blyden).
+
 # Prise de conscience
 Lors de ses voyages, *Marcus Garvey* a remarqué que le clivage social de [Xamayca](/geographie/ile/caraibes/midi/xamayca) est l'exact reflet de la configuration raciale mondiale ; c'est-à-dire que seuls les Blancs accompagnés de quelques rares Métis, se trouvent en haut de l'échelle sociale tandis qu'au plus bas se trouvent tous les Noirs qui forment une masse d'ouvriers[^1] :
 * agricoles dans les plantations de bananes et de tabac ;
