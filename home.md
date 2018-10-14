@@ -9,14 +9,11 @@ Cette encyclopédie en ligne vous permet de *partager* et d'*accéder* à des *i
 
 # Page à l'honneur
 
-![Kemtiou](/uploads/ecriture/kemtiou.png "Kemtyu en Hiéroglyphe"){.align-right}
+![Marcus Garvey Tenue D Apparat](/uploads/personnalite/marcus-garvey-tenue-d-apparat.png "Marcus Garvey dans une de ses tenues d'apparat"){.align-right}
 
-À l'honneur cette semaine : le terme [Kamit](/terminologie/mdw-ntr/kamit).
+Notre page sur [Marcus GARVEY](/personnalite/homme/polymathe/caraibes/midi/colonie/xamayca/marcus-gavey) a été mise à jour ! :)
 
-Ce mot, instauré par les Noir.e.s, désigne le peuple noir d'Afrique et sa diaspora. Il provient du [Médou Nétchèr](/ecriture/hieroglyphe/mdw-ntr) (langue Égyptienne pharaonique antique).
-L'utilisation des termes « noir », « nègre », etc. pour désigner ce peuple est inadapté étant donné que ces mots proviennent d'un paradigme étranger. Dès lors, dans le but d'unir le peuple dit noir, sans discriminer quelque langue vivante que ce soit, le mot « [kamit](/terminologie/mdw-ntr/kamit) » a été choisi. 
-
-Apprenez-en plus sur le terme [kamit](/terminologie/mdw-ntr/kamit) --> [ici](/terminologie/mdw-ntr/kamit) <--.
+Apprenez-en plus sur le héro [kamit](/terminologie/mdw-ntr/kamit) des [îles des Caraïbes](/geographie/ile/caraibes/iles-de-la-caraibe), [Marcus GARVEY](/personnalite/homme/polymathe/caraibes/midi/colonie/xamayca/marcus-gavey) --> [ici](/personnalite/homme/polymathe/caraibes/midi/colonie/xamayca/marcus-gavey) <--.
 
 # Comment j'utilise l'encyclopédie ?
 Besoin d'aide pour utiliser l'encyclopédie ? Faites un tour sur [la Foire Aux Questions](/leremsesh/faq).
