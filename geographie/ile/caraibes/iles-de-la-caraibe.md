@@ -3,7 +3,7 @@
 
 ![Iles De La Caraibe](/uploads/map/iles-de-la-caraibe.png "Iles de la Caraibe"){.pagelogo}
 
-Les îles de la Caraïbes forment une archipelle située à l'Est de l'Amérique Centrale.
+Les îles des Caraïbes forment une archipelle située à l'Est de l'Amérique Centrale.
 
 # Signification du nom
 Le nom Caraïbes vient du nom d'un [peuple qui porte le même nom](/peuple/caraibes/partout/caraibe).
