@@ -1,4 +1,6 @@
 <!-- TITLE: Bronzier -->
 <!-- SUBTITLE: Présentation du métier de Bronzier -->
 
-# Header
+Un bronzier est une personne qui travaille, sculpte et donne vie au bronze.
+
+Le métier de bronzier se trouve en Afrique.
