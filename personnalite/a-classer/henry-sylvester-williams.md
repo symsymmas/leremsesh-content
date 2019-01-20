@@ -1,6 +1,8 @@
 <!-- TITLE: Henry Sylvester Williams -->
 <!-- SUBTITLE: Présentation du panafricain Henry Sylvester Williams -->
 
+![S Williams 1905](/uploads/personnalite/s-williams-1905.png "Henry Sylvester Williams en 1905, par E.H. Mills"){.pagelogo}
+
 # Réalisations
 *Henry Sylvester Williams est l'organisateur du premier Congrès Panafricain.[^1]
 Ce congrès s'est déroulé du [23]() au [25]() [Juillet]() [1900]() à [Londres]().[^1][^2]
