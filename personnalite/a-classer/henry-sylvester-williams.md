@@ -5,7 +5,7 @@
 
 *Henry Sylvester-Williams* est né le [15]() [février]() [1869]().[^3]
 
-, mort le 26 mars 1911, est un avocat et un écrivain britannique.
+Cet homme est un [avocat]() et un [écrivain]() [britanique]().[^3]
 
 Inscrit au barreau anglais au XIXe siècle, il fut un actif partisan du mouvement panafricain. Il avait noué des rapports étroits avec les noirs africains de Grande-Bretagne, et les conseilla juridiquement.
 
