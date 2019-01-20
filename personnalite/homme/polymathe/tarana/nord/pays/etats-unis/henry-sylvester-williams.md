@@ -5,15 +5,14 @@
 
 *Henry Sylvester-Williams* est né le [15]() [février]() [1869]().[^3]
 
-Cet homme est un [avocat]() et un [écrivain]() [britanique]().[^3]
-
-Inscrit au barreau anglais au XIXe siècle, il fut un actif partisan du mouvement panafricain. Il avait noué des rapports étroits avec les noirs africains de Grande-Bretagne, et les conseilla juridiquement.
+Cet homme est un [avocat]() et [écrivain]() [britanique]() partisan du [mouvement panafricain](). Il a fait office de conseiller juridique des [Noirs de Grande-Bretagne]().[^3]
 
 En 1900, au moment de l'exposition coloniale, il convoqua une conférence à Londres contre l'accaparement des terres coutumières par les Européens. Selon DuBois, c'est cette conférence qui mit pour la première fois à la mode le mot « panafricanisme ». 
 
 # Réalisations
-*Henry Sylvester Williams est l'organisateur du premier Congrès Panafricain.[^1]
-Ce congrès s'est déroulé du [23]() au [25]() [Juillet]() [1900]() à [Londres]().[^1][^2]
+En [1900]() se déroule une exposition coloniale. Pour cette raison, la même année, *Henry Sylvester Williams* organise le premier Congrès Panafricain du [23]() au [25]() [Juillet]() [1900]() dans la même ville.[^1][^2][^3]
+
+Selon DuBois, cet événement a mis au goût du jour le mot [panafricanisme].
 
 À cette époque, l'atmosphère est raciste, Londre connait une crise économique et sociale
 
