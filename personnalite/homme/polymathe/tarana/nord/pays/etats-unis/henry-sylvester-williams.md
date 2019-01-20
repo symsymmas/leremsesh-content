@@ -10,11 +10,11 @@ Cet homme est un [avocat]() et [écrivain]() [britanique]() partisan du [mouveme
 En 1900, au moment de l'exposition coloniale, il convoqua une conférence à Londres contre l'accaparement des terres coutumières par les Européens. Selon DuBois, c'est cette conférence qui mit pour la première fois à la mode le mot « panafricanisme ». 
 
 # Réalisations
-En [1900]() se déroule une exposition coloniale. Pour cette raison, la même année, *Henry Sylvester Williams* organise le premier Congrès Panafricain du [23]() au [25]() [Juillet]() [1900]() dans la même ville.[^1][^2][^3]
+En [1900]() se déroule une exposition coloniale. À cette époque, l'atmosphère est raciste, Londre connait une crise économique et sociale.[^2][^3]
+Pour cette raison, la même année, *Henry Sylvester Williams* organise le premier Congrès Panafricain du [23]() au [25]() [Juillet]() [1900]() dans la même ville.[^1][^2][^3]
 
-Selon DuBois, cet événement a mis au goût du jour le mot [panafricanisme].
+Selon DuBois, cet événement a mis au goût du jour le mot [panafricanisme]().
 
-À cette époque, l'atmosphère est raciste, Londre connait une crise économique et sociale
 
 La Première Conférence panafricaine se tient à Londres du 23 au 25 juillet 1900 dans un climat de racisme exacerbé, de crises économiques et sociales, et de la conquête progressive des territoires africains par les puissances occidentales. La question coloniale divise les socialistes européens : certains y voient un processus « inévitable et fatal », d'autres, tel Lénine, s'y opposent fermement. Une solution à ce contexte de crise pour le monde africain semble s'imposer à Anténor Firmin, Benito Sylvain et leurs contemporains : s'unir et s'organiser afin de résister.
 
