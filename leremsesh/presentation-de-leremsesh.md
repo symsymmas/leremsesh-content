@@ -25,8 +25,7 @@ Le travail des modératrices et des modérateurs de LÉRÉMSÈSH est de vous fou
 Le logo de *LÉRÉMSÈSH* est constitué d’adinkra et de [Khépèr](/spiritualite/concept/afrique/nord-est/kmt/kheper) (la loi de la transformation et la renaissance).
 
 Les adinkra ont été choisis les raisons suivantes :
-
-    c’est une écriture Akan donc Kémit ;
-    leurs significations sont en adéquation avec les principes de l’encyclopédie.
+* c’est une écriture Akan donc Kémit ;
+* leurs significations sont en adéquation avec les principes de l’encyclopédie.
 
 [Khépèr](/spiritualite/concept/afrique/nord-est/kmt/kheper) symbolise la renaissance, de ce fait, sa représentation a pour objet d’incorporer le concept de renaissance au sein de l’encyclopédie LÉRÉMSÈSH.
